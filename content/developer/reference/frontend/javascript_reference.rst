@@ -607,14 +607,14 @@ Float (`float`)
 
         .. code-block:: xml
 
-            <field name="int_value" options="{'type': 'number'}" />
+            <field name="float_value" options="{'type': 'number'}" />
 
     - `step`: set the step to the value up and down when the user click on buttons
       (only for input of type number, `1` by default)
 
         .. code-block:: xml
 
-            <field name="int_value" options="{'type': 'number', 'step': 0.1}" />
+            <field name="float_value" options="{'type': 'number', 'step': 0.1}" />
 
     - `format`: should the number be formatted. (`true` by default)
 
@@ -623,21 +623,45 @@ Float (`float`)
 
         .. code-block:: xml
 
-            <field name="int_value" options="{'format': false}" />
+            <field name="float_value" options="{'format': false}" />
 
     - `hide_trailing_zeros`: hide zeros to the right of the last non-zero digit,
       e.g. `1.20` becomes `1.2` (`false` by default).
 
         .. code-block:: xml
 
-            <field name="int_value" options="{'hide_trailing_zeros': true}" />
+            <field name="float_value" options="{'hide_trailing_zeros': true}" />
 
 Time (`float_time`)
     The goal of this widget is to display properly a float value that represents
-    a time interval (in hours).  So, for example, `0.5` should be formatted as `0:30`,
-    or `4.75` correspond to `4:45`.
+    a time interval (in hours by default). So, for example, `0.5` should be formatted as `0h 30m`,
+    or `4.75` to `4h 45m`.
 
     - Supported field types: `float`
+
+    Options:
+
+    - `numeric`: set the format type (`false` by default)
+
+        If set to `true` the format will be `h:mm:ss`.
+
+        .. code-block:: xml
+
+            <field name="float_value" options="{'numeric': true}" />
+
+    - `show_seconds`: display the seconds (`true` by default)
+
+        .. code-block:: xml
+
+            <field name="float_value" options="{'show_seconds': false}" />
+
+    - `unit`: specify what is the unit of time of the float value (`"hours"` by default)
+
+        The units of time available are: `"hours"`, `"minutes"` and `"seconds"`.
+
+        .. code-block:: xml
+
+            <field name="float_value" options="{'unit': 'minutes'}" />
 
 Float Factor (`float_factor`)
     This widget aims to display properly a float value that converted using a factor
