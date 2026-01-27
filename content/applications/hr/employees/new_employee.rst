@@ -575,6 +575,8 @@ STATUS
      Users can also be created manually. For more information on how to manually add a user, refer
      to the :doc:`../../general/users/` document.
 
+.. _hr/employees/new_employee/application-settings:
+
 APPLICATION SETTINGS
 --------------------
 
