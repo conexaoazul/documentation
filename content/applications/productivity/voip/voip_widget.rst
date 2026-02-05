@@ -12,9 +12,9 @@ tackle any of these business needs.
 Navigate the Phone widget
 =========================
 
-The *Phone* widget contains three tabs: :guilabel:`Recent`, :guilabel:`Next Activities`, and
-:guilabel:`Contacts`, which are used for managing calls and day-to-day activities in Odoo. Use the
-search bar to find contacts faster.
+The *Phone* widget contains four tabs: :guilabel:`Keypad`, :guilabel:`Recent`, :guilabel:`Contacts`,
+and :guilabel:`Activities`, which are used for managing calls and day-to-day activities in Odoo. Use
+the search bar to find contacts faster.
 
 .. image:: voip_widget/phone-widget.png
    :alt: The *Phone* widget has four tabs: **Keypad**, **Recent**, **Contacts**, and **Activities**.
@@ -55,7 +55,7 @@ Click an activity from this tab to perform any of these actions to prepare for a
 under the **Documents** heading):
 
 - :icon:`fa-user` :guilabel:`Contact`: opens the contact information for this contact.
-- :icon:`oi-star` :guilabel:`Leads/Create Lead`: opens the lead information for this contact.
+- :icon:`fa-star` :guilabel:`Leads/Create Lead`: opens the lead information for this contact.
 - :icon:`oi-arrow-right` :guilabel:`(Open related record)`: opens the attached record in Odoo (like
      sales orders, invoices, projects, events).
 
@@ -66,7 +66,7 @@ When viewing the activity, the user can also manage the activity's details and s
 - :icon:`fa-close` :guilabel:`(Cancel)`: cancels the activity.
 
 To call the customer related to a scheduled activity, click the :icon:`fa-phone` :guilabel:`(Call)`
-icon. Click the :icon:`fa-message` :guilabel:`(SMS)` icon to send a text message.
+icon. Click the :icon:`fa-comment` :guilabel:`(SMS)` icon to send a text message.
 
 Add a call
 ~~~~~~~~~~
@@ -75,7 +75,7 @@ From the database home page, click :menuselection:`CRM app`. On the :guilabel:`P
 it is open to the Kanban view. Next, near the top of the screen, click the :icon:`oi-voip`
 :guilabel:`(Show Softphone)` icon and make sure the *Phone* widget is opened to the
 :guilabel:`Activities` tab. After that, hover over the opportunity that should have a call and click
-the :icon:`fa-phone` :guilabel:`(phone)` with the small green :icon:`fa-plus` :guilabel:`plus` icon.
+the :icon:`fa-phone` :guilabel:`(phone)` with the small green :icon:`fa-plus` :guilabel:`(plus)` icon.
 
 .. image:: voip_widget/add-call.png
    :alt: A sales opportunity with the option to add a call to the VoIP widget.
