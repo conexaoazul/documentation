@@ -36,6 +36,33 @@ make sure :guilabel:`Packages` is enabled. Click :guilabel:`Save`.
 .. image:: storage_category/enable-categories.png
    :alt: Enable Storage Locations and Multi-Step Routes to enable storage categories.
 
+Storage location setup
+======================
+
+Set up storage locations to work with the storage category. Go to :menuselection:`Inventory app -->
+Configuration --> Locations`.
+
+First, set up a parent location. This can be as simple as the default `WH/Stock` location.
+Alternatively, create a new parent location by clicking the :guilabel:`New` button on the
+:guilabel:`Locations` page.
+
+On the location form, specify a :guilabel:`Location Name` and :guilabel:`Parent Location`. Select
+:guilabel:`Internal Location` as the :guilabel:`Location Type`.
+
+Then, create child locations (called a *sub-location*) of this parent location by clicking the
+:guilabel:`New` button. On the location form, specify a :guilabel:`Location Name`, and set the
+:guilabel:`Parent Location` to the parent location that was just created.
+
+.. example::
+   A beverage company stores all of its cans of lemonade on pallets in one section of its warehouse.
+
+   First, they create a location named `Pallets` in the `WH/Stock` location. Then, they create two
+   sub-locations, named `PAL1` and `PAL2`. These child locations both have the parent location of
+   `WH/Stock/Pallets`.
+
+   .. image:: storage_category/new-child-location.png
+      :alt: Create a sub-location.
+
 .. _inventory/routes/define-storage:
 
 Define storage category
@@ -166,14 +193,16 @@ to :menuselection:`Inventory app --> Configuration --> Putaway Rules`.
 Click the :guilabel:`New` button to create the putaway rule. Specify a location to store to in the
 :guilabel:`Store to` field.
 
-Use the :guilabel:`Sublocation` field to specify that you want to use a sublocation with the storage
-category:
+Use the :guilabel:`Sublocation` field to specify that you want to use a storage category on a
+sublocation of the :guilabel:`Store to` field:
 
 - :guilabel:`Last Used`: The last location that had a move associated with it for that product or
   product category is used. If there is no last location used, the destination is whatever is
   specified in the :guilabel:`Store to` field.
 - :guilabel:`Closest Location`: The locations specified as part of the storage category are used. A
-  storage category is mandatory in the :guilabel:`Having Category` field.
+  storage category is mandatory in the :guilabel:`Having Category` field. The locations in the
+  storage category must be sublocations of the location in the :guilabel:`Store to` field. If the
+  closest locations in the storage category are full, the :guilabel:`Store to` location is used.
 
 .. example::
    Continuing the example from above, the `High frequency pallets` storage category is assigned to
