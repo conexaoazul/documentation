@@ -264,6 +264,43 @@ within the :guilabel:`MyInvois` tab.
    Odoo :doc:`automatically checks and updates <../../sales/subscriptions/scheduled_actions>` the
    status every hour. To update it manually at any time, click :guilabel:`Update MyInvois Status`.
 
+.. _malaysia/myinvois/workflow/consolidation:
+
+Consolidated e-invoices
+~~~~~~~~~~~~~~~~~~~~~~~
+
+In certain cases, multiple transactions can be consolidated into a single e-invoice submission. You
+can manage these submissions via the **MyInvois Documents** menu, which lists all documents
+submitted to MyInvois linked to a specific journal (including consolidated invoices, credit notes,
+and refund notes).
+
+To access this menu, go to the **Accounting Dashboard**. On a **Sales** or **Purchase** journal
+card, click the :icon:`fa-ellipsis-v` :guilabel:`(vertical ellipsis)` icon and select
+:guilabel:`MyInvois Documents`.
+
+.. image:: malaysia/myinvois-myinvoisdocuments.png
+   :alt: MyInvoisdocuments journal
+
+.. note::
+   Consolidated invoices issued from the **Point of Sale (PoS)** app appear in the journal defined
+   in the PoS settings.
+
+To create a consolidated submission:
+
+#. From the :guilabel:`MyInvois Documents` list, click :guilabel:`Consolidate Documents`.
+#. In the pop-up window, define the :guilabel:`Date From` and :guilabel:`Date To` to cover the
+   specific period.
+#. Click :guilabel:`Consolidate`.
+
+Odoo automatically groups the documents within the selected period based on the following logic:
+
+- **Grouping:** Documents are grouped by **Document Type** and **Currency**. A separate consolidated
+  document is generated for each unique combination.
+- **Contact Criteria:** Odoo consolidates documents for contacts (buyers or sellers) that:
+
+  - Do not have a :abbr:`TIN (Tax Identification Number)` or Malaysian TIN; OR
+  - Have the specific General Public TIN `EI00000000010`.
+
 .. _malaysia/myinvois/workflow/cancellation:
 
 Invoice cancellation
