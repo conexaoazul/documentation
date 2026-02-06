@@ -3,9 +3,9 @@
 ============
 Phone widget
 ============
-.. ask mercedes: is it auto-added with phone app too?
-The *Phone* widget is an add-on made available to Odoo users by installing the *Phone* app. Instead
-of managing mobile devices for every salesperson, fumbling through call transfers for upset
+
+The *Phone* widget is an add-on made available to Odoo users by installing the **Phone** app.
+Instead of managing mobile devices for every salesperson, fumbling through call transfers for upset
 customers, or needing a meeting room to handle a conference call, utilize the *Phone* widget to
 tackle any of these business needs.
 
@@ -44,7 +44,6 @@ A search feature is also available at the top of the widget, represented by a :i
 :guilabel:`(search)` icon. Use this tool to find a specific contact. Scheduled activities will not
 appear as search results.
 
-
 Activities tab
 --------------
 
@@ -57,7 +56,7 @@ under the **Documents** heading):
 - :icon:`fa-user` :guilabel:`Contact`: opens the contact information for this contact.
 - :icon:`fa-star` :guilabel:`Leads/Create Lead`: opens the lead information for this contact.
 - :icon:`oi-arrow-right` :guilabel:`(Open related record)`: opens the attached record in Odoo (like
-     sales orders, invoices, projects, events).
+     Sales Orders, Invoices, Projects, Events).
 
 When viewing the activity, the user can also manage the activity's details and status:
 
@@ -75,22 +74,23 @@ From the database home page, click :menuselection:`CRM app`. On the :guilabel:`P
 it is open to the Kanban view. Next, near the top of the screen, click the :icon:`oi-voip`
 :guilabel:`(Show Softphone)` icon and make sure the *Phone* widget is opened to the
 :guilabel:`Activities` tab. After that, hover over the opportunity that should have a call and click
-the :icon:`fa-phone` :guilabel:`(phone)` with the small green :icon:`fa-plus` :guilabel:`(plus)` icon.
+the :icon:`fa-phone` :guilabel:`(phone)` with the small green :icon:`fa-plus` :guilabel:`(plus)`
+icon.
 
 .. image:: voip_widget/add-call.png
-   :alt: A sales opportunity with the option to add a call to the VoIP widget.
+   :alt: A sales opportunity with the option to add a call to the Phone widget.
 
 To remove a call from the :guilabel:`Activities` tab, hover over the opportunity that has a call
 scheduled, and click the red :icon:`fa-phone` :guilabel:`(phone)` icon that appears with the
 :icon:`fa-minus` :guilabel:`(minus)` icon.
 
 .. image:: voip_widget/remove-call.png
-   :alt: A sales opportunity with the option to remove a call from the *Phone* widget.
+   :alt: A sales opportunity with the option to remove a call from the Phone widget.
 
-Make a VoIP call with the Phone app
-===================================
+Make a VoIP call with the Phone widget
+======================================
 
-One of the primary purposes of the *Odoo Phone* app is to make calls without needing a phone. Here
+One of the primary purposes of the Odoo **Phone** app is to make calls without needing a phone. Here
 are the three ways to make a phone call in the Odoo database. First, click the :icon:`oi-voip`
 :guilabel:`(Show Softphone)` icon, located in the top-right of the navigation bar. From here:
 
