@@ -38,7 +38,7 @@ msgstr ""
 "Project-Id-Version: Odoo 14.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-02-06 18:30+0000\n"
-"PO-Revision-Date: 2026-02-06 23:21+0000\n"
+"PO-Revision-Date: 2026-02-09 23:21+0000\n"
 "Last-Translator: \"Larissa Manderfeld (lman)\" <lman@odoo.com>\n"
 "Language-Team: German <https://translate.odoo.com/projects/odoo-19-doc/"
 "finance/de/>\n"
@@ -26551,29 +26551,26 @@ msgstr ""
 "Lieferantencode in Odoo (z. B. `Kontakt18`)."
 
 #: ../../content/applications/finance/accounting/taxes/avatax/avalara_portal.rst:110
-#, fuzzy
 msgid ""
 ":guilabel:`Currency`: the standardized abbreviation for the currency the "
 "amount total is in."
 msgstr ""
-":guilabel:`Currency`: die standardisierte Abkürzung für die Währung, in der "
+":guilabel:`Währung`: die standardisierte Abkürzung für die Währung, in der "
 "der Gesamtbetrag angegeben ist."
 
 #: ../../content/applications/finance/accounting/taxes/avatax/avalara_portal.rst:111
-#, fuzzy
 msgid ":guilabel:`Doc date`: the document's date of creation."
-msgstr ":guilabel:`Doc date`: das Erstellungsdatum des Dokuments."
+msgstr ":guilabel:`Datum des Dokuments`: das Erstellungsdatum des Dokuments."
 
 #: ../../content/applications/finance/accounting/taxes/avatax/avalara_portal.rst:112
-#, fuzzy
 msgid ""
 ":guilabel:`Doc status`: any of the following "
 "options, :guilabel:`All`, :guilabel:`Voided`, :guilabel:`Committed`, :guilabel:`Uncommitted`, "
 "or :guilabel:`Locked`."
 msgstr ""
-":guilabel:`Doc status`:any: der folgenden "
-"Optionen: :guilabel:`All`, :guilabel:`Voided`, :guilabel:`Committed`, :guilabel:`Uncommitted` "
-"oder :guilabel:`Locked`."
+":guilabel:`Status des Dokuments`: eine der folgenden Optionen: "
+":guilabel:`Alle`, :guilabel:`Verworfen`, :guilabel:`Festgelegt`, :guilabel:`"
+"Nicht festgelegt` oder :guilabel:`Gesperrt`."
 
 #: ../../content/applications/finance/accounting/taxes/avatax/avalara_portal.rst:114
 #, fuzzy
@@ -29208,130 +29205,118 @@ msgstr ""
 "Bestellungen und Rechnungen."
 
 #: ../../content/applications/finance/accounting/vendor_bills.rst:78
-#, fuzzy
 msgid ""
 ":guilabel:`Bill Reference`: Add the sales order reference provided by the "
 "vendor. This field is used to :ref:`match <accounting/payments/payments-"
 "matching>` the products when they are received."
 msgstr ""
-":guilabel:`Bill Reference`Fügen Sie die vom Lieferanten angegebene Nummer "
-"des Verkaufsauftrags hinzu. Dieses Feld wird verwendet, um die Produkte bei "
-"Erhalt zu :ref:`match <accounting/payments/payments-matching>` ieren."
+":guilabel:`Rechnungsreferenz`: Fügen Sie die vom Lieferanten angegebene "
+"Nummer des Verkaufsauftrags hinzu. Dieses Feld wird verwendet, um die "
+"Produkte bei Erhalt :ref:`anzugleichen <accounting/payments/payments-"
+"matching>`."
 
 #: ../../content/applications/finance/accounting/vendor_bills.rst:80
-#, fuzzy
 msgid ""
 ":guilabel:`Auto-Complete`: Select a past bill/purchase order to complete the "
 "document automatically. The :guilabel:`Vendor` field should be completed "
 "before completing this field."
 msgstr ""
-":guilabel:`Auto-Complete`Wählen Sie eine frühere Rechnung/Bestellung aus, um "
-"das Dokument automatisch auszufüllen. Das Feld „ :guilabel:`Vendor` "
-"“ (Rechnungsnummer) sollte vor dem Ausfüllen dieses Feldes ausgefüllt werden."
+":guilabel:`Automatisch vervollständigen`: Wählen Sie eine frühere Rechnung "
+"oder Bestellung aus, um das Dokument automatisch auszufüllen. Das Feld "
+":guilabel:`Lieferant` sollte vor dem Ausfüllen dieses Feldes ausgefüllt "
+"werden."
 
 #: ../../content/applications/finance/accounting/vendor_bills.rst:82
-#, fuzzy
 msgid ":guilabel:`Bill Date`: Select the document's issuance date."
 msgstr ""
-":guilabel:`Bill Date`Wählen Sie das Ausstellungsdatum des Dokuments aus."
+":guilabel:`Rechnungsdatum`: Wählen Sie das Ausstellungsdatum des Dokuments "
+"aus."
 
 #: ../../content/applications/finance/accounting/vendor_bills.rst:83
-#, fuzzy
 msgid ""
 ":guilabel:`Accounting Date`: Update the document's accounting registration "
 "date if needed."
 msgstr ""
-":guilabel:`Accounting Date`: Aktualisieren Sie bei Bedarf das Buchungsdatum "
-"des Dokuments."
+":guilabel:`Buchhaltungsdatum`: Aktualisieren Sie bei Bedarf das "
+"Buchungsdatum des Dokuments."
 
 #: ../../content/applications/finance/accounting/vendor_bills.rst:84
-#, fuzzy
 msgid ""
 ":guilabel:`Payment Reference`: The :guilabel:`Memo` field automatically "
 "includes the payment reference once the payment is registered."
 msgstr ""
-":guilabel:`Payment Reference`Das Feld „ :guilabel:`Memo` "
-"“ (Zahlungsreferenz) enthält automatisch die Zahlungsreferenz, sobald die "
-"Zahlung registriert wurde."
+":guilabel:`Zahlungsreferenz`: Das Feld :guilabel:`Vermerk` enthält "
+"automatisch die Zahlungsreferenz, sobald die Zahlung registriert wurde."
 
 #: ../../content/applications/finance/accounting/vendor_bills.rst:86
-#, fuzzy
 msgid ""
 ":guilabel:`Recipient Bank`: Indicates the account number to which the "
 "payment will be made. This field is required when paying via batch payment "
 "files (such as :ref:`NACHA <l10n_us/ach-electronic-transfers>` "
 "and :doc:`SEPA <payments/pay_sepa>`)."
 msgstr ""
-":guilabel:`Recipient Bank`: Gibt die Kontonummer an, auf die die Zahlung "
+":guilabel:`Empfängerbank`: Gibt die Kontonummer an, auf die die Zahlung "
 "erfolgen soll. Dieses Feld ist erforderlich, wenn die Zahlung über "
 "Sammelzahlungsdateien (wie :ref:`NACHA <l10n_us/ach-electronic-transfers>` "
 "und :doc:`SEPA <payments/pay_sepa>`) erfolgt."
 
 #: ../../content/applications/finance/accounting/vendor_bills.rst:89
-#, fuzzy
 msgid ""
 ":guilabel:`Due Date` or :guilabel:`Payment Terms` must be specified for the "
 "bill payment."
 msgstr ""
-":guilabel:`Due Date` oder :guilabel:`Payment Terms` muss für die "
-"Rechnungszahlung angegeben werden."
+":guilabel:`Fälligkeitsdatum` oder :guilabel:`Zahlungsbedingungen` muss für "
+"die Rechnungszahlung angegeben werden."
 
 #: ../../content/applications/finance/accounting/vendor_bills.rst:90
-#, fuzzy
 msgid ""
 ":guilabel:`Journal`: Select which journal should record the bill and in "
 "which :doc:`currency <get_started/multi_currency>`."
 msgstr ""
-":guilabel:`Journal`Wählen Sie aus, in welchem Journal die Rechnung erfasst "
-"werden soll und in welcher Position :doc:`currency <get_started/"
-"multi_currency>`."
+":guilabel:`Journal`: Wählen Sie aus, in welchem Journal die Rechnung erfasst "
+"werden soll und in welcher :doc:`Währung <get_started/multi_currency>`."
 
 #: ../../content/applications/finance/accounting/vendor_bills.rst:95
-#, fuzzy
 msgid ""
 "To access the product catalog, click :doc:`Catalog </applications/"
 "inventory_and_mrp/inventory/warehouses_storage/inventory_management/"
 "product_catalog>`."
 msgstr ""
-"Um auf den Produktkatalog zuzugreifen, klicken Sie auf :doc:`Catalog </"
+"Um auf den Produktkatalog zuzugreifen, klicken Sie auf :doc:`Katalog </"
 "applications/inventory_and_mrp/inventory/warehouses_storage/"
 "inventory_management/product_catalog>`."
 
 #: ../../content/applications/finance/accounting/vendor_bills.rst:97
-#, fuzzy
 msgid ""
 "Select the products and quantities, then click :guilabel:`Back to Bill` to "
 "return to the vendor bill; the selected catalog items will appear in the "
 "vendor bill lines."
 msgstr ""
-"Wählen Sie die Produkte und Mengen aus und klicken Sie dann auf "
-"„ :guilabel:`Back to Bill` “ (Zur Lieferantenrechnung zurückkehren), um zur "
-"Lieferantenrechnung zurückzukehren. Die ausgewählten Katalogartikel werden "
-"in den Zeilen der Lieferantenrechnung angezeigt."
+"Wählen Sie die Produkte und Mengen aus und klicken Sie dann auf :guilabel:`"
+"Zurück zur Rechnung`, um zur Lieferantenrechnung zurückzukehren. Die "
+"ausgewählten Katalogartikel werden in den Zeilen der Lieferantenrechnung "
+"angezeigt."
 
 #: ../../content/applications/finance/accounting/vendor_bills.rst:99
-#, fuzzy
 msgid ""
 "Update the :guilabel:`Quantity`, :guilabel:`Price`, and :doc:`Taxes <taxes>` "
 "fields if needed."
 msgstr ""
-"Aktualisieren Sie bei Bedarf die Felder „ :guilabel:`Quantity` “, "
-"„ :guilabel:`Price` “ und „ :doc:`Taxes <taxes>` “."
+"Aktualisieren Sie bei Bedarf die Felder :guilabel:`Menge`, :guilabel:`Preis` "
+"und :doc:`Steuern <taxes>`."
 
 #: ../../content/applications/finance/accounting/vendor_bills.rst:102
-#, fuzzy
 msgid ""
 "If the bill line does not correspond to an existing product in the database, "
 "click :guilabel:`Add a line` and enter a description for the bill line "
 "without linking it to a product."
 msgstr ""
 "Wenn die Rechnungsposition keinem vorhandenen Produkt in der Datenbank "
-"entspricht, klicken Sie auf „ :guilabel:`Add a line` “ (Neue "
-"Rechnungsposition erstellen) und geben Sie eine Beschreibung für die "
-"Rechnungsposition ein, ohne sie mit einem Produkt zu verknüpfen."
+"entspricht, klicken Sie auf :guilabel:`Zeile hinzufügen` und geben Sie eine "
+"Beschreibung für die Rechnungsposition ein, ohne sie mit einem Produkt zu "
+"verknüpfen."
 
 #: ../../content/applications/finance/accounting/vendor_bills.rst:106
-#, fuzzy
 msgid ""
 "Multiple bills for the same purchase order may be issued if the vendor is on "
 "back-order and sends invoices as products are shipped or if the vendor sends "
@@ -29339,119 +29324,106 @@ msgid ""
 "the same :guilabel:`Bill Reference`."
 msgstr ""
 "Es können mehrere Rechnungen für dieselbe Bestellung ausgestellt werden, "
-"wenn der Lieferant einen Lieferrückstand hat und Rechnungen bei Versand der "
+"wenn der Lieferant einen Lieferrückstand hat und Rechnungen beim Versand der "
 "Produkte versendet oder wenn der Lieferant Teilrechnungen versendet oder "
-"eine Anzahlung verlangt. In diesem Fall können mehrere Rechnungen denselben "
-"Rechnungsnummernbereich ( :guilabel:`Bill Reference`) haben."
+"eine Anzahlung verlangt. In diesem Fall können mehrere Rechnungen dieselbe "
+":guilabel:`Rechnungsreferenz` haben."
 
 #: ../../content/applications/finance/accounting/vendor_bills.rst:113
 msgid "Bill confirmation"
 msgstr "Bestätigung der Eingangsrechnung"
 
 #: ../../content/applications/finance/accounting/vendor_bills.rst:115
-#, fuzzy
 msgid ""
 "Click :guilabel:`Confirm` when the document is completed. The status changes "
 "to :guilabel:`Posted`, and a journal entry is generated based on the vendor "
 "bill information. On confirmation, Odoo assigns each vendor bill a unique "
 "number from a defined :doc:`sequence <vendor_bills/sequence>`."
 msgstr ""
-"Klicken Sie auf „ :guilabel:`Confirm` “, wenn das Dokument fertiggestellt "
-"ist. Der Status ändert sich zu „ :guilabel:`Posted` “ und es wird ein "
-"Journalbuchungseintrag auf Basis der Lieferantenrechnungsdaten erstellt. "
-"Nach der Bestätigung weist Odoo jeder Lieferantenrechnung eine eindeutige "
-"Nummer aus einem definierten Nummernkreis zu ( :doc:`sequence <vendor_bills/"
-"sequence>`)."
+"Klicken Sie auf :guilabel:`Bestätigen`, wenn das Dokument fertiggestellt "
+"ist. Der Status ändert sich zu :guilabel:`Gebucht` und es wird eine "
+"Journalbuchung auf Basis der Lieferantenrechnungsdaten erstellt. Nach der "
+"Bestätigung weist Odoo jeder Lieferantenrechnung eine eindeutige Nummer aus "
+"einer definierten :doc:`Sequenz <vendor_bills/sequence>` zu."
 
 #: ../../content/applications/finance/accounting/vendor_bills.rst:120
-#, fuzzy
 msgid ""
 "Once confirmed, a vendor bill can no longer be updated. "
 "Click :guilabel:`Reset to draft` if changes are required."
 msgstr ""
 "Nach der Bestätigung kann eine Lieferantenrechnung nicht mehr aktualisiert "
-"werden. Klicken Sie auf „ :guilabel:`Reset to draft` “, wenn Änderungen "
-"erforderlich sind."
+"werden. Klicken Sie auf :guilabel:`Auf Entwurf zurücksetzen`, wenn "
+"Änderungen erforderlich sind."
 
 #: ../../content/applications/finance/accounting/vendor_bills.rst:128
-#, fuzzy
 msgid ""
 "To register a payment, click on :guilabel:`Pay`. In the :guilabel:`Pay` "
 "window, select the :guilabel:`Journal`, the :guilabel:`Payment Method`, "
 "the :guilabel:`Amount`, and the :guilabel:`Currency`."
 msgstr ""
-"Um eine Zahlung zu registrieren, klicken Sie auf „ :guilabel:`Pay` "
-"“ (Zahlung registrieren). Wählen Sie im Fenster „ :guilabel:`Pay` “ (Zahlung "
-"registrieren) die Option „ :guilabel:`Journal` “ (Zahlung registrieren), "
-"„ :guilabel:`Payment Method` “ (Zahlung registrieren), „ :guilabel:`Amount` "
-"“ (Zahlung registrieren) und „ :guilabel:`Currency` “ (Zahlung registrieren)."
+"Um eine Zahlung zu registrieren, klicken Sie auf :guilabel:`Bezahlen`. "
+"Wählen Sie im Fenster :guilabel:`Bezahlen` das :guilabel:`Journal`, die "
+":guilabel:`Zahlungsmethode`, den :guilabel:`Betrag` und die "
+":guilabel:`Währung`."
 
 #: ../../content/applications/finance/accounting/vendor_bills.rst:132
-#, fuzzy
 msgid ""
 "When the :guilabel:`Amount` paid is less than the total remaining amount on "
 "the vendor bill, the payment is :ref:`partial <accounting/payments/partial-"
 "payment>`, and the :guilabel:`Payment Difference` field displays the "
 "outstanding balance."
 msgstr ""
-"Wenn der gezahlte Betrag ( :guilabel:`Amount` ) geringer ist als der "
-"Gesamtbetrag, der auf der Lieferantenrechnung noch aussteht, ist die Zahlung "
-"unvollständig ( :ref:`partial <accounting/payments/partial-payment>`) und im "
-"Feld „Ausstehender Betrag“ ( :guilabel:`Payment Difference` ) wird der "
-"ausstehende Saldo angezeigt."
+"Wenn der gezahlte :guilabel:`Betrag` geringer ist als der Gesamtbetrag, der "
+"auf der Lieferantenrechnung noch aussteht, handelt es sich um eine :ref:`"
+"Teilzahlung <accounting/payments/partial-payment>` und im Feld "
+":guilabel:`Zahlungsdifferenz` wird der ausstehende Saldo angezeigt."
 
 #: ../../content/applications/finance/accounting/vendor_bills.rst:136
-#, fuzzy
 msgid ""
 "The :guilabel:`Memo` field is filled automatically if the :guilabel:`Payment "
 "Reference` has been set correctly on the vendor bill. If the field is empty, "
 "select the vendor invoice number as a reference."
 msgstr ""
-"Das Feld „ :guilabel:`Memo` “ wird automatisch ausgefüllt, wenn das Feld "
-"„ :guilabel:`Payment Reference` “ auf der Lieferantenrechnung korrekt "
-"gesetzt wurde. Wenn das Feld leer ist, wählen Sie die "
-"Lieferantenrechnungsnummer als Referenz aus."
+"Das Feld :guilabel:`Vermerk` wird automatisch ausgefüllt, wenn die "
+":guilabel:`Zahlungsreferenz` auf der Lieferantenrechnung korrekt gesetzt "
+"wurde. Wenn das Feld leer ist, wählen Sie die Lieferantenrechnungsnummer als "
+"Referenz aus."
 
 #: ../../content/applications/finance/accounting/vendor_bills.rst:140
-#, fuzzy
 msgid ""
 "Then click :guilabel:`Create payment`. An :guilabel:`In "
 "Payment`/:guilabel:`Partial` banner appears on the bill until it "
 "is :doc:`reconciled <bank/reconciliation>` and its status updates "
 "to :guilabel:`Paid`."
 msgstr ""
-"Klicken Sie dann auf „ :guilabel:`Create payment` “ (Zur Kasse gehen). Auf "
-"der Rechnung erscheint ein Banner mit dem Hinweis „ :guilabel:`In Payment` "
-"“ (Rechnung wird verarbeitet) / „:guilabel:`Partial` “ (Rechnung wird "
-"aktualisiert), bis die Rechnung den Status „ :doc:`reconciled <bank/"
-"reconciliation>` “ (Rechnung wird verarbeitet) und „ :guilabel:`Paid` "
-"“ (Rechnung wird aktualisiert) erreicht hat."
+"Klicken Sie dann auf :guilabel:`Zahlung erstellen`. Auf der Rechnung "
+"erscheint ein Banner mit dem Hinweis :guilabel:`In Zahlung`/ "
+":guilabel:`Teilzahlung`, bis die Rechnung :doc:`abgestimmt <bank/"
+"reconciliation>` wird und der Status wird auf :guilabel:`Bezahlt` geändert."
 
 #: ../../content/applications/finance/accounting/vendor_bills.rst:151
 msgid "Aged payable report"
 msgstr "Bericht über überfällige Verbindlichkeiten"
 
 #: ../../content/applications/finance/accounting/vendor_bills.rst:153
-#, fuzzy
 msgid ""
 "For an overview of the open vendor bills and their due dates, go "
 "to :menuselection:`Accounting --> Reporting --> Aged payable`."
 msgstr ""
 "Eine Übersicht über die offenen Rechnungen von Lieferanten und deren "
-"Fälligkeitstermine finden Sie unter :menuselection:`Accounting --> Reporting "
-"--> Aged payable`."
+"Fälligkeitstermine finden Sie unter :menuselection:`Buchhaltung --> "
+"Berichtwesen --> Offene Verbindlichkeiten`."
 
 #: ../../content/applications/finance/accounting/vendor_bills.rst:156
-#, fuzzy
 msgid ""
 "Click the :icon:`fa-caret-right` :guilabel:`(right arrow)` icon next to a "
 "vendor to view the details of all their outstanding bills, including the due "
 "dates and amounts."
 msgstr ""
-"Klicken Sie auf das Symbol „ :icon:`fa-caret-right` :guilabel:`(right "
-"arrow)` “ (Rechnungen anzeigen) neben einem Lieferanten, um die Details "
-"aller ausstehenden Rechnungen anzuzeigen, einschließlich der "
-"Fälligkeitstermine und Beträge."
+"Klicken Sie auf das Symbol :icon:`fa-caret-right` :guilabel:`"
+"(Pfeil nach rechts)` neben einem Lieferanten, um die Details aller "
+"ausstehenden Rechnungen anzuzeigen, einschließlich Fälligkeitsterminen und "
+"Beträgen."
 
 #: ../../content/applications/finance/accounting/vendor_bills/assets.rst:3
 msgid "Non-current assets and fixed assets"
@@ -30101,10 +30073,10 @@ msgstr ""
 "die Option :guilabel:`Manuell & gruppiert` wählen."
 
 #: ../../content/applications/finance/accounting/vendor_bills/deferred_expenses.rst:44
-#, fuzzy
 msgid "There are three ways to calculate the deferred expenses recognition:"
 msgstr ""
-"Es gibt drei Möglichkeiten, die Abgrenzung der Aufwendungen zu berechnen:"
+"Es gibt drei Möglichkeiten, die Realisierung der aktiven "
+"Rechnungsabrgrenuzung zu berechnen:"
 
 #: ../../content/applications/finance/accounting/vendor_bills/deferred_expenses.rst:53
 msgid "Suppose a bill of $1200 must be deferred over 12 months."
@@ -30113,7 +30085,6 @@ msgstr ""
 "werden."
 
 #: ../../content/applications/finance/accounting/vendor_bills/deferred_expenses.rst:72
-#, fuzzy
 msgid ""
 "Make sure the :guilabel:`Deferred Date` field is visible in "
 "the :guilabel:`Invoice Lines` tab. In most cases, the start of the deferred "
@@ -30121,11 +30092,10 @@ msgid ""
 "Deferred expense entries are posted from the accounting date and are "
 "displayed in the report accordingly."
 msgstr ""
-"Stellen Sie sicher, dass das Feld „ :guilabel:`Deferred Date` ” "
-"(Abgrenzungskonto) auf der Registerkarte „ :guilabel:`Invoice Lines` ” "
-"(Abgrenzungskonto) sichtbar ist. In den meisten Fällen sollte der Beginn der "
-"Abgrenzungsperiode in denselben Monat fallen wie der „ :guilabel:`Accounting "
-"Date` ” (Beginn der Abgrenzung). Abgegrenzte Aufwandsposten werden ab dem "
+"Stellen Sie sicher, dass das Feld :guilabel:`Abgrenzungsdatum` im Reiter "
+":guilabel:`Rechnungszeilen` sichtbar ist. In den meisten Fällen sollte der "
+"Beginn der Abgrenzungsperiode in denselben Monat fallen wie das "
+":guilabel:`Buchhaltungsdatum`. Aktive Abgrenzungsposten werden ab dem "
 "Buchungsdatum gebucht und entsprechend im Bericht angezeigt."
 
 #: ../../content/applications/finance/accounting/vendor_bills/deferred_expenses.rst:77
@@ -30217,11 +30187,8 @@ msgstr ""
 "Rechnungsabgrenzungsposten am Ende dieser Periode verbucht wird."
 
 #: ../../content/applications/finance/accounting/vendor_bills/deferred_expenses.rst:130
-#, fuzzy
 msgid "There are three bills deferred based on :guilabel:`Months`:"
-msgstr ""
-"Es gibt drei Gesetzesvorlagen, die auf der Grundlage von "
-"„ :guilabel:`Months` “ zurückgestellt wurden:"
+msgstr "Es gibt drei Rechnungen, die je :guilabel:`Monate` abgegrenzt wurden:"
 
 #: ../../content/applications/finance/accounting/vendor_bills/deferred_expenses.rst:132
 msgid "Bill A: $1200 to be deferred from 01/01/2023 to 12/31/2023"
@@ -30234,23 +30201,21 @@ msgstr ""
 "Rechnung B: 600 € muss vom 01/01/2023 bis zum 31/12/2023 abgegrenzt werden"
 
 #: ../../content/applications/finance/accounting/vendor_bills/deferred_expenses.rst:134
-#, fuzzy
 msgid ""
 "Bill C: $600 to be deferred in a future period (it will appear on "
 "the :guilabel:`Not Started` column)"
 msgstr ""
-"Rechnung C: 600 $ werden auf einen späteren Zeitraum verschoben (sie "
-"erscheint in der Spalte „ :guilabel:`Not Started` “)."
+"Rechnung C: 600 € werden auf einen späteren Zeitraum abgegrenzt "
+"(sie erscheint in der Spalte :guilabel:`Nicht gestartet`)."
 
 #: ../../content/applications/finance/accounting/vendor_bills/deferred_expenses.rst:143
 #: ../../content/applications/finance/accounting/vendor_bills/deferred_expenses.rst:160
-#, fuzzy
 msgid ""
 "Line 1: Expense account -1200 -600 -600 = **-2400** (cancelling the total of "
 "all bills)"
 msgstr ""
-"Zeile 1: Spesenkonto -1200 -600 -600 = **-2400** (Aufhebung der Gesamtsumme "
-"aller Rechnungen)"
+"Zeile 1: Aufwandskonto -1200 -600 -600 = **-2400** "
+"(Gesamtsumme aller Rechnungen stornieren)"
 
 #: ../../content/applications/finance/accounting/vendor_bills/deferred_expenses.rst:144
 msgid ""
@@ -30261,14 +30226,12 @@ msgstr ""
 "Rechnung A und Rechnung B)"
 
 #: ../../content/applications/finance/accounting/vendor_bills/deferred_expenses.rst:150
-#, fuzzy
 msgid "Line 1: Expense account **2400**"
-msgstr "Zeile 1: Spesenabrechnung **2400**"
+msgstr "Zeile 1: Aufwandskonto **2400**"
 
 #: ../../content/applications/finance/accounting/vendor_bills/deferred_expenses.rst:151
-#, fuzzy
 msgid "Line 3: Expense account **-150**"
-msgstr "Zeile 3: Spesenabrechnung **-150**"
+msgstr "Zeile 3: Aufwandskonto **-150**"
 
 #: ../../content/applications/finance/accounting/vendor_bills/deferred_expenses.rst:161
 msgid ""
@@ -30279,14 +30242,12 @@ msgstr ""
 "Rechnung A und Rechnung B)"
 
 #: ../../content/applications/finance/accounting/vendor_bills/deferred_expenses.rst:176
-#, fuzzy
 msgid "Bill A and Bill B"
-msgstr "Gesetzentwurf A und Gesetzentwurf B"
+msgstr "Rechnung A und Rechnung B"
 
 #: ../../content/applications/finance/accounting/vendor_bills/deferred_expenses.rst:179
-#, fuzzy
 msgid "Bill C will be deferred later"
-msgstr "Bill C wird später verschoben."
+msgstr "Rechnung C wird später abgegrenzt"
 
 #: ../../content/applications/finance/accounting/vendor_bills/deferred_expenses.rst:181
 msgid ""
@@ -30303,7 +30264,6 @@ msgid "Document digitization"
 msgstr "Dokument-Digitalisierung"
 
 #: ../../content/applications/finance/accounting/vendor_bills/invoice_digitization.rst:5
-#, fuzzy
 msgid ""
 "Document digitization refers to the process of converting paper or digital "
 "documents into records in a database. Using :abbr:`OCR (optical character "
@@ -30313,22 +30273,20 @@ msgid ""
 msgstr ""
 "Die Digitalisierung von Dokumenten bezeichnet den Prozess der Umwandlung von "
 "Papier- oder Digitaldokumenten in Datensätze in einer Datenbank. Mithilfe "
-"von Technologien zur automatischen Zeichenerkennung ( :abbr:`OCR (optical "
-"character recognition)` ) und künstlicher Intelligenz liest Odoo den Inhalt "
-"und erstellt und füllt automatisch die Details des Datensatzes aus. Dieser "
-"Prozess wird hauptsächlich für Lieferantenrechnungen (oder Rückerstattungen) "
-"verwendet."
+"von :abbr:`OCR (Texterkennung)` und künstlicher Intelligenz liest Odoo den "
+"Inhalt und erstellt und füllt automatisch die Details des Datensatzes aus. "
+"Dieser Prozess wird hauptsächlich für Lieferantenrechnungen "
+"(oder Rückerstattungen) verwendet."
 
 #: ../../content/applications/finance/accounting/vendor_bills/invoice_digitization.rst:11
-#, fuzzy
 msgid ""
 "Although less common, this digitization process can also be applied to "
 "customer invoices and credit notes. The :ref:`settings <accounting/bill-"
 "digitization/configuration>` need to be adjusted accordingly."
 msgstr ""
 "Obwohl dies weniger häufig vorkommt, kann dieser Digitalisierungsprozess "
-"auch auf Kundenrechnungen und Kreditgutschriften angewendet werden. Die "
-"„ :ref:`settings <accounting/bill-digitization/configuration>` ” müssen "
+"auch auf Kundenrechnungen und Gutschriften angewendet werden. Die :ref:`"
+"Einstellungen <accounting/bill-digitization/configuration>` müssen "
 "entsprechend angepasst werden."
 
 #: ../../content/applications/finance/accounting/vendor_bills/invoice_digitization.rst:16
@@ -30348,7 +30306,6 @@ msgstr ""
 "www.odoo.com/slides/slide/vendor-bill-digitization-7065>`_"
 
 #: ../../content/applications/finance/accounting/vendor_bills/invoice_digitization.rst:26
-#, fuzzy
 msgid ""
 "Go to :menuselection:`Accounting --> Configuration --> Settings` and "
 "navigate to the :guilabel:`Digitization` section. Enable "
@@ -30356,30 +30313,27 @@ msgid ""
 "whether :guilabel:`Vendor Bills` should be processed automatically or on "
 "demand."
 msgstr ""
-"Gehen Sie zu „ :menuselection:`Accounting --> Configuration --> Settings` "
-"“ und navigieren Sie zum Abschnitt „ :guilabel:`Digitization` “. Aktivieren "
-"Sie die Option „ :guilabel:`Document Digitization` “ und wählen Sie aus, ob "
-"„ :guilabel:`Vendor Bills` “ automatisch oder bei Bedarf verarbeitet werden "
-"soll."
+"Gehen Sie zu :menuselection:`Buchhaltung --> Konfiguration --> Einstellungen`"
+" und navigieren Sie zum Abschnitt :guilabel:`Digitalisierung`. Aktivieren "
+"Sie die Option :guilabel:`Dokument-Digitalisierung` und wählen Sie, ob "
+":guilabel:`Lieferantenrechnungen` automatisch oder bei Bedarf verarbeitet "
+"werden sollen."
 
 #: ../../content/applications/finance/accounting/vendor_bills/invoice_digitization.rst:31
-#, fuzzy
 msgid ""
 "If the :guilabel:`Single Invoice Line Per Tax` option is enabled, only one "
 "line is created per tax in the new vendor bill, regardless of the number of "
 "lines on it."
 msgstr ""
-"Wenn die Option „ :guilabel:`Single Invoice Line Per Tax` “ aktiviert ist, "
-"wird in der neuen Lieferantenrechnung nur eine Zeile pro Steuer erstellt, "
-"unabhängig von der Anzahl der Zeilen in der Rechnung."
+"Wenn die Option :guilabel:`Einzelne Rechnungszeile pro Steuer` aktiviert "
+"ist, wird in der neuen Lieferantenrechnung nur eine Zeile pro Steuer "
+"erstellt, unabhängig von der Anzahl der Zeilen in der Rechnung."
 
 #: ../../content/applications/finance/accounting/vendor_bills/invoice_digitization.rst:37
-#, fuzzy
 msgid "Vendor bills upload"
 msgstr "Hochladen von Lieferantenrechnungen"
 
 #: ../../content/applications/finance/accounting/vendor_bills/invoice_digitization.rst:39
-#, fuzzy
 msgid ""
 "Vendor bills are :ref:`uploaded manually <accounting/bill-digitization/"
 "manual-upload>` or sent to a :ref:`designated email alias <accounting/bill-"
@@ -30387,15 +30341,13 @@ msgid ""
 "be :ref:`automatically posted <accounting/bill-digitization/auto-post-"
 "bills>` for selected vendors."
 msgstr ""
-"Lieferantenrechnungen werden digitalisiert ( :ref:`uploaded manually "
-"<accounting/bill-digitization/manual-upload>` ) oder zur Digitalisierung "
-"an :ref:`designated email alias <accounting/bill-digitization/email-alias>` "
-"gesendet. Sie können auch für ausgewählte Lieferanten digitalisiert werden "
-"( :ref:`automatically posted <accounting/bill-digitization/auto-post-"
-"bills>` )."
+"Lieferantenrechnungen werden :ref:`manuell hochgeladen <accounting/"
+"bill-digitization/manual-upload>` oder zur Digitalisierung an einen :ref:`"
+"gesonderten E-Mail-Alias <accounting/bill-digitization/email-alias>` "
+"gesendet. Sie können auch für ausgewählte Lieferanten :ref:`automatisch "
+"gebucht <accounting/bill-digitization/auto-post-bills>` werden."
 
 #: ../../content/applications/finance/accounting/vendor_bills/invoice_digitization.rst:45
-#, fuzzy
 msgid ""
 "Once the bill is uploaded, the document preview appears on the right side of "
 "the screen."
@@ -30404,32 +30356,27 @@ msgstr ""
 "der rechten Seite des Bildschirms."
 
 #: ../../content/applications/finance/accounting/vendor_bills/invoice_digitization.rst:48
-#, fuzzy
 msgid ":doc:`Vendor bills <../vendor_bills>`"
-msgstr ":doc:`Vendor bills <../vendor_bills>`"
+msgstr ":doc:`Lieferantenrechnungen <../vendor_bills>`"
 
 #: ../../content/applications/finance/accounting/vendor_bills/invoice_digitization.rst:53
-#, fuzzy
 msgid "Manual upload"
-msgstr "Manuelles Hochladen"
+msgstr "Manuell hochladen"
 
 #: ../../content/applications/finance/accounting/vendor_bills/invoice_digitization.rst:55
-#, fuzzy
 msgid ""
 "In the Accounting dashboard, drag and drop vendor bills into the desired "
 "purchase journal or click :guilabel:`Upload` on the purchase journal."
 msgstr ""
-"Ziehen Sie im Dashboard „Buchhaltung“ die Rechnungen der Lieferanten per "
-"Drag & Drop in das gewünschte Einkaufsjournal oder klicken Sie im "
-"Einkaufsjournal auf „ :guilabel:`Upload` “ (Rechnungen einfügen)."
+"Ziehen Sie im Buchhaltungsdashboard die Lieferantenrechnungen per Drag and "
+"Drop in das gewünschte Einkaufsjournal oder klicken Sie im Einkaufsjournal "
+"auf :guilabel:`Hochladen`."
 
 #: ../../content/applications/finance/accounting/vendor_bills/invoice_digitization.rst:61
-#, fuzzy
 msgid "Upload via email alias"
-msgstr "Hochladen über E-Mail-Alias"
+msgstr "Über E-Mail-Alias hochladen"
 
 #: ../../content/applications/finance/accounting/vendor_bills/invoice_digitization.rst:63
-#, fuzzy
 msgid ""
 "Vendor bills can be uploaded via an email alias associated with the relevant "
 "journal in two ways:"
@@ -30438,7 +30385,6 @@ msgstr ""
 "verknüpften E-Mail-Alias auf zwei Arten hochgeladen werden:"
 
 #: ../../content/applications/finance/accounting/vendor_bills/invoice_digitization.rst:65
-#, fuzzy
 msgid ""
 "scanned from a connected scanner configured to send email to an email alias;"
 msgstr ""
@@ -30446,12 +30392,10 @@ msgstr ""
 "E-Mails an einen E-Mail-Alias sendet;"
 
 #: ../../content/applications/finance/accounting/vendor_bills/invoice_digitization.rst:66
-#, fuzzy
 msgid "sent directly to an email alias."
 msgstr "direkt an einen E-Mail-Alias gesendet."
 
 #: ../../content/applications/finance/accounting/vendor_bills/invoice_digitization.rst:68
-#, fuzzy
 msgid ""
 "Each PDF attached to the email is automatically converted into a new draft "
 "vendor bill."
@@ -30460,25 +30404,22 @@ msgstr ""
 "Entwurf einer Lieferantenrechnung umgewandelt."
 
 #: ../../content/applications/finance/accounting/vendor_bills/invoice_digitization.rst:71
-#, fuzzy
 msgid ""
 "Only PDF and XML formats are processed via an email alias associated with a "
 "journal."
 msgstr ""
-"Nur PDF- und XML-Formate werden über einen mit einer Zeitschrift verknüpften "
-"E-Mail-Alias verarbeitet."
+"Nur PDF- und XML-Formate werden über einen mit einem Journal verknüpften E"
+"-Mail-Alias verarbeitet."
 
 #: ../../content/applications/finance/accounting/vendor_bills/invoice_digitization.rst:72
-#, fuzzy
 msgid ""
 "JPEG files must be processed via :ref:`email alias in the Documents app "
 "<documents/email-aliases>`."
 msgstr ""
-"JPEG-Dateien müssen über :ref:`email alias in the Documents app <documents/"
-"email-aliases>` verarbeitet werden."
+"JPEG-Dateien müssen über :ref:`E-Mail-Aliasse in der Dokumente-App <"
+"documents/email-aliases>` verarbeitet werden."
 
 #: ../../content/applications/finance/accounting/vendor_bills/invoice_digitization.rst:75
-#, fuzzy
 msgid "To add an email alias to a journal, follow these steps:"
 msgstr ""
 "Um einen E-Mail-Alias zu einem Journal hinzuzufügen, gehen Sie wie folgt vor:"
@@ -30534,25 +30475,21 @@ msgstr ""
 "weiterzuleiten."
 
 #: ../../content/applications/finance/accounting/vendor_bills/invoice_digitization.rst:94
-#, fuzzy
 msgid "Automatic vendor bill posting"
 msgstr "Automatische Buchung von Lieferantenrechnungen"
 
 #: ../../content/applications/finance/accounting/vendor_bills/invoice_digitization.rst:97
-#, fuzzy
 msgid ""
 "To use the :guilabel:`Auto-post bills` option, the :guilabel:`Digitize "
 "automatically` setting in the :ref:`Document Digitization <accounting/bill-"
 "digitization/configuration>` section must be enabled for vendor bills."
 msgstr ""
-"Um die Option „ :guilabel:`Auto-post bills` “ (Rechnungen nach Lieferanten "
-"sortieren) nutzen zu können, muss die Einstellung „ :guilabel:`Digitize "
-"automatically` “ (Rechnungen nach Lieferanten sortieren) im Abschnitt "
-"„ :ref:`Document Digitization <accounting/bill-digitization/configuration>` "
-"“ (Rechnungsdaten) für Lieferantenrechnungen aktiviert sein."
+"Um die Option :guilabel:`Rechnungen automatisch buchen` nutzen zu können, "
+"muss die Einstellung :guilabel:`Automatisch digitalisieren` im Abschnitt :ref"
+":`Dokument-Digitalisierung <accounting/bill-digitization/configuration>` für "
+"Lieferantenrechnungen aktiviert sein."
 
 #: ../../content/applications/finance/accounting/vendor_bills/invoice_digitization.rst:101
-#, fuzzy
 msgid ""
 "To automatically post digitized vendor bills for specific vendors, go "
 "to :menuselection:`Accounting --> Vendors --> Vendors` and click the desired "
@@ -30560,31 +30497,26 @@ msgid ""
 "an :guilabel:`Auto-post bills` option in the :guilabel:`Automation` section:"
 msgstr ""
 "Um digitalisierte Lieferantenrechnungen für bestimmte Lieferanten "
-"automatisch zu buchen, gehen Sie zu „ :menuselection:`Accounting --> Vendors "
-"--> Vendors` “ (Rechnungen buchen) und klicken Sie auf den gewünschten "
-"Lieferanten. Wählen Sie auf der Registerkarte „ :guilabel:`Accounting` "
-"“ (Kontaktdaten) des Kontaktformulars im Abschnitt „ :guilabel:`Automation` "
-"“ (Automatische Buchung aktivieren) die Option „ :guilabel:`Auto-post bills` "
-"“ (Automatische Buchung aktivieren):"
+"automatisch zu buchen, gehen Sie zu :menuselection:`Buchhaltung --> "
+"Lieferanten --> Lieferanten` und klicken Sie auf den gewünschten "
+"Lieferanten. Wählen Sie im Reiter :guilabel:`Buchhaltung` des "
+"Kontaktformulars im Abschnitt :guilabel:`Automatisierung` die Option "
+":guilabel:`Rechnungen automatisch buchen`:"
 
 #: ../../content/applications/finance/accounting/vendor_bills/invoice_digitization.rst:106
-#, fuzzy
 msgid ""
 ":guilabel:`Ask after 3 validations without edits`: When the third uploaded "
 "bill is confirmed without any edits, an :guilabel:`Autopost Bills` window "
 "appears. The following options can be chosen: :guilabel:`Activate auto-"
 "validation`, :guilabel:`Ask me later`, or :guilabel:`Never for this vendor`."
 msgstr ""
-":guilabel:`Ask after 3 validations without edits`Wenn die dritte "
+":guilabel:`Nach 3 Validierungen ohne Bearbeitungen fragen`: Wenn die dritte "
 "hochgeladene Rechnung ohne Änderungen bestätigt wird, erscheint das Fenster "
-"„ :guilabel:`Autopost Bills` “ (Rechnungsstatus). Folgende Optionen stehen "
-"zur Auswahl: „ :guilabel:`Activate auto-validation` “ (Rechnung erneut "
-"hochladen), „ :guilabel:`Ask me later` “ (Rechnung löschen) oder "
-"„ :guilabel:`Never for this vendor` “ (Rechnung löschen und erneut "
-"hochladen)."
+":guilabel:`Rechnungen automatisch buchen`. Folgende Optionen stehen zur "
+"Auswahl: :guilabel:`Automatische Validierung aktivieren`, :guilabel:`Später "
+"fragen` oder :guilabel:`Nie für diesen Lieferanten`."
 
 #: ../../content/applications/finance/accounting/vendor_bills/invoice_digitization.rst:113
-#, fuzzy
 msgid ""
 "Since automation is triggered after three validated bills without edits, the "
 "contact name must already exist in the database, and each uploaded vendor "
@@ -30596,34 +30528,29 @@ msgstr ""
 "Rechnungsdatum enthalten."
 
 #: ../../content/applications/finance/accounting/vendor_bills/invoice_digitization.rst:119
-#, fuzzy
 msgid "Digitization and data recognition with AI"
 msgstr "Digitalisierung und Datenerkennung mit KI"
 
 #: ../../content/applications/finance/accounting/vendor_bills/invoice_digitization.rst:121
-#, fuzzy
 msgid ""
 "Depending on the :ref:`settings <accounting/bill-digitization/"
 "configuration>`, documents are either automatically digitized or require "
 "manual processing if digitization is set to on-demand only."
 msgstr ""
-"Je nach Einstellung unter „ :ref:`settings <accounting/bill-digitization/"
-"configuration>` “ werden Dokumente entweder automatisch digitalisiert oder "
-"müssen manuell bearbeitet werden, wenn die Digitalisierung nur auf Abruf "
-"aktiviert ist."
+"Je nach :ref:`Einstellungen <accounting/bill-digitization/configuration>` "
+"werden Dokumente entweder automatisch digitalisiert oder müssen manuell "
+"bearbeitet werden, wenn die Digitalisierung nur bei Bedarf aktiviert ist."
 
 #: ../../content/applications/finance/accounting/vendor_bills/invoice_digitization.rst:124
-#, fuzzy
 msgid ""
 "To manually digitize an :ref:`uploaded document <accounting/bill-"
 "digitization/vendor-bills-upload>`, click :guilabel:`Digitize document`."
 msgstr ""
-"Um eine Datei manuell zu digitalisieren, klicken Sie auf "
-"„ :guilabel:`Digitize document` “ ( :ref:`uploaded document <accounting/bill-"
-"digitization/vendor-bills-upload>`)."
+"Um ein :ref:`hochgeladenes Dokument <accounting/bill-digitization/vendor-"
+"bills-upload>` manuell zu digitalisieren, klicken Sie auf :guilabel:`"
+"Dokument digitalisieren `."
 
 #: ../../content/applications/finance/accounting/vendor_bills/invoice_digitization.rst:127
-#, fuzzy
 msgid ""
 "Once the document has been digitized, a blue banner appears; click :icon:`oi-"
 "arrow-right` :guilabel:`Refresh`. Review and correct any information "
@@ -30631,22 +30558,19 @@ msgid ""
 "click :guilabel:`Reload AI data` to refresh the data."
 msgstr ""
 "Sobald das Dokument digitalisiert wurde, erscheint ein blaues Banner; "
-"klicken Sie auf „ :icon:`oi-arrow-right` :guilabel:`Refresh` ” (Daten "
-"aktualisieren). Überprüfen und korrigieren Sie alle während der "
-"Digitalisierung hochgeladenen Informationen: Klicken Sie auf die "
-"entsprechenden Felder, um sie zu bearbeiten, oder klicken Sie auf "
-"„ :guilabel:`Reload AI data` ” (Daten aktualisieren), um die Daten zu "
-"aktualisieren."
+"klicken Sie auf :icon:`oi-arrow-right` :guilabel:`Aktualisieren`. Überprüfen "
+"und korrigieren Sie alle während der Digitalisierung hochgeladenen "
+"Informationen: Klicken Sie auf die entsprechenden Felder, um sie zu "
+"bearbeiten, oder klicken Sie auf :guilabel:`KI-Daten neu laden`, um die "
+"Daten zu aktualisieren."
 
 #: ../../content/applications/finance/accounting/vendor_bills/invoice_digitization.rst:131
-#, fuzzy
 msgid "Then, click :guilabel:`Confirm` to post the document."
 msgstr ""
-"Klicken Sie anschließend auf „ :guilabel:`Confirm` “, um das Dokument zu "
-"veröffentlichen."
+"Klicken Sie anschließend auf :guilabel:`Bestätigen`, um das Dokument zu "
+"buchen."
 
 #: ../../content/applications/finance/accounting/vendor_bills/invoice_digitization.rst:134
-#, fuzzy
 msgid ""
 "Once a document has been digitized, the :guilabel:`Vendor` field remains "
 "empty if the vendor doesn't exist in the database. To add it, click "
@@ -30655,20 +30579,18 @@ msgid ""
 "right. Click it to open a new vendor form with the name pre-filled."
 msgstr ""
 "Sobald ein Dokument digitalisiert wurde, bleibt das Feld "
-"„ :guilabel:`Vendor` “ leer, wenn der Lieferant nicht in der Datenbank "
-"vorhanden ist. Um ihn hinzuzufügen, klicken Sie auf „ :icon:`fa-caret-"
-"down` :guilabel:`(down arrow)` “ im Feld „ :guilabel:`Vendor` “; der Name "
-"des Lieferanten wird in der Dokumentenvorschau auf der rechten Seite "
-"hervorgehoben angezeigt. Klicken Sie darauf, um ein neues "
-"Lieferantenformular zu öffnen, in das der Name bereits eingetragen ist."
+":guilabel:`Lieferant` leer, wenn der Lieferant nicht in der Datenbank "
+"vorhanden ist. Um ihn hinzuzufügen, klicken Sie auf :icon:`fa-caret-down` "
+":guilabel:`(Pfeil nach unten)` im Feld :guilabel:`Lieferant`. Der Name des "
+"Lieferanten wird in der Dokumentenvorschau auf der rechten Seite "
+"hervorgehoben. Klicken Sie darauf, um ein neues Lieferantenformular zu "
+"öffnen, in das der Name bereits eingetragen ist."
 
 #: ../../content/applications/finance/accounting/vendor_bills/invoice_digitization.rst:140
-#, fuzzy
 msgid "The following vendor bill fields are recognized by OCR:"
 msgstr "Die folgenden Felder auf Lieferantenrechnungen werden von OCR erkannt:"
 
 #: ../../content/applications/finance/accounting/vendor_bills/invoice_digitization.rst:142
-#, fuzzy
 msgid ""
 ":guilabel:`Vendor`, :guilabel:`Bill Reference`, :guilabel:`Bill "
 "Date`, :guilabel:`Payment Reference` (only in the Belgian +++xxx/xxxx/xxxxx++"
@@ -30676,14 +30598,14 @@ msgid ""
 "currency (in a :doc:`multi-currency <../get_started/multi_currency>` "
 "environment and if the currency is activated)."
 msgstr ""
-":guilabel:`Vendor`, :guilabel:`Bill Reference`, :guilabel:`Bill "
-"Date`, :guilabel:`Payment Reference` (nur im belgischen Format +++xxx/xxxx/"
-"xxxxx+++), :guilabel:`Recipient Bank`, :guilabel:`Due Date` und die Währung "
-"(in einer :doc:`multi-currency <../get_started/multi_currency>` -Umgebung "
-"und wenn die Währung aktiviert ist)."
+":guilabel:`Lieferant`, :guilabel:`Rechnungsreferenz`, "
+":guilabel:`Rechnungsdatum`, :guilabel:`Zahlungsreferenz` "
+"(nur im belgischen Format +++xxx/xxxx/xxxxx+++), :guilabel:`Empfängerbank`, "
+":guilabel:`Fälligkeitsdatum` und die Währung (in einer Umgebung mit :doc:`"
+"mehreren Währungen <../get_started/multi_currency>` und wenn die Währung "
+"aktiviert ist)."
 
 #: ../../content/applications/finance/accounting/vendor_bills/invoice_digitization.rst:146
-#, fuzzy
 msgid ""
 "From the :guilabel:`Invoices Lines` tab: :guilabel:`Product` description/"
 "label, :guilabel:`Quantity`, unit :guilabel:`Price`, :guilabel:`Taxes` (if "
@@ -30692,33 +30614,30 @@ msgid ""
 "fiscal_localizations/india>`), :guilabel:`Untaxed Amount`, "
 "and :guilabel:`Total`."
 msgstr ""
-"Aus der Registerkarte „ :guilabel:`Invoices Lines` “: :guilabel:`Product` "
-"description/label, :guilabel:`Quantity`, "
-"unit :guilabel:`Price`, :guilabel:`Taxes` (wenn :ref:`tax is activated "
-"<taxes/list_activation>`; dieses Feld wird von OCR für :doc:`Indian "
-"localization <../../fiscal_localizations/india>` nicht "
-"erkannt), :guilabel:`Untaxed Amount` und :guilabel:`Total`."
+"Im Reiter :guilabel:`Rechnungszeilen`: Beschreibung/Bezeichnung des "
+":guilabel:`Produkts`, die :guilabel:`Menge`, den :guilabel:`Preis` pro "
+"Einheit, :guilabel:`Steuern` (wenn :ref:`Steuern aktiviert sind <taxes/"
+"list_activation>`; dieses Feld wird von OCR für die :doc:`indische "
+"Lokalisierung <../../fiscal_localizations/india>` nicht erkannt), "
+":guilabel:`Nettobetrag` und :guilabel:`Gesamt`."
 
 #: ../../content/applications/finance/accounting/vendor_bills/invoice_digitization.rst:155
 msgid "Purchase order matching"
 msgstr "Abgleich von Bestellungen"
 
 #: ../../content/applications/finance/accounting/vendor_bills/invoice_digitization.rst:157
-#, fuzzy
 msgid ""
 "When a digitized vendor bill is recognized by :abbr:`OCR (optical character "
 "recognition)`, Odoo searches the database for a matching purchase order. If "
 "found, the vendor bill can be manually matched with the existing open "
 "purchase order lines."
 msgstr ""
-"Wenn eine digitalisierte Lieferantenrechnung von „ :abbr:`OCR (optical "
-"character recognition)` ” erkannt wird, durchsucht Odoo die Datenbank nach "
-"einer passenden Bestellung. Wird eine solche gefunden, kann die "
-"Lieferantenrechnung manuell mit den bestehenden offenen Bestellpositionen "
-"abgeglichen werden."
+"Wenn eine digitalisierte Lieferantenrechnung von :abbr:`OCR (Texterkennung)` "
+"erkannt wird, durchsucht Odoo die Datenbank nach einer passenden Bestellung. "
+"Wird eine solche gefunden, kann die Lieferantenrechnung manuell mit den "
+"bestehenden offenen Bestellpositionen abgeglichen werden."
 
 #: ../../content/applications/finance/accounting/vendor_bills/invoice_digitization.rst:161
-#, fuzzy
 msgid ""
 "Once a vendor bill has been :ref:`uploaded <accounting/bill-digitization/"
 "vendor-bills-upload>` and :ref:`digitized <accounting/bill-digitization/"
@@ -30728,96 +30647,85 @@ msgid ""
 "the relevant purchase order lines and the draft vendor bill (shown in grey), "
 "and click :guilabel:`Match`."
 msgstr ""
-"Sobald eine Lieferantenrechnung :ref:`uploaded <accounting/bill-digitization/"
-"vendor-bills-upload>` und :ref:`digitized <accounting/bill-digitization/"
-"digitization>` wurde, klicken Sie auf die Schaltfläche „ :guilabel:`Purchase "
-"matching` “, um die Listenansicht „ :guilabel:`Purchase matching` "
-"“ aufzurufen, in der alle Bestellpositionen angezeigt werden, die mit dem "
-"der Lieferantenrechnung zugewiesenen Lieferanten verknüpft sind. Wählen Sie "
-"dann die entsprechenden Bestellpositionen und den Entwurf der "
-"Lieferantenrechnung (grau dargestellt) aus und klicken Sie auf "
-"„ :guilabel:`Match` “."
+"Sobald eine Lieferantenrechnung :ref:`hochgeladen <accounting/"
+"bill-digitization/vendor-bills-upload>` und :ref:`digitalisiert <accounting/"
+"bill-digitization/digitization>` wurde, klicken Sie auf die Schaltfläche "
+":guilabel:`Einkaufsabgleich`, um die Listenansicht "
+":guilabel:`Einkaufsabgleich` aufzurufen, in der alle Bestellpositionen "
+"angezeigt werden, die mit dem der Lieferantenrechnung zugewiesenen "
+"Lieferanten verknüpft sind. Wählen Sie dann die entsprechenden "
+"Bestellpositionen und den Entwurf der Lieferantenrechnung (grau dargestellt) "
+"aus und klicken Sie auf :guilabel:`Abgleichen`."
 
 #: ../../content/applications/finance/accounting/vendor_bills/invoice_digitization.rst:168
-#, fuzzy
 msgid ""
 "In the :guilabel:`Purchase Matching` list view, update "
 "the :guilabel:`Quantity` and :guilabel:`Price` in the purchase order lines, "
 "if necessary."
 msgstr ""
-"Aktualisieren Sie in der Listenansicht „ :guilabel:`Purchase Matching` "
-"“ (Bestellungen) bei Bedarf die Felder „ :guilabel:`Quantity` "
-"“ (Bestellnummer) und „ :guilabel:`Price` “ (Bestellposition) in den "
-"Bestellpositionen."
+"Aktualisieren Sie in der Listenansicht :guilabel:`Einkaufsabgleich` bei "
+"Bedarf die Felder :guilabel:`Menge` und :guilabel:`Preis` in den "
+"Bestellzeilen."
 
 #: ../../content/applications/finance/accounting/vendor_bills/invoice_digitization.rst:171
-#, fuzzy
 msgid ""
 "If there is no existing purchase order related to the vendor of the uploaded "
 "vendor bill, a new purchase order can be directly created from the vendor "
 "bill lines. To do so, follow these steps:"
 msgstr ""
 "Wenn keine bestehende Bestellung zu dem Lieferanten der hochgeladenen "
-"Lieferantenrechnung vorhanden ist, kann direkt aus den Positionen der "
+"Lieferantenrechnung vorhanden ist, kann direkt aus den Zeilen der "
 "Lieferantenrechnung eine neue Bestellung angelegt werden. Dazu gehen Sie wie "
 "folgt vor:"
 
 #: ../../content/applications/finance/accounting/vendor_bills/invoice_digitization.rst:174
-#, fuzzy
 msgid ""
 "Once the vendor bill is uploaded, make sure the :guilabel:`Vendor` field is "
 "filled in with the correct vendor."
 msgstr ""
 "Sobald die Lieferantenrechnung hochgeladen wurde, stellen Sie sicher, dass "
-"das Feld „ :guilabel:`Vendor` “ (Lieferantenname) mit dem richtigen "
-"Lieferanten ausgefüllt ist."
+"das Feld :guilabel:`Lieferant` mit dem richtigen Lieferanten ausgefüllt ist."
 
 #: ../../content/applications/finance/accounting/vendor_bills/invoice_digitization.rst:176
-#, fuzzy
 msgid ""
 "Click the :guilabel:`Purchase matching` smart button, select the draft "
 "vendor bill in the list (shown in grey), and click :guilabel:`Add to PO`."
 msgstr ""
-"Klicken Sie auf die Schaltfläche „ :guilabel:`Purchase matching` “, wählen "
-"Sie den Entwurf der Lieferantenrechnung in der Liste (grau dargestellt) aus "
-"und klicken Sie auf „ :guilabel:`Add to PO` “."
+"Klicken Sie auf die Schaltfläche :guilabel:`Einkaufsabgleich`, wählen Sie "
+"den Entwurf der Lieferantenrechnung in der Liste (grau dargestellt) aus und "
+"klicken Sie auf :guilabel:`Zur Bestellung hinzufügen`."
 
 #: ../../content/applications/finance/accounting/vendor_bills/invoice_digitization.rst:178
-#, fuzzy
 msgid ""
 "In the :guilabel:`Add to Purchase Order` window, start typing in "
 "the :guilabel:`Purchase Order` field and select :guilabel:`Create and edit`."
 msgstr ""
-"Geben Sie im Fenster „ :guilabel:`Add to Purchase Order` “ (Benutzerkonten) "
-"einen Namen in das Feld „ :guilabel:`Purchase Order` “ (Benutzername) ein "
-"und wählen Sie „ :guilabel:`Create and edit` “ (Benutzerkonto erstellen) aus."
+"Geben Sie im Fenster :guilabel:`Zur Bestellung hinzufügen` etwas in das Feld "
+":guilabel:`Bestellung` ein und wählen Sie :guilabel:`Erstellen und "
+"bearbeiten` aus."
 
 #: ../../content/applications/finance/accounting/vendor_bills/invoice_digitization.rst:180
-#, fuzzy
 msgid ""
 "In the :guilabel:`Create Purchase Order` window, select the vendor assigned "
 "to the vendor bill, then complete all :ref:`required fields <purchase/"
 "manage_deals/create-new-rfq>` and click :guilabel:`Confirm`."
 msgstr ""
-"Wählen Sie im Fenster „ :guilabel:`Create Purchase Order` “ (Rechnungsdaten) "
-"den Lieferanten aus, der der Lieferantenrechnung zugeordnet ist, füllen Sie "
-"alle Felder unter „ :ref:`required fields <purchase/manage_deals/create-new-"
-"rfq>` “ (Rechnungsdaten) aus und klicken Sie auf „ :guilabel:`Confirm` "
-"“ (Rechnung erstellen)."
+"Wählen Sie im Fenster :guilabel:`Bestellung erstellen` den Lieferanten aus, "
+"der der Lieferantenrechnung zugeordnet ist, füllen Sie alle :ref:`"
+"erforderlichen Felder <purchase/manage_deals/create-new-rfq>` aus und "
+"klicken Sie auf :guilabel:`Bestätigen`."
 
 #: ../../content/applications/finance/accounting/vendor_bills/invoice_digitization.rst:183
-#, fuzzy
 msgid ""
 "In the :guilabel:`Purchase Matching` list view, select the relevant purchase "
 "order lines and the draft vendor bill (shown in grey), and "
 "click :guilabel:`Match`."
 msgstr ""
-"Wählen Sie in der Listenansicht „ :guilabel:`Purchase Matching` “ die "
-"entsprechenden Bestellpositionen und den Entwurf der Lieferantenrechnung "
-"(grau dargestellt) aus und klicken Sie auf „ :guilabel:`Match` “."
+"Wählen Sie in der Listenansicht :guilabel:`Einkaufsabgleich` die "
+"entsprechenden Bestellzeilen und den Entwurf der Lieferantenrechnung "
+"(grau dargestellt) aus und klicken Sie auf :guilabel:`Abgleichen`."
 
 #: ../../content/applications/finance/accounting/vendor_bills/invoice_digitization.rst:187
-#, fuzzy
 msgid ""
 "If any information required for the purchase order fields is missing, "
 "click :guilabel:`Save and Close` in the :guilabel:`Create Purchase Order` "
@@ -30825,52 +30733,48 @@ msgid ""
 "the purchase order <purchase/manage_deals/confirm-order>`."
 msgstr ""
 "Wenn Informationen für die Felder der Bestellung fehlen, klicken Sie im "
-"Fenster „ :guilabel:`Create Purchase Order` “ auf „ :guilabel:`Save and "
-"Close` “. Öffnen Sie anschließend die App „Purchase“, um die Felder "
-"auszufüllen, und klicken Sie auf „ :ref:`confirm the purchase order "
-"<purchase/manage_deals/confirm-order>` “."
+"Fenster :guilabel:`Bestellung erstellen` auf :guilabel:`Speichern und "
+"schließen`. Öffnen Sie anschließend die Einkaufsapp, um die Felder "
+"auszufüllen, und die :ref:`Bestellung zu bestätigen <purchase/manage_deals/"
+"confirm-order>`."
 
 #: ../../content/applications/finance/accounting/vendor_bills/invoice_digitization.rst:192
-#, fuzzy
 msgid ""
 "Electronic vendor bills with embedded XML ensure more accurate and efficient "
 "processing."
 msgstr ""
-"Elektronische Lieferantenrechnungen mit eingebettetem XML sorgen für eine "
+"Elektronische Lieferantenrechnungen mit eingebettetem XML ermöglichen eine "
 "genauere und effizientere Verarbeitung."
 
 #: ../../content/applications/finance/accounting/vendor_bills/invoice_digitization.rst:193
-#, fuzzy
 msgid ""
 "Alternatively, the :ref:`Auto-complete <accounting/vendor_bills/bill-"
 "completion>` feature can transfer information from the purchase order to the "
 "vendor bill, without requiring OCR."
 msgstr ""
-"Alternativ kann die Funktion „ :ref:`Auto-complete <accounting/vendor_bills/"
-"bill-completion>` “ Informationen aus der Bestellung in die "
+"Alternativ kann die Funktion :ref:`Automatisch vervollständigen <accounting/"
+"vendor_bills/bill-completion>` Informationen aus der Bestellung in die "
 "Lieferantenrechnung übertragen, ohne dass OCR erforderlich ist."
 
 #: ../../content/applications/finance/accounting/vendor_bills/invoice_digitization.rst:201
-#, fuzzy
 msgid ""
 "The document digitization feature is an In-App Purchase (IAP) service "
 "requiring prepaid credits. Digitizing one document uses one credit."
 msgstr ""
-"Die Dokumentendigitalisierungsfunktion ist ein In-App-Kauf (IAP)-Dienst, für "
-"den im Voraus bezahlte Kredite erforderlich sind. Für die Digitalisierung "
-"eines Dokuments wird ein Kredit benötigt."
+"Die Dokumentendigitalisierungsfunktion ist ein In-App-Kauf-(IAP-)Dienst, für "
+"den im Voraus bezahltes Guthaben erforderlich ist. Für die Digitalisierung "
+"eines Dokuments wird ein Guthaben benötigt."
 
 #: ../../content/applications/finance/accounting/vendor_bills/invoice_digitization.rst:204
-#, fuzzy
 msgid ""
 "To buy credits, :ref:`go to the Settings app <iap/buying_credits>` "
 "or :menuselection:`Accounting --> Configuration --> Settings`, navigate to "
 "the :guilabel:`Digitization` section, and click :guilabel:`Buy credits`."
 msgstr ""
-"Um Kredite zu kaufen, gehen Sie auf :ref:`go to the Settings app <iap/"
-"buying_credits>` oder :menuselection:`Accounting --> Configuration --> "
-"Settings`, navigieren Sie zum Abschnitt „ :guilabel:`Digitization` “ und "
-"klicken Sie auf „ :guilabel:`Buy credits` “."
+"Um Guthaben zu kaufen, gehen Sie zur :ref:`Einstellungen-App <iap/"
+"buying_credits>` oder zu :menuselection:`Buchhaltung --> Konfiguration --> "
+"Einstellungen`, navigieren Sie zum Abschnitt :guilabel:`Digitalisierung` und "
+"klicken Sie auf :guilabel:`Guthaben kaufen`."
 
 #: ../../content/applications/finance/accounting/vendor_bills/invoice_digitization.rst:209
 msgid ""
@@ -30884,27 +30788,24 @@ msgstr ""
 "Schulungsdatenbanken, Bildungsdatenbanken und „1 App gratis“-Datenbanken."
 
 #: ../../content/applications/finance/accounting/vendor_bills/invoice_digitization.rst:212
-#, fuzzy
 msgid ""
 "XML files don't require OCR credits because they contain structured data "
 "that can be processed directly, without OCR."
 msgstr ""
-"XML-Dateien erfordern keine OCR-Kredite, da sie strukturierte Daten "
+"XML-Dateien erfordern keine OCR-Guthaben, da sie strukturierte Daten "
 "enthalten, die ohne OCR direkt verarbeitet werden können."
 
 #: ../../content/applications/finance/accounting/vendor_bills/invoice_digitization.rst:216
-#, fuzzy
 msgid ""
 "`Odoo In-App Purchase Privacy Policy <https://iap.odoo.com/"
 "privacy#header_6>`_"
 msgstr ""
-"`Odoo In-App-Kauf-Datenschutzerklärung <https://iap.odoo.com/"
+"`Odoo-Datenschutzerklärung für In-App-Käufe <https://iap.odoo.com/"
 "privacy#header_6>`_"
 
 #: ../../content/applications/finance/accounting/vendor_bills/sequence.rst:3
-#, fuzzy
 msgid "Vendor bill sequence"
-msgstr "Rechnungssequenz des Lieferanten"
+msgstr "Sequenz der Lieferantenrechnungen"
 
 #: ../../content/applications/finance/accounting/vendor_bills/sequence.rst:5
 msgid ""
@@ -30992,19 +30893,17 @@ msgstr ""
 "die eine neue Sequenz benötigt."
 
 #: ../../content/applications/finance/accounting/vendor_bills/sequence.rst:67
-#, fuzzy
 msgid ""
 "To indicate where the sequence change began, the first vendor bill in the "
 "new sequence is highlighted in red in the :guilabel:`Vendor Bills` list. "
 "This visual marker is permanent and purely informational."
 msgstr ""
-"Um anzuzeigen, wo die Änderung der Reihenfolge begann, wird die erste "
-"Lieferantenrechnung in der neuen Reihenfolge in der Liste "
-"„ :guilabel:`Vendor Bills` “ rot hervorgehoben. Diese visuelle Markierung "
-"ist dauerhaft und dient lediglich zu Informationszwecken."
+"Um anzuzeigen, wo die Änderung der Sequenz begann, wird die erste "
+"Lieferantenrechnung in der neuen Sequenz in der Liste der "
+":guilabel:`Lieferantenrechnungen` rot hervorgehoben. Diese visuelle "
+"Markierung ist dauerhaft und dient lediglich zu Informationszwecken."
 
 #: ../../content/applications/finance/accounting/vendor_bills/sequence.rst:70
-#, fuzzy
 msgid ""
 "If there are any irregularities in the new sequence, such as gaps, "
 "cancelled, or deleted entries within the open period, a :guilabel:`Gaps in "
@@ -31013,27 +30912,25 @@ msgid ""
 "click :guilabel:`Gaps in the sequence`. This visual marker is temporary and "
 "will disappear once the entry's accounting date is on or after the lock date."
 msgstr ""
-":guilabel:`Vendor Bills` Wenn die neue Reihenfolge Unregelmäßigkeiten "
-"aufweist, wie z. B. Lücken, stornierte oder gelöschte Einträge innerhalb des "
-"offenen Zeitraums, wird im Journal „” (Offene Buchungen) auf dem Dashboard "
-"„Accounting” (Buchhaltung) die Meldung „ :guilabel:`Gaps in the sequence` ” "
-"(Offene Buchung nicht verfügbar) angezeigt. Um weitere Details zu den "
-"zugehörigen Lieferantenrechnungen anzuzeigen, klicken Sie auf "
-"„ :guilabel:`Gaps in the sequence` ” (Rechnungen anzeigen). Diese visuelle "
-"Markierung ist temporär und verschwindet, sobald das Buchungsdatum des "
-"Eintrags am oder nach dem Sperrdatum liegt."
+"Sollten Unregelmäßigkeiten in der neuen Sequenz auftreten, wie "
+"beispielsweise Lücken, stornierte oder gelöschte Buchungen innerhalb des "
+"offenen Zeitraums, wird die Meldung :guilabel:`Lücken in der Sequenz` im "
+"Journal :guilabel:`Lieferantenrechnungen` auf dem Buchhaltungsdashboard "
+"angezeigt. Um weitere Details zu den entsprechenden Lieferantenrechnungen "
+"anzuzeigen, klicken Sie auf :guilabel:`Lücken in der Sequenz`. Diese "
+"visuelle Markierung ist temporär und verschwindet, sobald das Buchungsdatum "
+"des Eintrags am oder nach dem Sperrdatum liegt."
 
 #: ../../content/applications/finance/accounting/vendor_bills/sequence.rst:81
-#, fuzzy
 msgid ""
 "When the range is invalid. For example, if the :guilabel:`Bill Date` doesn't "
 "align with the date in the new sequence, such as using a 2024 sequence (BILL/"
 "2024/MM/XXXX) for an vendor bill dated in 2025."
 msgstr ""
-"Wenn der Bereich ungültig ist. Beispielsweise wenn die Rechnungsnummer "
-"( :guilabel:`Bill Date` ) nicht mit dem Datum in der neuen Sequenz "
-"übereinstimmt, wie bei Verwendung einer Sequenz für 2024 (BILL/2024/MM/XXXX) "
-"für eine Lieferantenrechnung mit Datum im Jahr 2025."
+"Wenn der Bereich ungültig ist. Beispielsweise, wenn das "
+":guilabel:`Rechnungsdatum` nicht mit dem Datum in der neuen Sequenz "
+"übereinstimmt, wie bei der Verwendung einer Sequenz für 2024 "
+"(BILL/2024/MM/XXXX) für eine Lieferantenrechnung mit Datum im Jahr 2025."
 
 #: ../../content/applications/finance/esg.rst:3
 msgid "ESG"
@@ -57260,16 +57157,14 @@ msgid "Indian Integration Section"
 msgstr "Abteilung für indische Integration"
 
 #: ../../content/applications/finance/fiscal_localizations/india.rst:62
-#, fuzzy
 msgid ""
 ":guilabel:`TDS/TCS`: Activate this to enable :ref:`TDS/TCS <india/tds-tcs-"
 "threshold>` functionality along with account-based TDS/TCS section "
 "suggestions."
 msgstr ""
-":guilabel:`TDS/TCS`Aktivieren Sie diese Option, um die Funktion „ :ref:`TDS/"
-"TCS <india/tds-tcs-threshold>` “ (Erweiterte Steuerinformationen) zusammen "
-"mit den Vorschlägen für den Abschnitt „TDS/TCS“ (Steuerabzug/"
-"Steuerabführung) für das jeweilige Konto zu aktivieren."
+":guilabel:`TDS/TCS`: Aktivieren Sie diese Option, um die Funktion :ref:`TDS/"
+"TCS <india/tds-tcs-threshold>` zusammen mit den Vorschlägen für den "
+"Abschnitt „TDS/TCS“ für das jeweilige Konto zu aktivieren."
 
 #: ../../content/applications/finance/fiscal_localizations/india.rst:64
 #, fuzzy
@@ -83795,16 +83690,14 @@ msgid "Odoo database link"
 msgstr "Odoo-Datenbankverbindung"
 
 #: ../../content/applications/finance/fiscal_localizations/uruguay.rst:139
-#, fuzzy
 msgid ""
 "To ensure your account is created correctly, please add any missing "
 "information from above."
 msgstr ""
-"Um sicherzustellen, dass Ihr Konto korrekt erstellt wird, fügen Sie bitte "
-"alle oben fehlenden Informationen hinzu."
+"Um sicherzustellen, dass Ihr Konto korrekt erstellt wird, fügen Sie alle "
+"oben fehlenden Informationen hinzu."
 
 #: ../../content/applications/finance/fiscal_localizations/uruguay.rst:141
-#, fuzzy
 msgid ""
 "Once the account is created and you have received the email containing the "
 "credentials, configure your accounts directly in the Uruware `testing portal "
@@ -83812,23 +83705,21 @@ msgid ""
 "prod6109.ucfe.com.uy/Gestion/>`_:"
 msgstr ""
 "Sobald das Konto erstellt wurde und Sie die E-Mail mit den Anmeldedaten "
-"erhalten haben, konfigurieren Sie Ihre Konten direkt im Uruware- `-"
-"Testportal <https://odootest.ucfe.com.uy/Gestion/>`_ oder im `-"
-"Produktionsportal <https://prod6109.ucfe.com.uy/Gestion/>`_:"
+"erhalten haben, konfigurieren Sie Ihre Konten direkt im `Testportal <https://"
+"odootest.ucfe.com.uy/Gestion/>`_ oder im `-Produktionsportal <https://"
+"prod6109.ucfe.com.uy/Gestion/>`_ von Uruware:"
 
 #: ../../content/applications/finance/fiscal_localizations/uruguay.rst:145
-#, fuzzy
 msgid ""
 "Use the account credentials in the email to log in to the to the "
 "corresponding (`test <https://odootest.ucfe.com.uy/Gestion/>`_ or "
 "`production <https://prod6109.ucfe.com.uy/Gestion/>`_) portal."
 msgstr ""
 "Verwenden Sie die Anmeldedaten aus der E-Mail, um sich beim entsprechenden "
-"Portal anzumelden (`test <https://odootest.ucfe.com.uy/Gestion/>`_ oder "
-"`production <https://prod6109.ucfe.com.uy/Gestion/>`_)."
+"Portal anzumelden (`Test <https://odootest.ucfe.com.uy/Gestion/>`_ oder `"
+"Produktion <https://prod6109.ucfe.com.uy/Gestion/>`_)."
 
 #: ../../content/applications/finance/fiscal_localizations/uruguay.rst:149
-#, fuzzy
 msgid ""
 "In Uruware's portal, the following steps are needed to be able to issue "
 "invoices from Odoo:"
@@ -83837,34 +83728,29 @@ msgstr ""
 "Rechnungen aus Odoo ausstellen zu können:"
 
 #: ../../content/applications/finance/fiscal_localizations/uruguay.rst:151
-#, fuzzy
 msgid "Complete and correct the company's information."
 msgstr "Vervollständigen und korrigieren Sie die Unternehmensdaten."
 
 #: ../../content/applications/finance/fiscal_localizations/uruguay.rst:152
-#, fuzzy
 msgid "Add your digital certificate."
 msgstr "Fügen Sie Ihr digitales Zertifikat hinzu."
 
 #: ../../content/applications/finance/fiscal_localizations/uruguay.rst:153
-#, fuzzy
 msgid ""
 "Add your :abbr:`CAEs (Constancia de Autorización para Emisión)` for each "
 "document-type you plan to issue."
 msgstr ""
-"Fügen Sie für jeden Dokumenttyp, den Sie ausstellen möchten, Ihre "
-"„ :abbr:`CAEs (Constancia de Autorización para Emisión)` “ hinzu."
+"Fügen Sie für jeden Dokumenttyp, den Sie ausstellen möchten, Ihre :abbr:`"
+"CAEs (Constancia de Autorización para Emisión)` hinzu."
 
 #: ../../content/applications/finance/fiscal_localizations/uruguay.rst:155
-#, fuzzy
 msgid ""
 "Configure the format of the PDF to be printed and sent to your customers."
 msgstr ""
-"Konfigurieren Sie das Format der PDF-Datei, die gedruckt und an Ihre Kunden "
-"gesendet werden soll."
+"Konfigurieren Sie das PDF-Format, das gedruckt und an Ihre Kunden gesendet "
+"werden soll."
 
 #: ../../content/applications/finance/fiscal_localizations/uruguay.rst:158
-#, fuzzy
 msgid ""
 "Be sure to configure two accounts, one for testing and one for production. "
 "The certificate is needed in both environments, but :abbr:`CAEs (Constancia "
@@ -83876,7 +83762,6 @@ msgstr ""
 "nur in der Produktion benötigt."
 
 #: ../../content/applications/finance/fiscal_localizations/uruguay.rst:163
-#, fuzzy
 msgid ""
 "`Odoo Tutorials: Uruguay Localization <https://www.odoo.com/slides/smart-"
 "tutorial-localizacion-de-uruguay-432>`_"
@@ -83885,16 +83770,14 @@ msgstr ""
 "smart-tutorial-localizacion-de-uruguay-432>`_"
 
 #: ../../content/applications/finance/fiscal_localizations/uruguay.rst:165
-#, fuzzy
 msgid ""
 "`Odoo Help Forum: Uruguay <https://www.odoo.com/forum/help-1?"
 "search=l10n_uy>`_"
 msgstr ""
-"`Odoo-Hilfeforum: Uruguay <https://www.odoo.com/forum/help-1?"
-"search=l10n_uy>`_"
+"`Odoo-Hilfezentrum: Uruguay <https://www.odoo.com/forum/"
+"help-1?search=l10n_uy>`_"
 
 #: ../../content/applications/finance/fiscal_localizations/uruguay.rst:171
-#, fuzzy
 msgid ""
 "To configure the electronic invoice data, an environment and credentials "
 "need to be configured. To do so, navigate to :menuselection:`Accounting --> "
@@ -83902,10 +83785,9 @@ msgid ""
 "Localization` section."
 msgstr ""
 "Um die elektronischen Rechnungsdaten zu konfigurieren, müssen eine Umgebung "
-"und Anmeldedaten konfiguriert werden. Navigieren Sie dazu zu "
-"„ :menuselection:`Accounting --> Configuration --> Settings` "
-"“ (Einstellungen > E-Rechnungseinstellungen) und scrollen Sie nach unten zum "
-"Abschnitt „ :guilabel:`Uruguayan Localization` “ (E-Rechnungseinstellungen)."
+"und Anmeldedaten festgelegt werden. Navigieren Sie dazu zu :menuselection:`"
+"Buchhaltung --> Konfiguration --> Einstellungen` und scrollen Sie nach unten "
+"zum Abschnitt :guilabel:`Lokalisierung für Uruguay`."
 
 #: ../../content/applications/finance/fiscal_localizations/uruguay.rst:175
 #, fuzzy
