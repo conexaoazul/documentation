@@ -66,16 +66,30 @@ jobs:
           docker run -d --rm --name blue-docs-validation -p 18080:8080 blue-docs:validation
           trap 'docker stop blue-docs-validation >/dev/null 2>&1 || true' EXIT
 
+          HEALTH_FILE="${RUNNER_TEMP}/blue-docs-health.txt"
+          INDEX_FILE="${RUNNER_TEMP}/blue-docs-index.html"
+          SOURCE_FILE="${RUNNER_TEMP}/blue-docs-source.txt"
+
           for attempt in $(seq 1 30); do
-            if curl --fail --silent http://127.0.0.1:18080/healthz | grep -Fq ok; then
+            if curl --fail --silent --show-error \
+              --output "${HEALTH_FILE}" \
+              http://127.0.0.1:18080/healthz; then
               break
             fi
             sleep 1
           done
 
-          curl --fail --silent http://127.0.0.1:18080/healthz | grep -Fq ok
-          curl --fail --silent http://127.0.0.1:18080/index.html | grep -Eiq '<html|<!doctype'
-          curl --fail --silent http://127.0.0.1:18080/BLUE_SOURCE.txt | grep -Fq 'License: CC-BY-SA-4.0'
+          grep -Fq ok "${HEALTH_FILE}"
+          curl --fail --silent --show-error \
+            --output "${INDEX_FILE}" \
+            http://127.0.0.1:18080/index.html
+          grep -Eiq '<html|<!doctype' "${INDEX_FILE}"
+
+          curl --fail --silent --show-error \
+            --output "${SOURCE_FILE}" \
+            http://127.0.0.1:18080/BLUE_SOURCE.txt
+          grep -Fq 'License: CC-BY-SA-4.0' "${SOURCE_FILE}"
+          grep -Fq "Commit: ${GITHUB_SHA}" "${SOURCE_FILE}"
 
   publish-image:
     if: github.event_name == 'push' && github.ref == 'refs/heads/19.0'
