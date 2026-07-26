@@ -25,19 +25,28 @@ jobs:
       - name: Checkout pinned source
         uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
 
-      - name: Set up Docker Buildx
-        uses: docker/setup-buildx-action@v3
+      - name: Build validation image with concise diagnostics
+        shell: bash
+        run: |
+          set -Eeuo pipefail
+          LOG_FILE="${RUNNER_TEMP}/blue-docs-build.log"
 
-      - name: Build validation image
-        uses: docker/build-push-action@v6
-        with:
-          context: .
-          file: Dockerfile.blue-docs
-          load: true
-          push: false
-          tags: blue-docs:validation
-          build-args: |
-            SOURCE_SHA=${{ github.sha }}
+          set +e
+          docker build \
+            --file Dockerfile.blue-docs \
+            --build-arg "SOURCE_SHA=${GITHUB_SHA}" \
+            --tag blue-docs:validation \
+            . >"${LOG_FILE}" 2>&1
+          RC=$?
+          set -e
+
+          if [ "${RC}" -ne 0 ]; then
+            echo "::error::Blue documentation image build failed"
+            tail -160 "${LOG_FILE}"
+            exit "${RC}"
+          fi
+
+          tail -30 "${LOG_FILE}"
 
       - name: Validate health, index and attribution
         shell: bash
