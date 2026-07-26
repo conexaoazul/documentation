@@ -24,6 +24,8 @@ jobs:
     steps:
       - name: Checkout pinned source
         uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          show-progress: false
 
       - name: Build validation image with concise diagnostics
         shell: bash
@@ -47,6 +49,15 @@ jobs:
           fi
 
           tail -30 "${LOG_FILE}"
+
+      - name: Upload build diagnostics
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: blue-docs-build-log
+          path: ${{ runner.temp }}/blue-docs-build.log
+          if-no-files-found: error
+          retention-days: 7
 
       - name: Validate health, index and attribution
         shell: bash
