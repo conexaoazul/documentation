@@ -12,7 +12,11 @@ RUN apt-get update \
     && rm -rf /var/lib/apt/lists/*
 
 COPY requirements.txt ./
-RUN python -m pip install --upgrade pip setuptools wheel \
+# Sphinx 4.3 imports pkg_resources. Setuptools 81+ removes that legacy module,
+# so keep a compatible, explicit build-tool version for reproducibility.
+RUN python -m pip install --upgrade pip \
+    && python -m pip install --no-cache-dir "setuptools==80.9.0" "wheel==0.45.1" \
+    && python -c "import pkg_resources" \
     && python -m pip install --no-cache-dir -r requirements.txt
 
 COPY . .
