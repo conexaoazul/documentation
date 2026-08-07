@@ -1,0 +1,105 @@
+name: Deploy docs ERP to dev1
+
+on:
+  workflow_dispatch:
+    inputs:
+      ref:
+        description: Git ref to build
+        required: false
+        default: "19.0"
+  push:
+    branches:
+      - "19.0"
+    paths-ignore:
+      - ".github/**"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: docs-erp-dev1
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: [self-hosted, dev1]
+    timeout-minutes: 45
+    env:
+      DOCS_ERP_ROOT: /opt/conexaoazul/docs-erp
+      DOCS_ERP_CURRENT: /opt/conexaoazul/docs-erp/current
+      DOCS_ERP_PORT: "18081"
+      DOCS_ERP_HOST: docs-erp.conexaoazul.com
+    steps:
+      - name: Checkout documentation
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.inputs.ref || github.ref_name }}
+          fetch-depth: 1
+
+      - name: Build Sphinx HTML in isolated container
+        run: |
+          set -euo pipefail
+          rm -rf _build/html
+          docker run --rm \
+            -v "$PWD:/workspace" \
+            -w /workspace \
+            python:3.12-bookworm \
+            bash -lc 'apt-get update >/dev/null && apt-get install -y --no-install-recommends make git >/dev/null && pip install --disable-pip-version-check -r requirements.txt >/dev/null && make html'
+          test -f _build/html/index.html
+
+      - name: Stage immutable release
+        run: |
+          set -euo pipefail
+          release="${DOCS_ERP_ROOT}/releases/${GITHUB_SHA}"
+          mkdir -p "${DOCS_ERP_ROOT}/releases"
+          rm -rf "$release"
+          mkdir -p "$release"
+          cp -a _build/html/. "$release/"
+          ln -sfn "$release" "$DOCS_ERP_CURRENT"
+
+      - name: Run static docs container
+        run: |
+          set -euo pipefail
+          docker rm -f conexaoazul-docs-erp >/dev/null 2>&1 || true
+          docker run -d \
+            --name conexaoazul-docs-erp \
+            --restart unless-stopped \
+            -p "127.0.0.1:${DOCS_ERP_PORT}:80" \
+            -v "${DOCS_ERP_CURRENT}:/usr/share/nginx/html:ro" \
+            nginx:1.27-alpine
+
+      - name: Local healthcheck
+        run: |
+          set -euo pipefail
+          for i in $(seq 1 20); do
+            if curl -fsS "http://127.0.0.1:${DOCS_ERP_PORT}/" >/dev/null; then
+              exit 0
+            fi
+            sleep 2
+          done
+          docker logs --tail 100 conexaoazul-docs-erp || true
+          exit 1
+
+      - name: Optional Cloudflare/public URL validation
+        run: |
+          set -euo pipefail
+          if getent hosts "$DOCS_ERP_HOST" >/dev/null 2>&1; then
+            curl -fsSI --max-time 15 "https://${DOCS_ERP_HOST}/" || {
+              echo "DNS exists but public HTTPS is not healthy yet. Check Cloudflare route/reverse proxy on dev1."
+              exit 1
+            }
+          else
+            echo "DNS ${DOCS_ERP_HOST} not present yet. Deployment is healthy locally on 127.0.0.1:${DOCS_ERP_PORT}."
+          fi
+
+      - name: Deployment summary
+        if: always()
+        run: |
+          {
+            echo "## docs-erp dev1"
+            echo "- Host: https://${DOCS_ERP_HOST}"
+            echo "- Local origin: http://127.0.0.1:${DOCS_ERP_PORT}"
+            echo "- Container: conexaoazul-docs-erp"
+            echo "- Release: ${GITHUB_SHA}"
+            echo "- Source branch/ref: ${{ github.event.inputs.ref || github.ref_name }}"
+          } >> "$GITHUB_STEP_SUMMARY"
