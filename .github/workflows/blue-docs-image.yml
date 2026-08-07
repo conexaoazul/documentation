@@ -1,0 +1,79 @@
+name: Blue Docs Immutable Image
+
+on:
+  pull_request:
+    branches: ["19.0"]
+  push:
+    branches: ["19.0"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  packages: write
+
+concurrency:
+  group: blue-docs-image-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  validate-image:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Build validation image
+        run: |
+          set -Eeuo pipefail
+          docker build \
+            --file Dockerfile.blue-docs \
+            --build-arg "SOURCE_SHA=${GITHUB_SHA}" \
+            --tag blue-docs:validation \
+            .
+
+      - name: Validate health, index and attribution
+        run: |
+          set -Eeuo pipefail
+          docker run -d --rm --name blue-docs-validation -p 127.0.0.1:18080:8080 blue-docs:validation
+          trap 'docker stop blue-docs-validation >/dev/null 2>&1 || true' EXIT
+          for attempt in $(seq 1 30); do
+            if curl -fsS http://127.0.0.1:18080/healthz | grep -Fq ok; then
+              break
+            fi
+            sleep 1
+          done
+          curl -fsS http://127.0.0.1:18080/index.html > /tmp/index.html
+          grep -Eiq '<html|<!doctype' /tmp/index.html
+          curl -fsS http://127.0.0.1:18080/BLUE_SOURCE.txt > /tmp/blue-source.txt
+          grep -Fq 'License: CC-BY-SA-4.0' /tmp/blue-source.txt
+          grep -Fq "Commit: ${GITHUB_SHA}" /tmp/blue-source.txt
+
+  publish-image:
+    if: github.event_name == 'push' && github.ref == 'refs/heads/19.0'
+    needs: validate-image
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v4
+
+      - name: Log in to GHCR
+        uses: docker/login-action@v3
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Build and publish immutable image
+        uses: docker/build-push-action@v6
+        with:
+          context: .
+          file: Dockerfile.blue-docs
+          push: true
+          build-args: |
+            SOURCE_SHA=${{ github.sha }}
+          tags: |
+            ghcr.io/conexaoazul/odoo-documentation:19.0-${{ github.sha }}
+            ghcr.io/conexaoazul/odoo-documentation:19.0
