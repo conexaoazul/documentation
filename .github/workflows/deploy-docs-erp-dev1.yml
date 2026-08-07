@@ -4,8 +4,8 @@ on:
   workflow_dispatch:
     inputs:
       image:
-        description: Immutable GHCR image tag to deploy
-        required: false
+        description: Immutable GHCR image tag to deploy (prefer 19.0-<sha>)
+        required: true
         default: "ghcr.io/conexaoazul/odoo-documentation:19.0"
 
 permissions:
@@ -23,53 +23,72 @@ jobs:
     env:
       DOCS_ERP_PORT: "18081"
       DOCS_ERP_HOST: docs-erp.conexaoazul.com
-      DOCS_ERP_IMAGE: ${{ github.event.inputs.image || 'ghcr.io/conexaoazul/odoo-documentation:19.0' }}
+      DOCS_ERP_IMAGE: ${{ github.event.inputs.image }}
     steps:
+      - name: Guard requested image
+        run: |
+          set -Eeuo pipefail
+          case "$DOCS_ERP_IMAGE" in
+            ghcr.io/conexaoazul/odoo-documentation:19.0|ghcr.io/conexaoazul/odoo-documentation:19.0-*) ;;
+            *) echo "Refusing unexpected image: $DOCS_ERP_IMAGE" >&2; exit 2 ;;
+          esac
+
       - name: Authenticate to GHCR
         run: |
-          set -euo pipefail
+          set -Eeuo pipefail
           echo "${{ secrets.GITHUB_TOKEN }}" | docker login ghcr.io -u "${{ github.actor }}" --password-stdin
 
-      - name: Pull exact documentation artifact
+      - name: Pull and resolve documentation artifact
         run: |
-          set -euo pipefail
+          set -Eeuo pipefail
           docker pull "$DOCS_ERP_IMAGE"
           docker image inspect "$DOCS_ERP_IMAGE" --format '{{json .RepoDigests}}' | tee /tmp/docs-erp-digest.json
+          test -s /tmp/docs-erp-digest.json
 
-      - name: Preserve previous image for rollback
+      - name: Preserve current release for rollback
         run: |
-          set -euo pipefail
+          set -Eeuo pipefail
+          rm -f /tmp/docs-erp-previous-image.txt
           if docker inspect conexaoazul-docs-erp >/dev/null 2>&1; then
-            docker inspect conexaoazul-docs-erp --format '{{.Config.Image}}' > /tmp/docs-erp-previous-image.txt || true
+            docker inspect conexaoazul-docs-erp --format '{{.Config.Image}}' > /tmp/docs-erp-previous-image.txt
           fi
 
-      - name: Deploy static docs container
+      - name: Deploy candidate with automatic rollback
         run: |
-          set -euo pipefail
-          docker rm -f conexaoazul-docs-erp >/dev/null 2>&1 || true
-          docker run -d \
-            --name conexaoazul-docs-erp \
-            --restart unless-stopped \
-            -p "127.0.0.1:${DOCS_ERP_PORT}:8080" \
-            "$DOCS_ERP_IMAGE"
+          set -Eeuo pipefail
+          previous=""
+          if [ -s /tmp/docs-erp-previous-image.txt ]; then previous="$(cat /tmp/docs-erp-previous-image.txt)"; fi
 
-      - name: Local healthcheck and provenance
-        run: |
-          set -euo pipefail
-          for i in $(seq 1 30); do
-            if curl -fsS "http://127.0.0.1:${DOCS_ERP_PORT}/healthz" | grep -Fq ok; then
-              break
+          rollback() {
+            echo "Candidate failed; restoring previous image: ${previous:-none}" >&2
+            docker rm -f conexaoazul-docs-erp >/dev/null 2>&1 || true
+            if [ -n "$previous" ]; then
+              docker run -d --name conexaoazul-docs-erp --restart unless-stopped \
+                -p "127.0.0.1:${DOCS_ERP_PORT}:8080" "$previous" >/dev/null
             fi
+          }
+          trap rollback ERR
+
+          docker rm -f conexaoazul-docs-erp >/dev/null 2>&1 || true
+          docker run -d --name conexaoazul-docs-erp --restart unless-stopped \
+            -p "127.0.0.1:${DOCS_ERP_PORT}:8080" "$DOCS_ERP_IMAGE" >/dev/null
+
+          healthy=0
+          for i in $(seq 1 30); do
+            if curl -fsS "http://127.0.0.1:${DOCS_ERP_PORT}/healthz" | grep -Fq ok; then healthy=1; break; fi
             sleep 2
           done
-          curl -fsS "http://127.0.0.1:${DOCS_ERP_PORT}/index.html" >/dev/null
+          test "$healthy" -eq 1
+          curl -fsS "http://127.0.0.1:${DOCS_ERP_PORT}/index.html" | grep -Eiq '<html|<!doctype'
           curl -fsS "http://127.0.0.1:${DOCS_ERP_PORT}/BLUE_SOURCE.txt" | tee /tmp/docs-erp-source.txt
+          grep -Fq 'License: CC-BY-SA-4.0' /tmp/docs-erp-source.txt
+          trap - ERR
 
       - name: Public URL validation
         run: |
-          set -euo pipefail
+          set -Eeuo pipefail
           if getent hosts "$DOCS_ERP_HOST" >/dev/null 2>&1; then
-            curl -fsSI --max-time 15 "https://${DOCS_ERP_HOST}/"
+            curl -fsSI --retry 3 --retry-delay 2 --max-time 15 "https://${DOCS_ERP_HOST}/"
           else
             echo "DNS ${DOCS_ERP_HOST} not present yet; local origin is healthy on 127.0.0.1:${DOCS_ERP_PORT}."
           fi
@@ -82,7 +101,12 @@ jobs:
             echo "- Host: https://${DOCS_ERP_HOST}"
             echo "- Local origin: http://127.0.0.1:${DOCS_ERP_PORT}"
             echo "- Container: conexaoazul-docs-erp"
-            echo "- Image: ${DOCS_ERP_IMAGE}"
+            echo "- Requested image: ${DOCS_ERP_IMAGE}"
             if [ -f /tmp/docs-erp-digest.json ]; then echo "- Digest: $(cat /tmp/docs-erp-digest.json)"; fi
-            if [ -f /tmp/docs-erp-previous-image.txt ]; then echo "- Previous image: $(cat /tmp/docs-erp-previous-image.txt)"; fi
+            if [ -f /tmp/docs-erp-previous-image.txt ]; then echo "- Rollback image: $(cat /tmp/docs-erp-previous-image.txt)"; fi
+            if [ -f /tmp/docs-erp-source.txt ]; then echo "- Provenance: validated"; fi
           } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Logout from GHCR
+        if: always()
+        run: docker logout ghcr.io >/dev/null 2>&1 || true
