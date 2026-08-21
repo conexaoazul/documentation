@@ -10,6 +10,7 @@ on:
 permissions:
   contents: read
   packages: write
+  actions: write
 
 concurrency:
   group: blue-docs-image-${{ github.ref }}
@@ -85,3 +86,14 @@ jobs:
           tags: |
             ${{ steps.tags.outputs.sha_tag }}
             ${{ steps.tags.outputs.float_tag }}
+
+      - name: Trigger auto-deploy to dev1 (blueconnect only)
+        if: github.ref == 'refs/heads/blueconnect'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -Eeuo pipefail
+          gh workflow run deploy-docs-erp-dev1.yml \
+            --repo conexaoazul/documentation \
+            --ref blueconnect \
+            -f image="ghcr.io/conexaoazul/odoo-documentation:blueconnect-${GITHUB_SHA}"
