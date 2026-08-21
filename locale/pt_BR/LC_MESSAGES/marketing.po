@@ -12,7 +12,7 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 14.0\n"
+"Project-Id-Version: Blue Connect 14.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-01-06 19:43+0000\n"
 "PO-Revision-Date: 2025-10-03 15:46+0000\n"
@@ -41,7 +41,7 @@ msgid ""
 "campaigns. The *Email Marketing* app also provides detailed reporting "
 "metrics to track the campaigns' overall effectiveness."
 msgstr ""
-"O aplicativo *Marketing por e-mail* do Odoo oferece ferramentas de design de "
+"O aplicativo *Marketing por e-mail* do Blue Connect oferece ferramentas de design de "
 "arrastar e soltar, modelos pré-criados e outros recursos interativos para "
 "criar campanhas de e-mail envolventes. O aplicativo *Marketing por e-mail* "
 "também fornece métricas detalhadas de relatórios para acompanhar a eficácia "
@@ -52,7 +52,7 @@ msgid ""
 "`Odoo Tutorial: Email Marketing <https://www.odoo.com/slides/slide/email-"
 "marketing-essentials-989?fullscreen=1>`_"
 msgstr ""
-"Tutorial do Odoo: Marketing por e-mail <https://www.odoo.com/slides/slide/"
+"Tutorial do Blue Connect: Marketing por e-mail <https://www.odoo.com/slides/slide/"
 "email-marketing-essentials-989?fullscreen=1>`_"
 
 #: ../../content/applications/marketing/email_marketing.rst:14
@@ -108,13 +108,13 @@ msgid ""
 msgstr ""
 "Depois de instalar o aplicativo, clique no ícone do "
 "aplicativo :menuselection:`Marketing por e-mail` no painel principal do "
-"Odoo. Isso revela o painel principal :guilabel:`Envios` na visualização de "
+"Blue Connect. Isso revela o painel principal :guilabel:`Envios` na visualização de "
 "lista padrão."
 
 #: ../../content/applications/marketing/email_marketing.rst:None
 msgid "View of the main dashboard of the Odoo Email Marketing application."
 msgstr ""
-"Visualização do painel principal do aplicativo Odoo Marketing por e-mail."
+"Visualização do painel principal do aplicativo Blue Connect Marketing por e-mail."
 
 #: ../../content/applications/marketing/email_marketing.rst:49
 msgid ""
@@ -275,7 +275,7 @@ msgstr ""
 msgid ""
 "Kanban view of the main dashboard of the Odoo Email Marketing application."
 msgstr ""
-"Visualização Kanban do painel principal do aplicativo Odoo Marketing por e-"
+"Visualização Kanban do painel principal do aplicativo Blue Connect Marketing por e-"
 "mail."
 
 #: ../../content/applications/marketing/email_marketing.rst:102
@@ -352,7 +352,7 @@ msgstr ""
 msgid ""
 "View of the three-dot drop-down menu on the Odoo Email Marketing dashboard."
 msgstr ""
-"Visualização do menu suspenso de três pontos no painel de controle do Odoo "
+"Visualização do menu suspenso de três pontos no painel de controle do Blue Connect "
 "Marketing por e-mail."
 
 #: ../../content/applications/marketing/email_marketing.rst:129
@@ -479,7 +479,7 @@ msgstr ""
 #: ../../content/applications/marketing/email_marketing.rst:None
 msgid "How the Graph view appears in the Odoo Email Marketing application."
 msgstr ""
-"Como a visualização do gráfico aparece no aplicativo Odoo Marketing por e-"
+"Como a visualização do gráfico aparece no aplicativo Blue Connect Marketing por e-"
 "mail."
 
 #: ../../content/applications/marketing/email_marketing.rst:177
@@ -567,7 +567,7 @@ msgid ""
 "The drop-down mega menu of search options the Odoo Email Marketing "
 "application."
 msgstr ""
-"O mega menu suspenso de opções de pesquisa do aplicativo Odoo Marketing por "
+"O mega menu suspenso de opções de pesquisa do aplicativo Blue Connect Marketing por "
 "e-mail."
 
 #: ../../content/applications/marketing/email_marketing.rst:209
@@ -596,7 +596,7 @@ msgstr ""
 msgid ""
 "View of filters drop-down menu options on the Odoo Email Marketing dashboard."
 msgstr ""
-"Visualização do menu suspenso de filtros no painel de controle do Odoo "
+"Visualização do menu suspenso de filtros no painel de controle do Blue Connect "
 "Marketing por e-mail."
 
 #: ../../content/applications/marketing/email_marketing.rst:223
@@ -615,9 +615,9 @@ msgid ""
 "with three customizable fields to fill in, in order to create custom filter "
 "rules for Odoo to use to retrieve results that fit more specific criteria."
 msgstr ""
-"Se :guilabel:`Adicionar filtro personalizado` for selecionado, o Odoo abrirá "
+"Se :guilabel:`Adicionar filtro personalizado` for selecionado, o Blue Connect abrirá "
 "uma janela pop-up, com três campos personalizáveis a serem preenchidos, para "
-"criar regras de filtro personalizadas para o Odoo usar para recuperar "
+"criar regras de filtro personalizadas para o Blue Connect usar para recuperar "
 "resultados que se encaixem em critérios mais específicos."
 
 #: ../../content/applications/marketing/email_marketing.rst:0
@@ -625,7 +625,7 @@ msgid ""
 "Add custom filter pop-up window that appears in Odoo Email Marketing app."
 msgstr ""
 "Adicione uma janela pop-up de filtro personalizado que aparece no aplicativo "
-"Odoo Marketing por e-mail."
+"Blue Connect Marketing por e-mail."
 
 #: ../../content/applications/marketing/email_marketing.rst:234
 msgid "Group By"
@@ -645,7 +645,7 @@ msgstr ""
 msgid ""
 "View of the Group By drop-down menu on the Odoo Email Marketing application."
 msgstr ""
-"Visualização do menu suspenso Agrupar por no aplicativo Odoo Marketing por e-"
+"Visualização do menu suspenso Agrupar por no aplicativo Blue Connect Marketing por e-"
 "mail."
 
 #: ../../content/applications/marketing/email_marketing.rst:243
@@ -703,7 +703,7 @@ msgstr ""
 msgid ""
 "View of the Favorites drop-down menu on the Odoo Email Marketing application."
 msgstr ""
-"Visualização do menu suspenso Favoritos no aplicativo Odoo Marketing por e-"
+"Visualização do menu suspenso Favoritos no aplicativo Blue Connect Marketing por e-"
 "mail."
 
 #: ../../content/applications/marketing/email_marketing.rst:265
@@ -755,7 +755,7 @@ msgid ""
 "Marketing application."
 msgstr ""
 "Visualização do menu Configuração com a página de Definições no aplicativo "
-"Odoo Marketing por e-mail."
+"Blue Connect Marketing por e-mail."
 
 #: ../../content/applications/marketing/email_marketing.rst:285
 msgid "On the :guilabel:`Settings` page, there are four features available."
@@ -764,7 +764,7 @@ msgstr "Na página :guilabel:`Definições`, há quatro recursos disponíveis."
 #: ../../content/applications/marketing/email_marketing.rst:None
 msgid "View of the Settings page in the Odoo Email Marketing application."
 msgstr ""
-"Visualização da página Definições no aplicativo Odoo Marketing por e-mail."
+"Visualização da página Definições no aplicativo Blue Connect Marketing por e-mail."
 
 #: ../../content/applications/marketing/email_marketing.rst:291
 msgid "The features are:"
@@ -795,9 +795,9 @@ msgid ""
 "for it to connect properly to Odoo."
 msgstr ""
 ":guilabel:`Servidor dedicado`: oferece a opção de utilizar um servidor "
-"dedicado separado para distribuições. Quando ativado, o Odoo revela um novo "
+"dedicado separado para distribuições. Quando ativado, o Blue Connect revela um novo "
 "campo (e link), no qual as configurações específicas do servidor devem ser "
-"inseridas, para que ele se conecte corretamente ao Odoo."
+"inseridas, para que ele se conecte corretamente ao Blue Connect."
 
 #: ../../content/applications/marketing/email_marketing.rst:299
 msgid ""
@@ -830,7 +830,7 @@ msgstr "Clicar em :guilabel:`Novo` abre um formulário de e-mail em branco."
 msgid "View of a blank email detail form in Odoo Email Marketing application."
 msgstr ""
 "Visualização de um formulário de detalhes de e-mail em branco no aplicativo "
-"Odoo Marketing por e-mail."
+"Blue Connect Marketing por e-mail."
 
 #: ../../content/applications/marketing/email_marketing.rst:316
 msgid ""
@@ -935,7 +935,7 @@ msgstr ""
 #: ../../content/applications/marketing/email_marketing.rst:358
 msgid "Odoo then sends the email to contacts on that specific mailing list(s)."
 msgstr ""
-"Em seguida, o Odoo envia o e-mail para os contatos dessa(s) lista(s) de "
+"Em seguida, o Blue Connect envia o e-mail para os contatos dessa(s) lista(s) de "
 "distribuição específica(s)."
 
 #: ../../content/applications/marketing/email_marketing.rst:361
@@ -950,14 +950,14 @@ msgid ""
 "target audience for the email."
 msgstr ""
 "Ao clicar no campo :guilabel:`Destinatários`, um menu suspenso com outras "
-"opções é exibido. Cada opção oferece diferentes maneiras de o Odoo criar um "
+"opções é exibido. Cada opção oferece diferentes maneiras de o Blue Connect criar um "
 "público-alvo para o e-mail."
 
 #: ../../content/applications/marketing/email_marketing.rst:None
 msgid ""
 "View of recipients drop-down menu in the Odoo Email Marketing application."
 msgstr ""
-"Visualização do menu suspenso de destinatários no aplicativo Odoo Marketing "
+"Visualização do menu suspenso de destinatários no aplicativo Blue Connect Marketing "
 "por e-mail."
 
 #: ../../content/applications/marketing/email_marketing.rst:370
@@ -1100,7 +1100,7 @@ msgid ""
 "View of how recipient filters can be customized in Odoo Email Marketing."
 msgstr ""
 "Visualização de como os filtros de destinatários podem ser personalizados no "
-"Odoo Marketing por e-mail."
+"Blue Connect Marketing por e-mail."
 
 #: ../../content/applications/marketing/email_marketing.rst:418
 msgid ""
@@ -1183,7 +1183,7 @@ msgid ""
 "View of the templates in the Mail Body tab in Odoo Email Marketing "
 "application."
 msgstr ""
-"Visualização dos modelos na aba Corpo do e-mail no aplicativo Odoo Marketing "
+"Visualização dos modelos na aba Corpo do e-mail no aplicativo Blue Connect Marketing "
 "por e-mail."
 
 #: ../../content/applications/marketing/email_marketing.rst:453
@@ -1193,7 +1193,7 @@ msgid ""
 "the right sidebar when a template is chosen."
 msgstr ""
 "Selecione o modelo desejado e prossiga para modificar cada elemento de seus "
-"detalhes de design com os blocos de construção de arrastar e soltar do Odoo, "
+"detalhes de design com os blocos de construção de arrastar e soltar do Blue Connect, "
 "que aparecem na barra lateral direita quando um modelo é escolhido."
 
 #: ../../content/applications/marketing/email_marketing.rst:None
@@ -1202,7 +1202,7 @@ msgid ""
 "application."
 msgstr ""
 "Visualização dos blocos de construção na aba Corpo do e-mail no aplicativo "
-"Odoo Marketing por e-mail."
+"Blue Connect Marketing por e-mail."
 
 #: ../../content/applications/marketing/email_marketing.rst:460
 msgid ""
@@ -1234,7 +1234,7 @@ msgid ""
 "using the front-end rich text editor that accepts forward slash `/` commands."
 msgstr ""
 "Para criar um e-mail do zero, sem nenhum elemento de bloco de construção, "
-"selecione o modelo :guilabel:`Plain Text`. Quando selecionado, o Odoo "
+"selecione o modelo :guilabel:`Plain Text`. Quando selecionado, o Blue Connect "
 "fornece uma tela de e-mail completamente em branco, que pode ser "
 "personalizada de várias maneiras usando o editor de rich text de front-end "
 "que aceita comandos de barra `/`."
@@ -1255,7 +1255,7 @@ msgid ""
 "View of the rich text editor drop-down in the Odoo Email Marketing "
 "application."
 msgstr ""
-"Visualização do menu suspenso do editor de rich text no aplicativo Odoo "
+"Visualização do menu suspenso do editor de rich text no aplicativo Blue Connect "
 "Email Marketing."
 
 #: ../../content/applications/marketing/email_marketing.rst:484
@@ -1393,14 +1393,14 @@ msgid ""
 "subsequently, send that version of the email to the remaining recipients."
 msgstr ""
 "O campo :guilabel:`Enviar último em` permite que os usuários escolham uma "
-"data que é usada para saber *quando* o Odoo deve determinar o e-mail "
+"data que é usada para saber *quando* o Blue Connect deve determinar o e-mail "
 "\"vencedor\" e, posteriormente, enviar essa versão do e-mail para os "
 "destinatários restantes."
 
 #: ../../content/applications/marketing/email_marketing.rst:None
 msgid "View of the A/B Tests tab in Odoo Email Marketing application."
 msgstr ""
-"Visualização da aba Testes A/B no aplicativo Odoo Marketing por e-mail."
+"Visualização da aba Testes A/B no aplicativo Blue Connect Marketing por e-mail."
 
 #: ../../content/applications/marketing/email_marketing.rst:534
 msgid ""
@@ -1409,7 +1409,7 @@ msgid ""
 "user to create an alternate version of the email to test."
 msgstr ""
 "À direita desses campos, há um botão :guilabel:`Criar uma versão "
-"alternativa`. Quando clicado, o Odoo apresenta uma nova aba :guilabel:`Corpo "
+"alternativa`. Quando clicado, o Blue Connect apresenta uma nova aba :guilabel:`Corpo "
 "do e-mail` para que o usuário crie uma versão alternativa do e-mail para "
 "teste."
 
@@ -1456,7 +1456,7 @@ msgid ""
 "View of settings tab in Odoo Email Marketing app, without campaign setting "
 "activated."
 msgstr ""
-"Visualização da aba de definições no aplicativo Odoo Marketing por e-mail, "
+"Visualização da aba de definições no aplicativo Blue Connect Marketing por e-mail, "
 "sem a configuração de campanha ativada."
 
 #: ../../content/applications/marketing/email_marketing.rst:560
@@ -1531,7 +1531,7 @@ msgid ""
 "View of settings tab in Odoo Email Marketing when campaign setting is "
 "activated."
 msgstr ""
-"Visualização da aba de configurações no Odoo Marketing por e-mail quando a "
+"Visualização da aba de configurações no Blue Connect Marketing por e-mail quando a "
 "configuração da campanha está ativada."
 
 #: ../../content/applications/marketing/email_marketing.rst:587
@@ -1559,7 +1559,7 @@ msgid ""
 "the drop-down menu. Then, select the desired campaign."
 msgstr ""
 "Ou, digite o nome da campanha de e-mail no campo :guilabel:`Campanha`, até "
-"que o Odoo revele a campanha desejada no menu suspenso. Em seguida, "
+"que o Blue Connect revele a campanha desejada no menu suspenso. Em seguida, "
 "selecione a campanha em questão."
 
 #: ../../content/applications/marketing/email_marketing.rst:597
@@ -1604,9 +1604,9 @@ msgid ""
 "the desired recipients. Once Odoo has sent the mailing, the status changes "
 "to :guilabel:`Sent`."
 msgstr ""
-"Quando o botão :guilabel:`Enviar para todos` é clicado, o Odoo envia o e-"
+"Quando o botão :guilabel:`Enviar para todos` é clicado, o Blue Connect envia o e-"
 "mail para os destinatários desejados. Uma vez que a distribuição tenha sido "
-"enviada pelo Odoo, o status muda para :guilabel:`Enviado`."
+"enviada pelo Blue Connect, o status muda para :guilabel:`Enviado`."
 
 #: ../../content/applications/marketing/email_marketing.rst:620
 msgid "Schedule"
@@ -1644,7 +1644,7 @@ msgid ""
 "changes to :guilabel:`In Queue`."
 msgstr ""
 "Na janela pop-up do calendário, selecione a data e a hora futuras para o "
-"Odoo enviar esse e-mail. Em seguida, clique em :guilabel:`✔️ Aplicar`. Quando "
+"Blue Connect enviar esse e-mail. Em seguida, clique em :guilabel:`✔️ Aplicar`. Quando "
 "a data e a hora forem escolhidas, clique no botão :guilabel:`Agendar` e o "
 "status da distribuição será alterado para :guilabel:`Na fila`."
 
@@ -1673,7 +1673,7 @@ msgid ""
 "Multiple contacts can be added in this field, if desired."
 msgstr ""
 "Nessa janela pop-up, insira os endereços de e-mail dos contatos para os "
-"quais o Odoo deve enviar esse e-mail de teste no "
+"quais o Blue Connect deve enviar esse e-mail de teste no "
 "campo :guilabel:`Destinatários`. É possível adicionar vários contatos a esse "
 "campo, se desejado."
 
@@ -1728,7 +1728,7 @@ msgstr ""
 #: ../../content/applications/marketing/email_marketing.rst:None
 msgid "View of the campaign feature setting in Odoo Email Marketing."
 msgstr ""
-"Visualização da configuração do recurso de campanha no Odoo Marketing por e-"
+"Visualização da configuração do recurso de campanha no Blue Connect Marketing por e-"
 "mail."
 
 #: ../../content/applications/marketing/email_marketing.rst:679
@@ -1745,14 +1745,14 @@ msgid ""
 "displaying all the mailing campaigns in the database, and the current stage "
 "they are in, showcased in a default Kanban view."
 msgstr ""
-"Quando isso é clicado, o Odoo abre uma página "
+"Quando isso é clicado, o Blue Connect abre uma página "
 "independente :guilabel:`Campanhas`, exibindo todas as campanhas de e-mail na "
 "base de dados e o estágio atual em que se encontram, exibidas em uma "
 "visualização Kanban padrão."
 
 #: ../../content/applications/marketing/email_marketing.rst:None
 msgid "View of the campaign page in Odoo Email Marketing."
-msgstr "Visualização da página da campanha no Odoo Marketing por e-mail."
+msgstr "Visualização da página da campanha no Blue Connect Marketing por e-mail."
 
 #: ../../content/applications/marketing/email_marketing.rst:690
 msgid ""
@@ -1818,7 +1818,7 @@ msgstr ""
 #: ../../content/applications/marketing/email_marketing.rst:None
 msgid "View of the campaign pop-up kanban in Odoo Email Marketing."
 msgstr ""
-"Visualização do kanban pop-up da campanha no Odoo Marketing por e-mail."
+"Visualização do kanban pop-up da campanha no Blue Connect Marketing por e-mail."
 
 #: ../../content/applications/marketing/email_marketing.rst:720
 msgid ""
@@ -1882,7 +1882,7 @@ msgstr ""
 #: ../../content/applications/marketing/email_marketing.rst:None
 msgid "View of the campaign page in list view in Odoo Email Marketing."
 msgstr ""
-"Visualização da página da campanha na visualização de lista no Odoo "
+"Visualização da página da campanha na visualização de lista no Blue Connect "
 "Marketing por e-mail."
 
 #: ../../content/applications/marketing/email_marketing.rst:747
@@ -1897,7 +1897,7 @@ msgstr ""
 #: ../../content/applications/marketing/email_marketing.rst:None
 msgid "View of the blank campaign form in Odoo Email Marketing."
 msgstr ""
-"Visualização do formulário de campanha em branco no Odoo Marketing por e-"
+"Visualização do formulário de campanha em branco no Blue Connect Marketing por e-"
 "mail."
 
 #: ../../content/applications/marketing/email_marketing.rst:754
@@ -1954,7 +1954,7 @@ msgstr ""
 
 #: ../../content/applications/marketing/email_marketing.rst:None
 msgid "View of the campaign form in Odoo Email Marketing."
-msgstr "Visualização do formulário de campanha no Odoo Marketing por e-mail."
+msgstr "Visualização do formulário de campanha no Blue Connect Marketing por e-mail."
 
 #: ../../content/applications/marketing/email_marketing.rst:777
 msgid ""
@@ -2041,7 +2041,7 @@ msgid ""
 "View of the email mailing campaign pop-up window in Odoo Email Marketing "
 "application."
 msgstr ""
-"Visualização da janela pop-up da campanha de e-mail no aplicativo Odoo "
+"Visualização da janela pop-up da campanha de e-mail no aplicativo Blue Connect "
 "Marketing por e-mail."
 
 #: ../../content/applications/marketing/email_marketing.rst:815
@@ -2108,7 +2108,7 @@ msgstr ""
 "Para entender corretamente o sucesso ou o fracasso de uma campanha de "
 "marketing por e-mail, é necessário monitorar várias métricas importantes. Os "
 "insights obtidos com essas métricas podem ser usados para otimizar campanhas "
-"futuras. O aplicativo **Marketing por e-mail** do Odoo monitora "
+"futuras. O aplicativo **Marketing por e-mail** do Blue Connect monitora "
 "várias :ref:`métricas-chave <email-marketing/key-metrics>`, que podem ser "
 "interpretadas pelos :ref:`relatórios <email_marketing/create_reports>` para "
 "melhorar campanhas futuras."
@@ -2612,7 +2612,7 @@ msgid ""
 "still be targeted with the *Email Marketing* application for strategic "
 "campaign purposes, such as lost leads reactivation."
 msgstr ""
-"No Odoo, os leads perdidos são removidos do funil do *CRM* ativo, mas ainda "
+"No Blue Connect, os leads perdidos são removidos do funil do *CRM* ativo, mas ainda "
 "podem ser direcionados com o aplicativo *Marketing por e-mail* para fins de "
 "campanha estratégica, como a reativação de leads perdidos."
 
@@ -3191,7 +3191,7 @@ msgid ""
 "pipeline organized and reporting data accurate, and generates potential to "
 "follow up with the lead in the future."
 msgstr ""
-"Quando um lead é marcado como perdido, o Odoo recomenda selecionar um "
+"Quando um lead é marcado como perdido, o Blue Connect recomenda selecionar um "
 "*motivo de perda* para indicar por que a oportunidade não resultou em uma "
 "venda. Isso mantém o funil organizado e os dados do relatório precisos, além "
 "de gerar potencial para o acompanhamento do lead no futuro."
@@ -3219,7 +3219,7 @@ msgstr ""
 
 #: ../../content/applications/marketing/email_marketing/lost_leads_email.rst:255
 msgid "By default, Odoo includes a few common *Lost Reasons*, such as:"
-msgstr "Por padrão, o Odoo inclui alguns *Motivos de perda* comuns, tais como:"
+msgstr "Por padrão, o Blue Connect inclui alguns *Motivos de perda* comuns, tais como:"
 
 #: ../../content/applications/marketing/email_marketing/lost_leads_email.rst:257
 msgid "*Too expensive*"
@@ -3549,7 +3549,7 @@ msgid ""
 "lead lists, focus group participants, or current customers that fulfill "
 "specific criteria."
 msgstr ""
-"As listas de distribuição no Odoo são usadas para comunicações pré e pós-"
+"As listas de distribuição no Blue Connect são usadas para comunicações pré e pós-"
 "vendas no aplicativo *Marketing por e-mail*. Isso fornece às equipes de "
 "vendas listas de leads qualificados, participantes de grupos de discussão ou "
 "clientes atuais que atendem a critérios específicos."
@@ -3560,7 +3560,7 @@ msgid ""
 "or into the *Knowledge*, *Dashboards*, or *Spreadsheets* applications, or "
 "imported via copy/paste or file upload."
 msgstr ""
-"As listas de distribuição podem ser geradas no Odoo e exportadas como um "
+"As listas de distribuição podem ser geradas no Blue Connect e exportadas como um "
 "arquivo para download, ou para os aplicativos *Conhecimento*, *Painéis* ou "
 "*Planilhas*, ou importadas por meio de copiar/colar ou upload de arquivos."
 
@@ -3587,7 +3587,7 @@ msgstr ""
 #: ../../content/applications/marketing/email_marketing/mailing_lists.rst:None
 msgid "View of the mailing list form in the Odoo Email Marketing application."
 msgstr ""
-"Visualização do pop-up da lista de distribuição no aplicativo Odoo Marketing "
+"Visualização do pop-up da lista de distribuição no aplicativo Blue Connect Marketing "
 "por e-mail."
 
 #: ../../content/applications/marketing/email_marketing/mailing_lists.rst:25
@@ -3711,7 +3711,7 @@ msgid ""
 "Mailing Lists --> Mailing Lists`)."
 msgstr ""
 "Quando todas as configurações no formulário da lista de distribuição "
-"estiverem concluídas, o Odoo adicionará automaticamente a nova lista à "
+"estiverem concluídas, o Blue Connect adicionará automaticamente a nova lista à "
 "página :guilabel:`Lista de distribuição` no aplicativo *Marketing por e-"
 "mail* (:menuselection:`app Marketing por e-mail --> Listas de distribuição --"
 "> Listas de distribuição`)."
@@ -3725,7 +3725,7 @@ msgid ""
 "In Odoo *Email Marketing*, there are a few different ways to add contacts to "
 "a mailing list."
 msgstr ""
-"No Odoo *Marketing por e-mail*, há algumas maneiras diferentes de adicionar "
+"No Blue Connect *Marketing por e-mail*, há algumas maneiras diferentes de adicionar "
 "contatos a uma lista de distribuições."
 
 #: ../../content/applications/marketing/email_marketing/mailing_lists.rst:70
@@ -3786,7 +3786,7 @@ msgid ""
 "The import contacts button of a mailing list line in Odoo Email Marketing."
 msgstr ""
 "O botão de importação de contatos de uma linha de lista de distribuição no "
-"Odoo Marketing por e-mail."
+"Blue Connect Marketing por e-mail."
 
 #: ../../content/applications/marketing/email_marketing/mailing_lists.rst:90
 msgid "Doing so reveals an :guilabel:`Import Mailing Contacts` pop-up form."
@@ -3798,7 +3798,7 @@ msgid ""
 "The import mailing contacts pop-up form that appears in Odoo Email Marketing."
 msgstr ""
 "O formulário pop-up de importação de contatos de comunicação que aparece no "
-"Odoo Marketing por e-mail."
+"Blue Connect Marketing por e-mail."
 
 #: ../../content/applications/marketing/email_marketing/mailing_lists.rst:96
 msgid ""
@@ -3844,7 +3844,7 @@ msgstr ""
 #: ../../content/applications/marketing/email_marketing/mailing_lists.rst:None
 msgid "The Mailing List page in the Odoo Email Marketing application."
 msgstr ""
-"A página da lista de distribuição no aplicativo Odoo Marketing por e-mail."
+"A página da lista de distribuição no aplicativo Blue Connect Marketing por e-mail."
 
 #: ../../content/applications/marketing/email_marketing/mailing_lists.rst:113
 msgid ""
@@ -3889,7 +3889,7 @@ msgid ""
 "Marketing."
 msgstr ""
 "A opção Adicionar uma linha em listas de distribuição em um formulário de "
-"contato padrão no Odoo Marketing e-mail."
+"contato padrão no Blue Connect Marketing e-mail."
 
 #: ../../content/applications/marketing/email_marketing/mailing_lists.rst:129
 msgid ""
@@ -3970,9 +3970,9 @@ msgid ""
 "directly link the mailing list to the Odoo-built website (created via the "
 "Odoo *Website* application)."
 msgstr ""
-"Quando uma lista de distribuição é criada na base de dados, o Odoo oferece a "
-"opção de vincular diretamente a lista ao site do Odoo (criado pelo "
-"aplicativo *Site* do Odoo)."
+"Quando uma lista de distribuição é criada na base de dados, o Blue Connect oferece a "
+"opção de vincular diretamente a lista ao site do Blue Connect (criado pelo "
+"aplicativo *Site* do Blue Connect)."
 
 #: ../../content/applications/marketing/email_marketing/mailing_lists.rst:156
 msgid ""
@@ -3992,7 +3992,7 @@ msgid ""
 "Doing so reveals the designated homepage of the Odoo-built website for the "
 "database."
 msgstr ""
-"Isso abre a página inicial do site criado pelo Odoo para a base de dados."
+"Isso abre a página inicial do site criado pelo Blue Connect para a base de dados."
 
 #: ../../content/applications/marketing/email_marketing/mailing_lists.rst:163
 msgid ""
@@ -4002,7 +4002,7 @@ msgid ""
 "design elements."
 msgstr ""
 "No front-end do site, clique no botão :guilabel:`Editar` no canto superior "
-"direito. Quando clicado, o Odoo revela uma barra lateral direita, preenchida "
+"direito. Quando clicado, o Blue Connect revela uma barra lateral direita, preenchida "
 "com *blocos de construção* de arrastar e soltar, repletos de vários "
 "recursos, opções e elementos de design."
 
@@ -4023,7 +4023,7 @@ msgid ""
 "application."
 msgstr ""
 "Visualização de como pesquisar rapidamente os blocos de newsletter no "
-"aplicativo Odoo Site."
+"aplicativo Blue Connect Site."
 
 #: ../../content/applications/marketing/email_marketing/mailing_lists.rst:175
 msgid ""
@@ -4049,7 +4049,7 @@ msgstr ""
 
 #: ../../content/applications/marketing/email_marketing/mailing_lists.rst:None
 msgid "Sample of how a newsletter block appears on an Odoo Website."
-msgstr "Exemplo de como um bloco de newsletter aparece em um site Odoo."
+msgstr "Exemplo de como um bloco de newsletter aparece em um site Blue Connect."
 
 #: ../../content/applications/marketing/email_marketing/mailing_lists.rst:186
 msgid ""
@@ -4070,7 +4070,7 @@ msgstr ""
 #: ../../content/applications/marketing/email_marketing/mailing_lists.rst:None
 msgid "Sample of how a newsletter popup block appears on an Odoo Website."
 msgstr ""
-"Exemplo de como um bloco de pop-up de newsletter aparece em um site da Odoo."
+"Exemplo de como um bloco de pop-up de newsletter aparece em um site da Blue Connect."
 
 #: ../../content/applications/marketing/email_marketing/mailing_lists.rst:195
 msgid ""
@@ -4114,7 +4114,7 @@ msgid ""
 "Website."
 msgstr ""
 "O menu suspenso de newsletter na barra lateral de personalização que aparece "
-"no site Odoo."
+"no site Blue Connect."
 
 #: ../../content/applications/marketing/email_marketing/mailing_lists.rst:217
 msgid ""
@@ -4135,7 +4135,7 @@ msgstr ""
 "Agora, quando um visitante inserir seu endereço de e-mail e clica no botão "
 "para se inscrever, ele é instantaneamente inscrito na lista de e-mails pré-"
 "configurada. Também será adicionado como um contato dessa lista de e-mails "
-"no *Marketing por e-mail* do Odoo."
+"no *Marketing por e-mail* do Blue Connect."
 
 #: ../../content/applications/marketing/email_marketing/unsubscriptions.rst:3
 msgid "Manage unsubscriptions (blacklist)"
@@ -4170,7 +4170,7 @@ msgstr ""
 "específicas, o destinatário também pode se colocar em uma *lista de "
 "bloqueio* durante o processo de cancelamento da assinatura, o que significa "
 "que ele não receberá *nenhum* outro e-mail de marketing da base de dados do "
-"Odoo."
+"Blue Connect."
 
 #: ../../content/applications/marketing/email_marketing/unsubscriptions.rst:17
 msgid ""
@@ -4200,7 +4200,7 @@ msgid ""
 "Marketing app."
 msgstr ""
 "Visualização do recurso de lista de bloqueio na página Definições do "
-"aplicativo Odoo Marketing por e-mail."
+"aplicativo Blue Connect Marketing por e-mail."
 
 #: ../../content/applications/marketing/email_marketing/unsubscriptions.rst:29
 msgid "Unsubscribe"
@@ -4238,7 +4238,7 @@ msgid ""
 "been :guilabel:`Successfully Unsubscribed`."
 msgstr ""
 "Se um destinatário clicar no link *Cancelar inscrição* em uma comunicação, o "
-"Odoo cancelará instantaneamente sua inscrição na lista de distribuição, "
+"Blue Connect cancelará instantaneamente sua inscrição na lista de distribuição, "
 "apresentará a ele uma página :guilabel:`Inscrições de comunicação` na qual "
 "ele poderá gerenciar suas inscrições e informará que "
 "sua :guilabel:`inscrição foi cancelada com sucesso`."
@@ -4257,7 +4257,7 @@ msgid ""
 "know why you updated your subscription`, and the user can proceed to choose "
 "the appropriate opt-out reason from a series of options presented to them."
 msgstr ""
-"Além disso, o Odoo solicita que o ex-inscrito :guilabel:`informe por que "
+"Além disso, o Blue Connect solicita que o ex-inscrito :guilabel:`informe por que "
 "atualizou a inscrição`, e o usuário pode continuar a escolher o motivo "
 "apropriado para o cancelamento em uma série de opções apresentadas a ele."
 
@@ -4278,7 +4278,7 @@ msgid ""
 "future analysis."
 msgstr ""
 "Depois de escolher o motivo de cancelamento apropriado entre as opções "
-"apresentadas, o usuário pode clicar no botão :guilabel:`Enviar`. O Odoo "
+"apresentadas, o usuário pode clicar no botão :guilabel:`Enviar`. O Blue Connect "
 "então registra o motivo do cancelamento da inscrição no aplicativo "
 "*Marketing por e-mail* para análise futura."
 
@@ -4304,7 +4304,7 @@ msgid ""
 "been successfully blacklisted, with a message reading: :guilabel:`✔️ Email "
 "added to our blocklist`."
 msgstr ""
-"Ao clicar em :guilabel:`Exclua-me`, o Odoo informa ao destinatário que ele "
+"Ao clicar em :guilabel:`Exclua-me`, o Blue Connect informa ao destinatário que ele "
 "foi incluído com sucesso na lista de bloqueio, com uma mensagem "
 "dizendo: :guilabel:`✔️ E-mail adicionado a nossa lista de bloquei`."
 
@@ -4321,7 +4321,7 @@ msgid ""
 "know why you want to be added to our blocklist`, and the user can proceed to "
 "choose the appropriate reason from a series of options presented to them."
 msgstr ""
-"Além disso, o Odoo solicita que o ex-assinante :guilabel:`informe por que "
+"Além disso, o Blue Connect solicita que o ex-assinante :guilabel:`informe por que "
 "quer ser adicionado à lista de bloqueio`, e o usuário pode continuar e "
 "selecionar o motivo apropriado em uma série de opções apresentadas."
 
@@ -4333,7 +4333,7 @@ msgid ""
 "future analysis."
 msgstr ""
 "Depois de escolher o motivo adequado entre as opções apresentadas, o usuário "
-"pode clicar no botão :guilabel:`Enviar`. O Odoo então registra o motivo da "
+"pode clicar no botão :guilabel:`Enviar`. O Blue Connect então registra o motivo da "
 "inclusão na lista de bloqueio no aplicativo *Marketing por e-mail* para "
 "futuras análises."
 
@@ -4354,7 +4354,7 @@ msgstr ""
 #: ../../content/applications/marketing/email_marketing/unsubscriptions.rst:None
 msgid "View of the blacklisted email addresses page in Odoo Email Marketing."
 msgstr ""
-"Visualização da página de endereços de e-mail na lista de bloqueio no Odoo "
+"Visualização da página de endereços de e-mail na lista de bloqueio no Blue Connect "
 "Marketing por e-mail."
 
 #: ../../content/applications/marketing/email_marketing/unsubscriptions.rst:92
@@ -4363,7 +4363,7 @@ msgid ""
 "separate page with the recipient's contact information, along with the "
 "provided :guilabel:`Reason` why they chose to blacklist themselves."
 msgstr ""
-"Quando um registro na lista de bloqueio é selecionado nessa lista, o Odoo "
+"Quando um registro na lista de bloqueio é selecionado nessa lista, o Blue Connect "
 "abre uma página separada com as informações de contato do destinatário, "
 "juntamente com o :guilabel:`motivo` fornecido para optar por se colocar na "
 "lista de bloqueio."
@@ -4372,7 +4372,7 @@ msgstr ""
 msgid "View of a blacklisted contact detail form in Odoo Email Marketing."
 msgstr ""
 "Visualização de um formulário de detalhes de contato na lista de bloqueio do "
-"Odoo Marketing por e-mail."
+"Blue Connect Marketing por e-mail."
 
 #: ../../content/applications/marketing/email_marketing/unsubscriptions.rst:100
 msgid ""
@@ -4436,7 +4436,7 @@ msgid ""
 "View of the unblacklist pop-up window in the Odoo Email Marketing "
 "application."
 msgstr ""
-"Visualização da janela pop-up da lista de bloqueio no aplicativo Odoo "
+"Visualização da janela pop-up da lista de bloqueio no aplicativo Blue Connect "
 "Marketing por e-mail."
 
 #: ../../content/applications/marketing/email_marketing/unsubscriptions.rst:125
@@ -4462,14 +4462,14 @@ msgid ""
 "about events (and their attendees), which can then be used to improve "
 "decision-making and event-planning."
 msgstr ""
-"Explore os diversos aspectos do painel detalhado do Odoo **Eventos** e as "
+"Explore os diversos aspectos do painel detalhado do Blue Connect **Eventos** e as "
 "configurações utilizadas para gerar e coletar dados relevantes sobre eventos "
 "(e seus participantes), que podem ser servir para melhorar a tomada de "
 "decisões e o planejamento de eventos."
 
 #: ../../content/applications/marketing/events.rst:12
 msgid "`Odoo Tutorials: Events <https://www.odoo.com/slides/surveys-63>`_"
-msgstr "`Tutoriais do Odoo: Eventos <https://www.odoo.com/slides/surveys-63>`_"
+msgstr "`Tutoriais do Blue Connect: Eventos <https://www.odoo.com/slides/surveys-63>`_"
 
 #: ../../content/applications/marketing/events.rst:16
 #: ../../content/applications/marketing/events.rst:179
@@ -4563,7 +4563,7 @@ msgid ""
 "the :guilabel:`Events` dashboard in the upper-right corner, via a series of "
 "view-related icon buttons."
 msgstr ""
-"Ao abrir o aplicativo **Eventos**, o Odoo revela o painel "
+"Ao abrir o aplicativo **Eventos**, o Blue Connect revela o painel "
 "principal :guilabel:`Eventos`, que pode ser visualizado de várias maneiras "
 "diferentes. As diferentes opções de visualização são acessadas pelo "
 "painel :guilabel:`Eventos` no canto superior direito, através de uma série "
@@ -4583,7 +4583,7 @@ msgstr ""
 msgid "Overview of events setting with the kanban view in Odoo Events."
 msgstr ""
 "Visão geral da configuração de eventos com o modo de visualização kanban no "
-"Odoo Eventos."
+"Blue Connect Eventos."
 
 #: ../../content/applications/marketing/events.rst:70
 msgid ""
@@ -4629,7 +4629,7 @@ msgstr ""
 
 #: ../../content/applications/marketing/events.rst:None
 msgid "Typical blank kanban card to fill out in the Odoo Events application."
-msgstr "Cartão Kanban em branco no aplicativo Odoo Eventos."
+msgstr "Cartão Kanban em branco no aplicativo Blue Connect Eventos."
 
 #: ../../content/applications/marketing/events.rst:89
 msgid ""
@@ -4664,7 +4664,7 @@ msgid ""
 "here, tick the checkboxes beside the desired settings and/or features, and "
 "click :guilabel:`Save` to activate them."
 msgstr ""
-"Para acessar as definições de eventos e as opções de recursos no Odoo "
+"Para acessar as definições de eventos e as opções de recursos no Blue Connect "
 "**Eventos**, navegue até o :menuselection:`app Eventos --> Configuração --> "
 "Definições`. A partir daqui, marque as caixas de seleção ao lado das "
 "definições e/ou recursos desejados e clique em :guilabel:`Salvar` para ativá-"
@@ -4682,13 +4682,13 @@ msgid ""
 msgstr ""
 "Na seção :guilabel:`Eventos` da página :guilabel:`Definições`, há recursos "
 "selecionáveis que podem ser ativados para adicionar vários elementos aos "
-"eventos criados com o aplicativo Odoo **Eventos**."
+"eventos criados com o aplicativo Blue Connect **Eventos**."
 
 #: ../../content/applications/marketing/events.rst:None
 msgid ""
 "The Events section on the Odoo Events settings page in the Odoo Events "
 "application."
-msgstr "A seção Eventos na página de configurações no aplicativo Odoo Eventos."
+msgstr "A seção Eventos na página de configurações no aplicativo Blue Connect Eventos."
 
 #: ../../content/applications/marketing/events.rst:115
 msgid ""
@@ -4757,7 +4757,7 @@ msgid ""
 "elements for events."
 msgstr ""
 "O campo :guilabel:`Domínio do servidor Jitsi` representa um serviço de "
-"conferência externo que está integrado ao Odoo. Ele é usado para criar e "
+"conferência externo que está integrado ao Blue Connect. Ele é usado para criar e "
 "hospedar conferências virtuais, salas de comunidade e outros elementos "
 "semelhantes para eventos."
 
@@ -4802,7 +4802,7 @@ msgstr ""
 msgid ""
 "The Registration section in the Odoo Events settings page in the Odoo Events "
 "application."
-msgstr "A seção Inscrição na página de definições do Odoo Eventos."
+msgstr "A seção Inscrição na página de definições do Blue Connect Eventos."
 
 #: ../../content/applications/marketing/events.rst:155
 msgid ""
@@ -4841,7 +4841,7 @@ msgstr ""
 msgid ""
 "The Attendance section in the Odoo Events Settings page in the Odoo Events "
 "application."
-msgstr "A seção Participação na página Definições do aplicativo Odoo Eventos."
+msgstr "A seção Participação na página Definições do aplicativo Blue Connect Eventos."
 
 #: ../../content/applications/marketing/events.rst:171
 msgid ""
@@ -4853,7 +4853,7 @@ msgstr ""
 "A configuração :guilabel:`Usar código de barras do evento`, quando ativada, "
 "permite a leitura de código de barras (e código QR) para os participantes "
 "entrarem no evento. Isso fornece aos participantes acesso rápido e ajuda os "
-"usuários do Odoo a rastrear, gerenciar e analisar facilmente todos os "
+"usuários do Blue Connect a rastrear, gerenciar e analisar facilmente todos os "
 "participantes do evento."
 
 #: ../../content/applications/marketing/events.rst:175
@@ -4872,7 +4872,7 @@ msgid ""
 "With Odoo **Events**, events can be manually created from scratch or built "
 "off of pre-made templates."
 msgstr ""
-"Com o Odoo **Eventos**, é possível criar eventos manualmente, do zero ou com "
+"Com o Blue Connect **Eventos**, é possível criar eventos manualmente, do zero ou com "
 "base em modelos predefinidos."
 
 #: ../../content/applications/marketing/events.rst:184
@@ -4906,7 +4906,7 @@ msgid ""
 "Odoo simplifies the ticket-purchasing process by providing plenty of payment "
 "method options, as well."
 msgstr ""
-"O Odoo simplifica o processo de compra de ingressos, fornecendo também "
+"O Blue Connect simplifica o processo de compra de ingressos, fornecendo também "
 "várias opções de foma de pagamento."
 
 #: ../../content/applications/marketing/events.rst:201
@@ -4944,7 +4944,7 @@ msgid ""
 "Odoo **Events** application."
 msgstr ""
 "Explore as várias maneiras de criar, gerenciar e vender estandes de eventos "
-"com o aplicativo Odoo **Eventos**."
+"com o aplicativo Blue Connect **Eventos**."
 
 #: ../../content/applications/marketing/events.rst:228
 msgid ":doc:`events/event_booths`"
@@ -4956,7 +4956,7 @@ msgid ""
 "*Tracks*) for events with Odoo."
 msgstr ""
 "Descubra como criar, gerenciar e programar diferentes experiências (também "
-"conhecidas como *Sessões*) para eventos com o Odoo."
+"conhecidas como *Sessões*) para eventos com o Blue Connect."
 
 #: ../../content/applications/marketing/events.rst:237
 msgid ":doc:`events/event_tracks`"
@@ -4972,7 +4972,7 @@ msgid ""
 "*Registration Desk* feature."
 msgstr ""
 "Conceda acesso aos participantes do evento de forma rápida e fácil com o "
-"recurso *Balcão de inscrição* do Odoo **Eventos**."
+"recurso *Balcão de inscrição* do Blue Connect **Eventos**."
 
 #: ../../content/applications/marketing/events.rst:246
 msgid ":doc:`events/registration_desk`"
@@ -4999,7 +4999,7 @@ msgid ""
 "tracks, sponsors, rooms, and more."
 msgstr ""
 "Com o aplicativo *Eventos*, os organizadores de eventos podem criar e "
-"configurar eventos presenciais ou somente on-line no Odoo. Cada novo evento "
+"configurar eventos presenciais ou somente on-line no Blue Connect. Cada novo evento "
 "contém várias opções personalizáveis que são voltadas para a logística "
 "específica do evento, conforme a necessidade de cada evento, como venda de "
 "ingressos e recepção, estandes, sessões, patrocinadores, salas e muito mais."
@@ -5041,7 +5041,7 @@ msgstr ""
 
 #: ../../content/applications/marketing/events/create_events.rst:None
 msgid "Typical event template in the Odoo Events application."
-msgstr "Modelo de evento típico no aplicativo Odoo Eventos."
+msgstr "Modelo de evento típico no aplicativo Blue Connect Eventos."
 
 #: ../../content/applications/marketing/events/create_events.rst:31
 msgid ""
@@ -5071,7 +5071,7 @@ msgid ""
 msgstr ""
 "Esses são apenas elementos *adicionais* que podem ser usados em um evento. "
 "Eles **não** são necessários para criar, hospedar e gerenciar um evento com "
-"o Odoo *Eventos*."
+"o Blue Connect *Eventos*."
 
 #: ../../content/applications/marketing/events/create_events.rst:42
 msgid "Event form"
@@ -5203,7 +5203,7 @@ msgstr "Isso revela a janela pop-up :guilabel:`Criar feed do X (Twitter)`."
 
 #: ../../content/applications/marketing/events/create_events.rst:0
 msgid "The Twitter Wall pop-up window in the Odoo Events application."
-msgstr "A janela pop-up de feed do Twitter no aplicativo Odoo Eventos."
+msgstr "A janela pop-up de feed do Twitter no aplicativo Blue Connect Eventos."
 
 #: ../../content/applications/marketing/events/create_events.rst:87
 msgid ""
@@ -5212,7 +5212,7 @@ msgid ""
 "example."
 msgstr ""
 "Nessa janela, digite um :guilabel:`Nome do feed`. Em seguida, selecione uma "
-"determinada palavra ou hashtag para o Odoo pesquisar no X, como "
+"determinada palavra ou hashtag para o Blue Connect pesquisar no X, como "
 "`#WoodWorkingExpo24`, por exemplo."
 
 #: ../../content/applications/marketing/events/create_events.rst:90
@@ -5221,7 +5221,7 @@ msgid ""
 "that predetermined criteria. The choices in this field "
 "are: :guilabel:`Recent`, :guilabel:`Popular`, or :guilabel:`Mixed`."
 msgstr ""
-"Em seguida, determine o :guilabel:`Tipo de tweets` que o Odoo deve exibir "
+"Em seguida, determine o :guilabel:`Tipo de tweets` que o Blue Connect deve exibir "
 "com esse critério predeterminado. As opções nesse campo "
 "são: :guilabel:`Recente`, :guilabel:`Popular` ou :guilabel:`Misturado`."
 
@@ -5361,7 +5361,7 @@ msgid ""
 "multi_website>` documentation."
 msgstr ""
 ":guilabel:`Site`: escolha restringir a publicação desse evento a um site "
-"específico criado no Odoo. Se esse campo for deixado em branco, o evento "
+"específico criado no Blue Connect. Se esse campo for deixado em branco, o evento "
 "poderá ser publicado em *todos* os sites da base de dados. Para saber mais, "
 "consulte a documentação do :doc:`Multissite <.../.../websites/website/"
 "configuration/multi_website>`."
@@ -5454,7 +5454,7 @@ msgstr ""
 #: ../../content/applications/marketing/events/create_events.rst:None
 msgid "A typical tickets tab on an event form in the Odoo Events application."
 msgstr ""
-"Uma aba típica de ingressos em um formulário de evento no aplicativo Odoo "
+"Uma aba típica de ingressos em um formulário de evento no aplicativo Blue Connect "
 "Eventos."
 
 #: ../../content/applications/marketing/events/create_events.rst:167
@@ -5489,7 +5489,7 @@ msgid ""
 "the *Tickets* tab, the event registration :guilabel:`Product Type` **must** "
 "be set to :guilabel:`Event Ticket`."
 msgstr ""
-"Ao instalar o Odoo *Eventos*, um novo tipo de produto, *Ingresso do evento*, "
+"Ao instalar o Blue Connect *Eventos*, um novo tipo de produto, *Ingresso do evento*, "
 "fica disponível nos formulários de produto (:menuselection:`Vendas --> "
 "Produtos --> Produtos`). Para que um produto de inscrição em evento possa "
 "ser selecionado na aba *Ingressos*, o :guilabel:`Tipo de produto` da "
@@ -5626,7 +5626,7 @@ msgstr ""
 msgid ""
 "Typical communication tab on an event form in the Odoo Events application."
 msgstr ""
-"Aba de comunicação típica em um formulário de evento no aplicativo Odoo "
+"Aba de comunicação típica em um formulário de evento no aplicativo Blue Connect "
 "Eventos."
 
 #: ../../content/applications/marketing/events/create_events.rst:231
@@ -5637,7 +5637,7 @@ msgid ""
 "reminders that are scheduled to be sent at different time intervals leading "
 "up to the event to remind the recipient of the upcoming event."
 msgstr ""
-"Por padrão, o Odoo fornece três comunicações separadas pré-configuradas em "
+"Por padrão, o Blue Connect fornece três comunicações separadas pré-configuradas em "
 "cada novo formulário de evento. Uma delas é um e-mail enviado após cada "
 "inscrição para confirmar a compra com o participante. As outras duas são "
 "lembretes de eventos por e-mail que são programados para serem enviados em "
@@ -5715,7 +5715,7 @@ msgid ""
 msgstr ""
 "Em seguida, defina o :guilabel:`Intervalo`, :guilabel:`Unidade` "
 "e :guilabel:`Disparo` em seus respectivos campos suspensos, permitindo que o "
-"Odoo saiba quando a comunicação deve ser enviada."
+"Blue Connect saiba quando a comunicação deve ser enviada."
 
 #: ../../content/applications/marketing/events/create_events.rst:263
 msgid ""
@@ -5842,7 +5842,7 @@ msgstr ""
 #: ../../content/applications/marketing/events/create_events.rst:None
 msgid "Typical questions tab on an event form in the Odoo Events application."
 msgstr ""
-"Aba de perguntas em um formulário de evento no aplicativo Odoo Eventos."
+"Aba de perguntas em um formulário de evento no aplicativo Blue Connect Eventos."
 
 #: ../../content/applications/marketing/events/create_events.rst:312
 msgid ""
@@ -5851,7 +5851,7 @@ msgid ""
 "provide their :guilabel:`Name` and :guilabel:`Email`, and make it optional "
 "to include their :guilabel:`Phone` number, as well."
 msgstr ""
-"Por padrão, na aba :guilabel:`Perguntas` o Odoo fornece três perguntas  para "
+"Por padrão, na aba :guilabel:`Perguntas` o Blue Connect fornece três perguntas  para "
 "cada formulário de evento. As perguntas padrão exigem que o(s) inscrito(s) "
 "forneça(m) seu :guilabel:`Nome` e :guilabel:`E-mail`, e torna opcional a "
 "inclusão de seu número :guilabel:`Telefone` também."
@@ -5866,7 +5866,7 @@ msgid ""
 msgstr ""
 "As informações coletadas na aba :guilabel:`Perguntas` podem ser encontradas "
 "no painel :guilabel:`Participantes`, acessível pelo botão "
-"inteligente :icon:`fa-users` :guilabel:`Participantes`. O Odoo preenche "
+"inteligente :icon:`fa-users` :guilabel:`Participantes`. O Blue Connect preenche "
 "registros individuais que contêm informações básicas sobre o(s) inscrito(s), "
 "bem como suas preferências."
 
@@ -5885,7 +5885,7 @@ msgstr ""
 msgid ""
 "The Create Question pop-up window that appears in the Odoo Events "
 "application."
-msgstr "A janela pop-up Criar pergunta que aparece no aplicativo Odoo Eventos."
+msgstr "A janela pop-up Criar pergunta que aparece no aplicativo Blue Connect Eventos."
 
 #: ../../content/applications/marketing/events/create_events.rst:328
 msgid ""
@@ -5896,7 +5896,7 @@ msgid ""
 msgstr ""
 "Primeiro, insira a pergunta no campo na parte superior do formulário. Em "
 "seguida, decida se a pergunta deve exigir uma :guilabel:`Resposta "
-"obrigatória` e/ou se o Odoo deve :guilabel:`Perguntar uma vez por pedido`, "
+"obrigatória` e/ou se o Blue Connect deve :guilabel:`Perguntar uma vez por pedido`, "
 "marcando suas respectivas caixas, se desejar."
 
 #: ../../content/applications/marketing/events/create_events.rst:332
@@ -5911,7 +5911,7 @@ msgstr ""
 "marcada, a pergunta será feita apenas uma vez e seu valor será propagado "
 "para todos os participantes do pedido (se vários ingressos forem comprados "
 "de uma vez). Se a caixa de seleção *não* estiver marcada para essa "
-"configuração, o Odoo apresentará a pergunta para cada participante que "
+"configuração, o Blue Connect apresentará a pergunta para cada participante que "
 "estiver conectado a essa inscrição."
 
 #: ../../content/applications/marketing/events/create_events.rst:337
@@ -6023,7 +6023,7 @@ msgid ""
 msgstr ""
 "Para os tipos :guilabel:`Seleção` e :guilabel:`Entrada de texto`, um "
 "botão :icon:`fa-bar-chart` :guilabel:`Estatísticas` aparece no lado direito "
-"da linha da pergunta. Quando clicado, o Odoo abre uma página separada, "
+"da linha da pergunta. Quando clicado, o Blue Connect abre uma página separada, "
 "exibindo as métricas de resposta para aquela pergunta específica."
 
 #: ../../content/applications/marketing/events/create_events.rst:369
@@ -6059,7 +6059,7 @@ msgstr ""
 
 #: ../../content/applications/marketing/events/create_events.rst:None
 msgid "Typical notes tab on an event form in the Odoo Events application."
-msgstr "Aba de notas em um formulário de evento no aplicativo Odoo Eventos."
+msgstr "Aba de notas em um formulário de evento no aplicativo Blue Connect Eventos."
 
 #: ../../content/applications/marketing/events/create_events.rst:387
 msgid ""
@@ -6178,7 +6178,7 @@ msgid ""
 "200. To learn more about daily limits, visit the :ref:`email-issues-outgoing-"
 "delivery-failure-messages-limit` documentation."
 msgstr ""
-"O envio de e-mails do Odoo está sujeito a um limite diário, que, por padrão, "
+"O envio de e-mails do Blue Connect está sujeito a um limite diário, que, por padrão, "
 "é 200. Para saber mais sobre os limites diários, visite a "
 "documentação :ref:`email-issues-outgoing-delivery-failure-messages-limit`."
 
@@ -6192,7 +6192,7 @@ msgid ""
 "The Odoo *Events* application provides users with the ability to create "
 "event booths, sell their availability, and manage their reservations."
 msgstr ""
-"O aplicativo Odoo *Eventos* permite aos usuários criar estandes de eventos, "
+"O aplicativo Blue Connect *Eventos* permite aos usuários criar estandes de eventos, "
 "vender a sua disponibilidade e gerenciar as suas reservas."
 
 #: ../../content/applications/marketing/events/event_booths.rst:9
@@ -6222,7 +6222,7 @@ msgstr ""
 
 #: ../../content/applications/marketing/events/event_booths.rst:None
 msgid "The Booth Management setting in the Odoo Events application."
-msgstr "A definição de Gerenciamento de estandes no aplicativo Odoo Eventos."
+msgstr "A definição de Gerenciamento de estandes no aplicativo Blue Connect Eventos."
 
 #: ../../content/applications/marketing/events/event_booths.rst:22
 msgid ""
@@ -6269,7 +6269,7 @@ msgstr ""
 
 #: ../../content/applications/marketing/events/event_booths.rst:None
 msgid "The Booth Category page in the Odoo Events application."
-msgstr "A página Categoria de estande no app Odoo Eventos."
+msgstr "A página Categoria de estande no app Blue Connect Eventos."
 
 #: ../../content/applications/marketing/events/event_booths.rst:43
 msgid ""
@@ -6344,7 +6344,7 @@ msgstr ""
 #: ../../content/applications/marketing/events/event_booths.rst:None
 msgid "A typical booth category form in the Odoo Events application."
 msgstr ""
-"Um formulário típico de categoria de estande no aplicativo Odoo Eventos."
+"Um formulário típico de categoria de estande no aplicativo Blue Connect Eventos."
 
 #: ../../content/applications/marketing/events/event_booths.rst:69
 msgid ""
@@ -6481,7 +6481,7 @@ msgid ""
 "The Create Sponsor Level pop-up window that appears in the Odoo Events "
 "application."
 msgstr ""
-"A janela pop-up Criar nível de patrocinador que aparece no aplicativo Odoo "
+"A janela pop-up Criar nível de patrocinador que aparece no aplicativo Blue Connect "
 "Eventos."
 
 #: ../../content/applications/marketing/events/event_booths.rst:119
@@ -6602,12 +6602,12 @@ msgid ""
 "The booth form in Odoo *Events* lets users customize and configure event "
 "booths in a number of different ways."
 msgstr ""
-"O formulário de estande no Odoo *Eventos* permite aos usuários personalizar "
+"O formulário de estande no Blue Connect *Eventos* permite aos usuários personalizar "
 "e configurar os estandes de eventos de várias formas diferentes."
 
 #: ../../content/applications/marketing/events/event_booths.rst:None
 msgid "Typical booth form in the Odoo Events application."
-msgstr "Formulário de estande típico no aplicativo Odoo Eventos."
+msgstr "Formulário de estande típico no aplicativo Blue Connect Eventos."
 
 #: ../../content/applications/marketing/events/event_booths.rst:169
 msgid ""
@@ -6715,7 +6715,7 @@ msgid ""
 "Booth* event subheader link."
 msgstr ""
 "Com os estandes do evento configurados no formulário do evento, através das "
-"páginas *Estandes* específicas dos eventos, o Odoo exibe-os no site do "
+"páginas *Estandes* específicas dos eventos, o Blue Connect exibe-os no site do "
 "evento pelo link do subtítulo do evento *Reserve um estande*."
 
 #: ../../content/applications/marketing/events/event_booths.rst:208
@@ -6730,7 +6730,7 @@ msgstr ""
 "aplicativo o :menuselection:`Eventos` e selecione o evento em questão no "
 "painel de controle :guilabel:`Eventos`. No formulário do evento, clique no "
 "botão inteligente :guilabel:`Ir para o site` para ser levado para o site do "
-"evento criado pelo Odoo."
+"evento criado pelo Blue Connect."
 
 #: ../../content/applications/marketing/events/event_booths.rst:212
 msgid ""
@@ -6808,7 +6808,7 @@ msgstr ""
 #: ../../content/applications/marketing/events/event_booths.rst:None
 msgid "Typical Get A Booth page on the event website via the Odoo Events app."
 msgstr ""
-"Página Reserve um estande típica no site do evento pelo aplicativo Odoo "
+"Página Reserve um estande típica no site do evento pelo aplicativo Blue Connect "
 "Eventos."
 
 #: ../../content/applications/marketing/events/event_booths.rst:240
@@ -6911,7 +6911,7 @@ msgid ""
 "configure event templates, which can be used to expedite the event-creation "
 "process."
 msgstr ""
-"O aplicativo *Eventos* do Odoo oferece a capacidade de personalizar e "
+"O aplicativo *Eventos* do Blue Connect oferece a capacidade de personalizar e "
 "configurar modelos de eventos, que podem ser usados para agilizar o processo "
 "de criação de eventos."
 
@@ -6936,7 +6936,7 @@ msgid ""
 "In the Odoo *Events* application, event templates can quickly be created and "
 "modified."
 msgstr ""
-"No aplicativo Odoo *Eventos*, os modelos de eventos podem ser criados e "
+"No aplicativo Blue Connect *Eventos*, os modelos de eventos podem ser criados e "
 "modificados rapidamente."
 
 #: ../../content/applications/marketing/events/event_templates.rst:17
@@ -6952,7 +6952,7 @@ msgstr ""
 
 #: ../../content/applications/marketing/events/event_templates.rst:None
 msgid "The Event Templates page in the Odoo Events application."
-msgstr "A página Modelos de eventos no aplicativo Odoo Eventos."
+msgstr "A página Modelos de eventos no aplicativo Blue Connect Eventos."
 
 #: ../../content/applications/marketing/events/event_templates.rst:25
 msgid ""
@@ -6961,7 +6961,7 @@ msgid ""
 "and :guilabel:`Sport`, which all have their own unique customizations "
 "applied to them."
 msgstr ""
-"Por padrão, o Odoo fornece três modelos de eventos pré-"
+"Por padrão, o Blue Connect fornece três modelos de eventos pré-"
 "configurados: :guilabel:`Exposição`, :guilabel:`Treinamento` "
 "e :guilabel:`Esporte`, todos com suas próprias personalizações exclusivas "
 "aplicadas."
@@ -6996,7 +6996,7 @@ msgid ""
 "There are two ways to create and configure an event template in Odoo "
 "*Events*."
 msgstr ""
-"Há duas maneiras de criar e configurar um modelo de evento no Odoo *Eventos*."
+"Há duas maneiras de criar e configurar um modelo de evento no Blue Connect *Eventos*."
 
 #: ../../content/applications/marketing/events/event_templates.rst:41
 msgid ""
@@ -7062,7 +7062,7 @@ msgstr ""
 
 #: ../../content/applications/marketing/events/event_templates.rst:None
 msgid "A standard event template form in the Odoo Events application."
-msgstr "Um formulário de modelo de evento padrão no aplicativo Odoo Eventos."
+msgstr "Um formulário de modelo de evento padrão no aplicativo Blue Connect Eventos."
 
 #: ../../content/applications/marketing/events/event_templates.rst:67
 msgid ""
@@ -7277,7 +7277,7 @@ msgid ""
 "Categories`, and click :guilabel:`New`."
 msgstr ""
 "Estandes de eventos podem ser criados e personalizados de duas maneiras no "
-"aplicativo Odoo *Eventos*. Na aba :guilabel:`Estandes` de um formulário de "
+"aplicativo Blue Connect *Eventos*. Na aba :guilabel:`Estandes` de um formulário de "
 "modelo de evento ou navegando até :menuselection:`app Eventos --> "
 "Configuração --> Categorias de estandes` e clicando em :guilabel:`Novo`."
 
@@ -7293,7 +7293,7 @@ msgstr ""
 
 #: ../../content/applications/marketing/events/event_templates.rst:None
 msgid "A Create Booths pop-up window in the Odoo Events application."
-msgstr "Janela pop-up \"Criar estandes\" no aplicativo Odoo Eventos."
+msgstr "Janela pop-up \"Criar estandes\" no aplicativo Blue Connect Eventos."
 
 #: ../../content/applications/marketing/events/event_templates.rst:145
 msgid ""
@@ -7346,7 +7346,7 @@ msgstr ""
 #: ../../content/applications/marketing/events/event_templates.rst:None
 msgid "The Create Booth Category pop-up window in the Odoo Events application."
 msgstr ""
-"Janela pop-up \"Criar categoria de estande\" no aplicativo Odoo Eventos."
+"Janela pop-up \"Criar categoria de estande\" no aplicativo Blue Connect Eventos."
 
 #: ../../content/applications/marketing/events/event_templates.rst:167
 msgid ""
@@ -7446,7 +7446,7 @@ msgid ""
 "the Odoo *Events* application."
 msgstr ""
 "O modelo de evento, quando concluído, poderá ser acessado em todos os "
-"formulários de eventos no aplicativo Odoo *Eventos*."
+"formulários de eventos no aplicativo Blue Connect *Eventos*."
 
 #: ../../content/applications/marketing/events/event_templates.rst:202
 msgid ""
@@ -7496,9 +7496,9 @@ msgid ""
 "lectures, demonstrations, presentations, etc., which known as *Tracks* in "
 "Odoo."
 msgstr ""
-"O Odoo *Eventos* permite criar, programar e gerenciar palestras, "
+"O Blue Connect *Eventos* permite criar, programar e gerenciar palestras, "
 "conferências, demonstrações, apresentações etc., chamadas de *Sessões* no "
-"Odoo."
+"Blue Connect."
 
 #: ../../content/applications/marketing/events/event_tracks.rst:8
 msgid ""
@@ -7506,7 +7506,7 @@ msgid ""
 "propose talks (tracks) for an event, which can then be approved (or "
 "disapproved)."
 msgstr ""
-"O aplicativo Odoo *Eventos* também tem a opção de permitir que os "
+"O aplicativo Blue Connect *Eventos* também tem a opção de permitir que os "
 "participantes no evento proponham palestras (sessões) para um evento, que "
 "podem então ser aprovadas (ou não)."
 
@@ -7545,7 +7545,7 @@ msgid ""
 "The Schedule and Tracks setting in the Odoo Events app, along with "
 "corresponding options."
 msgstr ""
-"A definição Programação e Sessões no aplicativo Odoo Eventos, juntamente com "
+"A definição Programação e Sessões no aplicativo Blue Connect Eventos, juntamente com "
 "as opções correspondentes."
 
 #: ../../content/applications/marketing/events/event_tracks.rst:28
@@ -7644,7 +7644,7 @@ msgstr ""
 
 #: ../../content/applications/marketing/events/event_tracks.rst:None
 msgid "Typical event tracks page for an event in the Odoo Events application."
-msgstr "Página de sessões de um evento no aplicativo Odoo Eventos."
+msgstr "Página de sessões de um evento no aplicativo Blue Connect Eventos."
 
 #: ../../content/applications/marketing/events/event_tracks.rst:67
 msgid ""
@@ -7712,7 +7712,7 @@ msgstr ""
 
 #: ../../content/applications/marketing/events/event_tracks.rst:None
 msgid "Typical event track form in the Odoo Events application."
-msgstr "Formulário de sessão de evento no aplicativo Odoo Eventos."
+msgstr "Formulário de sessão de evento no aplicativo Blue Connect Eventos."
 
 #: ../../content/applications/marketing/events/event_tracks.rst:96
 msgid ""
@@ -7842,7 +7842,7 @@ msgstr ""
 msgid "The Speaker tab on an event track form in the Odoo Events application."
 msgstr ""
 "A aba \"Palestrante\" em um formulário de sessão de evento no aplicativo "
-"Odoo Eventos."
+"Blue Connect Eventos."
 
 #: ../../content/applications/marketing/events/event_tracks.rst:147
 msgid "Contact Details section"
@@ -7983,7 +7983,7 @@ msgid ""
 "The Interactivity tab on an event track form in the Odoo Events application."
 msgstr ""
 "A aba \"Interatividade\" em um formulário de sessão de evento no aplicativo "
-"Odoo Eventos."
+"Blue Connect Eventos."
 
 #: ../../content/applications/marketing/events/event_tracks.rst:208
 msgid ""
@@ -7992,7 +7992,7 @@ msgid ""
 "is taking place."
 msgstr ""
 "Quando a caixa de seleção ao lado de :guilabel:`Botão mágico` está "
-"selecionada, o Odoo mostra um botão de *chamada para ação* aos participantes "
+"selecionada, o Blue Connect mostra um botão de *chamada para ação* aos participantes "
 "na barra lateral da sessão, durante seu decorrimento."
 
 #: ../../content/applications/marketing/events/event_tracks.rst:211
@@ -8044,7 +8044,7 @@ msgid ""
 msgstr ""
 "O botão :guilabel:`Adicionar questionário` **só** aparece nos formulários de "
 "inscrição de eventos se a definição *Gamificação de eventos* estiver ativada "
-"nas definições do Odoo *Eventos*."
+"nas definições do Blue Connect *Eventos*."
 
 #: ../../content/applications/marketing/events/event_tracks.rst:231
 msgid ""
@@ -8060,7 +8060,7 @@ msgstr ""
 #: ../../content/applications/marketing/events/event_tracks.rst:None
 msgid "The Add Quiz page in the Odoo Events application for an event track."
 msgstr ""
-"A página Adicionar questionário no aplicativo Odoo Eventos para uma sessão "
+"A página Adicionar questionário no aplicativo Blue Connect Eventos para uma sessão "
 "de evento."
 
 #: ../../content/applications/marketing/events/event_tracks.rst:238
@@ -8099,7 +8099,7 @@ msgid ""
 "Odoo Events app."
 msgstr ""
 "A janela pop-up Criar perguntas em um questionário de sessão específico de "
-"um evento no aplicativo Odoo Eventos."
+"um evento no aplicativo Blue Connect Eventos."
 
 #: ../../content/applications/marketing/events/event_tracks.rst:253
 msgid "**All** track quiz questions are multiple choice."
@@ -8217,7 +8217,7 @@ msgid ""
 "the event website."
 msgstr ""
 "Se uma sessão de evento ainda não tiver sido publicada e for movida para o "
-"estágio :guilabel:`Publicado`, o Odoo publica automaticamente a sessão no "
+"estágio :guilabel:`Publicado`, o Blue Connect publica automaticamente a sessão no "
 "site do evento."
 
 #: ../../content/applications/marketing/events/event_tracks.rst:298
@@ -8244,7 +8244,7 @@ msgid ""
 "Events."
 msgstr ""
 "Opções do submenu de eventos relacionadas com a sessão em um site de eventos "
-"criado com o Odoo Eventos."
+"criado com o Blue Connect Eventos."
 
 #: ../../content/applications/marketing/events/registration_desk.rst:5
 msgid ""
@@ -8252,7 +8252,7 @@ msgid ""
 "registered event attendees as they arrive, and store attendee-related data "
 "in the reporting metrics."
 msgstr ""
-"Use o recurso *Balcão de registro* no Odoo **Eventos** para conceder acesso "
+"Use o recurso *Balcão de registro* no Blue Connect **Eventos** para conceder acesso "
 "aos participantes registrados do evento à medida que eles chegam e armazenar "
 "dados relacionados aos participantes nas métricas de relatório."
 
@@ -8266,13 +8266,13 @@ msgid ""
 "the :menuselection:`Events app`, and click the :guilabel:`Registration Desk` "
 "to view the :guilabel:`Registration Desk` page."
 msgstr ""
-"Em um dispositivo móvel (no aplicativo Odoo ou em um navegador), abra o "
+"Em um dispositivo móvel (no aplicativo Blue Connect ou em um navegador), abra o "
 "aplicativo :menuselection:`Eventos` e clique em :guilabel:`Balcão de "
 "registro` para visualizar a página :guilabel:`Balcão de registro`."
 
 #: ../../content/applications/marketing/events/registration_desk.rst:None
 msgid "The Registration Desk page in the Odoo Events application."
-msgstr "A página do Balcão de registro no aplicativo Odoo Eventos."
+msgstr "A página do Balcão de registro no aplicativo Blue Connect Eventos."
 
 #: ../../content/applications/marketing/events/registration_desk.rst:18
 msgid ""
@@ -8301,7 +8301,7 @@ msgid ""
 "Odoo **must** be granted access to the camera being used for "
 "the :guilabel:`Scan a badge` option to work."
 msgstr ""
-"O Odoo **precisa** ter acesso à câmera que está sendo usada para que a "
+"O Blue Connect **precisa** ter acesso à câmera que está sendo usada para que a "
 "opção :guilabel:`Escanear um crachá` funcione."
 
 #: ../../content/applications/marketing/events/registration_desk.rst:31
@@ -8311,7 +8311,7 @@ msgid ""
 "specified view finder box present, whose size can be manually modified, "
 "accordingly, using the :icon:`fa-crop` :guilabel:`(crop)` icon."
 msgstr ""
-"Quando o Odoo tiver acesso à câmera, uma janela pop-up :guilabel:`Leitor de "
+"Quando o Blue Connect tiver acesso à câmera, uma janela pop-up :guilabel:`Leitor de "
 "código de barras` será exibida, mostrando o ponto de vista da câmera. Há "
 "também uma caixa de visualização presente, cujo tamanho pode ser modificado "
 "manualmente com o ícone :icon:`fa-crop` :guilabel:`(cortar)`."
@@ -8322,7 +8322,7 @@ msgid ""
 "application."
 msgstr ""
 "A janela do leitor de código de barras do balcão de registro no aplicativo "
-"Odoo Eventos."
+"Blue Connect Eventos."
 
 #: ../../content/applications/marketing/events/registration_desk.rst:39
 msgid ""
@@ -8335,7 +8335,7 @@ msgstr ""
 "visualização, o código será escaneado, a janela pop-up do :guilabel:`Leitor "
 "de código de barras` desaparecerá e o participante terá acesso ao evento. "
 "Depois que o código é escaneado, a presença do participante é registrada no "
-"aplicativo **Eventos** do Odoo."
+"aplicativo **Eventos** do Blue Connect."
 
 #: ../../content/applications/marketing/events/registration_desk.rst:43
 msgid ""
@@ -8365,7 +8365,7 @@ msgid ""
 "event in the database, in a default :icon:`oi-view-"
 "kanban` :guilabel:`Kanban` view."
 msgstr ""
-"O Odoo revela uma página :guilabel:`Participantes`, com todos os "
+"O Blue Connect revela uma página :guilabel:`Participantes`, com todos os "
 "participantes de cada evento na base de dados, em uma visualização "
 "padrão :icon:`oi-view-kanban` :guilabel:`Kanban`."
 
@@ -8375,7 +8375,7 @@ msgid ""
 "application."
 msgstr ""
 "A página Participantes, por meio do Balcão de Registro, localizada no "
-"aplicativo Odoo Eventos."
+"aplicativo Blue Connect Eventos."
 
 #: ../../content/applications/marketing/events/registration_desk.rst:58
 msgid ""
@@ -8437,7 +8437,7 @@ msgid ""
 msgstr ""
 "Por exemplo, clique na opção :guilabel:`Evento`, na "
 "coluna :guilabel:`Agrupar por`. Em seguida, clique fora da caixa para "
-"remover o menu suspenso. O Odoo abre a página :guilabel:`Participantes` com "
+"remover o menu suspenso. O Blue Connect abre a página :guilabel:`Participantes` com "
 "colunas específicas do evento, permitindo que os usuários localizem "
 "participantes específicos do evento."
 
@@ -8452,7 +8452,7 @@ msgid ""
 "related data and analytics. These reports can either be focused on "
 "*Attendees* or *Revenues*."
 msgstr ""
-"O aplicativo Odoo **Eventos** cria relatórios personalizados, com base em "
+"O aplicativo Blue Connect **Eventos** cria relatórios personalizados, com base em "
 "dados e análises relacionados a eventos. Esses relatórios podem se "
 "concentrar em *Participantes* ou *Receitas*."
 
@@ -8481,7 +8481,7 @@ msgid ""
 "The default view of the Revenues reporting page in the Odoo Events "
 "application."
 msgstr ""
-"A visualização padrão da página de relatório de receitas no aplicativo Odoo "
+"A visualização padrão da página de relatório de receitas no aplicativo Blue Connect "
 "Eventos."
 
 #: ../../content/applications/marketing/events/revenues_report.rst:20
@@ -8835,7 +8835,7 @@ msgid ""
 msgstr ""
 ":guilabel:`Adicionar grupo personalizado`: Clique no ícone :icon:`fa-caret-"
 "down` :guilabel:`(seta para baixo)` para revelar um menu suspenso de opções "
-"de agrupamento. Para selecionar uma, clique na opção desejada e o Odoo a "
+"de agrupamento. Para selecionar uma, clique na opção desejada e o Blue Connect a "
 "adiciona à coluna :guilabel:`Agrupar por`. É possível fazer várias seleções."
 
 #: ../../content/applications/marketing/events/revenues_report.rst:129
@@ -8935,7 +8935,7 @@ msgid ""
 "representation of data related to all *free* or *sold* tickets for "
 "*published events*, grouped by *event*, and organized by *ticket* type."
 msgstr ""
-"Se nenhum filtro ou agrupamento adicional for adicionado, o Odoo apresentará "
+"Se nenhum filtro ou agrupamento adicional for adicionado, o Blue Connect apresentará "
 "uma representação gráfica dos dados relacionados a todos os ingressos "
 "*gratuitos* ou *vendidos* para *eventos publicados*, agrupados por *evento* "
 "e organizados por tipo de *ingresso*."
@@ -9018,7 +9018,7 @@ msgid ""
 "Odoo *Events* provides users with the ability to create custom event tickets "
 "(and ticket tiers), with various price points."
 msgstr ""
-"O Odoo *Eventos* oferece aos usuários a capacidade de criar ingressos de "
+"O Blue Connect *Eventos* oferece aos usuários a capacidade de criar ingressos de "
 "eventos personalizados (e níveis de ingressos), com vários pontos de preço."
 
 #: ../../content/applications/marketing/events/sell_tickets.rst:8
@@ -9034,7 +9034,7 @@ msgid ""
 "Odoo also simplifies the ticket-purchasing process by providing plenty of "
 "payment method options."
 msgstr ""
-"O Odoo também simplifica o processo de compra de ingressos, oferecendo "
+"O Blue Connect também simplifica o processo de compra de ingressos, oferecendo "
 "várias opções de formas de pagamento."
 
 #: ../../content/applications/marketing/events/sell_tickets.rst:14
@@ -9049,7 +9049,7 @@ msgstr ""
 msgid ""
 "In order to sell event tickets in Odoo, some settings must first be enabled."
 msgstr ""
-"Para vender ingressos de eventos no Odoo, algumas definições devem ser "
+"Para vender ingressos de eventos no Blue Connect, algumas definições devem ser "
 "ativadas primeiro."
 
 #: ../../content/applications/marketing/events/sell_tickets.rst:22
@@ -9098,7 +9098,7 @@ msgstr ""
 
 #: ../../content/applications/marketing/events/sell_tickets.rst:None
 msgid "View of the settings page for Odoo Events."
-msgstr "Visualização da página de definições do Odoo Eventos."
+msgstr "Visualização da página de definições do Blue Connect Eventos."
 
 #: ../../content/applications/marketing/events/sell_tickets.rst:42
 msgid ""
@@ -9107,9 +9107,9 @@ msgid ""
 "creates three event registration products (with the *Product Type* set to "
 "*Event Ticket*) that can be used or modified for event tickets."
 msgstr ""
-"Com essas configurações ativadas, o Odoo cria automaticamente um novo *Tipo "
+"Com essas configurações ativadas, o Blue Connect cria automaticamente um novo *Tipo "
 "de produto* chamado *Ingresso de evento*, que pode ser acessado em todos os "
-"formulários de produtos. O Odoo também cria três produtos de inscrição em "
+"formulários de produtos. O Blue Connect também cria três produtos de inscrição em "
 "eventos (com o *Tipo de produto* definido como *Ingresso de evento*) que "
 "podem ser usados ou modificados para ingressos de eventos."
 
@@ -9129,7 +9129,7 @@ msgid ""
 "in Odoo."
 msgstr ""
 "Visualização de um formulário de evento destacando a coluna produto na aba "
-"ingressos no Odoo."
+"ingressos no Blue Connect."
 
 #: ../../content/applications/marketing/events/sell_tickets.rst:56
 msgid ""
@@ -9147,7 +9147,7 @@ msgstr ""
 msgid "View of an event's form and the sales smart button in Odoo Events."
 msgstr ""
 "Visualização do formulário de um evento e do botão inteligente de vendas no "
-"Odoo Eventos."
+"Blue Connect Eventos."
 
 #: ../../content/applications/marketing/events/sell_tickets.rst:64
 msgid ""
@@ -9360,7 +9360,7 @@ msgid ""
 "where attendees can quickly access various tracks (talks, presentations, "
 "etc.), view entire agendas, and propose talks for the event."
 msgstr ""
-"Com o Odoo *Eventos*, os usuários podem usar um site de eventos totalmente "
+"Com o Blue Connect *Eventos*, os usuários podem usar um site de eventos totalmente "
 "integrado, onde é possível acessar rapidamente várias sessões (palestras, "
 "apresentações, etc.), ver agendas completas e propor palestras para o evento."
 
@@ -9377,9 +9377,9 @@ msgid ""
 "that event's website."
 msgstr ""
 "Para acessar ao site de um evento, navegue para o formulário do evento "
-"específico no aplicativo Odoo *Eventos* e clique no botão "
+"específico no aplicativo Blue Connect *Eventos* e clique no botão "
 "inteligente :guilabel:`Ir para o site`. Ou, enquanto estiver no site "
-"construído pelo Odoo para a empresa, clique na opção  :guilabel:`Eventos` do "
+"construído pelo Blue Connect para a empresa, clique na opção  :guilabel:`Eventos` do "
 "cabeçalho e selecione o evento desejado para ver o site dele."
 
 #: ../../content/applications/marketing/events/track_manage_talks.rst:17
@@ -9397,7 +9397,7 @@ msgid ""
 "the event website: :guilabel:`Talks`, :guilabel:`Talk Proposals`, "
 "and :guilabel:`Agenda`."
 msgstr ""
-"Com a definição *Programação e Sessões* ativada no aplicativo Odoo "
+"Com a definição *Programação e Sessões* ativada no aplicativo Blue Connect "
 "*Eventos*, os seguintes links são automaticamente adicionados ao menu do "
 "subtítulo, localizado no site do "
 "evento: :guilabel:`Palestras`, :guilabel:`Propostas de palestra`, "
@@ -9430,7 +9430,7 @@ msgstr ""
 msgid ""
 "The Talks page on an event website built through the Odoo Events application."
 msgstr ""
-"A página Palestras em um site de evento criado através do aplicativo Odoo "
+"A página Palestras em um site de evento criado através do aplicativo Blue Connect "
 "Eventos."
 
 #: ../../content/applications/marketing/events/track_manage_talks.rst:42
@@ -9467,7 +9467,7 @@ msgid ""
 "selected, Odoo presents all the event tracks."
 msgstr ""
 "Se nenhuma faixa tiver sido favorita e o filtro :guilabel:`Favorites` "
-"estiver selecionado, o Odoo apresenta todas as faixas do evento."
+"estiver selecionado, o Blue Connect apresenta todas as faixas do evento."
 
 #: ../../content/applications/marketing/events/track_manage_talks.rst:55
 msgid ""
@@ -9592,7 +9592,7 @@ msgid ""
 "application."
 msgstr ""
 "A página de propostas de palestras no site do evento foi criada com o "
-"aplicativo Odoo Eventos."
+"aplicativo Blue Connect Eventos."
 
 #: ../../content/applications/marketing/events/track_manage_talks.rst:101
 msgid ""
@@ -9696,7 +9696,7 @@ msgid ""
 "The event Agenda page on the event website built with the Odoo Events "
 "application."
 msgstr ""
-"A página Agenda do evento no site do evento criado com o aplicativo Odoo "
+"A página Agenda do evento no site do evento criado com o aplicativo Blue Connect "
 "Eventos."
 
 #: ../../content/applications/marketing/events/track_manage_talks.rst:138
@@ -9718,7 +9718,7 @@ msgid ""
 "such as sending a series of timed mass emails or engaging with leads based "
 "on their interactions with marketing campaigns."
 msgstr ""
-"Use o aplicativo **Automação de marketing** do Odoo para criar campanhas "
+"Use o aplicativo **Automação de marketing** do Blue Connect para criar campanhas "
 "dinâmicas com ações que ocorrem automaticamente dentro de uma duração "
 "definida, como o envio de uma série de e-mails em massa cronometrados, ou o "
 "engajamento com leads com base em suas interações com campanhas de marketing."
@@ -9748,7 +9748,7 @@ msgstr ""
 #: ../../content/applications/marketing/social_marketing.rst:12
 msgid "`Odoo Tutorials: Marketing <https://www.odoo.com/slides/marketing-27>`_"
 msgstr ""
-"Tutoriais do Odoo: Marketing <https://www.odoo.com/slides/marketing-27>`_"
+"Tutoriais do Blue Connect: Marketing <https://www.odoo.com/slides/marketing-27>`_"
 
 #: ../../content/applications/marketing/marketing_automation.rst:20
 msgid ""
@@ -9807,7 +9807,7 @@ msgid ""
 msgstr ""
 "A instalação do aplicativo *Automação de marketing* também instala o "
 "app :doc:`Marketing por e-mail <email_marketing>`, já que a maioria dos "
-"recursos do Odoo *Automação de marketing* depende desse aplicativo em "
+"recursos do Blue Connect *Automação de marketing* depende desse aplicativo em "
 "específico."
 
 #: ../../content/applications/marketing/marketing_automation.rst:55
@@ -9874,7 +9874,7 @@ msgid ""
 "*Campaigns* dashboard are replaced with a Kanban view of the existing "
 "campaigns."
 msgstr ""
-"O Odoo fornece seis modelos de campanha para ajudar os usuários a começar. "
+"O Blue Connect fornece seis modelos de campanha para ajudar os usuários a começar. "
 "Os cartões de modelo de campanha **só** são exibidos quando não há campanhas "
 "existentes na base de dados. Depois que uma campanha é criada, os cartões de "
 "modelo no painel *Campanhas* são substituídos por uma visualização Kanban "
@@ -9888,7 +9888,7 @@ msgid ""
 "template <marketing_automation/campaign_templates>` cards:"
 msgstr ""
 "Para começar a usar um modelo, navegue até o aplicativo :menuselection:`MKT: "
-"Automação`, no painel principal do Odoo, para abrir o "
+"Automação`, no painel principal do Blue Connect, para abrir o "
 "painel :guilabel:`Campanhas`, que exibe seis :doc:`modelo de campanha "
 "<marketing_automation/campaign_templates>` cartões:"
 
@@ -10266,7 +10266,7 @@ msgstr ""
 "distribuição padrão *Newsletter* recebem um e-mail de confirmação para fazer "
 "o double opt-in. Os contatos que clicam no link de confirmação no e-mail são "
 "automaticamente adicionados à lista de distribuição *Contatos confirmados* "
-"no Odoo."
+"no Blue Connect."
 
 #: ../../content/applications/marketing/marketing_automation/campaign_templates/double_optin.rst:17
 msgid ""
@@ -10559,14 +10559,14 @@ msgid ""
 "mailing list on the form submission."
 msgstr ""
 "Para se preparar para o envio de e-mails de marketing de newsletter em uma "
-"base de dados do Odoo, é necessário obter uma lista de contatos de "
+"base de dados do Blue Connect, é necessário obter uma lista de contatos de "
 "distribuição. Uma forma de coletar assinantes é por meio de um formulário de "
 "inscrição no site, cujo envio adicionará contatos à lista de distribuição "
 "*Newsletter*."
 
 #: ../../content/applications/marketing/marketing_automation/campaign_templates/double_optin.rst:None
 msgid "Newsletter sign-up form on Odoo website footer."
-msgstr "Formulário de inscrição na newsletter no rodapé do site Odoo."
+msgstr "Formulário de inscrição na newsletter no rodapé do site Blue Connect."
 
 #: ../../content/applications/marketing/marketing_automation/campaign_templates/double_optin.rst:137
 msgid ""
@@ -10600,7 +10600,7 @@ msgid ""
 "newsletter marketing emails from an Odoo database."
 msgstr ""
 "Agora, a lista de distribuição *Contatos confirmados* está pronta para ser "
-"usada para enviar e-mails de newsletters de uma base de dados do Odoo."
+"usada para enviar e-mails de newsletters de uma base de dados do Blue Connect."
 
 #: ../../content/applications/marketing/marketing_automation/campaign_templates/double_optin.rst:153
 msgid ":doc:`../understanding_metrics`"
@@ -10840,7 +10840,7 @@ msgid ""
 "(and mailings) before officially running them to check for errors and "
 "correct any mistakes before it reaches its target audience."
 msgstr ""
-"O aplicativo Odoo *MKT: Automação* permite que os usuários testem campanhas "
+"O aplicativo Blue Connect *MKT: Automação* permite que os usuários testem campanhas "
 "de marketing (e comunicações) antes de executá-las oficialmente para "
 "verificar se há erros e corrigi-los antes que alcancem seu público-alvo."
 
@@ -10890,7 +10890,7 @@ msgstr ""
 msgid ""
 "Launch a test button on a campaign detail form in Odoo Marketing Automation."
 msgstr ""
-"Botão de iniciar teste em um formulário de detalhes de campanha no Odoo MKT: "
+"Botão de iniciar teste em um formulário de detalhes de campanha no Blue Connect MKT: "
 "Automação."
 
 #: ../../content/applications/marketing/marketing_automation/testing_running.rst:30
@@ -10899,7 +10899,7 @@ msgstr "Ao clicar, uma janela pop-up :guilabel:`Iniciar um teste` é exibida."
 
 #: ../../content/applications/marketing/marketing_automation/testing_running.rst:None
 msgid "Launch a test pop-up window that appears in Odoo Markting Automation."
-msgstr "Abra uma janela pop-up de teste que aparece no Odoo MKT: Automação."
+msgstr "Abra uma janela pop-up de teste que aparece no Blue Connect MKT: Automação."
 
 #: ../../content/applications/marketing/marketing_automation/testing_running.rst:36
 msgid ""
@@ -10937,7 +10937,7 @@ msgid ""
 "Odoo."
 msgstr ""
 "Digitar um novo contato diretamente na janela pop-up de início de um teste "
-"no Odoo."
+"no Blue Connect."
 
 #: ../../content/applications/marketing/marketing_automation/testing_running.rst:50
 msgid ""
@@ -10958,7 +10958,7 @@ msgid ""
 "Automation."
 msgstr ""
 "Um formulário de contato em branco de uma janela pop-up de início de teste "
-"no Odoo MKT: Automação."
+"no Blue Connect MKT: Automação."
 
 #: ../../content/applications/marketing/marketing_automation/testing_running.rst:58
 msgid ""
@@ -10979,7 +10979,7 @@ msgstr ""
 
 #: ../../content/applications/marketing/marketing_automation/testing_running.rst:None
 msgid "Test screen in Odoo Marketing Automation."
-msgstr "Tela de teste no Odoo MKT: Automação."
+msgstr "Tela de teste no Blue Connect MKT: Automação."
 
 #: ../../content/applications/marketing/marketing_automation/testing_running.rst:67
 msgid ""
@@ -11006,7 +11006,7 @@ msgid ""
 msgstr ""
 "Para iniciar um teste, clique no botão :guilabel:`Executar`, representado "
 "por um ícone :guilabel:`▶️ (botão play)` ao lado da primeira atividade no "
-"fluxo de trabalho. Quando clicado, a página é recarregada e o Odoo mostra os "
+"fluxo de trabalho. Quando clicado, a página é recarregada e o Blue Connect mostra os "
 "vários resultados (e análises) ligados a essa atividade específica à medida "
 "que eles ocorrem, em tempo real."
 
@@ -11023,7 +11023,7 @@ msgstr ""
 
 #: ../../content/applications/marketing/marketing_automation/testing_running.rst:None
 msgid "Workflow test progress in Odoo Marketing Automation."
-msgstr "Progresso do teste de fluxo de trabalho no Odoo MKT: Automação."
+msgstr "Progresso do teste de fluxo de trabalho no Blue Connect MKT: Automação."
 
 #: ../../content/applications/marketing/marketing_automation/testing_running.rst:85
 msgid ""
@@ -11148,7 +11148,7 @@ msgid ""
 "campaign in Odoo."
 msgstr ""
 "A linha de botões inteligentes que são exibidos em uma campanha de marketing "
-"em execução no Odoo."
+"em execução no Blue Connect."
 
 #: ../../content/applications/marketing/marketing_automation/testing_running.rst:133
 msgid "Stop campaigns"
@@ -11172,7 +11172,7 @@ msgid ""
 "Automation application."
 msgstr ""
 "O botão parar em um formulário típico de detalhes de campanha no aplicativo "
-"Odoo MKT: Automação."
+"Blue Connect MKT: Automação."
 
 #: ../../content/applications/marketing/marketing_automation/testing_running.rst:143
 msgid ""
@@ -11188,7 +11188,7 @@ msgid ""
 "Marketing campaign's stopped status on a campaign detail form in Odoo "
 "Marketing Automation."
 msgstr ""
-"Status de interrompido em um formulário de detalhes da campanha no Odoo MKT: "
+"Status de interrompido em um formulário de detalhes da campanha no Blue Connect MKT: "
 "Automação."
 
 #: ../../content/applications/marketing/marketing_automation/testing_running.rst:151
@@ -11237,7 +11237,7 @@ msgid ""
 "Odoo."
 msgstr ""
 "Um bloco de atividades na seção de fluxo de trabalho com dados analíticos "
-"úteis no Odoo."
+"úteis no Blue Connect."
 
 #: ../../content/applications/marketing/marketing_automation/understanding_metrics.rst:21
 msgid ""
@@ -11270,7 +11270,7 @@ msgid ""
 "Automation."
 msgstr ""
 "Visualização do acionador de tempo quando dependente de outra atividade no "
-"Odoo MKT: Automação."
+"Blue Connect MKT: Automação."
 
 #: ../../content/applications/marketing/marketing_automation/understanding_metrics.rst:34
 msgid ""
@@ -11354,7 +11354,7 @@ msgid ""
 "Odoo."
 msgstr ""
 "Passar o mouse sobre qualquer ponto no gráfico de linhas revela um "
-"detalhamento anotado dos dados no Odoo."
+"detalhamento anotado dos dados no Blue Connect."
 
 #: ../../content/applications/marketing/marketing_automation/understanding_metrics.rst:70
 msgid ""
@@ -11397,7 +11397,7 @@ msgstr ""
 #: ../../content/applications/marketing/marketing_automation/understanding_metrics.rst:None
 msgid ""
 "What a campaign activity filter tab looks like in Odoo Marketing Automation."
-msgstr "Uma aba de filtro de atividade de campanha no Odoo MKT: Automação."
+msgstr "Uma aba de filtro de atividade de campanha no Blue Connect MKT: Automação."
 
 #: ../../content/applications/marketing/marketing_automation/understanding_metrics.rst:89
 msgid ""
@@ -11430,7 +11430,7 @@ msgid ""
 "Reporting --> Link Tracker`. Doing so reveals a :guilabel:`Link Statistics` "
 "page, wherein all campaign-related URLs can be analyzed."
 msgstr ""
-"O Odoo rastreia todos os URLs usados em campanhas de marketing. Para acessar "
+"O Blue Connect rastreia todos os URLs usados em campanhas de marketing. Para acessar "
 "e analisar esses URLs, navegue até o :menuselection:`app MKT: Automação --> "
 "Relatórios --> Link Tracker`. Isso revela uma página :guilabel:`Estatísticas "
 "de link`, na qual todos os URLs relacionados à campanha podem ser analisados."
@@ -11498,14 +11498,14 @@ msgid ""
 "the :guilabel:`Traces` page, which can be found by navigating "
 "to :menuselection:`Marketing Automation app --> Reporting --> Traces`."
 msgstr ""
-"O Odoo rastreia todas as atividades usadas em cada campanha de marketing. Os "
+"O Blue Connect rastreia todas as atividades usadas em cada campanha de marketing. Os "
 "dados relacionados a essas atividades podem ser acessados e analisados na "
 "página :guilabel:`Rastreamentos`, que pode ser encontrada navegando "
 "até :menuselection:`app MKT: Automação --> Relatórios --> Rastreamentos`."
 
 #: ../../content/applications/marketing/marketing_automation/understanding_metrics.rst:None
 msgid "The Traces page in the Odoo Marketing Automation application."
-msgstr "A página Rastreamentos no aplicativo Odoo MKT: Automação."
+msgstr "A página Rastreamentos no aplicativo Blue Connect MKT: Automação."
 
 #: ../../content/applications/marketing/marketing_automation/understanding_metrics.rst:135
 msgid ""
@@ -11566,7 +11566,7 @@ msgid ""
 "the :guilabel:`Participants` page, which can be found by navigating "
 "to :menuselection:`Marketing Automation app --> Reporting --> Participants`."
 msgstr ""
-"O Odoo rastreia todos os participantes relacionados a cada campanha de "
+"O Blue Connect rastreia todos os participantes relacionados a cada campanha de "
 "marketing. Os dados relacionados a esses participantes podem ser acessados e "
 "analisados na página :guilabel:`Participantes`, que pode ser encontrada "
 "navegando até :menuselection:`app MKT: Automação --> Relatórios --> "
@@ -11574,7 +11574,7 @@ msgstr ""
 
 #: ../../content/applications/marketing/marketing_automation/understanding_metrics.rst:None
 msgid "The Participants page in the Odoo Marketing Automation application."
-msgstr "A página Participantes no aplicativo Odoo MKT: Automação."
+msgstr "A página Participantes no aplicativo Blue Connect MKT: Automação."
 
 #: ../../content/applications/marketing/marketing_automation/understanding_metrics.rst:167
 msgid ""
@@ -11631,7 +11631,7 @@ msgstr ""
 
 #: ../../content/applications/marketing/marketing_automation/workflow_activities.rst:13
 msgid "A workflow in an Odoo Marketing Automation campaign."
-msgstr "Um fluxo de trabalho em uma campanha do Odoo MKT: Automação."
+msgstr "Um fluxo de trabalho em uma campanha do Blue Connect MKT: Automação."
 
 #: ../../content/applications/marketing/marketing_automation/workflow_activities.rst:13
 msgid ""
@@ -12442,7 +12442,7 @@ msgid ""
 "yield higher :abbr:`CTOR (click-to-open rate)` and :abbr:`CTR (click-through "
 "rate)` outcomes."
 msgstr ""
-"O aplicativo *Marketing por SMS* do Odoo também pode ajudar a aumentar as "
+"O aplicativo *Marketing por SMS* do Blue Connect também pode ajudar a aumentar as "
 "taxas de conversão em ações de valor, como registros de eventos, testes "
 "gratuitos, compras, etc., uma vez que os canais de marketing baseados em "
 "texto e em dispositivos móveis normalmente produzem resultados mais altos "
@@ -12522,7 +12522,7 @@ msgid ""
 "been created, along with pertinent information and data related to that "
 "specific message."
 msgstr ""
-"Quando o aplicativo é aberto, o Odoo exibe o painel principal "
+"Quando o aplicativo é aberto, o Blue Connect exibe o painel principal "
 "de :guilabel:`Marketing por SMS`, que mostra os vários envios de SMS que "
 "foram criados, juntamente com informações e dados pertinentes relacionados a "
 "essa mensagem específica."
@@ -12535,7 +12535,7 @@ msgid ""
 "moment."
 msgstr ""
 "A visualização :icon:`oi-view-kanban` :guilabel:`Kanban` é a visualização "
-"padrão que o Odoo usa quando o aplicativo é aberto, fornecendo uma exibição "
+"padrão que o Blue Connect usa quando o aplicativo é aberto, fornecendo uma exibição "
 "organizada das mensagens de SMS que foram criadas e de qual é o status delas "
 "no momento."
 
@@ -12585,7 +12585,7 @@ msgid ""
 "various ways to sort and group the data for more detailed analysis."
 msgstr ""
 "Por fim, a visualização de :icon:`fa-area-chart` :guilabel:`Gráfico` traz os "
-"mesmos dados sobre SMS em uma série de gráficos e diagramas. O Odoo também "
+"mesmos dados sobre SMS em uma série de gráficos e diagramas. O Blue Connect também "
 "oferece várias maneiras de classificar e agrupar os dados para uma análise "
 "mais detalhada."
 
@@ -12596,7 +12596,7 @@ msgid ""
 "configured in a number of different ways."
 msgstr ""
 "Para começar, clique em :guilabel:`Criar` no painel "
-"principal :guilabel:`Marketing por SMS` e o Odoo revelará um formulário de "
+"principal :guilabel:`Marketing por SMS` e o Blue Connect revelará um formulário de "
 "modelo de SMS em branco, que pode ser configurado de várias maneiras "
 "diferentes."
 
@@ -12620,10 +12620,10 @@ msgid ""
 "the :guilabel:`Select Mailing List` field."
 msgstr ""
 "Em seguida, no campo :guilabel:`Destinatários`, escolha para quem "
-"esse :abbr:`SMS` será enviado. Por padrão, o Odoo tem a "
+"esse :abbr:`SMS` será enviado. Por padrão, o Blue Connect tem a "
 "opção :guilabel:`Lista de distribuição` selecionada. Se essa for a opção "
 "desejada do campo :guilabel:`Destinatários`, especifique para qual lista o "
-"Odoo deve enviar esse :abbr:`SMS` no campo :guilabel:`Seleciomar lista de "
+"Blue Connect deve enviar esse :abbr:`SMS` no campo :guilabel:`Seleciomar lista de "
 "distribuição`."
 
 #: ../../content/applications/marketing/sms_marketing/create_sms.rst:20
@@ -12635,7 +12635,7 @@ msgid ""
 msgstr ""
 "Para criar (ou editar) uma lista de distribuição, vá "
 "para :menuselection:`Listas de distribuição --> Lista de distribuição`. Ali, "
-"o Odoo exibe todas as listas de distribuição criadas anteriormente, "
+"o Blue Connect exibe todas as listas de distribuição criadas anteriormente, "
 "juntamente com vários tipos de dados relacionados a essa lista específica "
 "(por exemplo, número de contatos, comunicações, destinatários, etc.)."
 
@@ -12659,7 +12659,7 @@ msgid ""
 "click the field to see all the choices Odoo makes available."
 msgstr ""
 "Para revelar todas as opções possíveis no campo :guilabel:`Destinatários`, "
-"clique no campo para ver todas as opções que o Odoo disponibiliza."
+"clique no campo para ver todas as opções que o Blue Connect disponibiliza."
 
 #: ../../content/applications/marketing/sms_marketing/create_sms.rst:33
 msgid ""
@@ -12693,7 +12693,7 @@ msgid ""
 "recipients who fit into whatever criteria is configured in those fields. "
 "Multiple rules can be added."
 msgstr ""
-"Então, o Odoo só enviará o :abbr:`SMS` para os destinatários que se "
+"Então, o Blue Connect só enviará o :abbr:`SMS` para os destinatários que se "
 "enquadrarem em qualquer critério configurado nesses campos. É possível "
 "adicioanar várias regras."
 
@@ -12705,7 +12705,7 @@ msgid ""
 "entered."
 msgstr ""
 "Se :guilabel:`Contato` for escolhido, todos os registros de *Contatos* na "
-"base de dados do Odoo (fornecedores, clientes, etc.) receberão "
+"base de dados do Blue Connect (fornecedores, clientes, etc.) receberão "
 "o :abbr:`SMS`, por padrão - a menos que regras de destinatário mais "
 "específicas sejam inseridas."
 
@@ -12740,7 +12740,7 @@ msgid ""
 msgstr ""
 "Digite o conteúdo do :abbr:`SMS` no campo de texto, encontrado na "
 "aba :guilabel:`Contato de SMS`. Também é possível incluir links e emojis. "
-"Abaixo do campo de texto, o Odoo exibe quantos caracteres são usados na "
+"Abaixo do campo de texto, o Blue Connect exibe quantos caracteres são usados na "
 "mensagem, juntamente com quantos envios de :abbr:`SMS` serão necessários "
 "para entregar a mensagem completa."
 
@@ -12762,14 +12762,14 @@ msgid ""
 "Marketing* app; :abbr:`SMS (Short Message Service)` messages will not be "
 "sent without credits."
 msgstr ""
-"É preciso adquirir créditos no Odoo para aproveitar as vantagens do "
+"É preciso adquirir créditos no Blue Connect para aproveitar as vantagens do "
 "aplicativo *Marketing por SMS*; as mensagens :abbr:`SMS` não serão enviadas "
 "sem créditos."
 
 #: ../../content/applications/marketing/sms_marketing/create_sms.rst:78
 msgid "`Odoo SMS - FAQ <https://iap-services.odoo.com/iap/sms/pricing>`_"
 msgstr ""
-"`Odoo SMS - Perguntas frequentes <https://iap-services.odoo.com/iap/sms/"
+"`Blue Connect SMS - Perguntas frequentes <https://iap-services.odoo.com/iap/sms/"
 "pricing>`_"
 
 #: ../../content/applications/marketing/sms_marketing/create_sms.rst:81
@@ -12783,7 +12783,7 @@ msgid ""
 "related to those specific links, which can be found by going "
 "to :menuselection:`Configuration --> Link Tracker`."
 msgstr ""
-"Quando links são usados em mensagens de :abbr:`SMS`, o Odoo gera "
+"Quando links são usados em mensagens de :abbr:`SMS`, o Blue Connect gera "
 "automaticamente rastreadores de links para coletar dados analíticos e "
 "métricas relacionadas a esses links específicos, que podem ser encontrados "
 "em :menuselection:`Configuração --> Rastreio de link`."
@@ -12828,7 +12828,7 @@ msgid ""
 "Once a mailing is created, choose when Odoo should deliver the message from "
 "the following options:"
 msgstr ""
-"Depois que uma mensagem for criada, selecione quando o Odoo deve entregá-la "
+"Depois que uma mensagem for criada, selecione quando o Blue Connect deve entregá-la "
 "entre as seguintes opções:"
 
 #: ../../content/applications/marketing/sms_marketing/create_sms.rst:110
@@ -12848,7 +12848,7 @@ msgid ""
 "Such a method can also be used to promote a limited-time offer, or to help "
 "plan a company's content strategy in advance."
 msgstr ""
-":guilabel:`Agendar`: escolha um dia (e horário) para o Odoo enviar a "
+":guilabel:`Agendar`: escolha um dia (e horário) para o Blue Connect enviar a "
 "mensagem. Normalmente, essa é a melhor opção para comunicações relacionadas "
 "a um evento específico. Esse método também pode ser usado para promover uma "
 "oferta por tempo limitado ou para ajudar a planejar antecipadamente a "
@@ -12871,7 +12871,7 @@ msgid ""
 "or interests. Mailing lists are also a great way to get started if a company "
 "is migrating from another system, and already has a established audience."
 msgstr ""
-"A criação ou importação de listas de distribuição no Odoo é muito útil para "
+"A criação ou importação de listas de distribuição no Blue Connect é muito útil para "
 "a curadoria de conteúdo para grupos específicos de pessoas que já "
 "compartilham dados demográficos ou interesses semelhantes. As listas de "
 "distribuição também são uma ótima maneira de começar se uma empresa estiver "
@@ -12912,7 +12912,7 @@ msgid ""
 "View of the main SMS mailing list page on the Odoo SMS Marketing application."
 msgstr ""
 "Visualização da página principal da lista de distribuição de SMS no "
-"aplicativo Odoo Marketing por SMS."
+"aplicativo Blue Connect Marketing por SMS."
 
 #: ../../content/applications/marketing/sms_marketing/mailing_lists_blacklists.rst:28
 msgid ""
@@ -12937,7 +12937,7 @@ msgstr ""
 #: ../../content/applications/marketing/sms_marketing/mailing_lists_blacklists.rst:None
 msgid "View of the mailing list pop-up window in Odoo SMS Marketing."
 msgstr ""
-"Visualização da janela pop-up da lista de distribuição no Odoo Marketing por "
+"Visualização da janela pop-up da lista de distribuição no Blue Connect Marketing por "
 "SMS."
 
 #: ../../content/applications/marketing/sms_marketing/mailing_lists_blacklists.rst:38
@@ -13014,7 +13014,7 @@ msgstr ""
 #: ../../content/applications/marketing/sms_marketing/mailing_lists_blacklists.rst:None
 msgid "View of the mailing list template form in Odoo SMS Marketing."
 msgstr ""
-"Visualização do formulário de modelo de lista de distribuição no Odoo "
+"Visualização do formulário de modelo de lista de distribuição no Blue Connect "
 "Marketing por SMS."
 
 #: ../../content/applications/marketing/sms_marketing/mailing_lists_blacklists.rst:67
@@ -13045,7 +13045,7 @@ msgid ""
 "View of the mailing lists contact page in the Odoo SMS Marketing application."
 msgstr ""
 "Visualização da página de contato das listas de distribuição no aplicativo "
-"Odoo Marketing por SMS."
+"Blue Connect Marketing por SMS."
 
 #: ../../content/applications/marketing/sms_marketing/mailing_lists_blacklists.rst:81
 msgid ""
@@ -13054,7 +13054,7 @@ msgid ""
 "Therefore only showing contact information for recipients who still want to "
 "receive communications and mailings."
 msgstr ""
-"Por padrão, o Odoo revela a página :guilabel:`Contatos da lista de "
+"Por padrão, o Blue Connect revela a página :guilabel:`Contatos da lista de "
 "distribuição` com o filtro :guilabel:`Excluir telefone na lista de bloqueio` "
 "na barra de pesquisa, ou seja, mostrando apenas as informações de contato "
 "dos destinatários que ainda querem receber comunicações e e-mails."
@@ -13095,7 +13095,7 @@ msgstr ""
 
 #: ../../content/applications/marketing/sms_marketing/mailing_lists_blacklists.rst:None
 msgid "View of what the chatter looks like in the Odoo Contacts app."
-msgstr "Visualização do chatter no aplicativo Odoo Contatos."
+msgstr "Visualização do chatter no aplicativo Blue Connect Contatos."
 
 #: ../../content/applications/marketing/sms_marketing/mailing_lists_blacklists.rst:104
 msgid ""
@@ -13103,7 +13103,7 @@ msgid ""
 "recipients with the power to add their phone number to a list of people who "
 "no longer want to receieve communications or mailings."
 msgstr ""
-"O *Marketing por SMS* do Odoo tem um recurso :guilabel:`Lista de bloqueio` "
+"O *Marketing por SMS* do Blue Connect tem um recurso :guilabel:`Lista de bloqueio` "
 "que permite que os destinatários adicionem seus números de telefone a uma "
 "lista de pessoas que não querem mais receber comunicações ou e-mails."
 
@@ -13192,7 +13192,7 @@ msgstr ""
 #: ../../content/applications/marketing/sms_marketing/mailing_lists_blacklists.rst:None
 msgid "View of how to import a blacklist in Odoo SMS Marketing."
 msgstr ""
-"Visualização de como importar uma lista de bloqueio no Odoo Marketing por "
+"Visualização de como importar uma lista de bloqueio no Blue Connect Marketing por "
 "SMS."
 
 #: ../../content/applications/marketing/sms_marketing/marketing_campaigns.rst:3
@@ -13207,7 +13207,7 @@ msgid ""
 "more."
 msgstr ""
 "Utilizar campanhas de :abbr:`SMS (Short Message Service)` com o *Marketing "
-"por SMS* do Odoo não é apenas uma estratégia de propaganda eficaz, mas "
+"por SMS* do Blue Connect não é apenas uma estratégia de propaganda eficaz, mas "
 "também uma ótima maneira de relembrar as pessoas de eventos por vir, faturas "
 "emitidas e muito mais."
 
@@ -13231,7 +13231,7 @@ msgid ""
 "to :menuselection:`Email Marketing --> Configuration --> Settings`, and then "
 "enable :guilabel:`Mailing Campaigns` and :guilabel:`Save` the changes."
 msgstr ""
-"Para ativar as campanhas de :abbr:`SMS (Short Message Service)` no Odoo, "
+"Para ativar as campanhas de :abbr:`SMS (Short Message Service)` no Blue Connect, "
 "certifique-se de que o recurso *Campanhas de e-mail* esteja ativado, "
 "acessando :menuselection:`Marketing por e-mail --> Configuração --> "
 "Definições` e, em seguida, ative :guilabel:`Campanhas de e-mail` "
@@ -13239,7 +13239,7 @@ msgstr ""
 
 #: ../../content/applications/marketing/sms_marketing/marketing_campaigns.rst:None
 msgid "View of the mailing campaigns setting in Odoo."
-msgstr "Visualização da configuração das campanhas de e-mail no Odoo."
+msgstr "Visualização da configuração das campanhas de e-mail no Blue Connect."
 
 #: ../../content/applications/marketing/sms_marketing/marketing_campaigns.rst:24
 msgid ""
@@ -13296,7 +13296,7 @@ msgstr "Ao clicar, uma série de outras opções são exibidas."
 msgid "The A/B Test tab is located on an Odoo SMS Marketing app campaign form."
 msgstr ""
 "A aba Teste A/B está localizada em um formulário de campanha do aplicativo "
-"Odoo SMS Marketing."
+"Blue Connect SMS Marketing."
 
 #: ../../content/applications/marketing/sms_marketing/marketing_campaigns.rst:47
 msgid ""
@@ -13313,8 +13313,8 @@ msgid ""
 "other words, this tells Odoo how to pick a winning A/B test."
 msgstr ""
 "Abaixo do campo de porcentagem está o campo :guilabel:`Seleção da versão "
-"ganhadora`. Isso é o que o Odoo usará para determinar o resultado bem-"
-"sucedido de um teste A/B. Em outras palavras, isso informa ao Odoo como "
+"ganhadora`. Isso é o que o Blue Connect usará para determinar o resultado bem-"
+"sucedido de um teste A/B. Em outras palavras, isso informa ao Blue Connect como "
 "escolher um teste A/B vencedor."
 
 #: ../../content/applications/marketing/sms_marketing/marketing_campaigns.rst:53
@@ -13335,8 +13335,8 @@ msgid ""
 "recipients, who weren't involved in the test, at that prior date and time."
 msgstr ""
 "Por fim, o campo :guilabel:`Enviar o último em` é listado. Ele representa a "
-"data e hora que o Odoo usa como prazo para determinar a variação de "
-"comunicação vencedora. Em seguida, o Odoo envia a variação de comunicação "
+"data e hora que o Blue Connect usa como prazo para determinar a variação de "
+"comunicação vencedora. Em seguida, o Blue Connect envia a variação de comunicação "
 "vencedora para os destinatários restantes, que não estavam envolvidos no "
 "teste, nessa data e hora anteriores."
 
@@ -13381,7 +13381,7 @@ msgid ""
 "Dasbhoard view of different Campaigns in the Odoo SMS Marketing app, "
 "separated by stage."
 msgstr ""
-"Visualização do painel de diferentes campanhas no aplicativo Odoo Merketing "
+"Visualização do painel de diferentes campanhas no aplicativo Blue Connect Merketing "
 "por SMS, separadas por estágio."
 
 #: ../../content/applications/marketing/sms_marketing/marketing_campaigns.rst:84
@@ -13391,7 +13391,7 @@ msgid ""
 "made campaign in order to duplicate, review, or edit its campaign template "
 "form."
 msgstr ""
-"Clique em :guilabel:`Criar` para criar uma nova campanha, e o Odoo revela um "
+"Clique em :guilabel:`Criar` para criar uma nova campanha, e o Blue Connect revela um "
 "formulário de modelo de campanha em branco para ser preenchido. Como "
 "alternativa, selecione qualquer campanha criada anteriormente para duplicar, "
 "revisar ou editar seu formulário de modelo de campanha."
@@ -13399,7 +13399,7 @@ msgstr ""
 #: ../../content/applications/marketing/sms_marketing/marketing_campaigns.rst:None
 msgid "View of an SMS campaign template in Odoo SMS marketing."
 msgstr ""
-"Visualização de um modelo de campanha de SMS no Odoo Marketing por SMS."
+"Visualização de um modelo de campanha de SMS no Blue Connect Marketing por SMS."
 
 #: ../../content/applications/marketing/sms_marketing/marketing_campaigns.rst:92
 msgid ""
@@ -13420,7 +13420,7 @@ msgid ""
 "to each specific mailing."
 msgstr ""
 "Sempre que uma dessas opções de comunicação for adicionada à campanha, o "
-"Odoo criará uma nova aba correspondente no formulário de modelo, onde esses "
+"Blue Connect criará uma nova aba correspondente no formulário de modelo, onde esses "
 "tipos de mensagens poderão ser revisados ou editados, juntamente com vários "
 "conjuntos de dados relacionados a cada comunicação específica."
 
@@ -13432,7 +13432,7 @@ msgid ""
 "page."
 msgstr ""
 "Na parte superior do modelo, há vários botões inteligentes analíticos. "
-"Quando clicados, o Odoo revela métricas detalhadas relacionadas a esse "
+"Quando clicados, o Blue Connect revela métricas detalhadas relacionadas a esse "
 "tópico específico (por "
 "exemplo, :guilabel:`Engajamento`, :guilabel:`Oportunidades`, etc.) em uma "
 "página separada."
@@ -13444,7 +13444,7 @@ msgid ""
 "to be added, as well (if necessary)."
 msgstr ""
 "Abaixo dos botões inteligentes, há campos para :guilabel:`Nome da campanha` "
-"e :guilabel:`Responsável`. O Odoo também permite que "
+"e :guilabel:`Responsável`. O Blue Connect também permite que "
 "vários :guilabel:`Marcadores` sejam adicionados, também (se necessário)."
 
 #: ../../content/applications/marketing/sms_marketing/marketing_campaigns.rst:108
@@ -13476,7 +13476,7 @@ msgid ""
 "The SMS icon is located on an individual's contact form in Odoo Contacts."
 msgstr ""
 "O ícone de SMS está localizado no formulário de contato de um indivíduo no "
-"Odoo Contatos."
+"Blue Connect Contatos."
 
 #: ../../content/applications/marketing/sms_marketing/marketing_campaigns.rst:121
 msgid ""
@@ -13513,7 +13513,7 @@ msgid ""
 msgstr ""
 "Para configurar o :guilabel:`Modelos de SMS` para uso futuro, ative "
 "o :ref:`modo desenvolvedor <developer-mode>`, navegando até o painel "
-"principal do Odoo, que está repleto de aplicativos, e selecionando a "
+"principal do Blue Connect, que está repleto de aplicativos, e selecionando a "
 "seleção :menuselection:`app Definições`. Em seguida, role para baixo até a "
 "seção :guilabel:`Ferramentas do desenvolvedor` e clique em :guilabel:`Ativar "
 "modo desenvolvedor`."
@@ -13525,7 +13525,7 @@ msgid ""
 "of the dashboard; this bug icon indicates that developer mode is currently "
 "active."
 msgstr ""
-"Quando o *modo desenvolvedor* é ativado, o painel principal do Odoo aparece "
+"Quando o *modo desenvolvedor* é ativado, o painel principal do Blue Connect aparece "
 "mais uma vez, agora com um ícone de bug visível, localizado no canto "
 "superior direito do painel; esse ícone de bug indica que o modo "
 "desenvolvedor está ativo no momento."
@@ -13556,7 +13556,7 @@ msgid ""
 "default :guilabel:`List` view showcases each template's name, and to which "
 "recipients it applies."
 msgstr ""
-"Dentro do painel de controle :guilabel:`Modelos de SMS`, o Odoo revela uma "
+"Dentro do painel de controle :guilabel:`Modelos de SMS`, o Blue Connect revela uma "
 "página inteira de :abbr:`modelos de SMS`. A visualização "
 "padrão :guilabel:`Lista` mostra o nome de cada modelo e a quais "
 "destinatários ele se aplica."
@@ -13574,7 +13574,7 @@ msgid ""
 "the General\n"
 "Settings"
 msgstr ""
-"A página de modelos de SMS no Odoo está disponível após a ativação do modo "
+"A página de modelos de SMS no Blue Connect está disponível após a ativação do modo "
 "desenvolvedor em Configurações\n"
 "gerais"
 
@@ -13612,7 +13612,7 @@ msgstr ""
 
 #: ../../content/applications/marketing/sms_marketing/pricing_and_faq.rst:None
 msgid "GSM7 characters available in Odoo SMS Marketing."
-msgstr "Caracteres GSM7 disponíveis no Odoo Marketing por SMS."
+msgstr "Caracteres GSM7 disponíveis no Blue Connect Marketing por SMS."
 
 #: ../../content/applications/marketing/sms_marketing/pricing_and_faq.rst:24
 msgid ""
@@ -13648,7 +13648,7 @@ msgid ""
 "pricing#sms_faq_01>`_."
 msgstr ""
 "O preço de um SMS depende do destino e do tamanho (número de caracteres) da "
-"mensagem. Para ver o **preço por país, consulte**: `Odoo SMS - Perguntas "
+"mensagem. Para ver o **preço por país, consulte**: `Blue Connect SMS - Perguntas "
 "frequentes <https://iap-services.odoo.com/iap/sms/pricing#sms_faq_01>`_."
 
 #: ../../content/applications/marketing/sms_marketing/pricing_and_faq.rst:40
@@ -13663,7 +13663,7 @@ msgstr ""
 msgid ""
 "Number of GSM7 characters that fit in an SMS message in Odoo SMS Marketing."
 msgstr ""
-"Número de caracteres GSM7 que cabem em uma mensagem de SMS no Odoo Marketing "
+"Número de caracteres GSM7 que cabem em uma mensagem de SMS no Blue Connect Marketing "
 "por SMS."
 
 #: ../../content/applications/marketing/sms_marketing/pricing_and_faq.rst:47
@@ -13676,7 +13676,7 @@ msgstr "Vá para :menuselection:`Definições --> Comprar créditos'."
 
 #: ../../content/applications/marketing/sms_marketing/pricing_and_faq.rst:None
 msgid "Buying credits for SMS Marketing in Odoo settings."
-msgstr "Compra de créditos para Marketing por SMS nas configurações do Odoo."
+msgstr "Compra de créditos para Marketing por SMS nas configurações do Blue Connect."
 
 #: ../../content/applications/marketing/sms_marketing/pricing_and_faq.rst:55
 msgid "Or go to :menuselection:`Settings --> View my Services`."
@@ -13685,15 +13685,15 @@ msgstr "Ou vá para :menuselection:`Definições --> Ver meus serviços'."
 #: ../../content/applications/marketing/sms_marketing/pricing_and_faq.rst:None
 msgid "Using Odoo IAP to recharge credits for SMS Marketing in Odoo settings."
 msgstr ""
-"Usar o Odoo IAP para recarregar créditos para Marketing por SMS nas "
-"definições do Odoo."
+"Usar o Blue Connect IAP para recarregar créditos para Marketing por SMS nas "
+"definições do Blue Connect."
 
 #: ../../content/applications/marketing/sms_marketing/pricing_and_faq.rst:62
 msgid ""
 "If Odoo Online (Saas) is being used, along with the Enterprise version, free "
 "trial credits are available to test the feature."
 msgstr ""
-"Se o Odoo Online (Saas) estiver sendo usado com a versão Enterprise, "
+"Se o Blue Connect Online (Saas) estiver sendo usado com a versão Enterprise, "
 "créditos de avaliação gratuitos estarão disponíveis para testar o recurso."
 
 #: ../../content/applications/marketing/sms_marketing/pricing_and_faq.rst:66
@@ -13853,7 +13853,7 @@ msgid ""
 "success packs `here <https://www.odoo.com/pricing-packs>`_."
 msgstr ""
 "Sim, mas isso não é possível no sistema pronto para uso. Os especialistas do "
-"Odoo podem ajudar a personalizar uma base de dados para permitir o uso de um "
+"Blue Connect podem ajudar a personalizar uma base de dados para permitir o uso de um "
 "provedor de SMS pessoal. Verifique nossos pacotes de sucesso `aqui <https://"
 "www.odoo.com/pricing-packs>`_."
 
@@ -13901,7 +13901,7 @@ msgid ""
 "SMS messages can be sent using automation rules in Odoo. Odoo *Studio* is "
 "required to use automation rules."
 msgstr ""
-"É possível enviar mensagens SMS com as regras de automação do Odoo. O Odoo "
+"É possível enviar mensagens SMS com as regras de automação do Blue Connect. O Blue Connect "
 "*Estúdio* é necessário para usar as regras de automação."
 
 #: ../../content/applications/marketing/sms_marketing/sms_analysis.rst:25
@@ -13909,7 +13909,7 @@ msgid ""
 "To install Odoo *Studio*, go to the :menuselection:`Apps application`. Then, "
 "using the :guilabel:`Search...` bar, search for `studio`."
 msgstr ""
-"Para instalar o Odoo *Estúdio*, vá até o "
+"Para instalar o Blue Connect *Estúdio*, vá até o "
 "aplicativo :menuselection:`Aplicativos`. Em seguida, usando a "
 "barra :guilabel:`Pesquisar...`, procure por `estúdio`."
 
@@ -14279,7 +14279,7 @@ msgid ""
 "effectiveness, and engage directly with social media followers in one, "
 "centralized location."
 msgstr ""
-"O aplicativo *Marketing de redes sociais* da Odoo ajuda os profissionais de "
+"O aplicativo *Marketing de redes sociais* da Blue Connect ajuda os profissionais de "
 "marketing de conteúdo a criar e programar publicações, gerenciar várias "
 "contas de redes sociais, analisar a eficácia do conteúdo e interagir "
 "diretamente com os seguidores de redes sociais em um único local "
@@ -14316,7 +14316,7 @@ msgid ""
 "Marketing*, social media accounts **must** be added as a *stream* on the "
 "application's main dashboard."
 msgstr ""
-"Para criar publicações e analisar o conteúdo com o Odoo *Marketing de redes "
+"Para criar publicações e analisar o conteúdo com o Blue Connect *Marketing de redes "
 "sociais*, as contas de rede social **devem** ser adicionadas como um "
 "*stream* no painel principal do aplicativo."
 
@@ -14327,7 +14327,7 @@ msgid ""
 "social media platforms."
 msgstr ""
 "Lembre-se de que perfis pessoais **não podem** ser adicionados como um "
-"stream. O principal uso do Odoo * Marketing de redes sociais* é gerenciar e "
+"stream. O principal uso do Blue Connect * Marketing de redes sociais* é gerenciar e "
 "analisar contas comerciais em plataformas de redes sociais."
 
 #: ../../content/applications/marketing/social_marketing.rst:38
@@ -14337,8 +14337,8 @@ msgid ""
 "pages (e.g. ~40 pages) under the same company. The same limitations are "
 "present in a multi-company environment because of how the API is constructed."
 msgstr ""
-"O *Marketing de redes sociais* do Odoo tem algumas limitações em relação às "
-"contas de rede social. Por exemplo, o Odoo **não consegue** lidar com uma "
+"O *Marketing de redes sociais* do Blue Connect tem algumas limitações em relação às "
+"contas de rede social. Por exemplo, o Blue Connect **não consegue** lidar com uma "
 "grande quantidade de páginas variadas (por exemplo, ~40 páginas) da mesma "
 "empresa. As mesmas limitações estão presentes em um ambiente multiempresas "
 "devido à forma como a API é construída."
@@ -14358,7 +14358,7 @@ msgid ""
 "pages will be accesible on the *Social Marketing* dashboard."
 msgstr ""
 "Por exemplo, se a Empresa 1 for a única empresa selecionada no painel "
-"principal do Odoo e ativar *Página do Facebook 1* e *Página do Facebook 2*, "
+"principal do Blue Connect e ativar *Página do Facebook 1* e *Página do Facebook 2*, "
 "essas páginas poderão ser acessadas no painel *Marketing de Redes Sociais*."
 
 #: ../../content/applications/marketing/social_marketing.rst:51
@@ -14400,7 +14400,7 @@ msgid ""
 "View of the pop-up window that appears when Add a Stream is selected in Odoo."
 msgstr ""
 "Visualização da janela pop-up que é aberto ao selecionar Adicionar um stream "
-"no Odoo."
+"no Blue Connect."
 
 #: ../../content/applications/marketing/social_marketing.rst:69
 msgid ""
@@ -14424,9 +14424,9 @@ msgid ""
 "Marketing* application."
 msgstr ""
 "Depois de clicar na platafora de comunicação social desejada na janela pop-"
-"up :guilabel:`Adicionar um stream`, o Odoo navega diretamente para a página "
+"up :guilabel:`Adicionar um stream`, o Blue Connect navega diretamente para a página "
 "de autorização desse plataforma específica, onde deve ser concedida "
-"permissão para que o Odoo adicione essa conta de rede social específica como "
+"permissão para que o Blue Connect adicione essa conta de rede social específica como "
 "um stream no aplicativo *Marketing de redes sociais*."
 
 #: ../../content/applications/marketing/social_marketing.rst:None
@@ -14443,7 +14443,7 @@ msgid ""
 "the main :guilabel:`Social Marketing` dashboard, and a new column, with that "
 "account's posts, is added. Accounts/streams can be added at any time."
 msgstr ""
-"Quando a permissão é concedida, o Odoo volta para o :guilabel:`Feed` no "
+"Quando a permissão é concedida, o Blue Connect volta para o :guilabel:`Feed` no "
 "painel principal :guilabel:`Marketing de redes sociais` e uma nova coluna, "
 "com as publicações dessa conta, é adicionada. Contas/streams podem ser "
 "adicionados a qualquer momento."
@@ -14469,7 +14469,7 @@ msgstr ""
 "As contas do :guilabel:`Instagram` são adicionadas pelo login "
 "do :guilabel:`Facebook` porque usam a mesma API. Isso significa que uma "
 "conta do :guilabel:`Instagram` precisa estar vinculada a uma conta "
-"do :guilabel:`Facebook` para que ela apareça como um stream no Odoo."
+"do :guilabel:`Facebook` para que ela apareça como um stream no Blue Connect."
 
 #: ../../content/applications/marketing/social_marketing.rst:97
 msgid "Social media page"
@@ -14482,7 +14482,7 @@ msgid ""
 "the :guilabel:`Social Media` page, navigate to :menuselection:`Social "
 "Marketing app --> Configuration --> Social Media`."
 msgstr ""
-"Outra maneira de vincular rapidamente contas de rede social ao Odoo "
+"Outra maneira de vincular rapidamente contas de rede social ao Blue Connect "
 "*Marketing de redes sociais* pode ser feita na página :guilabel:`Redes "
 "sociais`. Para acessar essa página, navegue até :menuselection:`app "
 "Marketing de redes sociais --> Configuração --> Redes sociais`."
@@ -14502,7 +14502,7 @@ msgstr ""
 #: ../../content/applications/marketing/social_marketing.rst:None
 msgid "View of the social media page in the Odoo Social Marketing application."
 msgstr ""
-"Visualização da página de redes sociais no aplicativo Odoo Marketing de "
+"Visualização da página de redes sociais no aplicativo Blue Connect Marketing de "
 "redes sociais."
 
 #: ../../content/applications/marketing/social_marketing.rst:112
@@ -14529,7 +14529,7 @@ msgstr ""
 msgid ""
 "View of the social accounts page in the Odoo Social Marketing application."
 msgstr ""
-"Visualização da página de contas de redes sociais no aplicativo Odoo "
+"Visualização da página de contas de redes sociais no aplicativo Blue Connect "
 "Marketing de redes sociais."
 
 #: ../../content/applications/marketing/social_marketing.rst:124
@@ -14598,7 +14598,7 @@ msgstr ""
 #: ../../content/applications/marketing/social_marketing.rst:None
 msgid "View of the Visitors page in the Odoo Social Marketing application."
 msgstr ""
-"Visualização da página Visitantes no aplicativo Odoo Marketing de redes "
+"Visualização da página Visitantes no aplicativo Blue Connect Marketing de redes "
 "sociais."
 
 #: ../../content/applications/marketing/social_marketing.rst:156
@@ -14608,7 +14608,7 @@ msgid ""
 "information in the database, the option to send them an :guilabel:`Email` "
 "and/or an :guilabel:`SMS` is available."
 msgstr ""
-"Aqui, o Odoo fornece um layout detalhado de todas as informações pertinentes "
+"Aqui, o Blue Connect fornece um layout detalhado de todas as informações pertinentes "
 "dos visitantes em uma visualização kanban padrão. Se os visitantes já "
 "tiverem informações de contato na base de dados, a opção de enviar "
 "um :guilabel:`E-mail` e/ou um :guilabel:`SMS` estará disponível."
@@ -14649,7 +14649,7 @@ msgid ""
 msgstr ""
 "As campanhas de marketing de redes sociais mais eficazes geralmente envolvem "
 "vários canais para maximizar a distribuição de conteúdo, e o aplicativo "
-"*Marketing de Redes Sociais* do Odoo atua como um centro de controle "
+"*Marketing de Redes Sociais* do Blue Connect atua como um centro de controle "
 "singular para monitorar, planejar, publicar, rastrear e analisar todos os "
 "diversos conteúdos e canais de conteúdo em um único painel."
 
@@ -14668,7 +14668,7 @@ msgstr ""
 #: ../../content/applications/marketing/social_marketing/social_campaigns.rst:None
 msgid "View of the campaigns page in the Odoo Social Marketing application."
 msgstr ""
-"Visualização da página de campanhas no aplicativo Odoo Marketing de Redes "
+"Visualização da página de campanhas no aplicativo Blue Connect Marketing de Redes "
 "Sociais."
 
 #: ../../content/applications/marketing/social_marketing/social_campaigns.rst:25
@@ -14775,7 +14775,7 @@ msgstr ""
 #: ../../content/applications/marketing/social_marketing/social_campaigns.rst:None
 msgid "View of the quick add option for campaigns in Odoo Social Marketing."
 msgstr ""
-"Visualização da opção de adição rápida de campanhas no Odoo Marketing de "
+"Visualização da opção de adição rápida de campanhas no Blue Connect Marketing de "
 "Redes Sociais."
 
 #: ../../content/applications/marketing/social_marketing/social_campaigns.rst:74
@@ -14857,7 +14857,7 @@ msgstr ""
 #: ../../content/applications/marketing/social_marketing/social_campaigns.rst:None
 msgid "View of a sample campaign template page in Odoo Social Marketing."
 msgstr ""
-"Visualização de uma amostra de página de modelo de campanha no Odoo "
+"Visualização de uma amostra de página de modelo de campanha no Blue Connect "
 "Marketing de Redes Sociais."
 
 #: ../../content/applications/marketing/social_marketing/social_campaigns.rst:105
@@ -14879,7 +14879,7 @@ msgid ""
 "In order for the :guilabel:`Send SMS` option to appear, the Odoo *SMS "
 "Marketing* application must be installed on the database."
 msgstr ""
-"Para que a opção :guilabel:`Enviar SMS` apareça, o aplicativo Odoo "
+"Para que a opção :guilabel:`Enviar SMS` apareça, o aplicativo Blue Connect "
 "*Marketing por SMS* deve estar instalado na base de dados."
 
 #: ../../content/applications/marketing/social_marketing/social_campaigns.rst:115
@@ -14945,7 +14945,7 @@ msgid ""
 "(e.g. :guilabel:`Mailings`, :guilabel:`SMS`, :guilabel:`Social Media`, and/"
 "or :guilabel:`Push Notifications`)."
 msgstr ""
-"Qualquer que seja a forma de comunicação criada, uma vez concluída, o Odoo "
+"Qualquer que seja a forma de comunicação criada, uma vez concluída, o Blue Connect "
 "retorna à página :guilabel:`Modelo de campanha`, exibindo o novo conteúdo em "
 "sua aba correspondente (por exemplo, :guilabel:`E-"
 "mails`, :guilabel:`SMS`, :guilabel:`Redes sociais` e/"
@@ -14981,15 +14981,15 @@ msgid ""
 "The Odoo *Social Marketing* app is integrated with other Odoo applications, "
 "such as *Sales*, *Invoicing*, *CRM*, and *Website*."
 msgstr ""
-"O aplicativo Odoo *Marketing de redes sociais* é integrado a outros "
-"aplicativos Odoo, como *Vendas*, *Faturamento*, *CRM* e *Site*."
+"O aplicativo Blue Connect *Marketing de redes sociais* é integrado a outros "
+"aplicativos Blue Connect, como *Vendas*, *Faturamento*, *CRM* e *Site*."
 
 #: ../../content/applications/marketing/social_marketing/social_posts.rst:5
 msgid ""
 "The Odoo *Social Marketing* application provides various ways to create "
 "posts for any type of social media outlet."
 msgstr ""
-"O aplicativo *Redes Sociais* do Odoo oferece várias maneiras de criar "
+"O aplicativo *Redes Sociais* do Blue Connect oferece várias maneiras de criar "
 "publicações para qualquer tipo de rede social."
 
 #: ../../content/applications/marketing/social_marketing/social_posts.rst:9
@@ -15003,9 +15003,9 @@ msgid ""
 "post that has been created and posted with Odoo can be seen and accessed."
 msgstr ""
 "Para ter uma visão geral completa das publicações, acesse o "
-"Odoo :menuselection:`app Marketing de redes sociais --> Publicações`. Aqui, "
+"Blue Connect :menuselection:`app Marketing de redes sociais --> Publicações`. Aqui, "
 "na página :guilabel:`Publicações de rede social`, todas as publicações que "
-"foram criadas e publicadas com o Odoo podem ser visualizadas e acessadas."
+"foram criadas e publicadas com o Blue Connect podem ser visualizadas e acessadas."
 
 #: ../../content/applications/marketing/social_marketing/social_posts.rst:15
 msgid ""
@@ -15031,7 +15031,7 @@ msgid ""
 "connected social accounts and posts can be quickly seen, accessed, and "
 "analyzed."
 msgstr ""
-"Por padrão, o Odoo exibe as publicações em uma visualização kanban. As "
+"Por padrão, o Blue Connect exibe as publicações em uma visualização kanban. As "
 "informações nessa página podem ser ainda mais refinadas pela barra lateral "
 "esquerda, onde todas as contas de rede sociais conectadas e suas publicações "
 "podem ser rapidamente vistas, acessadas e analisadas."
@@ -15047,7 +15047,7 @@ msgstr ""
 #: ../../content/applications/marketing/social_marketing/social_posts.rst:0
 msgid "Kanban view of the posts page in the Odoo Social Marketing application."
 msgstr ""
-"Visualização Kanban da página de publicações no aplicativo Odoo Marketing de "
+"Visualização Kanban da página de publicações no aplicativo Blue Connect Marketing de "
 "redes sociais."
 
 #: ../../content/applications/marketing/social_marketing/social_posts.rst:38
@@ -15060,7 +15060,7 @@ msgstr ""
 "A opção de visualização de calendário exibe uma representação visual das "
 "publicações em um formato de calendário mostrando quando elas foram "
 "publicadas ou estão programadas para serem publicadas. Essa opção fornece "
-"uma visão geral clara de qualquer dia, semana ou mês planejado, e o Odoo "
+"uma visão geral clara de qualquer dia, semana ou mês planejado, e o Blue Connect "
 "exibe todas as publicações em rascunho, programadas e publicadas."
 
 #: ../../content/applications/marketing/social_marketing/social_posts.rst:43
@@ -15071,7 +15071,7 @@ msgid ""
 msgstr ""
 "Clicar em uma data revela um formulário de detalhes de publicação de rede "
 "social em branco, no qual é possível criar uma publicação de rede social que "
-"o Odoo publicará na data/hora especificada."
+"o Blue Connect publicará na data/hora especificada."
 
 #: ../../content/applications/marketing/social_marketing/social_posts.rst:46
 msgid ""
@@ -15083,7 +15083,7 @@ msgstr ""
 
 #: ../../content/applications/marketing/social_marketing/social_posts.rst:0
 msgid "Example of the calendar view in Odoo Social Marketing."
-msgstr "Exemplo da visão de calendário no Odoo Marketing de redes sociais."
+msgstr "Exemplo da visão de calendário no Blue Connect Marketing de redes sociais."
 
 #: ../../content/applications/marketing/social_marketing/social_posts.rst:54
 msgid ""
@@ -15118,7 +15118,7 @@ msgstr ""
 #: ../../content/applications/marketing/social_marketing/social_posts.rst:0
 msgid "View of the list option on the posts page in Odoo Social Marketing."
 msgstr ""
-"Visualização da opção de lista na página de publicação no Odoo Marketing de "
+"Visualização da opção de lista na página de publicação no Blue Connect Marketing de "
 "redes sociais."
 
 #: ../../content/applications/marketing/social_marketing/social_posts.rst:67
@@ -15137,7 +15137,7 @@ msgstr ""
 #: ../../content/applications/marketing/social_marketing/social_posts.rst:0
 msgid "View of the pivot option on the posts page in Odoo Social Marketing."
 msgstr ""
-"Visualização da opção de pivô na página de publicações no Odoo Marketing de "
+"Visualização da opção de pivô na página de publicações no Blue Connect Marketing de "
 "redes sociais."
 
 #: ../../content/applications/marketing/social_marketing/social_posts.rst:76
@@ -15221,7 +15221,7 @@ msgid ""
 "Sample of a social media post's pop-up window in Odoo Social Marketing "
 "application."
 msgstr ""
-"Amostra da janela pop-up de uma publicação de rede social no aplicativo Odoo "
+"Amostra da janela pop-up de uma publicação de rede social no aplicativo Blue Connect "
 "Marketing de rede social."
 
 #: ../../content/applications/marketing/social_marketing/social_posts.rst:106
@@ -15244,7 +15244,7 @@ msgid ""
 "Odoo *Social Marketing* also provides the ability to create leads directly "
 "from social media comments."
 msgstr ""
-"O Odoo *Marketing de redes sociais* também oferece a possibilidade de criar "
+"O Blue Connect *Marketing de redes sociais* também oferece a possibilidade de criar "
 "leads diretamente dos comentários nas redes sociais."
 
 #: ../../content/applications/marketing/social_marketing/social_posts.rst:116
@@ -15282,7 +15282,7 @@ msgstr ""
 msgid ""
 "The convert post to lead pop-up window that appears in Odoo Social Marketing."
 msgstr ""
-"A janela pop-up de conversão de publicação em lead que aparece no Odoo "
+"A janela pop-up de conversão de publicação em lead que aparece no Blue Connect "
 "Marketing de redes sociais."
 
 #: ../../content/applications/marketing/social_marketing/social_posts.rst:133
@@ -15324,7 +15324,7 @@ msgid ""
 "Marketing."
 msgstr ""
 "Novo formulário de detalhes de lead gerado a partir de um comentário de rede "
-"social no Odoo Marketing de redes sociais."
+"social no Blue Connect Marketing de redes sociais."
 
 #: ../../content/applications/marketing/social_marketing/social_posts.rst:149
 msgid "Insights"
@@ -15397,7 +15397,7 @@ msgid ""
 "Odoo *Social Marketing* offers the ability to create and post content for "
 "social media accounts directly through the application."
 msgstr ""
-"O Odoo *Marketing de redes sociais* oferece a possibilidade de criar e "
+"O Blue Connect *Marketing de redes sociais* oferece a possibilidade de criar e "
 "publicar conteúdo para contas de rede social diretamente no aplicativo."
 
 #: ../../content/applications/marketing/social_marketing/social_posts.rst:177
@@ -15416,7 +15416,7 @@ msgid ""
 "New Post button on the main dashboard of the Odoo Social Marketing "
 "application."
 msgstr ""
-"Botão Nova publicação no painel principal do aplicativo Odoo Marketing de "
+"Botão Nova publicação no painel principal do aplicativo Blue Connect Marketing de "
 "redes sociais."
 
 #: ../../content/applications/marketing/social_marketing/social_posts.rst:185
@@ -15431,7 +15431,7 @@ msgstr ""
 msgid ""
 "New button on the Social Posts page in the Odoo Social Marketing application."
 msgstr ""
-"Novo botão na página Publicações de redes sociais no aplicativo Odoo "
+"Novo botão na página Publicações de redes sociais no aplicativo Blue Connect "
 "Marketing de redes sociais."
 
 #: ../../content/applications/marketing/social_marketing/social_posts.rst:192
@@ -15446,7 +15446,7 @@ msgstr ""
 #: ../../content/applications/marketing/social_marketing/social_posts.rst:None
 msgid "Blank social media post detail page in Odoo Social Marketing."
 msgstr ""
-"Página de detalhes de publicação de rede social em branco no Odoo Marketing "
+"Página de detalhes de publicação de rede social em branco no Blue Connect Marketing "
 "de redes sociais."
 
 #: ../../content/applications/marketing/social_marketing/social_posts.rst:200
@@ -15458,7 +15458,7 @@ msgid ""
 "The social media post detail form in Odoo *Social Marketing* has many "
 "different configurable options available."
 msgstr ""
-"O formulário de detalhes da publicação de rede social no Odoo *Marketing de "
+"O formulário de detalhes da publicação de rede social no Blue Connect *Marketing de "
 "redes sociais* tem muitas opções configuráveis diferentes disponíveis."
 
 #: ../../content/applications/marketing/social_marketing/social_posts.rst:206
@@ -15504,7 +15504,7 @@ msgid ""
 "account hasn't been added as a stream to the *Social Marketing* application, "
 "it will **not** appear as an option on the post template."
 msgstr ""
-"O Odoo fornece automaticamente todas as contas de rede social disponíveis "
+"O Blue Connect fornece automaticamente todas as contas de rede social disponíveis "
 "que foram vinculadas à base de dados como uma opção nesta seção. Se uma "
 "conta de rede social não tiver sido adicionada como um stream ao aplicativo "
 "*Marketing de redes sociais*, ela **não** aparecerá como uma opção no modelo "
@@ -15527,7 +15527,7 @@ msgid ""
 "*Enable Web Push Notifications* feature is enabled in the *Website* app."
 msgstr ""
 "Para que a opção :guilabel:`Notificação push` apareça no formulário de "
-"detalhes da publicação de rede social no Odoo *Marketing de redes sociais*, "
+"detalhes da publicação de rede social no Blue Connect *Marketing de redes sociais*, "
 "certifique-se de que o recurso *Habilitar notificações por push na web* "
 "esteja ativado no aplicativo *Site*."
 
@@ -15609,7 +15609,7 @@ msgid ""
 msgstr ""
 "Se forem usadas imagens na publicação, clique no botão :guilabel:`Anexar "
 "imagens`, no campo :guilabel:`Anexar imagens`, localizado abaixo do "
-"campo :guilabel:`Mensagem`. Quando clicado, o Odoo revela uma janela pop-up. "
+"campo :guilabel:`Mensagem`. Quando clicado, o Blue Connect revela uma janela pop-up. "
 "Nessa janela pop-up, selecione a imagem desejada e faça o upload dela."
 
 #: ../../content/applications/marketing/social_marketing/social_posts.rst:266
@@ -15618,7 +15618,7 @@ msgid ""
 "new preview of the social media post, complete with the newly-added image, "
 "on the right side of the detail form."
 msgstr ""
-"Depois de carregar e anexar com sucesso a imagem desejada, o Odoo revela uma "
+"Depois de carregar e anexar com sucesso a imagem desejada, o Blue Connect revela uma "
 "nova visualização da publicação de rede social, completa com a imagem recém-"
 "adicionada, no lado direito do formulário de detalhes."
 
@@ -15627,7 +15627,7 @@ msgid ""
 "Visualized samples of post with newly-attached images in Odoo Social "
 "Marketing."
 msgstr ""
-"Amostras visuais de publicações com imagens recém-anexadas no Odoo Marketing "
+"Amostras visuais de publicações com imagens recém-anexadas no Blue Connect Marketing "
 "de redes sociais."
 
 #: ../../content/applications/marketing/social_marketing/social_posts.rst:274
@@ -15720,8 +15720,8 @@ msgid ""
 "have Odoo publish the post at a later date and time."
 msgstr ""
 "Em seguida, no campo :guilabel:`Quando`, escolha :guilabel:`Enviar agora` "
-"para que o Odoo publique a publicação imediatamente ou :guilabel:`Agendar "
-"para mais tarde` para que o Odoo faça a publicação em uma data e hora "
+"para que o Blue Connect publique a publicação imediatamente ou :guilabel:`Agendar "
+"para mais tarde` para que o Blue Connect faça a publicação em uma data e hora "
 "posteriores."
 
 #: ../../content/applications/marketing/social_marketing/social_posts.rst:311
@@ -15740,7 +15740,7 @@ msgid ""
 "Odoo."
 msgstr ""
 "Janela pop-up de data de agendamento que aparece no formulário de detalhes "
-"da publicação de rede social no Odoo."
+"da publicação de rede social no Blue Connect."
 
 #: ../../content/applications/marketing/social_marketing/social_posts.rst:318
 msgid ""
@@ -15749,7 +15749,7 @@ msgid ""
 "detemined social media account(s)."
 msgstr ""
 "Depois de selecionar a data e a hora desejadas, clique "
-"em :guilabel:`Aplicar`. Em seguida, o Odoo fará a publicação pontualmente "
+"em :guilabel:`Aplicar`. Em seguida, o Blue Connect fará a publicação pontualmente "
 "naquela data e hora específicas na(s) conta(s) de rede social pré-"
 "determinada(s)."
 
@@ -15770,7 +15770,7 @@ msgid ""
 "Doing so, locks in that specific date/time for Odoo to send the post, and it "
 "changes the status of the post to :guilabel:`Scheduled`."
 msgstr ""
-"Ao fazer isso, o Odoo firma  essa data/hora específica para enviar a "
+"Ao fazer isso, o Blue Connect firma  essa data/hora específica para enviar a "
 "publicação e altera o status dela para :guilabel:`Agendado`."
 
 #: ../../content/applications/marketing/social_marketing/social_posts.rst:330
@@ -15817,7 +15817,7 @@ msgid ""
 msgstr ""
 "Para designar uma página específica no site que deve acionar essa "
 "notificação push, insira o URL dessa página no campo :guilabel:`URL alvo`. "
-"Então, quando um visitante chegar a essa página específica, o Odoo exibirá a "
+"Então, quando um visitante chegar a essa página específica, o Blue Connect exibirá a "
 "notificação push."
 
 #: ../../content/applications/marketing/social_marketing/social_posts.rst:349
@@ -15846,7 +15846,7 @@ msgid ""
 "Once that's complete, Odoo automatically updates the visual preview of how "
 "the icon appears on the push notification."
 msgstr ""
-"Quando isso for concluído, o Odoo atualiza automaticamente a visualização de "
+"Quando isso for concluído, o Blue Connect atualiza automaticamente a visualização de "
 "como o ícone aparece na notificação push."
 
 #: ../../content/applications/marketing/social_marketing/social_posts.rst:360
@@ -15859,7 +15859,7 @@ msgid ""
 msgstr ""
 "Em seguida, se a publicação estiver agendada para ser publicada mais tarde, "
 "há a opção de garantir que ela seja enviada no fuso horário do visitante, "
-"ativando a opção :guilabel:`Hora local`. Se ativada, o Odoo enviará a "
+"ativando a opção :guilabel:`Hora local`. Se ativada, o Blue Connect enviará a "
 "publicação no horário adequado e predeterminado, levando em consideração a "
 "localização do visitante."
 
@@ -15894,7 +15894,7 @@ msgid ""
 "take into account when sending this post to a particular target audience."
 msgstr ""
 "Nesse campo de regra do tipo equação, especifique os critérios específicos "
-"que o Odoo deve levar em conta ao enviar essa publicação para um determinado "
+"que o Blue Connect deve levar em conta ao enviar essa publicação para um determinado "
 "público-alvo."
 
 #: ../../content/applications/marketing/social_marketing/social_posts.rst:None
@@ -15960,7 +15960,7 @@ msgid ""
 "satisfaction of customers and/or employees. This process yields valuable "
 "insights into shifting market trends."
 msgstr ""
-"Com o Odoo *Pesquisas*, os usuários criam várias pesquisas, questionários, "
+"Com o Blue Connect *Pesquisas*, os usuários criam várias pesquisas, questionários, "
 "certificações, avaliações e muito mais. Isso pode ser usado para reunir "
 "feedback, avaliar o sucesso de um evento recente e medir a satisfação dos "
 "clientes e/ou funcionários. Esse processo produz insights valiosos sobre as "
@@ -15969,7 +15969,7 @@ msgstr ""
 #: ../../content/applications/marketing/surveys.rst:16
 msgid "`Odoo Tutorials: Surveys <https://www.odoo.com/slides/surveys-62>`_"
 msgstr ""
-"Tutoriais do Odoo: Pesquisas <https://www.odoo.com/slides/surveys-62>`_"
+"Tutoriais do Blue Connect: Pesquisas <https://www.odoo.com/slides/surveys-62>`_"
 
 #: ../../content/applications/marketing/surveys.rst:20
 #: ../../content/applications/marketing/surveys.rst:216
@@ -16037,13 +16037,13 @@ msgid ""
 "Upon opening the *Surveys* application, Odoo presents the main dashboard of "
 "the *Surveys* application, otherwise known as the :guilabel:`Surveys` page."
 msgstr ""
-"Ao abrir o aplicativo *Pesquisas*, o Odoo apresenta o painel principal do "
+"Ao abrir o aplicativo *Pesquisas*, o Blue Connect apresenta o painel principal do "
 "aplicativo *Pesquisas*, também conhecido como a página :guilabel:`Pesquisas`."
 
 #: ../../content/applications/marketing/surveys.rst:None
 msgid "The Odoo Surveys application dashboard in the default Kanban view."
 msgstr ""
-"O painel do aplicativo Odoo Pesquisas no modo de visualização Kanban padrão."
+"O painel do aplicativo Blue Connect Pesquisas no modo de visualização Kanban padrão."
 
 #: ../../content/applications/marketing/surveys.rst:56
 msgid ""
@@ -16058,7 +16058,7 @@ msgid ""
 "In the upper-left corner, there is a :guilabel:`New` button. When clicked, "
 "Odoo presents a blank survey form that can be used to create a survey."
 msgstr ""
-"No canto superior esquerdo, há um botão :guilabel:`Novo`. Ao  clicar, o Odoo "
+"No canto superior esquerdo, há um botão :guilabel:`Novo`. Ao  clicar, o Blue Connect "
 "apresenta um formulário de pesquisa em branco que pode ser usado para criar "
 "uma pesquisa."
 
@@ -16224,7 +16224,7 @@ msgid ""
 "The 'Share a Survey' pop-up window in Odoo Surveys with the Send by Email "
 "toggled on."
 msgstr ""
-"A janela pop-up \"Compartilhar uma pesquisa\" no Odoo Pesquisas com a opção "
+"A janela pop-up \"Compartilhar uma pesquisa\" no Blue Connect Pesquisas com a opção "
 "Enviar por e-mail ativada."
 
 #: ../../content/applications/marketing/surveys.rst:119
@@ -16325,7 +16325,7 @@ msgid ""
 ":guilabel:`Edit Survey`: when clicked, Odoo reveals the survey form for that "
 "particular survey, which can then be modified in a number of different ways."
 msgstr ""
-":guilabel:`Editar pesquisa`: ao clicar, o Odoo abre o formulário de pesquisa "
+":guilabel:`Editar pesquisa`: ao clicar, o Blue Connect abre o formulário de pesquisa "
 "dessa pesquisa específica, que pode ser modificada de várias maneiras "
 "diferentes."
 
@@ -16334,7 +16334,7 @@ msgid ""
 ":guilabel:`Share`: when clicked, Odoo reveals the :guilabel:`Share a Survey` "
 "pop-up form that can be used to invite potential participants to the survey."
 msgstr ""
-":guilabel:`Compartilhar`: ao clicar, o Odoo abre o formulário pop-"
+":guilabel:`Compartilhar`: ao clicar, o Blue Connect abre o formulário pop-"
 "up :guilabel:`Compartilhar uma pesquisa`, que pode ser usado para convidar "
 "possíveis participantes para a pesquisa."
 
@@ -16345,7 +16345,7 @@ msgid ""
 "can do by clicking the :guilabel:`Delete` button at the bottom of the pop-up "
 "window."
 msgstr ""
-":guilabel:`Excluir`: quando clicado, o Odoo apresenta uma janela pop-up, na "
+":guilabel:`Excluir`: quando clicado, o Blue Connect apresenta uma janela pop-up, na "
 "qual o usuário **deve** confirmar que deseja excluir totalmente a pesquisa, "
 "o que pode ser feito clicando no botão :guilabel:`Excluir` na parte inferior "
 "da janela pop-up."
@@ -16364,7 +16364,7 @@ msgid ""
 "The three-dot drop-down menu of options that appears on the Odoo Surveys "
 "dashboard."
 msgstr ""
-"O menu suspenso de opções (três pontos) que aparece no painel do Odoo "
+"O menu suspenso de opções (três pontos) que aparece no painel do Blue Connect "
 "Pesquisas."
 
 #: ../../content/applications/marketing/surveys.rst:163
@@ -16385,7 +16385,7 @@ msgid ""
 "The Schedule Activities drop-down menu that appears on the Odoo Surveys "
 "dashboard."
 msgstr ""
-"O menu suspenso Agendar atividades que aparece no painel do Odoo Pesquisas."
+"O menu suspenso Agendar atividades que aparece no painel do Blue Connect Pesquisas."
 
 #: ../../content/applications/marketing/surveys.rst:174
 msgid ""
@@ -16408,7 +16408,7 @@ msgstr ""
 #: ../../content/applications/marketing/surveys.rst:None
 msgid "The list view option located on the Odoo Surveys application dashboard."
 msgstr ""
-"A opção de exibição de lista localizada no painel do aplicativo Odoo "
+"A opção de exibição de lista localizada no painel do aplicativo Blue Connect "
 "Pesquisas."
 
 #: ../../content/applications/marketing/surveys.rst:183
@@ -16474,7 +16474,7 @@ msgstr ""
 #: ../../content/applications/marketing/surveys.rst:None
 msgid "The activities view option located on the Odoo Surveys dashboard."
 msgstr ""
-"A opção de visualização de atividades localizada no painel do Odoo Pesquisas."
+"A opção de visualização de atividades localizada no painel do Blue Connect Pesquisas."
 
 #: ../../content/applications/marketing/surveys.rst:208
 msgid ""
@@ -16499,7 +16499,7 @@ msgid ""
 "utilized when creating a survey in Odoo."
 msgstr ""
 "Saiba mais sobre todas as diferentes opções e configurações que podem ser "
-"utilizadas ao criar uma pesquisa no Odoo."
+"utilizadas ao criar uma pesquisa no Blue Connect."
 
 #: ../../content/applications/marketing/surveys.rst:222
 msgid ":doc:`surveys/create`"
@@ -16513,7 +16513,7 @@ msgid ""
 msgstr ""
 "Descubra como medir o desempenho ou a satisfação geral de um participante de "
 "pesquisa com as opções detalhadas (e totalmente personalizáveis) de "
-"pontuação de pesquisa do Odoo."
+"pontuação de pesquisa do Blue Connect."
 
 #: ../../content/applications/marketing/surveys.rst:231
 msgid ":doc:`surveys/scoring`"
@@ -16525,7 +16525,7 @@ msgid ""
 "from, providing the ability to create any kind of unique survey, "
 "questionnarire, and/or certification."
 msgstr ""
-"Com o Odoo *Pesquisas*, há muitos tipos de perguntas e opções para escolher, "
+"Com o Blue Connect *Pesquisas*, há muitos tipos de perguntas e opções para escolher, "
 "o que permite criar qualquer tipo de pesquisa, questionário e/ou "
 "certificação exclusivos."
 
@@ -16539,7 +16539,7 @@ msgid ""
 "demonstrations and presentations, where participants' real-time responses "
 "can be used to dictate where the conversation goes next."
 msgstr ""
-"A opção de pesquisa *Sessão ao vivo* disponível no Odoo pode aprimorar as "
+"A opção de pesquisa *Sessão ao vivo* disponível no Blue Connect pode aprimorar as "
 "demonstrações e apresentações presenciais, em que as respostas em tempo real "
 "dos participantes podem ser usadas para determinar o rumo da conversa."
 
@@ -16556,7 +16556,7 @@ msgid ""
 msgstr ""
 "Quando as pesquisas são concluídas, chega o momento de analisar as respostas "
 "dos participantes. Felizmente, as páginas de relatórios detalhados e as "
-"opções disponíveis no Odoo *Pesquisas* oferecem inúmeras maneiras de "
+"opções disponíveis no Blue Connect *Pesquisas* oferecem inúmeras maneiras de "
 "examinar tudo relacionado a pesquisas e suas respostas enviadas."
 
 #: ../../content/applications/marketing/surveys.rst:260
@@ -16572,14 +16572,14 @@ msgid ""
 msgstr ""
 "Depois que as pesquisas são criadas e enviadas aos participantes, é apenas "
 "questão de tempo até que as respostas comecem a chegar. Quando isso "
-"acontecer, é importante saber onde e como analisá-las no Odoo *Pesquisas*."
+"acontecer, é importante saber onde e como analisá-las no Blue Connect *Pesquisas*."
 
 #: ../../content/applications/marketing/surveys/analysis.rst:9
 msgid ""
 "Fortunately, Odoo provides numerous ways to view survey responses, allowing "
 "users to access and analyze survey responses as they are submitted."
 msgstr ""
-"Felizmente, o Odoo oferece várias maneiras de visualizar as respostas da "
+"Felizmente, o Blue Connect oferece várias maneiras de visualizar as respostas da "
 "pesquisa, permitindo que os usuários acessem e analisem as respostas à "
 "medida que são enviadas."
 
@@ -16644,7 +16644,7 @@ msgid ""
 "The 'See Results' button present on the main dashboard of the Odoo Surveys "
 "application."
 msgstr ""
-"O botão \"Ver resultados\" presente no painel principal do aplicativo Odoo "
+"O botão \"Ver resultados\" presente no painel principal do aplicativo Blue Connect "
 "Pesquisas."
 
 #: ../../content/applications/marketing/surveys/analysis.rst:37
@@ -16665,7 +16665,7 @@ msgid ""
 "Surveys dashboard."
 msgstr ""
 "Página comum de resultados de pesquisa quando se clica em \"Ver resultados\" "
-"no painel do Odoo Pesquisas."
+"no painel do Blue Connect Pesquisas."
 
 #: ../../content/applications/marketing/surveys/analysis.rst:45
 msgid ""
@@ -16674,7 +16674,7 @@ msgid ""
 "survey form for that particular survey."
 msgstr ""
 "Na parte superior da página, há um link :guilabel:`Editar pesquisa`, no meio "
-"de um banner de cabeçalho azul. Ao clciar, o Odoo retorna ao formulário "
+"de um banner de cabeçalho azul. Ao clciar, o Blue Connect retorna ao formulário "
 "daquela pesquisa específica."
 
 #: ../../content/applications/marketing/surveys/analysis.rst:48
@@ -16722,7 +16722,7 @@ msgid ""
 "Odoo Surveys app."
 msgstr ""
 "O menu suspenso \"Todas as pesquisas\" foi aberto na página \"Ver "
-"resultados\" do aplicativo Odoo Pesquisas."
+"resultados\" do aplicativo Blue Connect Pesquisas."
 
 #: ../../content/applications/marketing/surveys/analysis.rst:64
 msgid ""
@@ -16779,7 +16779,7 @@ msgid ""
 "Surveys app."
 msgstr ""
 "O menu suspenso 'Aprovado e Reprovado' na página 'Ver resultados' do "
-"aplicativo Odoo Pesquisas."
+"aplicativo Blue Connect Pesquisas."
 
 #: ../../content/applications/marketing/surveys/analysis.rst:85
 msgid ""
@@ -16814,7 +16814,7 @@ msgid ""
 "application."
 msgstr ""
 "A seção \"Visão geral dos resultados\" na página \"Ver resultados\" no "
-"aplicativo Odoo Pesquisas."
+"aplicativo Blue Connect Pesquisas."
 
 #: ../../content/applications/marketing/surveys/analysis.rst:98
 msgid ""
@@ -16864,7 +16864,7 @@ msgid ""
 "question's visual and data-related results re-appear."
 msgstr ""
 "Cada pergunta é exibida acima de seus resultados correspondentes. À esquerda "
-"da pergunta há um ícone :guilabel:`👁️ (olho)`. Quando clicado, o Odoo oculta "
+"da pergunta há um ícone :guilabel:`👁️ (olho)`. Quando clicado, o Blue Connect oculta "
 "os resultados e respostas visuais e relacionados a dados. Se clicado "
 "novamente, os resultados visuais e relacionados a dados da pergunta "
 "reaparecem."
@@ -16884,7 +16884,7 @@ msgid ""
 "The Responded and Skipped indicators on the 'See results' page in Odoo "
 "Surveys."
 msgstr ""
-"Os indicadores Respondido e Ignorado na página \"Ver resultados\" do Odoo "
+"Os indicadores Respondido e Ignorado na página \"Ver resultados\" do Blue Connect "
 "Pesquisas."
 
 #: ../../content/applications/marketing/surveys/analysis.rst:126
@@ -16905,7 +16905,7 @@ msgid ""
 "Surveys application."
 msgstr ""
 "Exemplo de um indicador \"correto\" na página \"Ver resultados\" no "
-"aplicativo Odoo Pesquisas."
+"aplicativo Blue Connect Pesquisas."
 
 #: ../../content/applications/marketing/surveys/analysis.rst:135
 msgid ""
@@ -16943,7 +16943,7 @@ msgid ""
 "application."
 msgstr ""
 "Resultados comuns do gráfico de pizza na página \"Ver resultados\" no "
-"aplicativo Odoo Pesquisas."
+"aplicativo Blue Connect Pesquisas."
 
 #: ../../content/applications/marketing/surveys/analysis.rst:149
 msgid ""
@@ -16961,7 +16961,7 @@ msgid ""
 "application."
 msgstr ""
 "Resultados comuns do gráfico de barras na página \"Ver resultados\" no "
-"aplicativo Odoo Pesquisas."
+"aplicativo Blue Connect Pesquisas."
 
 #: ../../content/applications/marketing/surveys/analysis.rst:156
 msgid ""
@@ -16985,7 +16985,7 @@ msgstr ""
 msgid ""
 "Typical 'Data' tab on the 'See results' page in the Odoo Surveys application."
 msgstr ""
-"Aba \"Dados\" típica na página \"Ver resultados\" no aplicativo Odoo "
+"Aba \"Dados\" típica na página \"Ver resultados\" no aplicativo Blue Connect "
 "Pesquisas."
 
 #: ../../content/applications/marketing/surveys/analysis.rst:167
@@ -17011,7 +17011,7 @@ msgid ""
 "Typical 'Most Common' tab on the 'See results' page in the Odoo Surveys "
 "application."
 msgstr ""
-"Aba \"Mais comum\" típica na página \"Ver resultados\" no aplicativo Odoo "
+"Aba \"Mais comum\" típica na página \"Ver resultados\" no aplicativo Blue Connect "
 "Pesquisas."
 
 #: ../../content/applications/marketing/surveys/analysis.rst:177
@@ -17027,7 +17027,7 @@ msgid ""
 "Typical 'All Data' tab on the 'See results' page in the Odoo Surveys "
 "application."
 msgstr ""
-"Aba comum \"Todos os dados\" na página \"Ver resultados\" no aplicativo Odoo "
+"Aba comum \"Todos os dados\" na página \"Ver resultados\" no aplicativo Blue Connect "
 "Pesquisas."
 
 #: ../../content/applications/marketing/surveys/analysis.rst:184
@@ -17046,7 +17046,7 @@ msgid ""
 "The Maximum, Minimum, and Average indicators on the 'See results' page in "
 "Odoo Surveys."
 msgstr ""
-"Os indicadores Máximo, Mínimo e Médio na página \"Ver resultados\" no Odoo "
+"Os indicadores Máximo, Mínimo e Médio na página \"Ver resultados\" no Blue Connect "
 "Pesquisas."
 
 #: ../../content/applications/marketing/surveys/analysis.rst:192
@@ -17065,7 +17065,7 @@ msgid ""
 "Typical 'Filter' icon on the 'See results' page in the Odoo Surveys "
 "application."
 msgstr ""
-"Ícone de \"Filtro\" na página \"Ver resultados\" no aplicativo Odoo "
+"Ícone de \"Filtro\" na página \"Ver resultados\" no aplicativo Blue Connect "
 "Pesquisas."
 
 #: ../../content/applications/marketing/surveys/analysis.rst:200
@@ -17075,7 +17075,7 @@ msgid ""
 "results of each question for participants who submitted that particular "
 "answer for that specific question."
 msgstr ""
-"Ao clicar no ícone de :guilabel:`filtro`, o Odoo retorna ao topo da página "
+"Ao clicar no ícone de :guilabel:`filtro`, o Blue Connect retorna ao topo da página "
 "de resultados, com o filtro selecionado aplicado, mostrando os resultados de "
 "cada pergunta para os participantes que enviaram aquela resposta específica "
 "naquela pergunta."
@@ -17084,7 +17084,7 @@ msgstr ""
 msgid ""
 "The applied filter on the 'See results' page in the Odoo Surveys application."
 msgstr ""
-"O filtro aplicado na página \"Ver resultados\" no aplicativo Odoo Pesquisas."
+"O filtro aplicado na página \"Ver resultados\" no aplicativo Blue Connect Pesquisas."
 
 #: ../../content/applications/marketing/surveys/analysis.rst:208
 msgid ""
@@ -17121,7 +17121,7 @@ msgid ""
 "The Participations smart button at the top of a survey form in Odoo Surveys."
 msgstr ""
 "O botão inteligente Participações na parte superior de um formulário de "
-"pesquisa no Odoo Pesquisas."
+"pesquisa no Blue Connect Pesquisas."
 
 #: ../../content/applications/marketing/surveys/analysis.rst:223
 msgid ""
@@ -17138,7 +17138,7 @@ msgid ""
 "The Participations page for a singular survey in the Odoo Surveys "
 "application."
 msgstr ""
-"A página Participações de uma única pesquisa no aplicativo Odoo Pesquisas."
+"A página Participações de uma única pesquisa no aplicativo Blue Connect Pesquisas."
 
 #: ../../content/applications/marketing/surveys/analysis.rst:230
 msgid ""
@@ -17151,14 +17151,14 @@ msgstr ""
 "Aqui, os usuários podem visualizar informações relacionadas aos "
 "participantes que responderam a essa pesquisa específica. Se quiserem uma "
 "análise mais detalhada das respostas, eles podem clicar em qualquer "
-"participante, e o Odoo abrirá uma página independente mostrando os detalhes "
+"participante, e o Blue Connect abrirá uma página independente mostrando os detalhes "
 "da pesquisa desse participante, juntamente com as respostas enviadas."
 
 #: ../../content/applications/marketing/surveys/analysis.rst:None
 msgid ""
 "An individual participant's detail form in the Odoo Surveys application."
 msgstr ""
-"Formulário de detalhes de um participante no aplicativo Odoo Pesquisas."
+"Formulário de detalhes de um participante no aplicativo Blue Connect Pesquisas."
 
 #: ../../content/applications/marketing/surveys/analysis.rst:239
 msgid ""
@@ -17177,7 +17177,7 @@ msgstr ""
 msgid ""
 "The Participations page for all surveys in the Odoo Surveys application."
 msgstr ""
-"A página Participações de todas as pesquisas no aplicativo Odoo Pesquisas."
+"A página Participações de todas as pesquisas no aplicativo Blue Connect Pesquisas."
 
 #: ../../content/applications/marketing/surveys/analysis.rst:247
 msgid ""
@@ -17201,7 +17201,7 @@ msgstr ""
 msgid ""
 "The Participations page in the Kanban view in the Odoo Surveys application."
 msgstr ""
-"A página Participações no modo de visualização Kanban no aplicativo Odoo "
+"A página Participações no modo de visualização Kanban no aplicativo Blue Connect "
 "Pesquisas."
 
 #: ../../content/applications/marketing/surveys/analysis.rst:257
@@ -17220,7 +17220,7 @@ msgid ""
 "To create a survey in the Odoo *Surveys* application, navigate "
 "to :menuselection:`Surveys app --> New` to reveal a blank survey form."
 msgstr ""
-"Para criar uma pesquisa no aplicativo Odoo *Pesquisas*, navegue "
+"Para criar uma pesquisa no aplicativo Blue Connect *Pesquisas*, navegue "
 "até :menuselection:`app Pesquisas --> Novo` para abrir um formulário de "
 "pesquisa em branco."
 
@@ -17238,7 +17238,7 @@ msgstr "Formulário de pesquisa"
 
 #: ../../content/applications/marketing/surveys/create.rst:None
 msgid "How a blank survey form looks in the Odoo Surveys application."
-msgstr "Formulário de pesquisa em branco no aplicativo Odoo Pesquisas."
+msgstr "Formulário de pesquisa em branco no aplicativo Blue Connect Pesquisas."
 
 #: ../../content/applications/marketing/surveys/create.rst:19
 msgid ""
@@ -17381,7 +17381,7 @@ msgid ""
 "Surveys."
 msgstr ""
 "O menu suspenso do controle deslizante com a opção Resposta obrigatória "
-"selecionada no Odoo Pesquisas."
+"selecionada no Blue Connect Pesquisas."
 
 #: ../../content/applications/marketing/surveys/create.rst:71
 msgid "Add a question"
@@ -17531,7 +17531,7 @@ msgstr "Seção de perguntas"
 msgid ""
 "The Questions section of the Options tab on a survey form in Odoo Surveys."
 msgstr ""
-"A seção Perguntas da aba Opções em um formulário de pesquisa no Odoo "
+"A seção Perguntas da aba Opções em um formulário de pesquisa no Blue Connect "
 "Pesquisas."
 
 #: ../../content/applications/marketing/surveys/create.rst:129
@@ -17630,7 +17630,7 @@ msgid ""
 "The Time and Scoring section of the Options tab on a survey form in Odoo "
 "Surveys."
 msgstr ""
-"A seção Tempo e Pontuação da aba Opções em um formulário de pesquisa no Odoo "
+"A seção Tempo e Pontuação da aba Opções em um formulário de pesquisa no Blue Connect "
 "Pesquisas."
 
 #: ../../content/applications/marketing/surveys/create.rst:163
@@ -17742,7 +17742,7 @@ msgstr "Seção Participantes"
 msgid ""
 "The Participants section of the Options tab on a survey form in Odoo Surveys."
 msgstr ""
-"A seção Participantes da aba Opções em um formulário de pesquisa no Odoo "
+"A seção Participantes da aba Opções em um formulário de pesquisa no Blue Connect "
 "Pesquisas."
 
 #: ../../content/applications/marketing/surveys/create.rst:204
@@ -17787,7 +17787,7 @@ msgstr "Seção Sessão ao vivo"
 msgid ""
 "The Live Session section of the Options tab on a survey form in Odoo Surveys."
 msgstr ""
-"A seção Sessão ao vivo da aba Opções em um formulário de pesquisa no Odoo "
+"A seção Sessão ao vivo da aba Opções em um formulário de pesquisa no Blue Connect "
 "Pesquisas."
 
 #: ../../content/applications/marketing/surveys/create.rst:222
@@ -17924,7 +17924,7 @@ msgstr ""
 
 #: ../../content/applications/marketing/surveys/create.rst:None
 msgid "The various buttons on a survey form in Odoo Surveys."
-msgstr "Os vários botões em um formulário de pesquisa no Odoo Pesquisas."
+msgstr "Os vários botões em um formulário de pesquisa no Blue Connect Pesquisas."
 
 #: ../../content/applications/marketing/surveys/create.rst:280
 msgid "Those buttons are the following:"
@@ -17948,7 +17948,7 @@ msgid ""
 "The 'Share a Survey' pop-up window that appears in the Odoo Surveys "
 "application."
 msgstr ""
-"A janela pop-up 'Compartilhar uma pesquisa' que aparece no aplicativo Odoo "
+"A janela pop-up 'Compartilhar uma pesquisa' que aparece no aplicativo Blue Connect "
 "Pesquisas."
 
 #: ../../content/applications/marketing/surveys/create.rst:290
@@ -18036,7 +18036,7 @@ msgid ""
 "If the link in the blue banner is clicked, Odoo returns the user to the "
 "survey form."
 msgstr ""
-"Se o link no banner azul for clicado, o Odoo retornará ao formulário de "
+"Se o link no banner azul for clicado, o Blue Connect retornará ao formulário de "
 "pesquisa."
 
 #: ../../content/applications/marketing/surveys/create.rst:322
@@ -18083,7 +18083,7 @@ msgid ""
 "With the Odoo *Surveys* application, users can enhance in-person "
 "demonstrations and presentations with the *Live Session* feature."
 msgstr ""
-"Com o aplicativo Odoo *Pesquisas*, os usuários podem aprimorar as "
+"Com o aplicativo Blue Connect *Pesquisas*, os usuários podem aprimorar as "
 "demonstrações e apresentações com o recurso *Sessão ao vivo*."
 
 #: ../../content/applications/marketing/surveys/live_session.rst:8
@@ -18125,7 +18125,7 @@ msgid ""
 "Odoo Surveys."
 msgstr ""
 "Conceito renderizado de como o resultado de uma pergunta e resposta da "
-"Sessão ao vivo aparece no Odoo Pesquisas."
+"Sessão ao vivo aparece no Blue Connect Pesquisas."
 
 #: ../../content/applications/marketing/surveys/live_session.rst:24
 msgid "Create Live Session survey"
@@ -18159,7 +18159,7 @@ msgid ""
 "options for a *Live Session* survey when that option is selected."
 msgstr ""
 "No entanto, selecionar o botão de opção do tipo de "
-"pesquisa :guilabel:`Sessão ao vivo` simplifica o processo porque o Odoo "
+"pesquisa :guilabel:`Sessão ao vivo` simplifica o processo porque o Blue Connect "
 "seleciona automaticamente as configurações e opções ideais para uma pesquisa "
 "*Sessão ao vivo* quando essa opção é selecionada."
 
@@ -18212,7 +18212,7 @@ msgid ""
 "Surveys application."
 msgstr ""
 "A opção de limite de tempo das perguntas de sessão ao vivo no aplicativo "
-"Odoo Pesquisas."
+"Blue Connect Pesquisas."
 
 #: ../../content/applications/marketing/surveys/live_session.rst:59
 msgid ""
@@ -18630,7 +18630,7 @@ msgid ""
 "In Odoo *Surveys*, crafting and tailoring survey questions is crucial "
 "for :doc:`creating and customizing surveys <../surveys/create>`."
 msgstr ""
-"No Odoo *Pesquisas*, projetar e personalizar perguntas de pesquisa é crucial "
+"No Blue Connect *Pesquisas*, projetar e personalizar perguntas de pesquisa é crucial "
 "para :doc:`criar e personalizar pesquisas <../surveys/create>`."
 
 #: ../../content/applications/marketing/surveys/questions.rst:8
@@ -18638,7 +18638,7 @@ msgid ""
 "Fortunately, Odoo provides numerous ways to configure tailored questions for "
 "any kind of survey."
 msgstr ""
-"Felizmente, o Odoo oferece várias maneiras de configurar perguntas "
+"Felizmente, o Blue Connect oferece várias maneiras de configurar perguntas "
 "personalizadas em qualquer tipo de pesquisa."
 
 #: ../../content/applications/marketing/surveys/questions.rst:10
@@ -18660,7 +18660,7 @@ msgid ""
 "existing survey from the :guilabel:`Surveys` page (:menuselection:`Surveys "
 "app --> Surveys`)."
 msgstr ""
-"No entanto, há apenas um lugar no aplicativo Odoo *Pesquisas* onde é "
+"No entanto, há apenas um lugar no aplicativo Blue Connect *Pesquisas* onde é "
 "possível criar perguntas. Para fazer isso, navegue até um formulário de "
 "pesquisa, indo até :menuselection:`app Pesquisas --> Novo`, ou selecionando "
 "qualquer pesquisa pré-existente na página :guilabel:`Pesquisas` "
@@ -18692,7 +18692,7 @@ msgid ""
 "Surveys."
 msgstr ""
 "O menu suspenso do controle deslizante que mostra a opção Resposta "
-"obrigatória no Odoo Pesquisas."
+"obrigatória no Blue Connect Pesquisas."
 
 #: ../../content/applications/marketing/surveys/questions.rst:41
 msgid "Create sections"
@@ -18751,7 +18751,7 @@ msgstr "Janela pop-up Criar seções e perguntas"
 
 #: ../../content/applications/marketing/surveys/questions.rst:None
 msgid "The Create Sections and Questions pop-up form in Odoo Surveys."
-msgstr "O formulário pop-up Criar seções e perguntas no Odoo Pesquisas."
+msgstr "O formulário pop-up Criar seções e perguntas no Blue Connect Pesquisas."
 
 #: ../../content/applications/marketing/surveys/questions.rst:90
 msgid ""
@@ -18922,7 +18922,7 @@ msgstr ""
 #: ../../content/applications/marketing/surveys/questions.rst:None
 msgid "The Single Line Text box question type answers tab in Odoo Surveys."
 msgstr ""
-"A aba de respostas do tipo de pergunta Caixa de texto de linha única no Odoo "
+"A aba de respostas do tipo de pergunta Caixa de texto de linha única no Blue Connect "
 "Pesquisas."
 
 #: ../../content/applications/marketing/surveys/questions.rst:148
@@ -18934,7 +18934,7 @@ msgid ""
 msgstr ""
 "Se a opção :guilabel:`A entrada deve ser um e-mail` estiver ativada, será "
 "exibido um novo campo, :guilabel:`Salvar como e-mail do usuário`. Se essa "
-"caixa estiver marcada, o Odoo salvará a resposta do participante nessa "
+"caixa estiver marcada, o Blue Connect salvará a resposta do participante nessa "
 "pergunta específica como seu endereço de e-mail."
 
 #: ../../content/applications/marketing/surveys/questions.rst:152
@@ -18943,7 +18943,7 @@ msgid ""
 "participant's answer as its nickname."
 msgstr ""
 "Se a opção :guilabel:`Salvar como apelido do usuário` estiver ativada, o "
-"Odoo salvará a resposta do participante como seu apelido."
+"Blue Connect salvará a resposta do participante como seu apelido."
 
 #: ../../content/applications/marketing/surveys/questions.rst:155
 msgid ""
@@ -18960,7 +18960,7 @@ msgid ""
 "The answer tab with a multiple choice answer option selected in Odoo Surveys."
 msgstr ""
 "A aba de resposta com opção de resposta de múltipla escolha selecionada no "
-"Odoo Pesquisas."
+"Blue Connect Pesquisas."
 
 #: ../../content/applications/marketing/surveys/questions.rst:162
 msgid ""
@@ -19055,7 +19055,7 @@ msgstr ""
 #: ../../content/applications/marketing/surveys/questions.rst:None
 msgid "The answer tab with a matrix question type selected in Odoo Surveys."
 msgstr ""
-"A aba de resposta com o tipo de pergunta Matriz selecionado no Odoo "
+"A aba de resposta com o tipo de pergunta Matriz selecionado no Blue Connect "
 "Pesquisas."
 
 #: ../../content/applications/marketing/surveys/questions.rst:200
@@ -19150,7 +19150,7 @@ msgid ""
 "the question. This is best utilized in surveys where there is no scoring "
 "option enabled."
 msgstr ""
-"Se a opção :guilabel:`Comentários são respostas` estiver ativada, o Odoo "
+"Se a opção :guilabel:`Comentários são respostas` estiver ativada, o Blue Connect "
 "considerará o texto do comentário do participante como uma resposta, e não "
 "apenas um comentário sobre a pergunta. Isso funciona melhor em pesquisas em "
 "que não há opção de pontuação ativada."
@@ -19175,7 +19175,7 @@ msgid ""
 "Odoo Surveys."
 msgstr ""
 "O campo de marcador de posição quando é selecionada a opção de caixa de "
-"texto de várias linhas no Odoo Pesquisas."
+"texto de várias linhas no Blue Connect Pesquisas."
 
 #: ../../content/applications/marketing/surveys/questions.rst:253
 #: ../../content/applications/marketing/surveys/questions.rst:276
@@ -19239,7 +19239,7 @@ msgid ""
 "displays when an answer is not valid."
 msgstr ""
 "No campo :guilabel:`Erro de validação`, digite uma mensagem personalizada "
-"que será exibida pelo Odoo quando uma resposta não for válida."
+"que será exibida pelo Blue Connect quando uma resposta não for válida."
 
 #: ../../content/applications/marketing/surveys/questions.rst:280
 msgid "Constraints section"
@@ -19255,7 +19255,7 @@ msgstr ""
 
 #: ../../content/applications/marketing/surveys/questions.rst:None
 msgid "The Constraints section in the options tab in Odoo Surveys."
-msgstr "A seção Restrições na aba de opções do Odoo Pesquisas."
+msgstr "A seção Restrições na aba de opções do Blue Connect Pesquisas."
 
 #: ../../content/applications/marketing/surveys/questions.rst:289
 msgid ""
@@ -19322,7 +19322,7 @@ msgid ""
 "The Conditional Display section of the options tab in the Odoo Surveys "
 "application."
 msgstr ""
-"A seção Exibição condicional da aba de opções no aplicativo Odoo Pesquisas."
+"A seção Exibição condicional da aba de opções no aplicativo Blue Connect Pesquisas."
 
 #: ../../content/applications/marketing/surveys/questions.rst:315
 msgid ""
@@ -19359,7 +19359,7 @@ msgstr ""
 #: ../../content/applications/marketing/surveys/questions.rst:None
 msgid ""
 "The Live Sessions section of the Option tab in the Odoo Surveys application."
-msgstr "A seção Sessões ao vivo da ava Opção no aplicativo Odoo Pesquisas."
+msgstr "A seção Sessões ao vivo da ava Opção no aplicativo Blue Connect Pesquisas."
 
 #: ../../content/applications/marketing/surveys/questions.rst:332
 msgid ""

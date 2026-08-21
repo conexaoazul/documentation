@@ -22,7 +22,7 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 14.0\n"
+"Project-Id-Version: Blue Connect 14.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-02-06 18:30+0000\n"
 "PO-Revision-Date: 2025-11-19 20:20+0000\n"
@@ -52,14 +52,14 @@ msgid ""
 "the pipeline and manage your day-to-day activities with meetings and next "
 "activities."
 msgstr ""
-"O **CRM do Odoo*** ajuda a organizar suas atividades de vendas: rastrear "
+"O **CRM do Blue Connect*** ajuda a organizar suas atividades de vendas: rastrear "
 "leads, fechar oportunidades e obter previsões precisas. Mantenha as "
 "oportunidades organizadas no funil e gerencie suas atividades diárias com "
 "reuniões e próximas atividades."
 
 #: ../../content/applications/sales/crm.rst:15
 msgid "`Odoo Tutorials: CRM <https://www.odoo.com/slides/crm-16>`_"
-msgstr "Tutoriais do Odoo: CRM <https://www.odoo.com/slides/crm-16>`_"
+msgstr "Tutoriais do Blue Connect: CRM <https://www.odoo.com/slides/crm-16>`_"
 
 #: ../../content/applications/sales/crm/acquire_leads.rst:5
 msgid "Acquire leads"
@@ -261,7 +261,7 @@ msgid ""
 "resulting record is referred to as an opportunity, regardless of which "
 "record was created first."
 msgstr ""
-"Ao mesclar, o Odoo dá prioridade ao lead/oportunidade que foi criado "
+"Ao mesclar, o Blue Connect dá prioridade ao lead/oportunidade que foi criado "
 "primeiro no sistema, mesclando as informações no primeiro lead/oportunidade "
 "criado. No entanto, se um lead e uma oportunidade estiverem sendo mesclados, "
 "o registro resultante será chamado de oportunidade, independentemente de "
@@ -659,7 +659,7 @@ msgid ""
 "country, the company size, and the industry."
 msgstr ""
 "A *mineração de leads* é um recurso que permite que usuários do *CRM* gerem "
-"novos leads diretamente em sua base de dados do Odoo. Para garantir a "
+"novos leads diretamente em sua base de dados do Blue Connect. Para garantir a "
 "qualificação do lead, o resultado da mineração de leads é determinada por "
 "uma variedade de critérios de filtragem, como o país, o tamanho da empresa e "
 "o setor."
@@ -676,7 +676,7 @@ msgstr ""
 
 #: ../../content/applications/sales/crm/acquire_leads/lead_mining.rst:None
 msgid "Activate lead mining in Odoo CRM settings."
-msgstr "Ative a mineração de leads nas configurações do Odoo CRM."
+msgstr "Ative a mineração de leads nas configurações do Blue Connect CRM."
 
 #: ../../content/applications/sales/crm/acquire_leads/lead_mining.rst:23
 msgid "Generate leads"
@@ -720,7 +720,7 @@ msgstr ""
 msgid ""
 "The pop-up window with the selection criteria in order to generate leads in "
 "Odoo."
-msgstr "A janela pop-up com os critérios de seleção para gerar leads no Odoo."
+msgstr "A janela pop-up com os critérios de seleção para gerar leads no Blue Connect."
 
 #: ../../content/applications/sales/crm/acquire_leads/lead_mining.rst:44
 msgid ""
@@ -810,7 +810,7 @@ msgid ""
 msgstr ""
 "Certifique-se de estar ciente das regulamentações mais recentes da UE ao "
 "receber informações de contato. Veja mais informações sobre o Regulamento "
-"geral de proteção de dados no `Odoo GDPR <http://odoo.com/gdpr>`_."
+"geral de proteção de dados no `Blue Connect GDPR <http://odoo.com/gdpr>`_."
 
 #: ../../content/applications/sales/crm/acquire_leads/lead_mining.rst:69
 msgid "View leads"
@@ -883,7 +883,7 @@ msgid ""
 msgstr ""
 "A geração de |CC| custa um crédito adicional para cada contato gerado. "
 "Consulte aqui as informações completas sobre preços: `Geração de leads por "
-"IAP do Odoo <https://iap.odoo.com/iap/in-app-services/167?>`_."
+"IAP do Blue Connect <https://iap.odoo.com/iap/in-app-services/167?>`_."
 
 #: ../../content/applications/sales/crm/acquire_leads/lead_mining.rst:99
 msgid ""
@@ -903,12 +903,12 @@ msgid ""
 msgstr ""
 "Créditos também podem ser comprados navegando até o "
 "aplicativo :menuselection:`Definições`. Na seção :guilabel:`Contatos`, sob o "
-"recurso :guilabel:`Odoo IAP`, clique em :guilabel:`Ver meus serviços`."
+"recurso :guilabel:`Blue Connect IAP`, clique em :guilabel:`Ver meus serviços`."
 
 #: ../../content/applications/sales/crm/acquire_leads/lead_mining.rst:None
 #: ../../content/applications/sales/crm/optimize/lead_enrichment.rst:None
 msgid "Buy credits in the Odoo IAP settings."
-msgstr "Compre créditos nas configurações do Odoo IAP."
+msgstr "Compre créditos nas configurações do Blue Connect IAP."
 
 #: ../../content/applications/sales/crm/acquire_leads/lead_mining.rst:112
 msgid ""
@@ -916,7 +916,7 @@ msgid ""
 "IAP| features before purchasing more credits for the database. This includes "
 "demo/training databases, educational databases, and one-app-free databases."
 msgstr ""
-"Os usuários do Odoo Enterprise com uma assinatura válida recebem créditos "
+"Os usuários do Blue Connect Enterprise com uma assinatura válida recebem créditos "
 "gratuitos para testar os recursos de IAP antes de comprar mais créditos para "
 "o base de dados. Isso inclui bases de dados de demonstração/treinamento, "
 "bases educacionais e bases um-app-grátis."
@@ -951,7 +951,7 @@ msgid ""
 "preconfigured contact form. This form can be customized, as needed, to suit "
 "the needs of a specific sales team."
 msgstr ""
-"Por padrão, a página *Entre em contato* em um site Odoo exibe um formulário "
+"Por padrão, a página *Entre em contato* em um site Blue Connect exibe um formulário "
 "de contato pré-configurado. Esse formulário pode ser personalizado, conforme "
 "necessário, para atender às necessidades de uma equipe de vendas específica."
 
@@ -974,7 +974,7 @@ msgstr ""
 
 #: ../../content/applications/sales/crm/acquire_leads/opportunities_form.rst:None
 msgid "The form configuration settings on an Odoo website."
-msgstr "As definições de configuração do formulário em um site Odoo."
+msgstr "As definições de configuração do formulário em um site Blue Connect."
 
 #: ../../content/applications/sales/crm/acquire_leads/opportunities_form.rst:26
 msgid ""
@@ -1195,7 +1195,7 @@ msgstr ""
 
 #: ../../content/applications/sales/crm/acquire_leads/opportunities_form.rst:None
 msgid "The field configuration settings on an Odoo website."
-msgstr "As definições de configuração de campo em um site Odoo."
+msgstr "As definições de configuração de campo em um site Blue Connect."
 
 #: ../../content/applications/sales/crm/acquire_leads/opportunities_form.rst:89
 msgid "View opportunities"
@@ -1294,7 +1294,7 @@ msgid ""
 msgstr ""
 "Depois que um lead qualificado é convertido em uma oportunidade, a próxima "
 "etapa é criar e entregar uma cotação. Esse processo pode ser facilmente "
-"realizado por meio do aplicativo *CRM* do Odoo."
+"realizado por meio do aplicativo *CRM* do Blue Connect."
 
 #: ../../content/applications/sales/crm/acquire_leads/send_quotes.rst:9
 msgid "Create a new quotation"
@@ -1870,7 +1870,7 @@ msgid ""
 "banner is now present in the upper-right corner of the opportunity."
 msgstr ""
 "Ao clicar em :guilabel:`Marcar como perdido`, a janela pop-up desaparece e o "
-"Odoo retorna ao formulário de oportunidade, onde um novo banner "
+"Blue Connect retorna ao formulário de oportunidade, onde um novo banner "
 "vermelho :guilabel:`Perdido` está agora presente no canto superior direito "
 "da oportunidade."
 
@@ -1921,7 +1921,7 @@ msgid ""
 "rewards. Goals are created to target actions within the *CRM* app, and can "
 "be tracked and rewarded automatically to participating sales teams."
 msgstr ""
-"No aplicativo *CRM* da Odoo, as ferramentas de *gamificação* oferecem a "
+"No aplicativo *CRM* da Blue Connect, as ferramentas de *gamificação* oferecem a "
 "oportunidade de avaliar e motivar os usuários através de desafios, metas e "
 "recompensas personalizáveis. As metas são criadas para direcionar ações "
 "dentro do aplicativo *CRM* e podem ser rastreadas e recompensadas "
@@ -1951,7 +1951,7 @@ msgstr ""
 
 #: ../../content/applications/sales/crm/optimize/gamification.rst:None
 msgid "View of the gamification module being installed in Odoo."
-msgstr "Visualização do módulo de gamificação sendo instalado no Odoo."
+msgstr "Visualização do módulo de gamificação sendo instalado no Blue Connect."
 
 #: ../../content/applications/sales/crm/optimize/gamification.rst:24
 msgid ""
@@ -1976,7 +1976,7 @@ msgstr ""
 
 #: ../../content/applications/sales/crm/optimize/gamification.rst:None
 msgid "View if the gamification tools menu in Odoo Settings."
-msgstr "Visualização do menu de ferramentas de gamificação no Odoo Definições"
+msgstr "Visualização do menu de ferramentas de gamificação no Blue Connect Definições"
 
 #: ../../content/applications/sales/crm/optimize/gamification.rst:38
 msgid "Create badges"
@@ -2004,7 +2004,7 @@ msgstr ""
 
 #: ../../content/applications/sales/crm/optimize/gamification.rst:None
 msgid "View of the badges page in Odoo."
-msgstr "Visualização da página de medalhas no Odoo."
+msgstr "Visualização da página de medalhas no Blue Connect."
 
 #: ../../content/applications/sales/crm/optimize/gamification.rst:52
 msgid ""
@@ -2290,7 +2290,7 @@ msgstr ""
 "O *enriquecimento de leads* é um serviço que fornece informações comerciais "
 "para um contato anexado a um lead. O enriquecimento de leads é um recurso de "
 "compra no aplicativo (IAP) que requer créditos e está disponível para leads "
-"existentes em uma base de dados do Odoo."
+"existentes em uma base de dados do Blue Connect."
 
 #: ../../content/applications/sales/crm/optimize/lead_enrichment.rst:9
 msgid ""
@@ -2317,7 +2317,7 @@ msgid ""
 "credits for the database. This includes demo/training databases, educational "
 "databases, and one-app-free databases."
 msgstr ""
-"Os usuários do Odoo Enterprise com uma assinatura válida recebem créditos "
+"Os usuários do Blue Connect Enterprise com uma assinatura válida recebem créditos "
 "gratuitos para testar os recursos do :abbr:`IAP (In-App Purchase)` antes de "
 "decidir comprar mais créditos para o banco de dados. Isso inclui bases de "
 "dados de demonstração/treinamento, bases educacionais e bases um-app-grátis."
@@ -2500,7 +2500,7 @@ msgid ""
 "iap.odoo.com/iap/in-app-services/273>`_."
 msgstr ""
 "Consulte aqui as informações completas sobre preços: `Geração de leads por "
-"IAP do Odoo <https://iap.odoo.com/iap/in-app-services/273>`_."
+"IAP do Blue Connect <https://iap.odoo.com/iap/in-app-services/273>`_."
 
 #: ../../content/applications/sales/crm/optimize/lead_enrichment.rst:102
 msgid ""
@@ -2526,7 +2526,7 @@ msgid ""
 msgstr ""
 "Créditos e saldos também podem ser comprados navegando até o "
 "aplicativo :menuselection:`Definições`. Na seção :guilabel:`Contatos`, sob o "
-"recurso :guilabel:`Odoo IAP`, clique em :guilabel:`Ver meus serviços`."
+"recurso :guilabel:`Blue Connect IAP`, clique em :guilabel:`Ver meus serviços`."
 
 #: ../../content/applications/sales/crm/optimize/lead_enrichment.rst:119
 #: ../../content/applications/sales/crm/optimize/partner_autocomplete.rst:74
@@ -2541,7 +2541,7 @@ msgid ""
 msgstr ""
 "Ao coletar as informações de contato de uma empresa, certifique-se de estar "
 "ciente das normas mais recentes da UE. Para obter mais informações sobre o "
-"Regulamento Geral de Proteção de Dados, consulte: `Odoo GDPR <http://"
+"Regulamento Geral de Proteção de Dados, consulte: `Blue Connect GDPR <http://"
 "odoo.com/gdpr>`__."
 
 #: ../../content/applications/sales/crm/optimize/member_partner_module.rst:3
@@ -2704,8 +2704,8 @@ msgid ""
 msgstr ""
 "Ao obter as informações de contato de uma empresa, certifique-se de estar "
 "ciente das normas mais recentes da UE. Para obter mais informações sobre o "
-"Regulamento Geral de Proteção de Dados, consulte: `Odoo GDPR <http://"
-"odoo.com/gdpr>`_. No Odoo, as informações de contato individuais não podem "
+"Regulamento Geral de Proteção de Dados, consulte: `Blue Connect GDPR <http://"
+"odoo.com/gdpr>`_. No Blue Connect, as informações de contato individuais não podem "
 "ser pesquisadas com o recurso de preenchimento automático de parceiros."
 
 #: ../../content/applications/sales/crm/optimize/partner_autocomplete.rst:27
@@ -2721,7 +2721,7 @@ msgstr ""
 #: ../../content/applications/sales/crm/optimize/partner_autocomplete.rst:None
 msgid "View of settings page and the activations of the feature in Odoo."
 msgstr ""
-"Visualização da página de configurações e das ativações do recurso no Odoo."
+"Visualização da página de configurações e das ativações do recurso no Blue Connect."
 
 #: ../../content/applications/sales/crm/optimize/partner_autocomplete.rst:35
 msgid "Enrich contacts with corporate data"
@@ -2735,19 +2735,19 @@ msgid ""
 "that specific selection."
 msgstr ""
 "Em qualquer módulo, à medida que o usuário digita o nome de um novo contato "
-"da empresa, o Odoo revela um grande menu suspenso de possíveis sugestões de "
+"da empresa, o Blue Connect revela um grande menu suspenso de possíveis sugestões de "
 "correspondência. Se alguma delas for selecionada, o contato será preenchido "
 "com dados corporativos relacionados a essa seleção específica."
 
 #: ../../content/applications/sales/crm/optimize/partner_autocomplete.rst:41
 msgid "For example, after typing `Odoo`, the following information populates:"
 msgstr ""
-"Por exemplo, depois de digitar `Odoo`, as seguintes informações são "
+"Por exemplo, depois de digitar `Blue Connect`, as seguintes informações são "
 "preenchidas:"
 
 #: ../../content/applications/sales/crm/optimize/partner_autocomplete.rst:None
 msgid "Creating a new contact in Odoo"
-msgstr "Criar um novo contato no Odoo"
+msgstr "Criar um novo contato no Blue Connect"
 
 #: ../../content/applications/sales/crm/optimize/partner_autocomplete.rst:48
 msgid ""
@@ -2778,7 +2778,7 @@ msgstr ""
 "Para comprar créditos, vá para :menuselection:`app Definições --> seção "
 "Contatos`. Em seguida, localize o recurso :guilabel:`Preenchimento "
 "automático de parceiros` e clique em :guilabel:`Comprar créditos`, ou "
-"localize o recurso :guilabel:`Odoo IAP` e clique em :guilabel:`Exibir meus "
+"localize o recurso :guilabel:`Blue Connect IAP` e clique em :guilabel:`Exibir meus "
 "serviços`. Na página aberta, selecione o pacote desejado."
 
 #: ../../content/applications/sales/crm/optimize/partner_autocomplete.rst:63
@@ -2806,7 +2806,7 @@ msgid ""
 "chatter thread, Kanban view, list view, or activities view of an application."
 msgstr ""
 "As *Atividades* são tarefas de acompanhamento vinculadas a um registro em "
-"uma base de dados *Odoo*. As atividades podem ser agendadas em qualquer "
+"uma base de dados *Blue Connect*. As atividades podem ser agendadas em qualquer "
 "página da base de dados que contenha um tópico do chatter, visualização "
 "Kanban, de lista ou das atividades de um aplicativo."
 
@@ -2816,7 +2816,7 @@ msgid ""
 "database."
 msgstr ""
 "A visualização resumida das atividades de leads e oportunidades em uma base "
-"de dados Odoo."
+"de dados Blue Connect."
 
 #: ../../content/applications/sales/crm/optimize/utilize_activities.rst:13
 msgid "Planned Activities for Leads and Opportunities."
@@ -3918,7 +3918,7 @@ msgid ""
 msgstr ""
 "Clique em :guilabel:`Inserir na planilha` para adicionar a visualização "
 "dinâmica em um formato de planilha editável dentro do aplicativo *Painéis*. "
-"Se o aplicativo Odoo *Documentos* estiver instalado, o relatório poderá ser "
+"Se o aplicativo Blue Connect *Documentos* estiver instalado, o relatório poderá ser "
 "inserido em uma planilha nova ou existente e exportado."
 
 #: ../../content/applications/sales/crm/performance/forecast_report.rst:3
@@ -6487,7 +6487,7 @@ msgid ""
 "and management of multiple sales teams, each with their own assignment "
 "rules, invoicing targets, and roster of salespeople."
 msgstr ""
-"O recurso *Equipes de vendas* do aplicativo *CRM* do Odoo permite a criação "
+"O recurso *Equipes de vendas* do aplicativo *CRM* do Blue Connect permite a criação "
 "e o gerenciamento de várias equipes de vendas, cada uma com suas próprias "
 "regras de atribuição, metas de faturamento e lista de vendedores."
 
@@ -6732,7 +6732,7 @@ msgid ""
 "the *pipeline* organized, but it also prevents customers from being "
 "contacted by more than one salesperson."
 msgstr ""
-"O Odoo detecta automaticamente *leads* e *oportunidades* semelhantes no "
+"O Blue Connect detecta automaticamente *leads* e *oportunidades* semelhantes no "
 "aplicativo *CRM*. A identificação desses registros duplicados permite que "
 "eles sejam mesclados sem perder nenhuma informação no processo. Isso não "
 "apenas ajuda a manter o *funil* organizado, mas também evita que os clientes "
@@ -7164,7 +7164,7 @@ msgstr ""
 "Nesse terceiro campo, digite o nome das equipes de vendas que devem ser "
 "incluídas no relatório. É importante que todos os valores do "
 "argumento :guilabel:`contém` sejam específicos o suficiente e estejam "
-"escritos exatamente como existem no Odoo, caso contrário, haverá o risco de "
+"escritos exatamente como existem no Blue Connect, caso contrário, haverá o risco de "
 "retornar valores múltiplos (ou zero)."
 
 #: ../../content/applications/sales/crm/track_leads/lead_distribution_report.rst:None
@@ -7487,7 +7487,7 @@ msgid ""
 "Odoo automatically calculates the probability of winning each lead using a "
 "method called *predictive lead scoring*."
 msgstr ""
-"O Odoo calcula automaticamente a probabilidade de ganhar cada lead usando um "
+"O Blue Connect calcula automaticamente a probabilidade de ganhar cada lead usando um "
 "método chamado *pontuação preditiva de leads*."
 
 #: ../../content/applications/sales/crm/track_leads/lead_scoring.rst:14
@@ -7506,7 +7506,7 @@ msgid ""
 "data on which opportunities are won and lost. Predictive lead scoring uses "
 "this data to predict the probability of winning each new lead or opportunity."
 msgstr ""
-"Conforme a empresa processa oportunidades pelo funil de CRM, o Odoo coleta "
+"Conforme a empresa processa oportunidades pelo funil de CRM, o Blue Connect coleta "
 "dados sobre quais oportunidades são ganhadas e perdidas. A pontuação "
 "preditiva de leads usa esses dados para prever a probabilidade de ganhar "
 "novos leads e oportunidades."
@@ -7516,7 +7516,7 @@ msgid ""
 "The more opportunities that are sent through the CRM pipeline, the more data "
 "Odoo collects, resulting in more accurate probabilities."
 msgstr ""
-"Quanto mais oportunidades são enviadas pelo funil do CRM, mais dados o Odoo "
+"Quanto mais oportunidades são enviadas pelo funil do CRM, mais dados o Blue Connect "
 "coleta, resultando em probabilidades mais precisas."
 
 #: ../../content/applications/sales/crm/track_leads/lead_scoring.rst:26
@@ -7524,7 +7524,7 @@ msgid ""
 "Specifically, Odoo's predictive lead scoring uses the *naive Bayes* "
 "probability model:"
 msgstr ""
-"Especificamente, a pontuação preditiva de leads do Odoo usa o modelo de "
+"Especificamente, a pontuação preditiva de leads do Blue Connect usa o modelo de "
 "probabilidade *Naive Bayes*:"
 
 #: ../../content/applications/sales/crm/track_leads/lead_scoring.rst:28
@@ -7573,7 +7573,7 @@ msgid ""
 "historical and demographic data."
 msgstr ""
 "O termo *nesse caso* refere-se às variáveis que podem afetar o sucesso de um "
-"lead no Odoo. Isso pode incluir variáveis como o vendedor atribuído, a "
+"lead no Blue Connect. Isso pode incluir variáveis como o vendedor atribuído, a "
 "origem do lead, o idioma do lead e outros dados históricos e demográficos."
 
 #: ../../content/applications/sales/crm/track_leads/lead_scoring.rst:44
@@ -7829,7 +7829,7 @@ msgid ""
 msgstr ""
 "Na página de configuração da equipe de vendas, em :guilabel:`Regras de "
 "atribuição`, clique em :guilabel:`Editar domínio` para configurar as regras "
-"que o Odoo utiliza para determinar a atribuição de leads para esta equipe de "
+"que o Blue Connect utiliza para determinar a atribuição de leads para esta equipe de "
 "vendas. As regras podem incluir qualquer coisa relevante para esta empresa "
 "ou equipe, e é possível adicionar qualquer quantidade de regras."
 
@@ -7912,7 +7912,7 @@ msgstr ""
 "de :guilabel:`Ignorar atribuição automática`. Marque esta caixa para impedir "
 "que uma equipe de vendas específica ou um vendedor sejam atribuídos "
 "automaticamente a leads pelo recurso de atribuição baseado em regras do "
-"Odoo. Se :guilabel:`Ignorar atribuição automática` estiver ativado, a equipe "
+"Blue Connect. Se :guilabel:`Ignorar atribuição automática` estiver ativado, a equipe "
 "de vendas ou o vendedor ainda poderão ser atribuídos manualmente a leads."
 
 #: ../../content/applications/sales/crm/track_leads/lead_scoring.rst:189
@@ -7934,7 +7934,7 @@ msgid ""
 "marketing's overall impact on lead generation, attribution, won rate, and "
 "more."
 msgstr ""
-"Utilize o aplicativo Odoo *CRM* para compilar um *relatório de atribuição de "
+"Utilize o aplicativo Blue Connect *CRM* para compilar um *relatório de atribuição de "
 "marketing*, que analisa a origem dos contatos e agrupa-os a fim de a "
 "calcular o impacto global do marketing na geração de leads, atribuição, taxa "
 "de ganhos e muito mais."
@@ -8052,7 +8052,7 @@ msgid ""
 "Odoo can use these UTMs as parameters in the marketing attribution report to "
 "track the metrics and performance of marketing campaigns."
 msgstr ""
-"O Odoo pode usar estes UTMs como parâmetros no relatório de atribuição de "
+"O Blue Connect pode usar estes UTMs como parâmetros no relatório de atribuição de "
 "marketing para acompanhar as métricas e o desempenho das campanhas de "
 "marketing."
 
@@ -8066,7 +8066,7 @@ msgid ""
 "in Odoo can be used to create and configure UTMs."
 msgstr ""
 "O :doc:`Rastreio de Links <../../../websites/website/reporting/"
-"link_tracker>` no Odoo pode ser utilizado para criar e configurar UTMs."
+"link_tracker>` no Blue Connect pode ser utilizado para criar e configurar UTMs."
 
 #: ../../content/applications/sales/crm/track_leads/marketing_attribution.rst:62
 msgid ""
@@ -8281,7 +8281,7 @@ msgid ""
 "titled, :guilabel:`Select a spreadsheet to insert your list.` appears."
 msgstr ""
 "Para mais opções de exportação, o relatório pode ser exportado para a "
-"aplicativo Odoo *Documentos*. A partir da :icon:`oi-view-"
+"aplicativo Blue Connect *Documentos*. A partir da :icon:`oi-view-"
 "list` :guilabel:`(visualização de lista)` da página :guilabel:`Análise de "
 "leads`, comece por clicar novamente no ícone :guilabel:`Ações` :icon:`fa-"
 "cog` :guilabel:`(engrenagem)`. Agora, navegue para :icon:`fa-"
@@ -8398,7 +8398,7 @@ msgstr ""
 #: ../../content/applications/sales/crm/track_leads/quality_leads_report.rst:0
 msgid "An example of a quality leads report in the Odoo CRM application."
 msgstr ""
-"Um exemplo de um relatório de leads de qualidade no aplicativo Odoo CRM."
+"Um exemplo de um relatório de leads de qualidade no aplicativo Blue Connect CRM."
 
 #: ../../content/applications/sales/crm/track_leads/quality_leads_report.rst:33
 msgid ""
@@ -8726,7 +8726,7 @@ msgid ""
 "Marketing*, and *Email Marketing*."
 msgstr ""
 ":guilabel:`Origem`: esse campo vincula os esforços de marketing e geração de "
-"leads de outros aplicativos Odoo, incluindo *Chat ao vivo*, *Redes sociais* "
+"leads de outros aplicativos Blue Connect, incluindo *Chat ao vivo*, *Redes sociais* "
 "e *Marketing por e-mail*."
 
 #: ../../content/applications/sales/crm/track_leads/quality_leads_report.rst:170
@@ -8886,7 +8886,7 @@ msgstr ""
 
 #: ../../content/applications/sales/crm/track_leads/resellers.rst:None
 msgid "The resellers module in Odoo."
-msgstr "O módulo de revendedores no Odoo."
+msgstr "O módulo de revendedores no Blue Connect."
 
 #: ../../content/applications/sales/crm/track_leads/resellers.rst:18
 msgid ""
@@ -9156,7 +9156,7 @@ msgid ""
 "date, and sends email reminders to the users the activity is assigned to."
 msgstr ""
 "*Leads não atendidos* são leads que têm atividades programadas que estão "
-"vencidas ou atrasadas. Sempre que uma atividade é agendada, o Odoo monitora "
+"vencidas ou atrasadas. Sempre que uma atividade é agendada, o Blue Connect monitora "
 "o prazo e envia lembretes por e-mail para os usuários aos quais a atividade "
 "está atribuída."
 
@@ -9514,7 +9514,7 @@ msgid ""
 "statistics, and your data is consolidated across all shops."
 msgstr ""
 "Gerencie suas lojas e restaurantes facilmente com o **Ponto de Venda do "
-"Odoo**. O aplicativo funciona em qualquer dispositivo com um navegador da "
+"Blue Connect**. O aplicativo funciona em qualquer dispositivo com um navegador da "
 "web, mesmo se você estiver temporariamente offline. As movimentações de "
 "produtos são registradas automaticamente em seu estoque, você obtém "
 "estatísticas em tempo real e seus dados são consolidados em todas as lojas."
@@ -9524,7 +9524,7 @@ msgid ""
 "`Odoo Tutorials: Point of Sale Tutorials <https://www.odoo.com/slides/point-"
 "of-sale-28>`_"
 msgstr ""
-"Tutoriais 'Odoo': Tutoriais do Ponto de Venda <https://www.odoo.com/slides/"
+"Tutoriais 'Blue Connect': Tutoriais do Ponto de Venda <https://www.odoo.com/slides/"
 "point-of-sale-28>`_"
 
 #: ../../content/applications/sales/point_of_sale.rst:14
@@ -9772,7 +9772,7 @@ msgid ""
 "note, referencing the original receipt or invoice and partially or fully "
 "canceling the document."
 msgstr ""
-"Depois que o pagamento da devolução é validado, o Odoo gera a nota de "
+"Depois que o pagamento da devolução é validado, o Blue Connect gera a nota de "
 "crédito necessária, referenciando o recibo ou a fatura original e cancelando "
 "parcial ou totalmente o documento."
 
@@ -10355,7 +10355,7 @@ msgid ""
 "The following ePOS printers are directly compatible with Odoo without "
 "needing an :doc:`IoT system </applications/general/iot/devices/printer>`."
 msgstr ""
-"The following ePOS printers are directly compatible with Odoo without "
+"The following ePOS printers are directly compatible with Blue Connect without "
 "needing an :doc:`IoT system </applications/general/iot/devices/printer>`."
 
 #: ../../content/applications/sales/point_of_sale/configuration/epos_printers.rst:30
@@ -10424,7 +10424,7 @@ msgid ""
 "iot/devices/printer>` to be compatible with Odoo:"
 msgstr ""
 "The following printers require an :doc:`IoT system </applications/general/"
-"iot/devices/printer>` to be compatible with Odoo:"
+"iot/devices/printer>` to be compatible with Blue Connect:"
 
 #: ../../content/applications/sales/point_of_sale/configuration/epos_printers.rst:51
 msgid "Epson TM-T20 family (incompatible ePOS software)"
@@ -10447,7 +10447,7 @@ msgid ""
 msgstr ""
 "Epson printers using Wi-Fi/Ethernet connections and following the `EPOS SDK "
 "Javascript protocol <https://download4.epson.biz/sec_pubs/pos/reference_en/"
-"technology/epson_epos_sdk.html>`_ are compatible with Odoo **without** "
+"technology/epson_epos_sdk.html>`_ are compatible with Blue Connect **without** "
 "needing an :doc:`IoT system </applications/general/iot/devices/printer>`."
 
 #: ../../content/applications/sales/point_of_sale/configuration/epos_printers.rst:60
@@ -11185,7 +11185,7 @@ msgid ""
 ":doc:`Connect the IoT system to your Odoo database </applications/general/"
 "iot/connect>`."
 msgstr ""
-":doc:`Connect the IoT system to your Odoo database </applications/general/"
+":doc:`Connect the IoT system to your Blue Connect database </applications/general/"
 "iot/connect>`."
 
 #: ../../content/applications/sales/point_of_sale/configuration/pos_iot.rst:39
@@ -11306,7 +11306,7 @@ msgid ""
 "to Odoo users only."
 msgstr ""
 "Leaving the :guilabel:`Advanced rights` field empty grants extended rights "
-"to Odoo users only."
+"to Blue Connect users only."
 
 #: ../../content/applications/sales/point_of_sale/employee_login.rst:37
 msgid ""
@@ -11444,7 +11444,7 @@ msgstr ""
 
 #: ../../content/applications/sales/point_of_sale/employee_login.rst:93
 msgid "Access the Odoo backend interface."
-msgstr "Access the Odoo backend interface."
+msgstr "Access the Blue Connect backend interface."
 
 #: ../../content/applications/sales/point_of_sale/employee_login.rst:94
 msgid ":ref:`Close the current POS session <pos/session-close>`."
@@ -13248,7 +13248,7 @@ msgid ""
 "Odoo does **not** check the bank payment. It is recommended that users "
 "verify payments for validity before confirming them on the POS register."
 msgstr ""
-"O Odoo **não** verifica o pagamento bancário. Recomenda-se que os usuários "
+"O Blue Connect **não** verifica o pagamento bancário. Recomenda-se que os usuários "
 "verifiquem a validade dos pagamentos antes de confirmá-los no registro do "
 "PDV."
 
@@ -13457,7 +13457,7 @@ msgstr ""
 "sua :menuselection:`Conta Adyen --> Desenvolvedores --> Credenciais da API` "
 "e **crie** novas credenciais ou selecione **existentes**. Clique "
 "em :guilabel:`Gerar uma chave de API` e salve a chave para colá-la no "
-"campo :guilabel:`Chave da API do Adyen` do Odoo na :ref:`criação do método "
+"campo :guilabel:`Chave da API do Adyen` do Blue Connect na :ref:`criação do método "
 "de pagamento <adyen/method-creation>`."
 
 #: ../../content/applications/sales/point_of_sale/payment_methods/terminals/adyen.rst:40
@@ -13490,7 +13490,7 @@ msgstr ""
 "Para encontrar esse número, acesse sua :menuselection:`Conta da Adyen --> "
 "Ponto de venda --> Terminais`, selecione o terminal com o qual deseja se "
 "vincular e salve seu número de série para colá-lo no campo do "
-"Odoo :guilabel:`Identificador do terminal Adyen` na :ref:` criação do método "
+"Blue Connect :guilabel:`Identificador do terminal Adyen` na :ref:` criação do método "
 "de pagamento <adyen/method-creation>`."
 
 #: ../../content/applications/sales/point_of_sale/payment_methods/terminals/adyen.rst:57
@@ -13502,7 +13502,7 @@ msgid ""
 "For Odoo to know when a payment is made, you must configure the terminal "
 "**Event URLs**. To do so,"
 msgstr ""
-"Para que o Odoo saiba quando um pagamento é feito, você deve configurar os "
+"Para que o Blue Connect saiba quando um pagamento é feito, você deve configurar os "
 "**URLs de evento** do terminal. Para fazer isso,"
 
 #: ../../content/applications/sales/point_of_sale/payment_methods/terminals/adyen.rst:61
@@ -13705,7 +13705,7 @@ msgstr ""
 #: ../../content/applications/sales/point_of_sale/payment_methods/terminals/pine_labs.rst:35
 #: ../../content/applications/sales/point_of_sale/payment_methods/terminals/worldline.rst:61
 msgid "Odoo configuration"
-msgstr "Configuração do Odoo"
+msgstr "Configuração do Blue Connect"
 
 #: ../../content/applications/sales/point_of_sale/payment_methods/terminals/dpo.rst:43
 msgid ""
@@ -13815,7 +13815,7 @@ msgid ""
 "Odoo works with the Ingenico Lane/, Desk/, and Move/ payment terminals as "
 "they support the TLV communication protocol through TCP/IP."
 msgstr ""
-"O Odoo funciona com os terminais de pagamento Ingenico Lane/, Desk/ e Move/, "
+"O Blue Connect funciona com os terminais de pagamento Ingenico Lane/, Desk/ e Move/, "
 "pois eles suportam o protocolo de comunicação TLV por meio de TCP/IP."
 
 #: ../../content/applications/sales/point_of_sale/payment_methods/terminals/ingenico.rst:18
@@ -13829,7 +13829,7 @@ msgid ""
 "database, please refer to the :doc:`IoT documentation </applications/general/"
 "iot>`."
 msgstr ""
-"Connecting an Ingenico payment terminal to Odoo is a feature that requires "
+"Connecting an Ingenico payment terminal to Blue Connect is a feature that requires "
 "an IoT system. For more information on how to connect an IoT system to your "
 "database, please refer to the :doc:`IoT documentation </applications/general/"
 "iot>`."
@@ -13883,7 +13883,7 @@ msgid ""
 "system's form in Odoo."
 msgstr ""
 "At this point, the terminal restarts and should be displayed on the IoT "
-"system's form in Odoo."
+"system's form in Blue Connect."
 
 #: ../../content/applications/sales/point_of_sale/payment_methods/terminals/ingenico.rst:44
 msgid ""
@@ -14122,7 +14122,7 @@ msgstr ""
 
 #: ../../content/applications/sales/point_of_sale/payment_methods/terminals/mercado_pago.rst:101
 msgid "Odoo does not support the :guilabel:`Standalone` operation mode."
-msgstr "O Odoo não é compatível com o modo de operação :guilabel:`Autônomo`."
+msgstr "O Blue Connect não é compatível com o modo de operação :guilabel:`Autônomo`."
 
 #: ../../content/applications/sales/point_of_sale/payment_methods/terminals/mercado_pago.rst:104
 msgid ""
@@ -14457,7 +14457,7 @@ msgid ""
 "You need the following credentials to set up the payment method in Odoo:"
 msgstr ""
 "Você precisa das seguintes credenciais para configurar a forma de pagamento "
-"no Odoo:"
+"no Blue Connect:"
 
 #: ../../content/applications/sales/point_of_sale/payment_methods/terminals/razorpay.rst:24
 msgid ""
@@ -14806,7 +14806,7 @@ msgstr ""
 
 #: ../../content/applications/sales/point_of_sale/payment_methods/terminals/stripe.rst:50
 msgid "Connect Stripe to Odoo"
-msgstr "Conectar o Stripe ao Odoo"
+msgstr "Conectar o Stripe ao Blue Connect"
 
 #: ../../content/applications/sales/point_of_sale/payment_methods/terminals/stripe.rst:52
 msgid ""
@@ -14821,12 +14821,12 @@ msgid ""
 msgstr ""
 "Clique em :guilabel:`Conectar Stripe`. Ao fazer isso, você será "
 "redirecionado automaticamente para uma página de configuração. Preencha "
-"todas as informações para criar sua conta do Stripe e vinculá-la ao Odoo. "
+"todas as informações para criar sua conta do Stripe e vinculá-la ao Blue Connect. "
 "Depois de preencher os formulários, as chaves da API (:guilabel:`Chave "
 "publicável` e :guilabel:`Chave secreta`) podem ser obtidas no site do "
 "**Stripe**. Para fazer isso, clique em :guilabel:`Obter suas chaves Secreta "
 "e Publicável`, clique nas chaves para copiá-las e cole-as nos campos "
-"correspondentes no Odoo. Seu terminal está pronto para ser configurado em um "
+"correspondentes no Blue Connect. Seu terminal está pronto para ser configurado em um "
 "PDV."
 
 #: ../../content/applications/sales/point_of_sale/payment_methods/terminals/stripe.rst:None
@@ -16140,7 +16140,7 @@ msgid ""
 "quicker access."
 msgstr ""
 "Clique no ícone do aplicativo :guilabel:`Tela de preparação` em seu Painel "
-"de Controle do Odoo para ter acesso mais rápido."
+"de Controle do Blue Connect para ter acesso mais rápido."
 
 #: ../../content/applications/sales/point_of_sale/preparation.rst:69
 msgid "Using the preparation display"
@@ -16285,7 +16285,7 @@ msgid ""
 "Each point of sale in Odoo can be configured to apply cash rounding to the "
 "totals of its bills or receipts."
 msgstr ""
-"Cada ponto de venda em Odoo pode ser configurado para aplicar arredondamento "
+"Cada ponto de venda em Blue Connect pode ser configurado para aplicar arredondamento "
 "de caixa aos totais de suas contas ou recibos."
 
 #: ../../content/applications/sales/point_of_sale/pricing/cash_rounding.rst:19
@@ -16336,7 +16336,7 @@ msgid ""
 "Odoo Point of Sale only supports the :guilabel:`Add a rounding line` "
 "rounding strategy."
 msgstr ""
-"O Ponto de Venda do Odoo suporta apenas a estratégia de "
+"O Ponto de Venda do Blue Connect suporta apenas a estratégia de "
 "arredondamento :guilabel:`Adicionar uma linha de arredondamento`."
 
 #: ../../content/applications/sales/point_of_sale/pricing/discount_tags.rst:3
@@ -16433,7 +16433,7 @@ msgid ""
 "To manage discounts, Odoo has powerful features that help set up a pricing "
 "strategy tailored to every business."
 msgstr ""
-"Para administrar descontos, o Odoo tem recursos poderosos que ajudam a "
+"Para administrar descontos, o Blue Connect tem recursos poderosos que ajudam a "
 "estabelecer uma estratégia de preços adaptada a cada negócio."
 
 #: ../../content/applications/sales/point_of_sale/pricing/discounts.rst:13
@@ -16554,7 +16554,7 @@ msgid ""
 "to :menuselection:`Point of Sale --> Products --> Pricelists`. Then click on "
 "create."
 msgstr ""
-"Por padrão, o Odoo tem uma *Lista de preços pública* configurada. Para criar "
+"Por padrão, o Blue Connect tem uma *Lista de preços pública* configurada. Para criar "
 "mais, vá para :menuselection:`Ponto de venda --> Produtos --> Listas de "
 "preço'. Em seguida, clique em \"Criar\"."
 
@@ -16622,7 +16622,7 @@ msgstr "etiqueta eletrônica da Pricer"
 #: ../../content/applications/sales/point_of_sale/pricing/electronic_labels.rst:13
 msgid "Odoo uses electronic labels from `Pricer <https://www.pricer.com/>`_."
 msgstr ""
-"O Odoo usa etiquetas eletrônicas da `Pricer <https://www.pricer.com/>`_."
+"O Blue Connect usa etiquetas eletrônicas da `Pricer <https://www.pricer.com/>`_."
 
 #: ../../content/applications/sales/point_of_sale/pricing/electronic_labels.rst:19
 msgid "Pricer setup"
@@ -16652,7 +16652,7 @@ msgid ""
 "the label template."
 msgstr ""
 "Crie as seguintes variáveis para compartilhar informações de produtos entre "
-"o sistema de base de dados Odoo e o Pricer. Essas variáveis funcionam como "
+"o sistema de base de dados Blue Connect e o Pricer. Essas variáveis funcionam como "
 "espaços reservados no modelo de etiqueta."
 
 #: ../../content/applications/sales/point_of_sale/pricing/electronic_labels.rst:28
@@ -16712,7 +16712,7 @@ msgid ""
 "you can proceed with the setup of your Odoo database."
 msgstr ""
 "Depois que sua conta, lojas, variáveis e modelo estiverem configurados no "
-"Pricer, você poderá prosseguir com a configuração da base de dados do Odoo."
+"Pricer, você poderá prosseguir com a configuração da base de dados do Blue Connect."
 
 #: ../../content/applications/sales/point_of_sale/pricing/electronic_labels.rst:46
 msgid ""
@@ -16724,7 +16724,7 @@ msgstr ""
 
 #: ../../content/applications/sales/point_of_sale/pricing/electronic_labels.rst:49
 msgid "Odoo setup"
-msgstr "Configuração do Odoo"
+msgstr "Configuração do Blue Connect"
 
 #: ../../content/applications/sales/point_of_sale/pricing/electronic_labels.rst:51
 msgid ""
@@ -16885,7 +16885,7 @@ msgid ""
 "you configure only one product first. Before configuring more products, "
 "ensure you can display their information on a Pricer tag."
 msgstr ""
-"Ao configurar o Pricer com o Odoo pela primeira vez, é recomendável que você "
+"Ao configurar o Pricer com o Blue Connect pela primeira vez, é recomendável que você "
 "configure apenas um produto primeiro. Antes de configurar mais produtos, "
 "certifique-se de que é possível exibir as informações dele em uma etiqueta "
 "do Pricer."
@@ -16903,7 +16903,7 @@ msgid ""
 "Odoo automatically sends requests to Pricer to synchronize the tags every 12 "
 "hours if you make any modifications to:"
 msgstr ""
-"O Odoo envia automaticamente solicitações ao Pricer para sincronizar as "
+"O Blue Connect envia automaticamente solicitações ao Pricer para sincronizar as "
 "etiquetas a cada 12 horas se você fizer qualquer modificação em:"
 
 #: ../../content/applications/sales/point_of_sale/pricing/electronic_labels.rst:127
@@ -16974,7 +16974,7 @@ msgid ""
 "If a request sent to Pricer fails, Odoo still considers that the product has "
 "been updated. In that case, we recommend forcing the update of all tags."
 msgstr ""
-"Se uma solicitação enviada ao Pricer falhar, o Odoo ainda considerará que o "
+"Se uma solicitação enviada ao Pricer falhar, o Blue Connect ainda considerará que o "
 "produto foi atualizado. Nesse caso, recomendamos forçar a atualização de "
 "todas as etiquetas."
 
@@ -17755,7 +17755,7 @@ msgstr ""
 "informações de faturamento e clicar em \"Obter minha fatura\". De um lado, "
 "ao fazer isso, é gerada uma fatura disponível para download. De outro lado, "
 "o status do pedido passa de \"Pago\" ou \"Postado\" para \"Faturado\" no "
-"backend do Odoo."
+"backend do Blue Connect."
 
 #: ../../content/applications/sales/point_of_sale/receipts_invoices.rst:None
 msgid "order status change"
@@ -19042,7 +19042,7 @@ msgid ""
 "expand the selection, add more languages:"
 msgstr ""
 "This option allows you to enable multiple languages for the self-ordering "
-"interface. The suggested languages are those already installed in Odoo. To "
+"interface. The suggested languages are those already installed in Blue Connect. To "
 "expand the selection, add more languages:"
 
 #: ../../content/applications/sales/point_of_sale/self_order.rst:126
@@ -19426,8 +19426,8 @@ msgid ""
 "from your point of sale."
 msgstr ""
 "No varejo, pode ser necessário encomendar produtos diretamente do seu ponto "
-"de venda. Felizmente, o Ponto de Venda do Odoo está totalmente integrado às "
-"Vendas do Odoo, o que significa que você pode criar um pedido de venda e "
+"de venda. Felizmente, o Ponto de Venda do Blue Connect está totalmente integrado às "
+"Vendas do Blue Connect, o que significa que você pode criar um pedido de venda e "
 "pagar por ele diretamente do seu ponto de venda."
 
 #: ../../content/applications/sales/point_of_sale/shop/sales_order.rst:10
@@ -19762,11 +19762,11 @@ msgstr ""
 
 #: ../../content/applications/sales/rental.rst:13
 msgid "`Odoo Rental: product page <https://www.odoo.com/app/rental>`_"
-msgstr "Odoo Locação: página do produto <https://www.odoo.com/app/rental>`_"
+msgstr "Blue Connect Locação: página do produto <https://www.odoo.com/app/rental>`_"
 
 #: ../../content/applications/sales/rental.rst:14
 msgid "`Odoo Tutorials: Rental <https://www.odoo.com/slides/rental-48>`_"
-msgstr "`Tutoriais do Odoo: Locação` <https://www.odoo.com/slides/rental-48>`_"
+msgstr "`Tutoriais do Blue Connect: Locação` <https://www.odoo.com/slides/rental-48>`_"
 
 #: ../../content/applications/sales/rental.rst:18
 #: ../../content/applications/sales/rental/manage_deposits.rst:3
@@ -19792,7 +19792,7 @@ msgid ""
 "Example of the Rental Orders dashboard available in the Odoo Rental "
 "application."
 msgstr ""
-"Exemplo do painel de pedidos de locação disponível no aplicativo Odoo "
+"Exemplo do painel de pedidos de locação disponível no aplicativo Blue Connect "
 "Locação."
 
 #: ../../content/applications/sales/rental.rst:32
@@ -19836,7 +19836,7 @@ msgstr ""
 
 #: ../../content/applications/sales/rental.rst:None
 msgid "How the Settings page appears in the Odoo Rental application."
-msgstr "Como a página Definições aparece no aplicativo Odoo Locações."
+msgstr "Como a página Definições aparece no aplicativo Blue Connect Locações."
 
 #: ../../content/applications/sales/rental.rst:48
 msgid ""
@@ -19998,7 +19998,7 @@ msgid ""
 "Odoo always uses two rules to compute the price of a product when a rental "
 "order is created:"
 msgstr ""
-"Odoo sempre usa duas regras para calcular o preço de um produto ao criar um "
+"Blue Connect sempre usa duas regras para calcular o preço de um produto ao criar um "
 "pedido de locação:"
 
 #: ../../content/applications/sales/rental.rst:125
@@ -20039,7 +20039,7 @@ msgid ""
 "cheapest option. The customer has to pay three times '3 days' to cover the "
 "rental's eight days, for a total of $750."
 msgstr ""
-"Depois que um pedido é criado, Odoo seleciona a segunda linha, pois esta é a "
+"Depois que um pedido é criado, Blue Connect seleciona a segunda linha, pois esta é a "
 "opção mais barata. O cliente deverá pagar três vezes '3 dias' para cobrir os "
 "oito dias de aluguel, por um total de US$ 750."
 
@@ -20347,7 +20347,7 @@ msgstr ""
 msgid ""
 "Sample of a filled out rental order available in the Odoo Rental application."
 msgstr ""
-"Exemplo de um pedido de aluguel preenchido disponível no aplicativo Odoo "
+"Exemplo de um pedido de aluguel preenchido disponível no aplicativo Blue Connect "
 "Locação."
 
 #: ../../content/applications/sales/rental/products.rst:109
@@ -20371,7 +20371,7 @@ msgid ""
 "application."
 msgstr ""
 "Exemplo de uma janela pop-up de calendário de período de aluguel no "
-"aplicativo Odoo Locação."
+"aplicativo Blue Connect Locação."
 
 #: ../../content/applications/sales/rental/products.rst:119
 msgid ""
@@ -20414,7 +20414,7 @@ msgstr ""
 msgid ""
 "The update rental prices option that appears in the Odoo Rental application."
 msgstr ""
-"A opção Atualizar preços de locação que é exibida no aplicativo Odoo Locação."
+"A opção Atualizar preços de locação que é exibida no aplicativo Blue Connect Locação."
 
 #: ../../content/applications/sales/rental/products.rst:136
 msgid ""
@@ -20423,7 +20423,7 @@ msgid ""
 "accordingly."
 msgstr ""
 "Isso revela uma janela pop-up de guilabel:`Confirmação`. Se tudo estiver "
-"correto, clique em guilabel:`Ok` e o Odoo recalculará o preço de locação."
+"correto, clique em guilabel:`Ok` e o Blue Connect recalculará o preço de locação."
 
 #: ../../content/applications/sales/rental/products.rst:139
 msgid ""
@@ -20529,7 +20529,7 @@ msgstr ""
 msgid ""
 "The Sign Documents pop-up window that appears in the Odoo Rental application."
 msgstr ""
-"A janela pop-up Assinar documentos que aparece no aplicativo Odoo Locação."
+"A janela pop-up Assinar documentos que aparece no aplicativo Blue Connect Locação."
 
 #: ../../content/applications/sales/rental/products.rst:197
 #: ../../content/applications/sales/rental/service_products.rst:212
@@ -20545,7 +20545,7 @@ msgid ""
 "application."
 msgstr ""
 "A janela pop-up Nova solicitação de assinatura que aparece no aplicativo "
-"Odoo Locação."
+"Blue Connect Locação."
 
 #: ../../content/applications/sales/rental/products.rst:204
 msgid ""
@@ -20567,7 +20567,7 @@ msgid ""
 "The adopt your signature pop-up window that appears in the Odoo Rental "
 "application."
 msgstr ""
-"A janela pop-up Escolher sua assinatura que aparece no aplicativo Odoo "
+"A janela pop-up Escolher sua assinatura que aparece no aplicativo Blue Connect "
 "Locação."
 
 #: ../../content/applications/sales/rental/products.rst:215
@@ -20583,12 +20583,12 @@ msgid ""
 "The validate and send completed document button in the Odoo Rental "
 "application."
 msgstr ""
-"O botão Validar e enviar documento preenchido no aplicativo Odoo Locação."
+"O botão Validar e enviar documento preenchido no aplicativo Blue Connect Locação."
 
 #: ../../content/applications/sales/rental/products.rst:223
 msgid "`Odoo Tutorials: Sign <https://www.odoo.com/slides/sign-61>`_"
 msgstr ""
-"`Tutoriais do Odoo: Assinatura de Documentos` <https://www.odoo.com/slides/"
+"`Tutoriais do Blue Connect: Assinatura de Documentos` <https://www.odoo.com/slides/"
 "sign-61>`_"
 
 #: ../../content/applications/sales/rental/products.rst:226
@@ -20749,7 +20749,7 @@ msgstr ""
 msgid ""
 "The pickup and return receipt print option in the Odoo Rental application."
 msgstr ""
-"A opção de impressão de recibos de retirada e devolução no aplicativo Odoo "
+"A opção de impressão de recibos de retirada e devolução no aplicativo Blue Connect "
 "Locação."
 
 #: ../../content/applications/sales/rental/products.rst:313
@@ -21575,10 +21575,10 @@ msgid ""
 "orders (from the Amazon Seller account) into Odoo. It also allows users to "
 "accurately keep track of Amazon sales in Odoo."
 msgstr ""
-"O *Conector da Amazon* sincroniza os pedidos entre a Amazon e o Odoo, o que "
+"O *Conector da Amazon* sincroniza os pedidos entre a Amazon e o Blue Connect, o que "
 "reduz consideravelmente a quantidade de tempo gasto inserindo manualmente os "
-"pedidos da Amazon (da conta do vendedor da Amazon) no Odoo. Ele também "
-"permite que os usuários acompanhem com precisão as vendas da Amazon no Odoo."
+"pedidos da Amazon (da conta do vendedor da Amazon) no Blue Connect. Ele também "
+"permite que os usuários acompanhem com precisão as vendas da Amazon no Blue Connect."
 
 #: ../../content/applications/sales/sales/amazon_connector/features.rst:10
 #: ../../content/applications/sales/sales/shopee_connector.rst:12
@@ -21594,7 +21594,7 @@ msgid ""
 "Synchronize (Amazon to Odoo) all confirmed orders (both FBA and FBM), and "
 "their order items, which include:"
 msgstr ""
-"Sincronizar (da Amazon para o Odoo) todos os pedidos confirmados (FBA e FBM) "
+"Sincronizar (da Amazon para o Blue Connect) todos os pedidos confirmados (FBA e FBM) "
 "e seus itens de pedido, que incluem:"
 
 #: ../../content/applications/sales/sales/amazon_connector/features.rst:17
@@ -21614,20 +21614,20 @@ msgid ""
 "Create any missing partner related to an order in Odoo (contact types "
 "supported: contact and delivery address)."
 msgstr ""
-"Crie parceiros ausentes relacionados a um pedido no Odoo (tipos de contato "
+"Crie parceiros ausentes relacionados a um pedido no Blue Connect (tipos de contato "
 "suportados: contato e endereço de entrega)."
 
 #: ../../content/applications/sales/sales/amazon_connector/features.rst:24
 msgid "Notify Amazon of confirmed shipment in Odoo (FBM) to get paid."
 msgstr ""
-"Notificar a Amazon sobre a remessa confirmada no Odoo (FBM) para receber o "
+"Notificar a Amazon sobre a remessa confirmada no Blue Connect (FBM) para receber o "
 "pagamento."
 
 #: ../../content/applications/sales/sales/amazon_connector/features.rst:26
 msgid ""
 "Synchronize (Odoo to Amazon) all available quantities of your products (FBM)."
 msgstr ""
-"Sincronize (Odoo para Amazon) todas as quantidades disponíveis dos seus "
+"Sincronize (Blue Connect para Amazon) todas as quantidades disponíveis dos seus "
 "produtos (FBM)."
 
 #: ../../content/applications/sales/sales/amazon_connector/features.rst:28
@@ -21644,7 +21644,7 @@ msgid ""
 "The following table lists capabilities provided by Odoo when using the "
 "Amazon Connector:"
 msgstr ""
-"A tabela a seguir lista as funcionalidades oferecidas pelo Odoo ao usar o "
+"A tabela a seguir lista as funcionalidades oferecidas pelo Blue Connect ao usar o "
 "Conector da Amazon:"
 
 #: ../../content/applications/sales/sales/amazon_connector/features.rst:35
@@ -21693,8 +21693,8 @@ msgid ""
 "A delivery order is automatically created in Odoo for each new order. Once "
 "it has been processed in Odoo, the status is then synchronized in Amazon."
 msgstr ""
-"Um pedido de entrega é criado automaticamente no Odoo para cada novo pedido. "
-"Depois de ser processado no Odoo, o status é sincronizado na Amazon."
+"Um pedido de entrega é criado automaticamente no Blue Connect para cada novo pedido. "
+"Depois de ser processado no Blue Connect, o status é sincronizado na Amazon."
 
 #: ../../content/applications/sales/sales/amazon_connector/features.rst:50
 msgid "**Gift Wrapping**"
@@ -21725,11 +21725,11 @@ msgid ""
 "Odoo."
 msgstr ""
 "Gerenciado pela Amazon e sincronizado com um local virtual para acompanhar "
-"no Odoo."
+"no Blue Connect."
 
 #: ../../content/applications/sales/sales/amazon_connector/features.rst:56
 msgid "Managed in Odoo Inventory app, and synchronized with Amazon."
-msgstr "Gerenciado no aplicativo Odoo Inventário e sincronizado com a Amazon."
+msgstr "Gerenciado no aplicativo Blue Connect Inventário e sincronizado com a Amazon."
 
 #: ../../content/applications/sales/sales/amazon_connector/features.rst:61
 msgid "**Delivery Notifications**"
@@ -21738,7 +21738,7 @@ msgstr "**Notificações de entrega**"
 #: ../../content/applications/sales/sales/amazon_connector/features.rst:61
 msgid "Send by Amazon, based on delivery status synchronized from Odoo."
 msgstr ""
-"Enviar pela Amazon, com base no status de entrega sincronizado do Odoo."
+"Enviar pela Amazon, com base no status de entrega sincronizado do Blue Connect."
 
 #: ../../content/applications/sales/sales/amazon_connector/features.rst:66
 msgid ""
@@ -21764,7 +21764,7 @@ msgid ""
 msgstr ""
 "A partir de 19 de fevereiro de 2024, nos mercados da América do Norte, os "
 "pedidos :abbr:`FBA (Logística da Amazon)` criados com o *Conector Amazon* "
-"não terão o nome do cliente passado para o pedido de venda/entrega no Odoo. "
+"não terão o nome do cliente passado para o pedido de venda/entrega no Blue Connect. "
 "Isso se deve ao fato de que a Amazon agora calcula e remete o imposto sobre "
 "vendas em nome dos vendedores. Em outras palavras, as informações de "
 "identificação pessoal do cliente não são mais transmitidas ao vendedor, após "
@@ -21889,7 +21889,7 @@ msgid ""
 "Orders are automatically fetched from Amazon, and synchronized in Odoo, at "
 "regular intervals."
 msgstr ""
-"Os pedidos são obtidos automaticamente da Amazon e sincronizados no Odoo, em "
+"Os pedidos são obtidos automaticamente da Amazon e sincronizados no Blue Connect, em "
 "intervalos regulares."
 
 #: ../../content/applications/sales/sales/amazon_connector/manage.rst:10
@@ -21900,7 +21900,7 @@ msgid ""
 msgstr ""
 "A sincronização é baseada no status da Amazon: somente os pedidos cujo "
 "status foi alterado desde a última sincronização são obtidos da Amazon. Isso "
-"inclui alterações em ambas as extremidades (Amazon ou Odoo)."
+"inclui alterações em ambas as extremidades (Amazon ou Blue Connect)."
 
 #: ../../content/applications/sales/sales/amazon_connector/manage.rst:13
 msgid ""
@@ -21919,7 +21919,7 @@ msgid ""
 msgstr ""
 "Para *FBM* (Logística do comerciante), o mesmo é feito para pedidos *Não "
 "enviados* e *Cancelados*. Para cada pedido sincronizado, um pedido de vendas "
-"e um cliente são criados no Odoo (se o cliente ainda não estiver registrado "
+"e um cliente são criados no Blue Connect (se o cliente ainda não estiver registrado "
 "na base de dados)."
 
 #: ../../content/applications/sales/sales/amazon_connector/manage.rst:20
@@ -21927,8 +21927,8 @@ msgid ""
 "When an order is cancelled in Amazon, and was already synchronized in Odoo, "
 "the corresponding sales order is automatically cancelled in Odoo."
 msgstr ""
-"Quando um pedido é cancelado na Amazon e já estava sincronizado no Odoo, o "
-"pedido de vendas correspondente é automaticamente cancelado no Odoo."
+"Quando um pedido é cancelado na Amazon e já estava sincronizado no Blue Connect, o "
+"pedido de vendas correspondente é automaticamente cancelado no Blue Connect."
 
 #: ../../content/applications/sales/sales/amazon_connector/manage.rst:24
 #: ../../content/applications/sales/sales/shopee_connector/manage.rst:66
@@ -21945,7 +21945,7 @@ msgstr ""
 "Para forçar a sincronização de um pedido cujo status **não** foi alterado "
 "desde a sincronização anterior, comece ativando o :ref:`modo de "
 "desenvolvedor <developer-mode>`. Isso inclui alterações em qualquer uma das "
-"pontas (Amazon ou Odoo)."
+"pontas (Amazon ou Blue Connect)."
 
 #: ../../content/applications/sales/sales/amazon_connector/manage.rst:30
 msgid ""
@@ -21954,7 +21954,7 @@ msgid ""
 "Accounts`), and modify the date under :menuselection:`Orders Follow-up --> "
 "Last Order Sync`."
 msgstr ""
-"Em seguida, navegue até a conta da Amazon no Odoo (:menuselection:`app "
+"Em seguida, navegue até a conta da Amazon no Blue Connect (:menuselection:`app "
 "Vendas --> Configuração --> Definições --> Conectores --> Sincronização com "
 "a Amazon --> Contas da Amazon`) e modifique a data "
 "em :menuselection:`Acompanhamento de pedidos --> Última sincronização de "
@@ -21980,7 +21980,7 @@ msgid ""
 msgstr ""
 "Para sincronizar imediatamente os pedidos de uma conta da Amazon, alterne "
 "para o :ref:`modo de desenvolvedor <developer-mode>`, vá até a conta da "
-"Amazon no Odoo e clique em :guilabel:`Sincronizar pedidos`. O mesmo pode ser "
+"Amazon no Blue Connect e clique em :guilabel:`Sincronizar pedidos`. O mesmo pode ser "
 "feito com as retiradas clicando em :guilabel:`Sincronizar retiradas`."
 
 #: ../../content/applications/sales/sales/amazon_connector/manage.rst:44
@@ -21995,7 +21995,7 @@ msgid ""
 "products to the customer at once, or ship products partially using "
 "backorders."
 msgstr ""
-"Sempre que um pedido FBM (Logística do comerciante) é sincronizado no Odoo, "
+"Sempre que um pedido FBM (Logística do comerciante) é sincronizado no Blue Connect, "
 "uma retirada é criado instantaneamente no aplicativo *Inventário*, "
 "juntamente com um pedido de venda e um registro de cliente. Em seguida, "
 "escolha enviar todos os produtos pedidos ao cliente de uma só vez, ou enviar "
@@ -22040,7 +22040,7 @@ msgid ""
 "the carrier, along with the tracking reference, are displayed in the email "
 "to the customer."
 msgstr ""
-"Se a transportadora escolhida não for compatível com o Odoo, uma "
+"Se a transportadora escolhida não for compatível com o Blue Connect, uma "
 "transportadora com o mesmo nome ainda poderá ser criada (por exemplo, criar "
 "uma transportadora chamada `easyship`). O nome usado **não** faz distinção "
 "entre maiúsculas e minúsculas, mas tenha cuidado para evitar erros de "
@@ -22072,7 +22072,7 @@ msgid ""
 "are flagged with a :guilabel:`Synchronization with Amazon failed` tag."
 msgstr ""
 "Às vezes, a Amazon pode falhar ao processar corretamente todas as "
-"informações enviadas pelo Odoo. Nesse caso, o Odoo envia um e-mail listando "
+"informações enviadas pelo Blue Connect. Nesse caso, o Blue Connect envia um e-mail listando "
 "todos os envios que falharam e os erros enviados pela Amazon. Além disso, "
 "esses envios são marcados com o marcador :guilabel:`Falha na sincronização "
 "com a Amazon`."
@@ -22084,7 +22084,7 @@ msgid ""
 "using the :guilabel:`Retry Amazon Sync` button."
 msgstr ""
 "Normalmente, o erro pode ser corrigido diretamente no backend da Amazon ou "
-"no Odoo. Se o problema for corrigido no Odoo, sincronize o envio novamente "
+"no Blue Connect. Se o problema for corrigido no Blue Connect, sincronize o envio novamente "
 "usando o botão \"Tentar sincronização com Amazon novamente\"."
 
 #: ../../content/applications/sales/sales/amazon_connector/manage.rst:85
@@ -22099,11 +22099,11 @@ msgid ""
 "synchronize these orders, or click on :guilabel:`Recover Order` and enter "
 "the relevant Amazon Order Reference."
 msgstr ""
-"Pode acontecer de o Odoo receber uma notificação da Amazon informando que "
+"Pode acontecer de o Blue Connect receber uma notificação da Amazon informando que "
 "algumas informações de entrega não foram processadas, mas sem especificar "
 "quais remessas foram afetadas. Nesse caso, todas as remessas em estado "
 "desconhecido serão tratadas como se não tivessem sido sincronizadas. Assim "
-"que o Odoo receber uma notificação da Amazon informando que uma remessa foi "
+"que o Blue Connect receber uma notificação da Amazon informando que uma remessa foi "
 "processada, seu marcador será alterado para: :guilabel:`Sincronizado com a "
 "Amazon`. Para acelerar esse processo, em sua conta da Amazon, clique "
 "em :guilabel:`Sincronizar pedidos` para sincronizar manualmente esses "
@@ -22120,7 +22120,7 @@ msgid ""
 "move is recorded in the *Inventory* app for each sales order item. That way, "
 "it's saved in the system."
 msgstr ""
-"Quando um pedido FBA (Logística da Amazon) é sincronizado no Odoo, é "
+"Quando um pedido FBA (Logística da Amazon) é sincronizado no Blue Connect, é "
 "registrada uma movimentação de estoque no aplicativo *Inventário* para cada "
 "item do pedido de venda. Dessa forma, isso fica salvo no sistema."
 
@@ -22141,7 +22141,7 @@ msgid ""
 "order) to transfer these products from their warehouse to the Amazon "
 "location."
 msgstr ""
-"Para pedidos FBA, a movimentação de estoque é criada automaticamente no Odoo "
+"Para pedidos FBA, a movimentação de estoque é criada automaticamente no Blue Connect "
 "pelo conector da Amazon, graças ao status de envio da Amazon. Ao enviar "
 "novos produtos para a Amazon, o usuário deve criar manualmente uma retirada "
 "(pedido de entrega) para transferir esses produtos de seu depósito para o "
@@ -22153,7 +22153,7 @@ msgid ""
 "replenishing stock. An automated replenishment from reordering rules can "
 "also be triggered on the Amazon location."
 msgstr ""
-"Para acompanhar o estoque da *Amazon (FBA)* no Odoo, faça um ajuste de "
+"Para acompanhar o estoque da *Amazon (FBA)* no Blue Connect, faça um ajuste de "
 "estoque após a reposição do estoque. Também é possível acionar reposições "
 "automatizadas a partir de regras de reposição na localização da Amazon."
 
@@ -22165,7 +22165,7 @@ msgid ""
 "Accounts`."
 msgstr ""
 "A localização da Amazon é configurável acessando a conta da Amazon "
-"gerenciada no Odoo. Para acessar as contas da Amazon no Odoo, navegue "
+"gerenciada no Blue Connect. Para acessar as contas da Amazon no Blue Connect, navegue "
 "até :menuselection:`app Vendas --> Configuração --> Definições --> "
 "Conectores --> Sincronização com a Amazon --> Contas da Amazon`."
 
@@ -22222,8 +22222,8 @@ msgid ""
 msgstr ""
 "Devido à política da Amazon de não compartilhar endereços de e-mail de "
 "clientes, não é **possível** enviar faturas diretamente aos clientes da "
-"Amazon a partir do Odoo. No entanto, é possível fazer o carregamento manual "
-"das faturas geradas do Odoo para o back-end da Amazon."
+"Amazon a partir do Blue Connect. No entanto, é possível fazer o carregamento manual "
+"das faturas geradas do Blue Connect para o back-end da Amazon."
 
 #: ../../content/applications/sales/sales/amazon_connector/manage.rst:139
 msgid ""
@@ -22232,7 +22232,7 @@ msgid ""
 msgstr ""
 "Além disso, para clientes B2B, atualmente é necessário recuperar manualmente "
 "os números de IVA do back-end da Amazon **antes** de criar uma fatura no "
-"Odoo."
+"Blue Connect."
 
 #: ../../content/applications/sales/sales/amazon_connector/manage.rst:143
 #: ../../content/applications/sales/sales/shopee_connector/manage.rst:155
@@ -22304,7 +22304,7 @@ msgid ""
 "On the Amazon account profile in Odoo, a sales team is set under "
 "the :guilabel:`Order Follow-up` tab."
 msgstr ""
-"No perfil da conta da Amazon no Odoo, uma equipe de vendas é definida na "
+"No perfil da conta da Amazon no Blue Connect, uma equipe de vendas é definida na "
 "aba :guilabel:`Acompanhamento do pedido`."
 
 #: ../../content/applications/sales/sales/amazon_connector/manage.rst:169
@@ -22343,7 +22343,7 @@ msgid ""
 "to :menuselection:`Sales app --> Configuration --> Settings --> Connectors --"
 "> Amazon Sync --> Amazon Accounts`."
 msgstr ""
-"Para acessar a lista de marketplaces sincronizados no Odoo, navegue "
+"Para acessar a lista de marketplaces sincronizados no Blue Connect, navegue "
 "até :menuselection:`app Vendas --> Configuração --> Definições --> "
 "Conectores --> Sincronização da Amazon --> Contas da Amazon`."
 
@@ -22377,7 +22377,7 @@ msgid ""
 "the user **must** have a paid Amazon Seller account prior to completing the "
 "configuration."
 msgstr ""
-"O Odoo permite que os usuários registrem uma conta de vendedor da Amazon na "
+"O Blue Connect permite que os usuários registrem uma conta de vendedor da Amazon na "
 "base de dados, mas o usuário **deve** ter uma conta paga de vendedor da "
 "Amazon antes de concluir a configuração."
 
@@ -22399,7 +22399,7 @@ msgid ""
 msgstr ""
 "Em seguida, na página :guilabel:`Sell with Amazon`, siga o processo de "
 "cadastro e, finalmente, siga as instruções abaixo para registrar e vincular "
-"essa conta de vendedor da Amazon no Odoo."
+"essa conta de vendedor da Amazon no Blue Connect."
 
 #: ../../content/applications/sales/sales/amazon_connector/setup.rst:16
 msgid "`Sell with Amazon <https://www.amazon.com/b/?node=12766669011>`_"
@@ -22407,7 +22407,7 @@ msgstr "`Venda com a Amazon <https://www.amazon.com/b/?node=12766669011>`_"
 
 #: ../../content/applications/sales/sales/amazon_connector/setup.rst:19
 msgid "Connect Amazon Seller account to Odoo"
-msgstr "Conectar a conta de vendedor da Amazon ao Odoo"
+msgstr "Conectar a conta de vendedor da Amazon ao Blue Connect"
 
 #: ../../content/applications/sales/sales/amazon_connector/setup.rst:23
 msgid ""
@@ -22416,7 +22416,7 @@ msgid ""
 "section`, activate the :guilabel:`Amazon Sync` feature, and "
 "click :guilabel:`Save`."
 msgstr ""
-"Para conectar uma conta de vendedor da Amazon no Odoo, navegue "
+"Para conectar uma conta de vendedor da Amazon no Blue Connect, navegue "
 "até :menuselection:`app Vendas --> Configuração --> Definições --> seção "
 "Conectores`, ative o recurso :guilabel:`Sinc. Amazon` e clique "
 "em :guilabel:`Salvar`."
@@ -22436,7 +22436,7 @@ msgid ""
 "The Amazon Accounts link beneath the Amazon Sync settings in Odoo Sales."
 msgstr ""
 "O link Contas da Amazon abaixo das configurações de Sincronização com a "
-"Amazon no Odoo Vendas."
+"Amazon no Blue Connect Vendas."
 
 #: ../../content/applications/sales/sales/amazon_connector/setup.rst:34
 msgid ""
@@ -22464,7 +22464,7 @@ msgstr ""
 #: ../../content/applications/sales/sales/amazon_connector/setup.rst:None
 msgid "A typical Amazon Account form page in the Odoo Sales application."
 msgstr ""
-"Uma página comum de formulário de conta da Amazon no aplicativo Odoo Vendas."
+"Uma página comum de formulário de conta da Amazon no aplicativo Blue Connect Vendas."
 
 #: ../../content/applications/sales/sales/amazon_connector/setup.rst:45
 msgid ""
@@ -22479,7 +22479,7 @@ msgid ""
 "A typical Amazon Account form page and Link with Amazon button in Odoo Sales."
 msgstr ""
 "Uma página típica de formulário de conta da Amazon e o botão Vincular com a "
-"Amazon no Odoo Vendas."
+"Amazon no Blue Connect Vendas."
 
 #: ../../content/applications/sales/sales/amazon_connector/setup.rst:52
 msgid ""
@@ -22501,14 +22501,14 @@ msgid ""
 "the account and related data."
 msgstr ""
 "Na página de consentimento, confirme que a Amazon tem permissão para "
-"fornecer ao Odoo acesso à conta e aos dados relacionados."
+"fornecer ao Blue Connect acesso à conta e aos dados relacionados."
 
 #: ../../content/applications/sales/sales/amazon_connector/setup.rst:60
 msgid ""
 "Upon confirmation, Amazon returns the user to Odoo, and the account has been "
 "registered."
 msgstr ""
-"Após a confirmação, a Amazon retorna o usuário ao Odoo, e a conta foi "
+"Após a confirmação, a Amazon retorna o usuário ao Blue Connect, e a conta foi "
 "registrada."
 
 #: ../../content/applications/sales/sales/amazon_connector/setup.rst:62
@@ -22518,7 +22518,7 @@ msgid ""
 "the :guilabel:`Marketplaces` tab."
 msgstr ""
 "Com a conta da Amazon registrada com sucesso, os mercados disponíveis para "
-"essa conta específica são sincronizados com o Odoo e listados na "
+"essa conta específica são sincronizados com o Blue Connect e listados na "
 "aba :guilabel:`Marketplaces`."
 
 #: ../../content/applications/sales/sales/amazon_connector/setup.rst:65
@@ -22531,7 +22531,7 @@ msgstr ""
 
 #: ../../content/applications/sales/sales/amazon_connector/setup.rst:68
 msgid "Amazon orders in Odoo"
-msgstr "Pedidos da Amazon no Odoo"
+msgstr "Pedidos da Amazon no Blue Connect"
 
 #: ../../content/applications/sales/sales/amazon_connector/setup.rst:70
 msgid ""
@@ -22541,7 +22541,7 @@ msgid ""
 "charges (if any), and one for the gift wrapping charges (if any)."
 msgstr ""
 "Quando um pedido da Amazon é sincronizado, até três itens de linha são "
-"criados no pedido de vendas no Odoo. Cada um representa um produto vendido "
+"criados no pedido de vendas no Blue Connect. Cada um representa um produto vendido "
 "na Amazon: um para o produto que foi vendido no Amazon Marketplace, um para "
 "as despesas de envio (se houver) e um para as despesas de embalagem para "
 "presente (se houver)."
@@ -22556,7 +22556,7 @@ msgid ""
 msgstr ""
 "A seleção de um produto da base de dados para um item de pedido de venda é "
 "feita combinando a :guilabel:`Referência interna` (um identificador de "
-"referência de produto personalizável no Odoo, como `FURN001`) com o *SKU* da "
+"referência de produto personalizável no Blue Connect, como `FURN001`) com o *SKU* da "
 "Amazon para itens do marketplace, o *Shipping Code* da Amazon para taxas de "
 "entrega e o código *Gift Wrapping* da Amazon para custos de embalagem de "
 "presente."
@@ -22573,7 +22573,7 @@ msgstr ""
 #: ../../content/applications/sales/sales/amazon_connector/setup.rst:None
 msgid "The Amazon Offers smart button on the account form in Odoo Sales."
 msgstr ""
-"O botão inteligente Ofertas da Amazon no formulário de conta no Odoo Vendas."
+"O botão inteligente Ofertas da Amazon no formulário de conta no Blue Connect Vendas."
 
 #: ../../content/applications/sales/sales/amazon_connector/setup.rst:88
 msgid ""
@@ -22642,7 +22642,7 @@ msgid ""
 "the sales order items are those set on the product, or determined by the "
 "fiscal position."
 msgstr ""
-"Para possibilitar o relatório de impostos das vendas da Amazon com o Odoo, "
+"Para possibilitar o relatório de impostos das vendas da Amazon com o Blue Connect, "
 "os impostos aplicados aos itens do pedido de venda são aqueles definidos no "
 "produto ou determinados pela posição fiscal."
 
@@ -22653,8 +22653,8 @@ msgid ""
 "*Amazon Seller Central* and Odoo."
 msgstr ""
 "Certifique-se de que os impostos corretos estejam definidos em seus produtos "
-"no Odoo, ou que isso seja feito por uma posição fiscal, para evitar "
-"discrepâncias nos subtotais entre o *Amazon Seller Central* e o Odoo."
+"no Blue Connect, ou que isso seja feito por uma posição fiscal, para evitar "
+"discrepâncias nos subtotais entre o *Amazon Seller Central* e o Blue Connect."
 
 #: ../../content/applications/sales/sales/amazon_connector/setup.rst:119
 msgid ""
@@ -22664,9 +22664,9 @@ msgid ""
 "when reconciling the payments in Odoo."
 msgstr ""
 "Como a Amazon não aplica necessariamente os mesmos impostos que os "
-"configurados no Odoo, pode acontecer de os totais de pedidos diferirem em "
-"alguns centavos entre o Odoo e o *Amazon Seller Central*. Essas diferenças "
-"podem ser resolvidas com uma baixa ao reconciliar os pagamentos no Odoo."
+"configurados no Blue Connect, pode acontecer de os totais de pedidos diferirem em "
+"alguns centavos entre o Blue Connect e o *Amazon Seller Central*. Essas diferenças "
+"podem ser resolvidas com uma baixa ao reconciliar os pagamentos no Blue Connect."
 
 #: ../../content/applications/sales/sales/amazon_connector/setup.rst:126
 #: ../../content/applications/sales/sales/shopee_connector/setup.rst:195
@@ -23478,7 +23478,7 @@ msgid ""
 "Cabinet with doors sales order that's been confirmed in the Odoo Sales "
 "application."
 msgstr ""
-"Pedido de vendas do armário com portas que foi confirmado no aplicativo Odoo "
+"Pedido de vendas do armário com portas que foi confirmado no aplicativo Blue Connect "
 "Vendas."
 
 #: ../../content/applications/sales/sales/invoicing/down_payment.rst:76
@@ -23511,7 +23511,7 @@ msgstr ""
 
 #: ../../content/applications/sales/sales/invoicing/down_payment.rst:None
 msgid "A sample draft invoice with down payment mentioned in Odoo Sales."
-msgstr "Exemplo de fatura provisória com entrada mencionado no Vendas do Odoo."
+msgstr "Exemplo de fatura provisória com entrada mencionado no Vendas do Blue Connect."
 
 #: ../../content/applications/sales/sales/invoicing/down_payment.rst:94
 msgid ""
@@ -23573,7 +23573,7 @@ msgid ""
 "invoice` field."
 msgstr ""
 "Se o valor restante estiver pronto para ser pago, selecione a "
-"opção :guilabel:`Fatura normal`. O Odoo criará uma fatura com o valor exato "
+"opção :guilabel:`Fatura normal`. O Blue Connect criará uma fatura com o valor exato "
 "necessário para completar o pagamento total, conforme indicado no "
 "campo :guilabel:`Total a faturar`."
 
@@ -24244,7 +24244,7 @@ msgstr ""
 
 #: ../../content/applications/sales/sales/invoicing/proforma.rst:None
 msgid "The Pro-Forma Invoice feature setting in the Odoo Sales application."
-msgstr "Definição do recurso Fatura pró-forma na aplicação Vendas do Odoo."
+msgstr "Definição do recurso Fatura pró-forma na aplicação Vendas do Blue Connect."
 
 #: ../../content/applications/sales/sales/invoicing/proforma.rst:27
 msgid "Send pro-forma invoice"
@@ -24265,7 +24265,7 @@ msgid ""
 "The Send Pro-Forma Invoice button on a typical sales order in Odoo Sales."
 msgstr ""
 "O botão Enviar fatura pró-forma em um pedido de venda comum no Vendas do "
-"Odoo."
+"Blue Connect."
 
 #: ../../content/applications/sales/sales/invoicing/proforma.rst:37
 msgid ""
@@ -24324,7 +24324,7 @@ msgid ""
 "When ready, click :guilabel:`Send`, and Odoo instantly sends the email, with "
 "the attached pro-forma invoice, to the customer."
 msgstr ""
-"Quando estiver pronto, clique em :guilabel:`Enviar`, e o Odoo envia "
+"Quando estiver pronto, clique em :guilabel:`Enviar`, e o Blue Connect envia "
 "instantaneamente o e-mail, com a fatura pró-forma anexada, para o cliente."
 
 #: ../../content/applications/sales/sales/invoicing/proforma.rst:None
@@ -24333,7 +24333,7 @@ msgid ""
 "Sales."
 msgstr ""
 "A janela pop-up de e-mail que aparece com a fatura pró-forma anexada no "
-"Vendas do Odoo."
+"Vendas do Blue Connect."
 
 #: ../../content/applications/sales/sales/invoicing/proforma.rst:62
 msgid ""
@@ -24349,7 +24349,7 @@ msgstr ""
 
 #: ../../content/applications/sales/sales/invoicing/proforma.rst:0
 msgid "Sample pro-forma invoice PDF from Odoo Sales."
-msgstr "Exemplo de PDF de fatura pró-forma do Vendas do Odoo."
+msgstr "Exemplo de PDF de fatura pró-forma do Vendas do Blue Connect."
 
 #: ../../content/applications/sales/sales/invoicing/time_materials.rst:3
 msgid "Invoicing based on time and materials"
@@ -24381,7 +24381,7 @@ msgid ""
 "The Odoo *Sales* app can invoice for time and various other expenses (e.g. "
 "transport, lodging), as well as purchases needed to fulfill an order."
 msgstr ""
-"O aplicativo Odoo *Vendas* pode faturar o tempo e várias outras despesas "
+"O aplicativo Blue Connect *Vendas* pode faturar o tempo e várias outras despesas "
 "(por exemplo, transporte, hospedagem), bem como as compras necessárias para "
 "atender a um pedido."
 
@@ -24395,7 +24395,7 @@ msgid ""
 "Odoo *Project* and *Accounting* apps **must** be installed."
 msgstr ""
 "Primeiro, para acompanhar com precisão o progresso de um projeto, os "
-"aplicativos *Projeto* e *Financeiro* do Odoo **devem** ser instalados."
+"aplicativos *Projeto* e *Financeiro* do Blue Connect **devem** ser instalados."
 
 #: ../../content/applications/sales/sales/invoicing/time_materials.rst:21
 msgid ""
@@ -24406,10 +24406,10 @@ msgid ""
 "*Project* app is now available to access."
 msgstr ""
 "Para instalar o aplicativo *Projeto*, navegue até :menuselection:`painel "
-"principal do Odoo --> Aplicativos`. Em seguida, na "
+"principal do Blue Connect --> Aplicativos`. Em seguida, na "
 "página :guilabel:`Aplicativos`, localize o bloco de "
 "aplicativo :guilabel:`Projetos` e clique em :guilabel:`Ativar`. A página é "
-"atualizada automaticamente e retorna ao painel principal do Odoo, onde o "
+"atualizada automaticamente e retorna ao painel principal do Blue Connect, onde o "
 "aplicativo *Projeto* agora está disponível para acesso."
 
 #: ../../content/applications/sales/sales/invoicing/time_materials.rst:26
@@ -24425,7 +24425,7 @@ msgid ""
 "checked."
 msgstr ""
 "Após a instalação, clique no ícone do aplicativo :guilabel:`Financeiro` no "
-"painel principal do Odoo e navegue até :menuselection:`Configuração --> "
+"painel principal do Blue Connect e navegue até :menuselection:`Configuração --> "
 "Definições`. Na página :guilabel:`Definições`, role para baixo até a "
 "seção :guilabel:`Análise` e verifique se a caixa ao lado "
 "de :guilabel:`Contabilidade analítica` está marcada."
@@ -24436,7 +24436,7 @@ msgid ""
 "Setting page."
 msgstr ""
 "Ativação da configuração da Contabilidade analítica na página de "
-"configuração do Financeiro do Odoo."
+"configuração do Financeiro do Blue Connect."
 
 #: ../../content/applications/sales/sales/invoicing/time_materials.rst:37
 #: ../../content/applications/sales/sales/invoicing/time_materials.rst:43
@@ -24451,7 +24451,7 @@ msgid ""
 "the :guilabel:`Time Management` section, ensure the box beside "
 "the :guilabel:`Timesheets` feature is checked."
 msgstr ""
-"Em seguida, navegue até :menuselection:`painel principal do Odoo  --> app "
+"Em seguida, navegue até :menuselection:`painel principal do Blue Connect  --> app "
 "Projeto  --> Configuração --> Definições`. Na página :guilabel:`Definições`, "
 "na seção :guilabel:`Gerenciamento de tempo`, verifique se a caixa ao lado do "
 "recurso :guilabel:`Planilhas de horas` está marcada."
@@ -24461,7 +24461,7 @@ msgid ""
 "What the Timesheets feature looks like on the Odoo Project settings page."
 msgstr ""
 "Qual é a aparência do recurso Planilhas de horas na página de configurações "
-"do Odoo Projeto."
+"do Blue Connect Projeto."
 
 #: ../../content/applications/sales/sales/invoicing/time_materials.rst:52
 msgid "Service product configuration"
@@ -24592,7 +24592,7 @@ msgid ""
 "How the Projects and Tasks smart buttons look on a Sales Order in Odoo Sales."
 msgstr ""
 "Como os botões inteligentes Projetos e Tarefas aparecem em um pedido de "
-"vendas no Odoo Vendas."
+"vendas no Blue Connect Vendas."
 
 #: ../../content/applications/sales/sales/invoicing/time_materials.rst:103
 msgid ""
@@ -24678,8 +24678,8 @@ msgstr ""
 msgid ""
 "How the Timesheets tab appears on a task form in Odoo Sales and Odoo Project."
 msgstr ""
-"Como a aba Planilhas de horas aparece em um formulário de tarefa no Odoo "
-"Vendas e no Odoo Projeto."
+"Como a aba Planilhas de horas aparece em um formulário de tarefa no Blue Connect "
+"Vendas e no Blue Connect Projeto."
 
 #: ../../content/applications/sales/sales/invoicing/time_materials.rst:133
 msgid ""
@@ -24754,7 +24754,7 @@ msgstr ""
 #: ../../content/applications/sales/sales/invoicing/time_materials.rst:0
 msgid "Invoice draft showing time spent on sales order in Odoo Sales."
 msgstr ""
-"Rascunho da fatura mostrando o tempo gasto no pedido de vendas no Odoo "
+"Rascunho da fatura mostrando o tempo gasto no pedido de vendas no Blue Connect "
 "Vendas."
 
 #: ../../content/applications/sales/sales/invoicing/time_materials.rst:163
@@ -24775,7 +24775,7 @@ msgid ""
 "*Expenses* app **must** be installed."
 msgstr ""
 "Para rastrear e faturar despesas relacionadas a um pedido de vendas, o "
-"aplicativo Odoo *Despesas* **deve** ser instalado."
+"aplicativo Blue Connect *Despesas* **deve** ser instalado."
 
 #: ../../content/applications/sales/sales/invoicing/time_materials.rst:174
 msgid ""
@@ -24784,7 +24784,7 @@ msgid ""
 "the :guilabel:`Expenses` app block, and click :guilabel:`Activate`."
 msgstr ""
 "Para instalar o aplicativo *Despesas*, navegue até :menuselection:`painel "
-"principal do Odoo --> Aplicativos`. Em seguida, na "
+"principal do Blue Connect --> Aplicativos`. Em seguida, na "
 "página :guilabel:`Aplicativos`, localize o bloco de "
 "aplicativos :guilabel:`Despesas` e clique em :guilabel:`Ativar`."
 
@@ -24793,7 +24793,7 @@ msgid ""
 "The page automatically refreshes and returns to the main Odoo dashboard, "
 "where the :guilabel:`Expenses` app is now available to access."
 msgstr ""
-"A página é atualizada automaticamente e retorna ao painel principal do Odoo, "
+"A página é atualizada automaticamente e retorna ao painel principal do Blue Connect, "
 "onde o aplicativo :guilabel:`Despesas` agora está disponível para acesso."
 
 #: ../../content/applications/sales/sales/invoicing/time_materials.rst:184
@@ -24875,7 +24875,7 @@ msgid ""
 "Odoo."
 msgstr ""
 "Como preencher corretamente um formulário de despesas anexado a um pedido de "
-"vendas no Odoo."
+"vendas no Blue Connect."
 
 #: ../../content/applications/sales/sales/invoicing/time_materials.rst:215
 msgid ""
@@ -24901,7 +24901,7 @@ msgstr ""
 
 #: ../../content/applications/sales/sales/invoicing/time_materials.rst:None
 msgid "How an Expense Report Summary looks in Odoo Expenses."
-msgstr "Como fica o resumo de um relatório de despesas no Odoo Despesas."
+msgstr "Como fica o resumo de um relatório de despesas no Blue Connect Despesas."
 
 #: ../../content/applications/sales/sales/invoicing/time_materials.rst:226
 msgid ""
@@ -24958,7 +24958,7 @@ msgid ""
 "application."
 msgstr ""
 "Uma despesa que aparece na aba Linhas de pedido de um pedido de vendas no "
-"aplicativo Odoo Vendas."
+"aplicativo Blue Connect Vendas."
 
 #: ../../content/applications/sales/sales/invoicing/time_materials.rst:248
 msgid ""
@@ -24986,7 +24986,7 @@ msgid ""
 "Sales."
 msgstr ""
 "Exemplo de fatura de cliente para uma despesa gerada a partir de um pedido "
-"de vendas no Odoo Vendas."
+"de vendas no Blue Connect Vendas."
 
 #: ../../content/applications/sales/sales/invoicing/time_materials.rst:260
 msgid "Purchase configuration"
@@ -25009,10 +25009,10 @@ msgid ""
 "the :guilabel:`Purchase` app is now available to access."
 msgstr ""
 "Para instalar o aplicativo *Compras*, navegue até :menuselection:`painel "
-"principal do Odoo --> Aplicativos`. Em seguida, na "
+"principal do Blue Connect --> Aplicativos`. Em seguida, na "
 "página :guilabel:`Aplicativos`, localize o bloco do "
 "aplicativo :guilabel:`Compras` e clique em :guilabel:`Ativar`. A página é "
-"atualizada automaticamente e retorna ao painel principal do Odoo, onde o "
+"atualizada automaticamente e retorna ao painel principal do Blue Connect, onde o "
 "aplicativo :guilabel:`Compras` agora está disponível para acesso."
 
 #: ../../content/applications/sales/sales/invoicing/time_materials.rst:273
@@ -25050,7 +25050,7 @@ msgid ""
 "Purchase."
 msgstr ""
 "Como adicionar uma coluna de distribuição analítica no formulário de pedido "
-"de compra no Odoo Compras."
+"de compra no Blue Connect Compras."
 
 #: ../../content/applications/sales/sales/invoicing/time_materials.rst:287
 msgid ""
@@ -25088,7 +25088,7 @@ msgid ""
 "Odoo."
 msgstr ""
 "Configurações do produto para um pedido de compra a ser cobrado em um pedido "
-"de venda no Odoo."
+"de venda no Blue Connect."
 
 #: ../../content/applications/sales/sales/invoicing/time_materials.rst:302
 msgid ""
@@ -25118,7 +25118,7 @@ msgid ""
 "Odoo."
 msgstr ""
 "Como selecionar o departamento de distribuição analítica em um pedido de "
-"compra no Odoo."
+"compra no Blue Connect."
 
 #: ../../content/applications/sales/sales/invoicing/time_materials.rst:313
 msgid ""
@@ -25175,7 +25175,7 @@ msgid ""
 "Vendor bill draft for a purchase order to be invoiced to a customer in Odoo."
 msgstr ""
 "Fatura provisória do fornecedor de um pedido de compra a ser cobrado de um "
-"cliente no Odoo."
+"cliente no Blue Connect."
 
 #: ../../content/applications/sales/sales/invoicing/time_materials.rst:337
 msgid ""
@@ -25230,7 +25230,7 @@ msgid ""
 "Sales."
 msgstr ""
 "Produto do pedido de compra no pedido de venda a ser faturado para o cliente "
-"pelo Odoo Vendas."
+"pelo Blue Connect Vendas."
 
 #: ../../content/applications/sales/sales/invoicing/time_materials.rst:358
 msgid ""
@@ -25256,7 +25256,7 @@ msgid ""
 "Customer invoice draft with purchase product attached to sales order in Odoo."
 msgstr ""
 "Rascunho da fatura do cliente com produto de compra vinculado ao pedido de "
-"vendas no Odoo."
+"vendas no Blue Connect."
 
 #: ../../content/applications/sales/sales/invoicing/time_materials.rst:369
 msgid ""
@@ -25464,7 +25464,7 @@ msgid ""
 "With Odoo, customers can use **eWallets** and **gift cards** for online and "
 "in-store shopping."
 msgstr ""
-"Com o Odoo, os clientes podem utilizar **carteiras digitais** e **cartões de "
+"Com o Blue Connect, os clientes podem utilizar **carteiras digitais** e **cartões de "
 "presente** para compras on-line e na loja."
 
 #: ../../content/applications/sales/sales/products_prices/ewallets_giftcards.rst:7
@@ -25904,7 +25904,7 @@ msgid ""
 "template cards, or click :guilabel:`New` to create a new program from "
 "scratch."
 msgstr ""
-"Se ainda não foram criados programas de desconto ou de fidelidade, o Odoo "
+"Se ainda não foram criados programas de desconto ou de fidelidade, o Blue Connect "
 "fornece opções de modelos para ajudar a criar o primeiro programa. Escolha "
 "um dos modelos de cartões ou clique em :guilabel:`Novo` para criar um novo "
 "programa do zero."
@@ -26089,7 +26089,7 @@ msgid ""
 "contact in the database, a :guilabel:`Loyalty Cards` smart button "
 "conditionally appears on the contact form."
 msgstr ""
-"No Odoo 17 (e posterior), quando um cupom ou cartão-fidelidade é associado a "
+"No Blue Connect 17 (e posterior), quando um cupom ou cartão-fidelidade é associado a "
 "um contato na base de dados, um botão inteligente :guilabel:`Cartões-"
 "fidelidade` aparece condicionalmente no formulário de contato."
 
@@ -26097,7 +26097,7 @@ msgstr ""
 msgid ""
 "The Loyalty Card smart button as it appears on a contact form in Odoo 17."
 msgstr ""
-"O botão inteligente do Cartão-fidelidade em formulários de contato no Odoo "
+"O botão inteligente do Cartão-fidelidade em formulários de contato no Blue Connect "
 "17."
 
 #: ../../content/applications/sales/sales/products_prices/loyalty_discount.rst:91
@@ -26220,7 +26220,7 @@ msgid ""
 msgstr ""
 ":guilabel:`Código de desconto`: Insira um código personalizado a ser "
 "utilizado para o programa :guilabel:`Código de desconto`, ou utilize o "
-"código predefinido gerado pelo Odoo. Este campo só está disponível quando "
+"código predefinido gerado pelo Blue Connect. Este campo só está disponível quando "
 "o :guilabel:`Tipo de programa` está definido como :guilabel:`Código de "
 "desconto`."
 
@@ -26441,8 +26441,8 @@ msgid ""
 "currencies. Specifically, Odoo has the ability to work with 167 total "
 "currencies."
 msgstr ""
-"Com o Odoo, as listas de preços podem ser usadas para gerenciar preços em "
-"várias moedas estrangeiras. Especificamente, o Odoo tem a capacidade de "
+"Com o Blue Connect, as listas de preços podem ser usadas para gerenciar preços em "
+"várias moedas estrangeiras. Especificamente, o Blue Connect tem a capacidade de "
 "trabalhar com 167 moedas ao total."
 
 #: ../../content/applications/sales/sales/products_prices/prices/currencies.rst:9
@@ -26450,7 +26450,7 @@ msgid ""
 "In order to use multiple currencies in Odoo *Sales*, the *Accounting* "
 "application **must** be installed."
 msgstr ""
-"Para usar várias moedas no Odoo *Vendas*, o aplicativo *Financeiro* **deve** "
+"Para usar várias moedas no Blue Connect *Vendas*, o aplicativo *Financeiro* **deve** "
 "ser instalado."
 
 #: ../../content/applications/sales/sales/products_prices/prices/currencies.rst:15
@@ -26469,7 +26469,7 @@ msgstr ""
 msgid ""
 "How the main currency feature appears on settings page in Odoo Accounting."
 msgstr ""
-"Como o recurso de moeda principal aparece na página de configurações no Odoo "
+"Como o recurso de moeda principal aparece na página de configurações no Blue Connect "
 "Financeiro."
 
 #: ../../content/applications/sales/sales/products_prices/prices/currencies.rst:23
@@ -26477,7 +26477,7 @@ msgid ""
 "Odoo automatically sets the main currency as the currency of the country the "
 "company is based in."
 msgstr ""
-"O Odoo define automaticamente como moeda principal a moeda do país em que a "
+"O Blue Connect define automaticamente como moeda principal a moeda do país em que a "
 "empresa está situada."
 
 #: ../../content/applications/sales/sales/products_prices/prices/currencies.rst:25
@@ -26570,7 +26570,7 @@ msgstr ""
 
 #: ../../content/applications/sales/sales/products_prices/prices/currencies.rst:None
 msgid "How the main currencies page appears in Odoo Accounting."
-msgstr "Como a página principal de moedas aparece no Odoo Financeiro."
+msgstr "Como a página principal de moedas aparece no Blue Connect Financeiro."
 
 #: ../../content/applications/sales/sales/products_prices/prices/currencies.rst:65
 msgid ""
@@ -26580,7 +26580,7 @@ msgid ""
 "date of the :guilabel:`Last Update`, and :guilabel:`Current Rate` (compared "
 "to the default currency of the country in which the company is based)."
 msgstr ""
-"Nesta página, o Odoo fornece uma lista principal de 167 moedas globais. Cada "
+"Nesta página, o Blue Connect fornece uma lista principal de 167 moedas globais. Cada "
 "linha mostra a :guilabel:`Moeda`, o :guilabel:`Símbolo`, o :guilabel:`Nome`, "
 "a data da :guilabel:`Última atualização` e a :guilabel:`Taxa atual` "
 "correspondentes (em relação à moeda padrão do país em que a empresa está "
@@ -26649,7 +26649,7 @@ msgstr ""
 
 #: ../../content/applications/sales/sales/products_prices/prices/currencies.rst:None
 msgid "How a currency detail form looks in Odoo Accounting."
-msgstr "Um formulário de detalhes de moeda no Odoo Financeiro."
+msgstr "Um formulário de detalhes de moeda no Blue Connect Financeiro."
 
 #: ../../content/applications/sales/sales/products_prices/prices/currencies.rst:96
 msgid ""
@@ -26731,7 +26731,7 @@ msgstr ""
 
 #: ../../content/applications/sales/sales/products_prices/prices/currencies.rst:None
 msgid "How a main currency detail form looks in Odoo Accounting."
-msgstr "Um formulário de detalhes da moeda principal no Odoo Financeiro."
+msgstr "Um formulário de detalhes da moeda principal no Blue Connect Financeiro."
 
 #: ../../content/applications/sales/sales/products_prices/prices/currencies.rst:127
 msgid ""
@@ -26765,7 +26765,7 @@ msgstr ""
 
 #: ../../content/applications/sales/sales/products_prices/prices/currencies.rst:None
 msgid "How a blank currency detail form looks in Odoo Accounting."
-msgstr "Um formulário de detalhes de moeda em branco no Odoo Financeiro."
+msgstr "Um formulário de detalhes de moeda em branco no Blue Connect Financeiro."
 
 #: ../../content/applications/sales/sales/products_prices/prices/currencies.rst:144
 msgid ""
@@ -26914,7 +26914,7 @@ msgid ""
 "How to set product prices based on foreign currency pricelists in Odoo Sales."
 msgstr ""
 "Como definir preços de produtos com base em listas de preços em moeda "
-"estrangeira no Odoo Vendas."
+"estrangeira no Blue Connect Vendas."
 
 #: ../../content/applications/sales/sales/products_prices/prices/currencies.rst:208
 msgid ""
@@ -27062,7 +27062,7 @@ msgid ""
 "Sales app."
 msgstr ""
 "O botão de desconto localizado na parte inferior de um formulário de pedido "
-"de vendas no aplicativo Odoo Vendas."
+"de vendas no aplicativo Blue Connect Vendas."
 
 #: ../../content/applications/sales/sales/products_prices/prices/discounts.rst:52
 msgid ""
@@ -27096,7 +27096,7 @@ msgid ""
 "The sales order with the applied global discount option in the Odoo Sales "
 "application."
 msgstr ""
-"O pedido de venda com a opção de desconto global aplicada no aplicativo Odoo "
+"O pedido de venda com a opção de desconto global aplicada no aplicativo Blue Connect "
 "Vendas."
 
 #: ../../content/applications/sales/sales/products_prices/prices/discounts.rst:68
@@ -27163,7 +27163,7 @@ msgstr ""
 
 #: ../../content/applications/sales/sales/products_prices/prices/pricing.rst:None
 msgid "How the pricelist feature setting looks in Odoo Sales."
-msgstr "Aparência da definição do recurso lista de preços no Vendas do Odoo."
+msgstr "Aparência da definição do recurso lista de preços no Vendas do Blue Connect."
 
 #: ../../content/applications/sales/sales/products_prices/prices/pricing.rst:25
 msgid ""
@@ -27185,7 +27185,7 @@ msgstr ""
 
 #: ../../content/applications/sales/sales/products_prices/prices/pricing.rst:None
 msgid "How the pricelists page looks in Odoo Sales."
-msgstr "Aparência da página de listas de preços no app Vendas do Odoo."
+msgstr "Aparência da página de listas de preços no app Vendas do Blue Connect."
 
 #: ../../content/applications/sales/sales/products_prices/prices/pricing.rst:37
 msgid ""
@@ -27231,7 +27231,7 @@ msgstr ""
 #: ../../content/applications/sales/sales/products_prices/prices/pricing.rst:None
 msgid "How the pricelist detail form looks in Odoo Sales."
 msgstr ""
-"Aparência do formulário de pormenor da lista de preços no Vendas do Odoo."
+"Aparência do formulário de pormenor da lista de preços no Vendas do Blue Connect."
 
 #: ../../content/applications/sales/sales/products_prices/prices/pricing.rst:64
 msgid ""
@@ -27387,7 +27387,7 @@ msgid ""
 "Sales."
 msgstr ""
 "Como formular um custo de aumento com uma margem mínima de cinco dólares no "
-"app Vendas do Odoo."
+"app Vendas do Blue Connect."
 
 #: ../../content/applications/sales/sales/products_prices/prices/pricing.rst:144
 msgid ""
@@ -27405,7 +27405,7 @@ msgstr ""
 msgid "Example of a 20% discount with prices rounded to 9.99 in Odoo Sales."
 msgstr ""
 "Exemplo de um desconto de 20% com preços arredondados para 9,99 no Vendas do "
-"Odoo."
+"Blue Connect."
 
 #: ../../content/applications/sales/sales/products_prices/prices/pricing.rst:152
 msgid ""
@@ -27426,7 +27426,7 @@ msgid ""
 "subscriptions>` documentation for more information."
 msgstr ""
 "Time-based rules are used specifically with subscription products. Be sure "
-"to check out the Odoo :doc:`Subscriptions </applications/sales/"
+"to check out the Blue Connect :doc:`Subscriptions </applications/sales/"
 "subscriptions>` documentation for more information."
 
 #: ../../content/applications/sales/sales/products_prices/prices/pricing.rst:161
@@ -27470,7 +27470,7 @@ msgstr ""
 
 #: ../../content/applications/sales/sales/products_prices/prices/pricing.rst:None
 msgid "Custom time period pop-up form in Odoo Sales."
-msgstr "Formulário pop-up de período de tempo personalizado no Vendas do Odoo."
+msgstr "Formulário pop-up de período de tempo personalizado no Vendas do Blue Connect."
 
 #: ../../content/applications/sales/sales/products_prices/prices/pricing.rst:187
 msgid ""
@@ -27542,7 +27542,7 @@ msgid ""
 "pricelist to customers on their contact form."
 msgstr ""
 "Embora a lista de preços padrão aplicada a qualquer cliente seja "
-"a :guilabel:`Lista de preços pública`, o Odoo oferece a possibilidade de "
+"a :guilabel:`Lista de preços pública`, o Blue Connect oferece a possibilidade de "
 "aplicar diretamente uma lista de preços diferente aos clientes no seu "
 "formulário de contato."
 
@@ -27560,7 +27560,7 @@ msgstr ""
 
 #: ../../content/applications/sales/sales/products_prices/prices/pricing.rst:None
 msgid "Sample customer detail form in Odoo Sales."
-msgstr "Exemplo de formulário de detalhes do cliente no Vendas do Odoo."
+msgstr "Exemplo de formulário de detalhes do cliente no Vendas do Blue Connect."
 
 #: ../../content/applications/sales/sales/products_prices/prices/pricing.rst:229
 msgid ""
@@ -27578,7 +27578,7 @@ msgstr ""
 msgid "The pricelist field in a customer detail form in Odoo Sales."
 msgstr ""
 "Campo da lista de preços de um formulário de detalhes do cliente no Vendas "
-"do Odoo."
+"do Blue Connect."
 
 #: ../../content/applications/sales/sales/products_prices/prices/pricing.rst:238
 msgid ""
@@ -27698,7 +27698,7 @@ msgid ""
 "product category, Odoo takes the rule of the product itself."
 msgstr ""
 "Se houver uma regra de preço definida para um determinado produto e outra "
-"para a categoria de produto, o Odoo adota a regra do próprio produto."
+"para a categoria de produto, o Blue Connect adota a regra do próprio produto."
 
 #: ../../content/applications/sales/sales/products_prices/prices/pricing.rst:279
 msgid ":doc:`/applications/sales/sales/products_prices/prices/currencies`"
@@ -27816,8 +27816,8 @@ msgid ""
 "import process."
 msgstr ""
 "Fique à vontade para adicionar novas colunas à planilha modelo, se desejar. "
-"No entanto, para serem adicionados, esses campos **devem** existir no Odoo. "
-"Se o Odoo não conseguir associar o nome da coluna a um campo, ele poderá ser "
+"No entanto, para serem adicionados, esses campos **devem** existir no Blue Connect. "
+"Se o Blue Connect não conseguir associar o nome da coluna a um campo, ele poderá ser "
 "associado manualmente durante o processo de importação."
 
 #: ../../content/applications/sales/sales/products_prices/products/import.rst:57
@@ -27840,7 +27840,7 @@ msgid ""
 "The Odoo Field drop-down menu next to a Field Column that needs to be "
 "manually adjusted."
 msgstr ""
-"O menu suspenso Campo do Odoo ao lado de uma coluna de campo que precisa ser "
+"O menu suspenso Campo do Blue Connect ao lado de uma coluna de campo que precisa ser "
 "ajustada manualmente."
 
 #: ../../content/applications/sales/sales/products_prices/products/import.rst:69
@@ -27854,7 +27854,7 @@ msgid ""
 "the :guilabel:`Upload File` button in the upper-left corner."
 msgstr ""
 "Depois de personalizar a planilha de modelo de produto, retorne à página de "
-"importação de produtos do Odoo, onde se encontra o link de download do "
+"importação de produtos do Blue Connect, onde se encontra o link de download do "
 "modelo, e clique no botão :guilabel:`Carregar arquivo` no canto superior "
 "esquerdo."
 
@@ -27864,7 +27864,7 @@ msgid ""
 "Sales."
 msgstr ""
 "O botão de upload de arquivo na página de download do modelo de importação "
-"de produtos no Odoo Vendas."
+"de produtos no Blue Connect Vendas."
 
 #: ../../content/applications/sales/sales/products_prices/products/import.rst:78
 msgid ""
@@ -27872,7 +27872,7 @@ msgid ""
 "spreadsheet file should be selected and uploaded to Odoo."
 msgstr ""
 "Em seguida, é exibida uma janela pop-up, na qual o arquivo da planilha "
-"preenchida de modelo de produto deve ser selecionado e carregado no Odoo."
+"preenchida de modelo de produto deve ser selecionado e carregado no Blue Connect."
 
 #: ../../content/applications/sales/sales/products_prices/products/import.rst:81
 msgid ""
@@ -27886,7 +27886,7 @@ msgid ""
 "The import a file page in Odoo Sales after a product template has been "
 "uploaded."
 msgstr ""
-"A página de importação de arquivo no Odoo Vendas após o carregamento de um "
+"A página de importação de arquivo no Blue Connect Vendas após o carregamento de um "
 "modelo de produto."
 
 #: ../../content/applications/sales/sales/products_prices/products/import.rst:88
@@ -27895,7 +27895,7 @@ msgid ""
 "an :guilabel:`Odoo Field`, if necessary."
 msgstr ""
 "A partir daqui, o :guilabel:`Coluna do arquivo` pode ser atribuído "
-"manualmente a um :guilabel:`Campo do Odoo`, se necessário."
+"manualmente a um :guilabel:`Campo do Blue Connect`, se necessário."
 
 #: ../../content/applications/sales/sales/products_prices/products/import.rst:91
 msgid ""
@@ -27930,7 +27930,7 @@ msgid ""
 "Field."
 msgstr ""
 "A mensagem de erro de importação que aparece se as colunas do arquivo não "
-"corresponderem a um campo do Odoo."
+"corresponderem a um campo do Blue Connect."
 
 #: ../../content/applications/sales/sales/products_prices/products/import.rst:106
 msgid ""
@@ -27966,7 +27966,7 @@ msgid ""
 "Odoo Sales."
 msgstr ""
 "A janela pop-up que aparece após um processo de importação de produto bem-"
-"sucedido no Odoo Vendas."
+"sucedido no Blue Connect Vendas."
 
 #: ../../content/applications/sales/sales/products_prices/products/import.rst:121
 msgid ""
@@ -28041,7 +28041,7 @@ msgid ""
 "the :guilabel:`Products` page."
 msgstr ""
 "Depois que a planilha com as informações do campo de relação recém-"
-"configurado tiver sido carregada, clique em :guilabel:`Importar` e o Odoo "
+"configurado tiver sido carregada, clique em :guilabel:`Importar` e o Blue Connect "
 "retornará à página :guilabel:`Produtos`."
 
 #: ../../content/applications/sales/sales/products_prices/products/import.rst:159
@@ -28163,7 +28163,7 @@ msgid ""
 "Odoo database, they can be used for existing or imported products."
 msgstr ""
 "Como mencionado anteriormente, quando atributos e valores são adicionados à "
-"base de dados do Odoo, eles podem ser usados para produtos existentes ou "
+"base de dados do Blue Connect, eles podem ser usados para produtos existentes ou "
 "importados."
 
 #: ../../content/applications/sales/sales/products_prices/products/import.rst:214
@@ -28239,7 +28239,7 @@ msgid ""
 "found."
 msgstr ""
 "Uma vez que a planilha com os produtos recém-configurados e variantes de "
-"produtos for carregada, clique em :guilabel:`Importar`, e o Odoo retornará à "
+"produtos for carregada, clique em :guilabel:`Importar`, e o Blue Connect retornará à "
 "página :guilabel:`Produtos`. Lá é possível encontrar os produtos recém-"
 "adicionados."
 
@@ -28309,7 +28309,7 @@ msgid ""
 "However, if a lot of products need images, assigning them can become "
 "incredibly time-consuming."
 msgstr ""
-"Ter imagens de produtos adequadas no Odoo é útil por vários motivos. No "
+"Ter imagens de produtos adequadas no Blue Connect é útil por vários motivos. No "
 "entanto, se muitos produtos precisarem de imagens, selecioná-las pode se "
 "tornar bastante demorado."
 
@@ -28320,7 +28320,7 @@ msgid ""
 "extremely efficient."
 msgstr ""
 "Felizmente, ao configurar a API *Google Custom Search* em uma base de dados "
-"do Odoo, encontrar imagens de produtos (com base em seu código de barras) é "
+"do Blue Connect, encontrar imagens de produtos (com base em seu código de barras) é "
 "extremamente eficiente."
 
 #: ../../content/applications/sales/sales/products_prices/products/product_images.rst:16
@@ -28328,7 +28328,7 @@ msgid ""
 "In order to utilize *Google Custom Search* within an Odoo database, both the "
 "database and the Google API must be properly configured."
 msgstr ""
-"Para utilizar a *Google Custom Search* em uma base de dados do Odoo, tanto a "
+"Para utilizar a *Google Custom Search* em uma base de dados do Blue Connect, tanto a "
 "base quanto a API do Google devem estar configuradas corretamente."
 
 #: ../../content/applications/sales/sales/products_prices/products/product_images.rst:20
@@ -28493,7 +28493,7 @@ msgstr ""
 "Nessa página, clique em :guilabel:`Personalizar` para abrir a "
 "página :menuselection:`Visão geral --> Básico`. Em seguida, copie o ID no "
 "campo :guilabel:`ID do mecanismo de busca`. Esse ID é necessário para a "
-"configuração do Odoo."
+"configuração do Blue Connect."
 
 #: ../../content/applications/sales/sales/products_prices/products/product_images.rst:0
 msgid "Basic overview page with search engine ID field."
@@ -28501,7 +28501,7 @@ msgstr "Página de visão geral básica com campo de ID do mecanismo de pesquisa
 
 #: ../../content/applications/sales/sales/products_prices/products/product_images.rst:102
 msgid "Odoo"
-msgstr "Odoo"
+msgstr "Blue Connect"
 
 #: ../../content/applications/sales/sales/products_prices/products/product_images.rst:104
 msgid ""
@@ -28509,14 +28509,14 @@ msgid ""
 "the :guilabel:`Integrations` section. From here, check the box "
 "beside :guilabel:`Google Images`. Then, click :guilabel:`Save`."
 msgstr ""
-"Na base de dados do Odoo, vá para o :menuselection:`app Definições` e role "
+"Na base de dados do Blue Connect, vá para o :menuselection:`app Definições` e role "
 "até a seção :guilabel:`Integrações`. A partir daí, marque a caixa ao lado "
 "de :guilabel:`Google Images`. Em seguida, clique em :guilabel:`Salvar`."
 
 #: ../../content/applications/sales/sales/products_prices/products/product_images.rst:0
 msgid "The Google Images setting in the Odoo Settings app page."
 msgstr ""
-"A configuração do Google Images na página do aplicativo Odoo Definições."
+"A configuração do Google Images na página do aplicativo Blue Connect Definições."
 
 #: ../../content/applications/sales/sales/products_prices/products/product_images.rst:112
 msgid ""
@@ -28533,7 +28533,7 @@ msgstr ""
 #: ../../content/applications/sales/sales/products_prices/products/product_images.rst:120
 msgid "Product images in Odoo with Google Custom Search API"
 msgstr ""
-"Imagens de produtos no Odoo com a API de pesquisa personalizada do Google"
+"Imagens de produtos no Blue Connect com a API de pesquisa personalizada do Google"
 
 #: ../../content/applications/sales/sales/products_prices/products/product_images.rst:122
 msgid ""
@@ -28541,9 +28541,9 @@ msgid ""
 "variant. This process can be completed in any Odoo application that provides "
 "access to product pages (e.g. *Sales* app, *Inventory* app, etc.)."
 msgstr ""
-"A adição de imagens a produtos no Odoo pode ser feita em qualquer produto ou "
+"A adição de imagens a produtos no Blue Connect pode ser feita em qualquer produto ou "
 "variante de produto. Esse processo pode ser concluído em qualquer aplicativo "
-"Odoo que forneça acesso a páginas de produtos (ex.: aplicativo *Vendas*, "
+"Blue Connect que forneça acesso a páginas de produtos (ex.: aplicativo *Vendas*, "
 "*Inventário*, etc.)."
 
 #: ../../content/applications/sales/sales/products_prices/products/product_images.rst:126
@@ -28553,8 +28553,8 @@ msgid ""
 "application:"
 msgstr ""
 "Abaixo está um guia passo a passo detalhando como utilizar a *API dGoogle "
-"Custom Search* para atribuir imagens a produtos no Odoo usando o aplicativo "
-"Odoo *Vendas*:"
+"Custom Search* para atribuir imagens a produtos no Blue Connect usando o aplicativo "
+"Blue Connect *Vendas*:"
 
 #: ../../content/applications/sales/sales/products_prices/products/product_images.rst:129
 msgid ""
@@ -28601,7 +28601,7 @@ msgstr ""
 msgid ""
 "The Get Pictures from Google Images option from the Action drop-down menu in "
 "Odoo."
-msgstr "A opção Obter fotos do Google Images no menu suspenso de Ação no Odoo."
+msgstr "A opção Obter fotos do Google Images no menu suspenso de Ação no Blue Connect."
 
 #: ../../content/applications/sales/sales/products_prices/products/product_images.rst:147
 msgid "On the pop-up window that appears, click :guilabel:`Get Pictures`."
@@ -28611,7 +28611,7 @@ msgstr "Na janela pop-up exibida, clique em :guilabel:`Obter imagens`."
 msgid ""
 "The pop-up that appears in which the user should click Get Picture in Odoo "
 "Sales."
-msgstr "O pop-up em que o usuário deve clicar em Obter imagens no Odoo Vendas."
+msgstr "O pop-up em que o usuário deve clicar em Obter imagens no Blue Connect Vendas."
 
 #: ../../content/applications/sales/sales/products_prices/products/product_images.rst:153
 msgid "Once clicked, the image(s) will appear incrementally."
@@ -28666,7 +28666,7 @@ msgstr ""
 "As variantes de produtos podem ser gerenciadas pelo modelo do produto "
 "individual ou navegando até a página :guilabel:`Variantes de produtos` "
 "ou :guilabel:`Atributos`. Todas essas opções estão localizadas no aplicativo "
-"Odoo *Vendas*."
+"Blue Connect *Vendas*."
 
 #: ../../content/applications/sales/sales/products_prices/products/variants.rst:13
 msgid ""
@@ -28713,7 +28713,7 @@ msgstr ""
 "Nesse caso, há um total de vinte variantes de produtos diferentes: quatro "
 "opções de **Cor** multiplicadas por cinco opções de **Tamanho**. Cada "
 "variante tem sua própria contagem de estoque, totais de vendas e outros "
-"registros semelhantes no Odoo."
+"registros semelhantes no Blue Connect."
 
 #: ../../content/applications/sales/sales/products_prices/products/variants.rst:31
 msgid ""
@@ -28766,7 +28766,7 @@ msgstr ""
 #: ../../content/applications/sales/sales/products_prices/products/variants.rst:None
 msgid "A blank attribute creation form in the Odoo Sales application."
 msgstr ""
-"Um formulário de criação de atributo em branco no aplicativo Odoo Vendas."
+"Um formulário de criação de atributo em branco no aplicativo Blue Connect Vendas."
 
 #: ../../content/applications/sales/sales/products_prices/products/variants.rst:58
 msgid "First, create an :guilabel:`Attribute Name`, such as `Color` or `Size`."
@@ -29032,7 +29032,7 @@ msgstr ""
 #: ../../content/applications/sales/sales/products_prices/products/variants.rst:None
 msgid "The attributes and values tab on a typical product form in Odoo Sales."
 msgstr ""
-"A aba de atributos e valores em um formulário de produto típico no Odoo "
+"A aba de atributos e valores em um formulário de produto típico no Blue Connect "
 "Vendas."
 
 #: ../../content/applications/sales/sales/products_prices/products/variants.rst:194
@@ -29104,7 +29104,7 @@ msgid ""
 "specific :guilabel:`Product Variant Values`."
 msgstr ""
 "Na extremidade direita da linha de atributos há um "
-"botão :guilabel:`Configurar`. Quando ele é clicado, o Odoo exibe uma página "
+"botão :guilabel:`Configurar`. Quando ele é clicado, o Blue Connect exibe uma página "
 "separada que mostra esses :guilabel:`Valores de variantes de produtos` "
 "específicos."
 
@@ -29139,7 +29139,7 @@ msgid ""
 "reveals a separate page, detailing that value's related details."
 msgstr ""
 "Quando um valor é clicado na página :guilabel:`Valores de variante do "
-"produto`, o Odoo revela uma página separada, detalhando os detalhes "
+"produto`, o Blue Connect revela uma página separada, detalhando os detalhes "
 "relacionados a esse valor."
 
 #: ../../content/applications/sales/sales/products_prices/products/variants.rst:None
@@ -29194,7 +29194,7 @@ msgstr ""
 msgid "The variants smart button at the top of the product form in Odoo Sales."
 msgstr ""
 "O botão inteligente de variantes na parte superior do formulário do produto "
-"no Odoo Vendas."
+"no Blue Connect Vendas."
 
 #: ../../content/applications/sales/sales/products_prices/products/variants.rst:265
 msgid ""
@@ -29202,7 +29202,7 @@ msgid ""
 "separate page showcasing all the specific product variant combinations "
 "configured for that specific product."
 msgstr ""
-"Quando o botão inteligente :guilabel:`Variantes` é clicado, o Odoo revela "
+"Quando o botão inteligente :guilabel:`Variantes` é clicado, o Blue Connect revela "
 "uma página separada que mostra todas as combinações específicas de variantes "
 "de produtos configuradas para esse produto específico."
 
@@ -29212,7 +29212,7 @@ msgid ""
 "form in Odoo."
 msgstr ""
 "A página de variantes pode ser acessada pelo botão inteligente de variantes "
-"no formulário do produto no Odoo."
+"no formulário do produto no Blue Connect."
 
 #: ../../content/applications/sales/sales/products_prices/products/variants.rst:273
 msgid "Impact of variants"
@@ -29226,7 +29226,7 @@ msgid ""
 msgstr ""
 "Além de oferecer opções de produtos mais detalhadas aos clientes, as "
 "variantes de produtos têm seus próprios impactos que podem ser aproveitados "
-"em todo a base de dados do Odoo."
+"em todo a base de dados do Blue Connect."
 
 #: ../../content/applications/sales/sales/products_prices/products/variants.rst:278
 msgid ""
@@ -29383,7 +29383,7 @@ msgid ""
 "The Odoo *Sales* app provides two different ways to process returns. The "
 "method used depends on whether or not an invoice has been sent."
 msgstr ""
-"O aplicativo *Vendas* do Odoo oferece duas maneiras diferentes de processar "
+"O aplicativo *Vendas* do Blue Connect oferece duas maneiras diferentes de processar "
 "devoluções. O método usado depende do fato da fatura ter sido enviada ou não."
 
 #: ../../content/applications/sales/sales/products_prices/returns.rst:11
@@ -29423,7 +29423,7 @@ msgid ""
 "A typical sales order with a highlighted delivery smart button in Odoo Sales."
 msgstr ""
 "Um pedido de vendas típico com destaque para o botão inteligente de entrega "
-"no Odoo Vendas."
+"no Blue Connect Vendas."
 
 #: ../../content/applications/sales/sales/products_prices/returns.rst:27
 msgid "On the validated delivery order, click :guilabel:`Return`."
@@ -29433,7 +29433,7 @@ msgstr "No pedido de entrega validado, clique em :guilabel:`Devolução`."
 msgid ""
 "A validated delivery order with a highlighted Return button in Odoo Sales."
 msgstr ""
-"Um pedido de entrega validado com destaque para o botão Devolução no Odoo "
+"Um pedido de entrega validado com destaque para o botão Devolução no Blue Connect "
 "Vendas."
 
 #: ../../content/applications/sales/sales/products_prices/returns.rst:33
@@ -29471,7 +29471,7 @@ msgstr ""
 #: ../../content/applications/sales/sales/products_prices/returns.rst:None
 msgid "Warehouse operation after a return has been confirmed in Odoo Sales."
 msgstr ""
-"Operação de armazém após uma devolução ter sido confirmada no Odoo Vendas."
+"Operação de armazém após uma devolução ter sido confirmada no Blue Connect Vendas."
 
 #: ../../content/applications/sales/sales/products_prices/returns.rst:50
 msgid ""
@@ -29546,7 +29546,7 @@ msgstr ""
 
 #: ../../content/applications/sales/sales/products_prices/returns.rst:None
 msgid "Sample of a green in payment banner in Odoo Sales."
-msgstr "Exemplo de uma faixa verde de Em pagamento no Odoo Vendas."
+msgstr "Exemplo de uma faixa verde de Em pagamento no Blue Connect Vendas."
 
 #: ../../content/applications/sales/sales/products_prices/returns.rst:84
 msgid ""
@@ -29599,7 +29599,7 @@ msgid ""
 "Sales."
 msgstr ""
 "Uma fatura típica de cliente com um botão de Nota de crédito destacado no "
-"Odoo Vendas."
+"Blue Connect Vendas."
 
 #: ../../content/applications/sales/sales/products_prices/returns.rst:103
 msgid "Doing so reveals a :guilabel:`Credit Note` pop-up form."
@@ -29607,7 +29607,7 @@ msgstr "Isso revela um formulário pop-up :guilabel:`Nota de crédito`."
 
 #: ../../content/applications/sales/sales/products_prices/returns.rst:None
 msgid "Typical credit note pop-up form that appears in Odoo Sales."
-msgstr "Formulário pop-up de nota de crédito que aparece no Odoo Vendas."
+msgstr "Formulário pop-up de nota de crédito que aparece no Blue Connect Vendas."
 
 #: ../../content/applications/sales/sales/products_prices/returns.rst:109
 msgid ""
@@ -29913,7 +29913,7 @@ msgid ""
 "quotation has been confirmed, it officially turns into a *sales order*, "
 "which can then be invoiced and paid for."
 msgstr ""
-"No Odoo **Vendas**, as cotações podem ser criadas e enviadas aos clientes. "
+"No Blue Connect **Vendas**, as cotações podem ser criadas e enviadas aos clientes. "
 "Depois que uma cotação é confirmada, ela se transforma oficialmente em um "
 "*pedido de venda*, que pode ser faturado e pago."
 
@@ -29934,7 +29934,7 @@ msgstr ""
 #: ../../content/applications/sales/sales/sales_quotations/create_quotations.rst:None
 msgid "The Quotations and Orders section on the Odoo Sales app Settings page."
 msgstr ""
-"A seção Cotações e pedidos na página de Definições do aplicativo Odoo Vendas."
+"A seção Cotações e pedidos na página de Definições do aplicativo Blue Connect Vendas."
 
 #: ../../content/applications/sales/sales/sales_quotations/create_quotations.rst:20
 msgid ""
@@ -30049,7 +30049,7 @@ msgstr ""
 
 #: ../../content/applications/sales/sales/sales_quotations/create_quotations.rst:None
 msgid "The Quotations dashboard present in the Odoo Sales application."
-msgstr "O painel de cotações presente no aplicativo Odoo Vendas."
+msgstr "O painel de cotações presente no aplicativo Blue Connect Vendas."
 
 #: ../../content/applications/sales/sales/sales_quotations/create_quotations.rst:57
 msgid ""
@@ -30082,7 +30082,7 @@ msgid ""
 msgstr ""
 "Para visualizar e/ou modificar qualquer cotação listada no "
 "painel :guilabel:`Cotações`, clique na linha da cotação desejada na lista e "
-"o Odoo revelará o formulário específico para a cotação selecionada."
+"o Blue Connect revelará o formulário específico para a cotação selecionada."
 
 #: ../../content/applications/sales/sales/sales_quotations/create_quotations.rst:72
 msgid "Create quotation"
@@ -30116,7 +30116,7 @@ msgstr ""
 
 #: ../../content/applications/sales/sales/sales_quotations/create_quotations.rst:None
 msgid "A typical quotation form in the Odoo Sales application."
-msgstr "Um formulário de cotação habitual no aplicativo Odoo Vendas."
+msgstr "Um formulário de cotação habitual no aplicativo Blue Connect Vendas."
 
 #: ../../content/applications/sales/sales/sales_quotations/create_quotations.rst:88
 msgid ""
@@ -30274,7 +30274,7 @@ msgstr ""
 msgid ""
 "A product catalog accessible via a quotation in the Odoo Sales application."
 msgstr ""
-"Um catálogo de produtos acessível por uma cotação no aplicativo Odoo Vendas."
+"Um catálogo de produtos acessível por uma cotação no aplicativo Blue Connect Vendas."
 
 #: ../../content/applications/sales/sales/sales_quotations/create_quotations.rst:146
 msgid ""
@@ -30402,7 +30402,7 @@ msgstr ""
 msgid ""
 "The Sales section of the Other Info tab of a quotation form in Odoo Sales."
 msgstr ""
-"A seção Vendas da aba Outras informações de um formulário de cotação no Odoo "
+"A seção Vendas da aba Outras informações de um formulário de cotação no Blue Connect "
 "Vendas."
 
 #: ../../content/applications/sales/sales/sales_quotations/create_quotations.rst:201
@@ -30476,7 +30476,7 @@ msgid ""
 "can be added, if necessary."
 msgstr ""
 ":guilabel:`Marcadores`: Adicione marcadores específicos à cotação para maior "
-"organização e melhor capacidade de pesquisa no aplicativo Odoo **Vendas**. "
+"organização e melhor capacidade de pesquisa no aplicativo Blue Connect **Vendas**. "
 "Vários marcadores podem ser adicionados, se necessário."
 
 #: ../../content/applications/sales/sales/sales_quotations/create_quotations.rst:219
@@ -30496,7 +30496,7 @@ msgid ""
 "The Delivery section of the Other Info tab of a quotation form in Odoo Sales."
 msgstr ""
 "A seção Entrega da aba Outras informações de um formulário de cotação no "
-"Odoo Vendas."
+"Blue Connect Vendas."
 
 #: ../../content/applications/sales/sales/sales_quotations/create_quotations.rst:228
 msgid ""
@@ -30569,7 +30569,7 @@ msgid ""
 "Sales."
 msgstr ""
 "A seção Faturamento da aba Outras informações de um formulário de cotação no "
-"Odoo Vendas."
+"Blue Connect Vendas."
 
 #: ../../content/applications/sales/sales/sales_quotations/create_quotations.rst:252
 msgid ""
@@ -30613,7 +30613,7 @@ msgid ""
 "The Tracking section of the Other Info tab of a quotation form in Odoo Sales."
 msgstr ""
 "A seção Rastreamento da aba Outras informações de um formulário de cotação "
-"no Odoo Vendas."
+"no Blue Connect Vendas."
 
 #: ../../content/applications/sales/sales/sales_quotations/create_quotations.rst:269
 msgid ""
@@ -30743,7 +30743,7 @@ msgid ""
 "the :icon:`fa-arrow-right` :guilabel:`Back to edit mode` link at the top of "
 "the preview page, in the blue banner, to return to the quotation form."
 msgstr ""
-":guilabel:`Pré-visualização`: Quando clicado, o Odoo abre uma visualização "
+":guilabel:`Pré-visualização`: Quando clicado, o Blue Connect abre uma visualização "
 "prévia da cotação que o cliente vê quando faz login no portal do cliente. "
 "Clique no link :icon:`fa-arrow-right` :guilabel:`Voltar ao modo de edição` "
 "na parte superior da página de visualização, no banner azul, para retornar "
@@ -30823,7 +30823,7 @@ msgid ""
 "deadlines also can also act as protection for a company in case an order has "
 "to be fulfilled at a price that is no longer profitable for the business."
 msgstr ""
-"No aplicativo *Vendas* do Odoo, é possível definir prazos para as cotações "
+"No aplicativo *Vendas* do Blue Connect, é possível definir prazos para as cotações "
 "de vendas. Isto incentiva os clientes a agir rapidamente durante as "
 "negociações de vendas, pois podem recear perder um bom negócio. Além disso, "
 "os prazos também podem servir de proteção para uma empresa no caso de um "
@@ -30838,7 +30838,7 @@ msgstr "Expiração da cotação"
 msgid ""
 "In Odoo *Sales*, there's the option to add an expiration date to a quotation."
 msgstr ""
-"No *Vendas* do Odoo, existe a opção de adicionar uma data de expiração a uma "
+"No *Vendas* do Blue Connect, existe a opção de adicionar uma data de expiração a uma "
 "cotação."
 
 #: ../../content/applications/sales/sales/sales_quotations/deadline.rst:15
@@ -30864,19 +30864,19 @@ msgstr ""
 #: ../../content/applications/sales/sales/sales_quotations/deadline.rst:None
 msgid "The expiration field on a standard quotation form in Odoo Sales."
 msgstr ""
-"Campo de expiração em um formulário de cotação padrão no Vendas do Odoo."
+"Campo de expiração em um formulário de cotação padrão no Vendas do Blue Connect."
 
 #: ../../content/applications/sales/sales/sales_quotations/deadline.rst:26
 msgid ""
 "By clicking the :guilabel:`Preview` button on a quotation, Odoo clearly "
 "displays when that specific offer expires."
 msgstr ""
-"Ao clicar no botão :guilabel:`Pré-visualizar` em uma cotação, o Odoo mostra "
+"Ao clicar no botão :guilabel:`Pré-visualizar` em uma cotação, o Blue Connect mostra "
 "claramente quando é que essa oferta específica expira."
 
 #: ../../content/applications/sales/sales/sales_quotations/deadline.rst:0
 msgid "How customers will see deadlines on Odoo Sales."
-msgstr "Como os clientes verão os prazos no Odoo Vendas."
+msgstr "Como os clientes verão os prazos no Blue Connect Vendas."
 
 #: ../../content/applications/sales/sales/sales_quotations/deadline.rst:34
 msgid "Quotation template expiration"
@@ -30887,7 +30887,7 @@ msgid ""
 "The Odoo *Sales* application also makes it possible to add a deadline "
 "expiration date to quotation templates."
 msgstr ""
-"O aplicativo *Vendas* do Odoo também permite adicionar uma data de expiração "
+"O aplicativo *Vendas* do Blue Connect também permite adicionar uma data de expiração "
 "aos modelos de cotação."
 
 #: ../../content/applications/sales/sales/sales_quotations/deadline.rst:39
@@ -30920,7 +30920,7 @@ msgid ""
 "The quotation expires after field on a quotation template form in Odoo Sales."
 msgstr ""
 "Campo \"Cotação expira após\" em um formulário de modelo de cotação no "
-"Vendas do Odoo."
+"Vendas do Blue Connect."
 
 #: ../../content/applications/sales/sales/sales_quotations/deadline.rst:51
 msgid ""
@@ -31055,7 +31055,7 @@ msgid ""
 "order is electronically paid for by the customer, the salesperson attached "
 "to the sales order is instantly notified that the order is confirmed."
 msgstr ""
-"O aplicativo *Vendas* do Odoo oferece aos clientes a possibilidade de "
+"O aplicativo *Vendas* do Blue Connect oferece aos clientes a possibilidade de "
 "confirmar pedidos através de um pagamento on-line diretamente no pedido de "
 "venda. Assim que o pedido de venda é pago eletronicamente pelo cliente, o "
 "vendedor vinculado ao pedido de venda é notificado instantaneamente de que o "
@@ -31087,7 +31087,7 @@ msgstr ""
 
 #: ../../content/applications/sales/sales/sales_quotations/get_paid_to_validate.rst:None
 msgid "The online payment setting in the Odoo Sales application."
-msgstr "A configuração de pagamento on-line no aplicativo Odoo Vendas."
+msgstr "A configuração de pagamento on-line no aplicativo Blue Connect Vendas."
 
 #: ../../content/applications/sales/sales/sales_quotations/get_paid_to_validate.rst:23
 msgid ""
@@ -31115,7 +31115,7 @@ msgstr ""
 #: ../../content/applications/sales/sales/sales_quotations/get_paid_to_validate.rst:None
 msgid "The online payment setting on a standard quotation in Odoo Sales."
 msgstr ""
-"A configuração de pagamento on-line em uma cotação padrão no Odoo Vendas."
+"A configuração de pagamento on-line em uma cotação padrão no Blue Connect Vendas."
 
 #: ../../content/applications/sales/sales/sales_quotations/get_paid_to_validate.rst:35
 msgid ""
@@ -31131,7 +31131,7 @@ msgstr ""
 msgid "The online payment setting on quotation template forms in Odoo Sales."
 msgstr ""
 "A configuração de pagamento on-line em formulários de modelo de cotação no "
-"Odoo Vendas."
+"Blue Connect Vendas."
 
 #: ../../content/applications/sales/sales/sales_quotations/get_paid_to_validate.rst:43
 msgid "Payment providers"
@@ -31157,7 +31157,7 @@ msgstr ""
 
 #: ../../content/applications/sales/sales/sales_quotations/get_paid_to_validate.rst:None
 msgid "Payment providers page in Odoo Sales."
-msgstr "Página de provedores de pagamento no Odoo Vendas."
+msgstr "Página de provedores de pagamento no Blue Connect Vendas."
 
 #: ../../content/applications/sales/sales/sales_quotations/get_paid_to_validate.rst:56
 #: ../../content/applications/sales/sales/sales_quotations/get_paid_to_validate.rst:91
@@ -31180,7 +31180,7 @@ msgstr ""
 
 #: ../../content/applications/sales/sales/sales_quotations/get_paid_to_validate.rst:None
 msgid "The accept and pay button on an online quotation in Odoo Sales."
-msgstr "O botão aceitar e pagar em uma cotação on-line no Odoo Vendas."
+msgstr "O botão aceitar e pagar em uma cotação on-line no Blue Connect Vendas."
 
 #: ../../content/applications/sales/sales/sales_quotations/get_paid_to_validate.rst:68
 msgid ""
@@ -31198,7 +31198,7 @@ msgid ""
 "How to register a payment on a validate order pop-up window in Odoo Sales."
 msgstr ""
 "Como registrar um pagamento em uma janela pop-up de validação de pedido no "
-"Odoo Vendas."
+"Blue Connect Vendas."
 
 #: ../../content/applications/sales/sales/sales_quotations/get_paid_to_validate.rst:77
 msgid ""
@@ -31206,7 +31206,7 @@ msgid ""
 "pop-up window that have been published and configured on "
 "the :guilabel:`Payment Providers` page."
 msgstr ""
-"O Odoo **somente** oferecerá  na janela pop-up :guilabel:`Validar pedido` "
+"O Blue Connect **somente** oferecerá  na janela pop-up :guilabel:`Validar pedido` "
 "opções de pagamento que tenham sido publicadas e configuradas na "
 "página :guilabel:`Provedores de pagamento`."
 
@@ -31218,7 +31218,7 @@ msgid ""
 "online payment."
 msgstr ""
 "Depois que o cliente selecionar a forma de pagamento desejada, ele clicará "
-"no botão :guilabel:`Pagar` na janela pop-up para confirmar o pedido. O Odoo "
+"no botão :guilabel:`Pagar` na janela pop-up para confirmar o pedido. O Blue Connect "
 "notifica instantaneamente o vendedor designado sobre a confirmação do pedido "
 "com um pagamento on-line."
 
@@ -31268,7 +31268,7 @@ msgid ""
 "The Online Signature feature option in the Settings of the Odoo Sales "
 "application."
 msgstr ""
-"A opção do recurso Assinatura on-line nas Definições do aplicativo Odoo "
+"A opção do recurso Assinatura on-line nas Definições do aplicativo Blue Connect "
 "Vendas."
 
 #: ../../content/applications/sales/sales/sales_quotations/get_signature_to_validate.rst:23
@@ -31292,7 +31292,7 @@ msgid ""
 "in Odoo."
 msgstr ""
 "A opção de confirmação por assinatura on-line encontrada em todos os modelos "
-"de cotação no Odoo."
+"de cotação no Blue Connect."
 
 #: ../../content/applications/sales/sales/sales_quotations/get_signature_to_validate.rst:32
 msgid ""
@@ -31310,7 +31310,7 @@ msgid ""
 "form in Odoo."
 msgstr ""
 "A opção do recurso de assinatura on-line na aba Outras informações de um "
-"formulário de cotação no Odoo."
+"formulário de cotação no Blue Connect."
 
 #: ../../content/applications/sales/sales/sales_quotations/get_signature_to_validate.rst:39
 msgid "Order confirmations with online signatures"
@@ -31327,7 +31327,7 @@ msgstr ""
 #: ../../content/applications/sales/sales/sales_quotations/get_signature_to_validate.rst:None
 msgid "The Sign and Pay button present on online quotations in Odoo Sales."
 msgstr ""
-"O botão Assinar e Pagar está presente nas cotações on-line no Odoo Vendas."
+"O botão Assinar e Pagar está presente nas cotações on-line no Blue Connect Vendas."
 
 #: ../../content/applications/sales/sales/sales_quotations/get_signature_to_validate.rst:47
 msgid ""
@@ -31342,7 +31342,7 @@ msgstr ""
 #: ../../content/applications/sales/sales/sales_quotations/get_signature_to_validate.rst:None
 msgid "The Validate Order pop-up window for online signatures in Odoo Sales."
 msgstr ""
-"A janela pop-up Validar pedido para assinaturas on-line no Odoo Vendas."
+"A janela pop-up Validar pedido para assinaturas on-line no Blue Connect Vendas."
 
 #: ../../content/applications/sales/sales/sales_quotations/get_signature_to_validate.rst:53
 msgid ""
@@ -31361,7 +31361,7 @@ msgid ""
 "up window. And :guilabel:`Load` lets the customer upload a previously-"
 "created signature file from their computer."
 msgstr ""
-":guilabel:`Automático` permite que o Odoo gere uma assinatura on-line "
+":guilabel:`Automático` permite que o Blue Connect gere uma assinatura on-line "
 "automaticamente, com base nas informações do campo :guilabel:`Nome "
 "completo`. :guilabel:`Desenhar` permite utilizar o cursor para criar uma "
 "assinatura personalizada diretamente na janela pop-up. "
@@ -31783,7 +31783,7 @@ msgid ""
 msgstr ""
 "Antes de entrar em detalhes sobre como usar variantes de produtos em "
 "cotações e pedidos de vendas, é recomendável aprender sobre :doc:`../"
-"products_prices/products/variants` no Odoo."
+"products_prices/products/variants` no Blue Connect."
 
 #: ../../content/applications/sales/sales/sales_quotations/orders_and_variants.rst:8
 msgid ""
@@ -31814,9 +31814,9 @@ msgid ""
 "provides a pop-up window on the quotation/sales order to simplify the "
 "variant selection process."
 msgstr ""
-"Ao trabalhar com variantes de produtos, o Odoo usa o configurador de "
+"Ao trabalhar com variantes de produtos, o Blue Connect usa o configurador de "
 "produtos, por padrão. Para adicionar a opção de entrada de grade de "
-"variantes, esse recurso **deve** ser ativado no aplicativo Odoo *Vendas*. A "
+"variantes, esse recurso **deve** ser ativado no aplicativo Blue Connect *Vendas*. A "
 "opção de entrada de grade de variantes fornece uma janela pop-up na cotação/"
 "pedido de venda para simplificar o processo de seleção de variantes."
 
@@ -31835,7 +31835,7 @@ msgstr ""
 #: ../../content/applications/sales/sales/sales_quotations/orders_and_variants.rst:None
 msgid "The variant grid entry setting in the Odoo Sales application."
 msgstr ""
-"A configuração da entrada de grade de variantes no aplicativo Odoo Vendas."
+"A configuração da entrada de grade de variantes no aplicativo Blue Connect Vendas."
 
 #: ../../content/applications/sales/sales/sales_quotations/orders_and_variants.rst:33
 msgid ""
@@ -31971,7 +31971,7 @@ msgid ""
 msgstr ""
 "Essa janela pop-up :guilabel:`Configurar` também será exibida se a "
 "configuração :guilabel:`Entrada de grade no produto` não estiver "
-"**ativada**, pois é a opção padrão que o Odoo usa ao lidar com variantes de "
+"**ativada**, pois é a opção padrão que o Blue Connect usa ao lidar com variantes de "
 "produtos em cotações e/ou pedidos de venda."
 
 #: ../../content/applications/sales/sales/sales_quotations/orders_and_variants.rst:89
@@ -32007,7 +32007,7 @@ msgid ""
 "Odoo."
 msgstr ""
 "A janela pop-up de escolha de variantes de produtos que aparece em uma "
-"cotação no Odoo."
+"cotação no Blue Connect."
 
 #: ../../content/applications/sales/sales/sales_quotations/orders_and_variants.rst:103
 msgid ""
@@ -32075,7 +32075,7 @@ msgid ""
 "`Odoo Quick Tips - Create a PDF quote [video] <https://www.youtube.com/watch?"
 "v=tQNydBZt-VI>`_"
 msgstr ""
-"`Dicas rápidas do Odoo – Criar uma cotação em PDF [vídeo] <https://"
+"`Dicas rápidas do Blue Connect – Criar uma cotação em PDF [vídeo] <https://"
 "www.youtube.com/watch?v=tQNydBZt-VI>`_"
 
 #: ../../content/applications/sales/sales/sales_quotations/pdf_quote_builder.rst:20
@@ -32086,7 +32086,7 @@ msgid ""
 msgstr ""
 "Recomenda-se editar formulários PDF com o software Adobe. Os campos de "
 "formulário nos modelos de PDF de cabeçalho e rodapé são necessários para "
-"obter valores dinâmicos com o Odoo."
+"obter valores dinâmicos com o Blue Connect."
 
 #: ../../content/applications/sales/sales/sales_quotations/pdf_quote_builder.rst:26
 msgid ""
@@ -32220,8 +32220,8 @@ msgid ""
 "database, like names, prices, etc."
 msgstr ""
 "Ao criar PDFs personalizados para cotações, utilize *textos dinâmicos* para "
-"que o Odoo preencha automaticamente o conteúdo do PDF com informações "
-"relacionadas com a cotação a partir da base de dados do Odoo, como nomes, "
+"que o Blue Connect preencha automaticamente o conteúdo do PDF com informações "
+"relacionadas com a cotação a partir da base de dados do Blue Connect, como nomes, "
 "preços, etc."
 
 #: ../../content/applications/sales/sales/sales_quotations/pdf_quote_builder.rst:90
@@ -32231,7 +32231,7 @@ msgid ""
 "related to the quote."
 msgstr ""
 "Os valores de texto dinâmico são componentes de formulário (entradas de "
-"texto) que podem ser adicionados a um arquivo PDF, e o Odoo preenche "
+"texto) que podem ser adicionados a um arquivo PDF, e o Blue Connect preenche "
 "automaticamente esses valores com informações relacionadas com a cotação."
 
 #: ../../content/applications/sales/sales/sales_quotations/pdf_quote_builder.rst:94
@@ -32346,7 +32346,7 @@ msgid ""
 "the :guilabel:`name` dynamic text field, and the Customer Name in "
 "the :guilabel:`partner_id_name` field."
 msgstr ""
-"Neste caso, o Odoo preencheria automaticamente a Referência do pedido de "
+"Neste caso, o Blue Connect preencheria automaticamente a Referência do pedido de "
 "venda no campo de texto dinâmico :guilabel:`name` e o nome do cliente no "
 "campo :guilabel:`partner_id_name`."
 
@@ -32450,7 +32450,7 @@ msgstr ""
 #: ../../content/applications/sales/sales/sales_quotations/pdf_quote_builder.rst:None
 msgid "The Documents smart button on a product form in Odoo Sales."
 msgstr ""
-"Botão inteligente Documentos em um formulário de produto no Vendas do Odoo."
+"Botão inteligente Documentos em um formulário de produto no Vendas do Blue Connect."
 
 #: ../../content/applications/sales/sales/sales_quotations/pdf_quote_builder.rst:189
 msgid ""
@@ -32562,7 +32562,7 @@ msgid ""
 "Showing a link to an uploaded document on a product page using Odoo Sales."
 msgstr ""
 "Mostrar um link para um documento carregado em uma página de produto "
-"utilizando o Vendas do Odoo."
+"utilizando o Vendas do Blue Connect."
 
 #: ../../content/applications/sales/sales/sales_quotations/pdf_quote_builder.rst:253
 msgid "PDF quote"
@@ -32628,7 +32628,7 @@ msgid ""
 "products or services."
 msgstr ""
 "Modelos de cotação reutilizáveis podem ser criados no aplicativo **Vendas** "
-"do Odoo para produtos ou serviços comuns."
+"do Blue Connect para produtos ou serviços comuns."
 
 #: ../../content/applications/sales/sales/sales_quotations/quote_template.rst:7
 msgid ""
@@ -32662,7 +32662,7 @@ msgstr ""
 
 #: ../../content/applications/sales/sales/sales_quotations/quote_template.rst:None
 msgid "How to enable quotation templates on Odoo Sales."
-msgstr "Como ativar modelos de cotação no Vendas do Odoo."
+msgstr "Como ativar modelos de cotação no Vendas do Blue Connect."
 
 #: ../../content/applications/sales/sales/sales_quotations/quote_template.rst:23
 msgid ""
@@ -32713,7 +32713,7 @@ msgstr ""
 
 #: ../../content/applications/sales/sales/sales_quotations/quote_template.rst:None
 msgid "Quotation templates page in the Odoo Sales application."
-msgstr "Página de modelos de cotação no aplicativo Odoo Vendas."
+msgstr "Página de modelos de cotação no aplicativo Blue Connect Vendas."
 
 #: ../../content/applications/sales/sales/sales_quotations/quote_template.rst:45
 msgid ""
@@ -32727,7 +32727,7 @@ msgstr ""
 
 #: ../../content/applications/sales/sales/sales_quotations/quote_template.rst:None
 msgid "Create a new quotation template on Odoo Sales."
-msgstr "Criar um novo modelo de cotação no Vendas do Odoo."
+msgstr "Criar um novo modelo de cotação no Vendas do Blue Connect."
 
 #: ../../content/applications/sales/sales/sales_quotations/quote_template.rst:51
 msgid ""
@@ -32793,7 +32793,7 @@ msgid ""
 "Odoo Sales."
 msgstr ""
 "Crie uma janela pop-up de e-mail de confirmação a partir do formulário de "
-"modelo de cotação no Odoo Vendas."
+"modelo de cotação no Blue Connect Vendas."
 
 #: ../../content/applications/sales/sales/sales_quotations/quote_template.rst:74
 msgid ""
@@ -33038,7 +33038,7 @@ msgstr ""
 #: ../../content/applications/sales/sales/sales_quotations/quote_template.rst:None
 msgid "Optional products appearing on a typical sales order with Odoo Sales."
 msgstr ""
-"Produtos opcionais que aparecem em um pedido de vendas típico com o Odoo "
+"Produtos opcionais que aparecem em um pedido de vendas típico com o Blue Connect "
 "Vendas."
 
 #: ../../content/applications/sales/sales/sales_quotations/quote_template.rst:164
@@ -33140,11 +33140,11 @@ msgstr ""
 "Para acessar a visão que o que o cliente terá, clique no "
 "botão :guilabel:`Visualização` na parte superior da página para ver como o "
 "modelo de cotação aparece no front-end do site por meio do portal do cliente "
-"do Odoo."
+"do Blue Connect."
 
 #: ../../content/applications/sales/sales/sales_quotations/quote_template.rst:None
 msgid "Customer preview of a quotation template in Odoo Sales."
-msgstr "Visualização do cliente de um modelo de cotação no Odoo Vendas."
+msgstr "Visualização do cliente de um modelo de cotação no Blue Connect Vendas."
 
 #: ../../content/applications/sales/sales/sales_quotations/quote_template.rst:208
 msgid ""
@@ -33163,7 +33163,7 @@ msgid ""
 msgstr ""
 "O banner azul localizado na parte superior da visualização do modelo de "
 "cotação pode ser usado para rapidamente :icon:`fa-seta-"
-"direita` :guilabel:`Voltar ao modo de edição`. Quando clicado, o Odoo "
+"direita` :guilabel:`Voltar ao modo de edição`. Quando clicado, o Blue Connect "
 "retorna ao formulário de cotação no back-end do aplicativo *Vendas*."
 
 #: ../../content/applications/sales/sales/sales_quotations/quote_template.rst:216
@@ -33211,7 +33211,7 @@ msgid ""
 "The Cancel quotations option on the Actions drop-down menu in the Odoo Sales "
 "application."
 msgstr ""
-"A opção Cancelar cotações no menu suspenso Ações no aplicativo Odoo Vendas."
+"A opção Cancelar cotações no menu suspenso Ações no aplicativo Blue Connect Vendas."
 
 #: ../../content/applications/sales/sales/sales_quotations/quote_template.rst:236
 msgid ""
@@ -34197,7 +34197,7 @@ msgid ""
 "through subscription-based products or services. It supports automated "
 "invoicing, renewal management, and customer lifecycle tracking."
 msgstr ""
-"The Odoo **Subscriptions** app is designed to manage recurring revenue "
+"The Blue Connect **Subscriptions** app is designed to manage recurring revenue "
 "through subscription-based products or services. It supports automated "
 "invoicing, renewal management, and customer lifecycle tracking."
 
@@ -34210,7 +34210,7 @@ msgid ""
 msgstr ""
 "Subscriptions can be created manually or automatically through online sales, "
 "with varying options for recurring billing. The app integrates with other "
-"Odoo modules such as **Invoicing**, **CRM**, **Sales**, and **Helpdesk** to "
+"Blue Connect modules such as **Invoicing**, **CRM**, **Sales**, and **Helpdesk** to "
 "support end-to-end subscription workflows."
 
 #: ../../content/applications/sales/subscriptions.rst:18
@@ -34252,7 +34252,7 @@ msgid ""
 "`Odoo Tutorials: Subscriptions <https://www.odoo.com/slides/"
 "subscription-20>`_"
 msgstr ""
-"`Tutoriais do Odoo: Assinaturas <https://www.odoo.com/slides/"
+"`Tutoriais do Blue Connect: Assinaturas <https://www.odoo.com/slides/"
 "subscription-20>`_"
 
 #: ../../content/applications/sales/subscriptions.rst:46
@@ -34264,7 +34264,7 @@ msgid ""
 "To get started with subscription products in Odoo, *recurring plans* "
 "(previously known as *recurrence periods*) must first be configured."
 msgstr ""
-"To get started with subscription products in Odoo, *recurring plans* "
+"To get started with subscription products in Blue Connect, *recurring plans* "
 "(previously known as *recurrence periods*) must first be configured."
 
 #: ../../content/applications/sales/subscriptions.rst:51
@@ -34313,7 +34313,7 @@ msgstr ""
 
 #: ../../content/applications/sales/subscriptions.rst:None
 msgid "A blank recurring plan form in the Odoo Subscriptions application."
-msgstr "A blank recurring plan form in the Odoo Subscriptions application."
+msgstr "A blank recurring plan form in the Blue Connect Subscriptions application."
 
 #: ../../content/applications/sales/subscriptions.rst:70
 msgid ""
@@ -34322,7 +34322,7 @@ msgid ""
 "for rentals, and **cannot** be added to subscription-based sales orders."
 msgstr ""
 "The `Days` unit of measure *cannot* be used as a :guilabel:`Billing Period` "
-"for subscription products. The daily recurrence period in Odoo is designated "
+"for subscription products. The daily recurrence period in Blue Connect is designated "
 "for rentals, and **cannot** be added to subscription-based sales orders."
 
 #: ../../content/applications/sales/subscriptions.rst:74
@@ -34439,7 +34439,7 @@ msgid ""
 "An email template in Odoo used to send subscriptions invoicing messages to "
 "customers."
 msgstr ""
-"An email template in Odoo used to send subscriptions invoicing messages to "
+"An email template in Blue Connect used to send subscriptions invoicing messages to "
 "customers."
 
 #: ../../content/applications/sales/subscriptions.rst:124
@@ -34511,7 +34511,7 @@ msgstr ""
 ":guilabel:`Add Products`: allows customers to add new products or edit "
 "existing product quantities to their recurring sales orders, thereby "
 "enabling customer-driven upselling. When enabled, :doc:`Upsell quotations "
-"<subscriptions/upselling>` are generated in Odoo whenever a customer "
+"<subscriptions/upselling>` are generated in Blue Connect whenever a customer "
 "performs a quantitative adjustment on their sales order product lines."
 
 #: ../../content/applications/sales/subscriptions.rst:151
@@ -34618,7 +34618,7 @@ msgstr ""
 #: ../../content/applications/sales/subscriptions.rst:None
 msgid "A basic subscription product form in Odoo Subscriptions application."
 msgstr ""
-"Um formulário básico de produto de assinatura no aplicativo Odoo Assinaturas."
+"Um formulário básico de produto de assinatura no aplicativo Blue Connect Assinaturas."
 
 #: ../../content/applications/sales/subscriptions.rst:200
 msgid ""
@@ -34650,7 +34650,7 @@ msgid ""
 "stock purposes. For most subscriptions, the :abbr:`UoM (Unit of Measure)` "
 "will be :guilabel:`Units`."
 msgstr ""
-":guilabel:`Unit of Measure`: how the product should be counted in Odoo, for "
+":guilabel:`Unit of Measure`: how the product should be counted in Blue Connect, for "
 "stock purposes. For most subscriptions, the :abbr:`UoM (Unit of Measure)` "
 "will be :guilabel:`Units`."
 
@@ -34796,7 +34796,7 @@ msgstr ""
 
 #: ../../content/applications/sales/subscriptions.rst:None
 msgid "A completed example of a new subscription quotation in Odoo."
-msgstr "A completed example of a new subscription quotation in Odoo."
+msgstr "A completed example of a new subscription quotation in Blue Connect."
 
 #: ../../content/applications/sales/subscriptions.rst:275
 msgid ""
@@ -35045,7 +35045,7 @@ msgid ""
 "customers can self-manage their subscriptions, or restrict that ability "
 "entirely."
 msgstr ""
-"O Odoo *Assinaturas* oferece flexibilidade para as empresas decidirem se os "
+"O Blue Connect *Assinaturas* oferece flexibilidade para as empresas decidirem se os "
 "clientes podem autogerenciar suas assinaturas ou restringir totalmente essa "
 "capacidade."
 
@@ -35073,7 +35073,7 @@ msgstr ""
 #: ../../content/applications/sales/subscriptions/closing.rst:None
 msgid "The Closable option on a recurring plan form in Odoo Subscriptions."
 msgstr ""
-"A opção Encerrável em um formulário de plano recorrente no Odoo Assinatura."
+"A opção Encerrável em um formulário de plano recorrente no Blue Connect Assinatura."
 
 #: ../../content/applications/sales/subscriptions/closing.rst:28
 msgid "Administrator view"
@@ -35108,7 +35108,7 @@ msgid ""
 "Close subscription from an administration point of view with Odoo "
 "Subscriptions."
 msgstr ""
-"Encerrar a assinatura do ponto de vista administrativo no Odoo Assinaturas."
+"Encerrar a assinatura do ponto de vista administrativo no Blue Connect Assinaturas."
 
 #: ../../content/applications/sales/subscriptions/closing.rst:42
 msgid ""
@@ -35128,7 +35128,7 @@ msgid ""
 "Subscriptions."
 msgstr ""
 "O pop-up Motivo do encerramento quando o botão Encerrar é clicado nas "
-"assinaturas do Odoo."
+"assinaturas do Blue Connect."
 
 #: ../../content/applications/sales/subscriptions/closing.rst:50
 msgid ""
@@ -35152,7 +35152,7 @@ msgstr ""
 #: ../../content/applications/sales/subscriptions/closing.rst:None
 msgid "A churned sales order for a closed subscription in Odoo Subscriptions."
 msgstr ""
-"Um pedido de vendas cancelado para uma assinatura encerrada no Odoo "
+"Um pedido de vendas cancelado para uma assinatura encerrada no Blue Connect "
 "Assinaturas."
 
 #: ../../content/applications/sales/subscriptions/closing.rst:60
@@ -35168,7 +35168,7 @@ msgid ""
 "The chatter of a churned sales order for a closed subscription in Odoo "
 "Subscriptions."
 msgstr ""
-"O chatter de um pedido de vendas cancelado de uma assinatura fechada no Odoo "
+"O chatter de um pedido de vendas cancelado de uma assinatura fechada no Blue Connect "
 "Assinaturas."
 
 #: ../../content/applications/sales/subscriptions/closing.rst:67
@@ -35202,7 +35202,7 @@ msgid ""
 "Subscriptions."
 msgstr ""
 "Botão Encerrar assinatura na visualização do cliente de um pedido de vendas "
-"no Odoo Assinaturas."
+"no Blue Connect Assinaturas."
 
 #: ../../content/applications/sales/subscriptions/closing.rst:81
 msgid ""
@@ -35281,7 +35281,7 @@ msgid ""
 "Subscription products can be sold in the Odoo *eCommerce* shop just like "
 "regular sales products."
 msgstr ""
-"Os produtos de assinatura podem ser vendidos na loja de *e-Commerce* do Odoo "
+"Os produtos de assinatura podem ser vendidos na loja de *e-Commerce* do Blue Connect "
 "tal como os produtos de venda normais."
 
 #: ../../content/applications/sales/subscriptions/ecommerce.rst:8
@@ -35388,7 +35388,7 @@ msgstr ""
 #: ../../content/applications/sales/subscriptions/renewals.rst:None
 msgid "Renew button on subscription sales order with Odoo Subscriptions."
 msgstr ""
-"Botão de renovação no pedido de venda de assinatura com o Odoo Assinaturas."
+"Botão de renovação no pedido de venda de assinatura com o Blue Connect Assinaturas."
 
 #: ../../content/applications/sales/subscriptions/renewals.rst:36
 msgid ""
@@ -35418,7 +35418,7 @@ msgstr ""
 
 #: ../../content/applications/sales/subscriptions/renewals.rst:None
 msgid "Renewal quotation in the Odoo Subscriptions application."
-msgstr "Cotação de renovação no aplicativo Odoo Assinaturas."
+msgstr "Cotação de renovação no aplicativo Blue Connect Assinaturas."
 
 #: ../../content/applications/sales/subscriptions/renewals.rst:57
 #: ../../content/applications/sales/subscriptions/subscriptions_deliveries.rst:73
@@ -35434,7 +35434,7 @@ msgid ""
 "The Odoo **Subscriptions** app provides a series of reporting pages to help "
 "companies analyze how subscriptions are performing."
 msgstr ""
-"O aplicativo Odoo **Assinaturas** fornece uma série de páginas de relatórios "
+"O aplicativo Blue Connect **Assinaturas** fornece uma série de páginas de relatórios "
 "para ajudar as empresas a analisar o desempenho das assinaturas."
 
 #: ../../content/applications/sales/subscriptions/reports.rst:11
@@ -35662,7 +35662,7 @@ msgstr ""
 #: ../../content/applications/sales/subscriptions/reports.rst:None
 msgid "The different graph view options in the Odoo Subscriptions app."
 msgstr ""
-"As diferentes opções de visualização de gráficos no aplicativo Odoo "
+"As diferentes opções de visualização de gráficos no aplicativo Blue Connect "
 "Assinaturas."
 
 #: ../../content/applications/sales/subscriptions/reports.rst:102
@@ -35832,7 +35832,7 @@ msgstr ""
 msgid ""
 "The pivot-specific view options available in the Odoo Subscriptions app."
 msgstr ""
-"As opções de visualização específicas do pivô disponíveis no aplicativo Odoo "
+"As opções de visualização específicas do pivô disponíveis no aplicativo Blue Connect "
 "Assinaturas."
 
 #: ../../content/applications/sales/subscriptions/reports.rst:160
@@ -35883,7 +35883,7 @@ msgstr ""
 
 #: ../../content/applications/sales/subscriptions/reports.rst:None
 msgid "The standard measures drop-down menu in the Odoo Subscriptions app."
-msgstr "O menu suspenso de medidas padrão no aplicativo Odoo Assinaturas."
+msgstr "O menu suspenso de medidas padrão no aplicativo Blue Connect Assinaturas."
 
 #: ../../content/applications/sales/subscriptions/reports.rst:179
 msgid ""
@@ -35952,7 +35952,7 @@ msgid ""
 "In the Odoo **Subscriptions** app, there are four different reporting pages "
 "available."
 msgstr ""
-"No aplicativo Odoo **Assinaturas**, há quatro páginas de relatórios "
+"No aplicativo Blue Connect **Assinaturas**, há quatro páginas de relatórios "
 "diferentes disponíveis."
 
 #: ../../content/applications/sales/subscriptions/reports.rst:210
@@ -36031,7 +36031,7 @@ msgid ""
 "The default view of the Subscriptions Analysis reporting page in Odoo "
 "Subscriptions."
 msgstr ""
-"A visualização padrão da página de relatório Análise de assinaturas no Odoo "
+"A visualização padrão da página de relatório Análise de assinaturas no Blue Connect "
 "Assinaturas."
 
 #: ../../content/applications/sales/subscriptions/reports.rst:240
@@ -36094,7 +36094,7 @@ msgid ""
 "When any of those available measures are clicked, Odoo displays that "
 "selected data on the reporting page for further analysis."
 msgstr ""
-"Quando qualquer uma dessas medidas disponíveis é clicada, o Odoo exibe os "
+"Quando qualquer uma dessas medidas disponíveis é clicada, o Blue Connect exibe os "
 "dados selecionados na página de relatório para análise posterior."
 
 #: ../../content/applications/sales/subscriptions/reports.rst:264
@@ -36126,7 +36126,7 @@ msgid ""
 "The default view of the Retention Analysis reporting page in Odoo "
 "Subscriptions."
 msgstr ""
-"A visualização padrão da página de relatório da Análise de retenção no Odoo "
+"A visualização padrão da página de relatório da Análise de retenção no Blue Connect "
 "Assinaturas."
 
 #: ../../content/applications/sales/subscriptions/reports.rst:277
@@ -36277,7 +36277,7 @@ msgid ""
 "The default appearance of the MRR Breakdown reporting page in Odoo "
 "Subscriptions."
 msgstr ""
-"A aparência padrão da página de relatório Detalhamento de RRM no Odoo "
+"A aparência padrão da página de relatório Detalhamento de RRM no Blue Connect "
 "Assinaturas."
 
 #: ../../content/applications/sales/subscriptions/reports.rst:336
@@ -36395,7 +36395,7 @@ msgid ""
 "The default appearance of the MRR Analysis reporting page in Odoo "
 "Subscriptions."
 msgstr ""
-"A aparência padrão da página de relatório de análise de RRM no Odoo "
+"A aparência padrão da página de relatório de análise de RRM no Blue Connect "
 "Assinaturas."
 
 #: ../../content/applications/sales/subscriptions/reports.rst:384
@@ -36440,7 +36440,7 @@ msgid ""
 "scheduled action options that appear in the database that are **not** "
 "activated by default."
 msgstr ""
-"No Odoo, algumas ações agendadas estão ativas, por padrão, para garantir que "
+"No Blue Connect, algumas ações agendadas estão ativas, por padrão, para garantir que "
 "determinadas funções sejam acionadas automaticamente; no entanto, há "
 "*também* muitas opções de ações agendadas que aparecem na base de dados que "
 "**não** estão ativadas por padrão."
@@ -36451,7 +36451,7 @@ msgid ""
 "billing process for active recurring subscriptions, as well as when billing "
 "should stop due to subscription expiration."
 msgstr ""
-"No Odoo *Assinaturas*, há duas ações agendadas que iniciam o processo de "
+"No Blue Connect *Assinaturas*, há duas ações agendadas que iniciam o processo de "
 "faturamento para assinaturas recorrentes ativas, bem como quando o "
 "faturamento deve ser interrompido devido à expiração da assinatura."
 
@@ -36488,7 +36488,7 @@ msgid ""
 "The scheduled actions option under the technical menu in the Odoo Settings "
 "application."
 msgstr ""
-"A opção de ações agendadas no menu técnico do aplicativo Odoo Definições."
+"A opção de ações agendadas no menu técnico do aplicativo Blue Connect Definições."
 
 #: ../../content/applications/sales/subscriptions/scheduled_actions.rst:33
 msgid ""
@@ -36524,7 +36524,7 @@ msgid ""
 "The subscription-related results on the scheduled actions page in Odoo "
 "Settings."
 msgstr ""
-"Os resultados relacionados à assinatura na página de ações agendadas no Odoo "
+"Os resultados relacionados à assinatura na página de ações agendadas no Blue Connect "
 "Definições."
 
 #: ../../content/applications/sales/subscriptions/scheduled_actions.rst:46
@@ -36545,7 +36545,7 @@ msgstr ""
 
 #: ../../content/applications/sales/subscriptions/scheduled_actions.rst:None
 msgid "The scheduled action form in the Odoo Settings application."
-msgstr "O formulário de ação agendada no aplicativo Odoo Definições."
+msgstr "O formulário de ação agendada no aplicativo Blue Connect Definições."
 
 #: ../../content/applications/sales/subscriptions/scheduled_actions.rst:55
 msgid ""
@@ -36598,7 +36598,7 @@ msgstr ""
 "Para que a ação agendada :guilabel:`Venda - Assinatura: gerar faturas e "
 "pagamentos recorrentes` gere corretamente faturas e pagamentos recorrentes "
 "em assinaturas, as contas de *Despesa diferida* e *Receita diferida* "
-"**devem** ser configuradas para que o Odoo processe faturas e pagamentos "
+"**devem** ser configuradas para que o Blue Connect processe faturas e pagamentos "
 "relacionados a assinaturas."
 
 #: ../../content/applications/sales/subscriptions/scheduled_actions.rst:76
@@ -36617,7 +36617,7 @@ msgid ""
 "settings page."
 msgstr ""
 "As configurações necessárias da conta diferida na página de configurações do "
-"aplicativo Odoo Financeiro."
+"aplicativo Blue Connect Financeiro."
 
 #: ../../content/applications/sales/subscriptions/scheduled_actions.rst:84
 msgid ""
@@ -36664,7 +36664,7 @@ msgstr ""
 msgid ""
 "A confirmed subscription sales order in the Odoo Subscriptions application."
 msgstr ""
-"Um pedido de venda de assinatura confirmado no aplicativo Odoo Assinaturas."
+"Um pedido de venda de assinatura confirmado no aplicativo Blue Connect Assinaturas."
 
 #: ../../content/applications/sales/subscriptions/scheduled_actions.rst:103
 msgid ""
@@ -36679,7 +36679,7 @@ msgid ""
 "Odoo uses the information in the :guilabel:`Recurring Plan` field to update "
 "the next invoice date accordingly."
 msgstr ""
-"O Odoo usa as informações no campo :guilabel:`Plano recorrente` para "
+"O Blue Connect usa as informações no campo :guilabel:`Plano recorrente` para "
 "atualizar a data da próxima fatura adequadamente."
 
 #: ../../content/applications/sales/subscriptions/scheduled_actions.rst:110
@@ -36689,7 +36689,7 @@ msgid ""
 "invoice, and the customer is not charged."
 msgstr ""
 "Se a política de faturamento de produtos estiver definida como *Baseada em "
-"quantidades entregues (Manual)* e a quantidade entregue for `0`, o Odoo "
+"quantidades entregues (Manual)* e a quantidade entregue for `0`, o Blue Connect "
 "**não** cria uma fatura e o cliente não é cobrado."
 
 #: ../../content/applications/sales/subscriptions/scheduled_actions.rst:113
@@ -36839,7 +36839,7 @@ msgstr ""
 msgid ""
 "The expiration date on a subscription sales order in Odoo Subscriptions."
 msgstr ""
-"A data de vencimento em um pedido de venda de assinatura no Odoo Assinaturas."
+"A data de vencimento em um pedido de venda de assinatura no Blue Connect Assinaturas."
 
 #: ../../content/applications/sales/subscriptions/scheduled_actions.rst:172
 msgid ""
@@ -36867,7 +36867,7 @@ msgid ""
 "app."
 msgstr ""
 "A coluna Data da fatura na página de fatura de assinaturas no aplicativo "
-"Odoo Assinaturas."
+"Blue Connect Assinaturas."
 
 #: ../../content/applications/sales/subscriptions/scheduled_actions.rst:183
 msgid ""
@@ -36886,7 +36886,7 @@ msgstr ""
 msgid ""
 "The Automatic Closing field on a Recurring Plan form in Odoo Subscriptions."
 msgstr ""
-"O campo Encerramento automático em um formulário de Plano recorrente no Odoo "
+"O campo Encerramento automático em um formulário de Plano recorrente no Blue Connect "
 "Assinaturas."
 
 #: ../../content/applications/sales/subscriptions/scheduled_actions.rst:191
@@ -37112,7 +37112,7 @@ msgstr ""
 
 #: ../../content/applications/sales/subscriptions/upselling.rst:None
 msgid "Activation of the discount option in Odoo Sales."
-msgstr "Ativação da opção de desconto no Odoo Vendas."
+msgstr "Ativação da opção de desconto no Blue Connect Vendas."
 
 #: ../../content/applications/sales/subscriptions/upselling.rst:41
 msgid ""
@@ -37138,7 +37138,7 @@ msgid ""
 "application."
 msgstr ""
 "Quando uma cotação de assinatura é confirmada, ela se torna oficialmente um "
-"pedido de venda e uma nova assinatura é criada no aplicativo Odoo "
+"pedido de venda e uma nova assinatura é criada no aplicativo Blue Connect "
 "*Assinaturas*."
 
 #: ../../content/applications/sales/subscriptions/upselling.rst:53
@@ -37163,7 +37163,7 @@ msgstr ""
 #: ../../content/applications/sales/subscriptions/upselling.rst:None
 msgid "Upsell button for subscription sales orders with Odoo Subscriptions."
 msgstr ""
-"Botão Upsell para pedidos de venda de assinaturas com o Odoo Assinaturas."
+"Botão Upsell para pedidos de venda de assinaturas com o Blue Connect Assinaturas."
 
 #: ../../content/applications/sales/subscriptions/upselling.rst:63
 msgid ""
@@ -37212,7 +37212,7 @@ msgid ""
 "Adding products to your subscription via the upsell option in Odoo "
 "Subscriptions"
 msgstr ""
-"Adicionar produtos à sua assinatura através da opção de upsell no Odoo "
+"Adicionar produtos à sua assinatura através da opção de upsell no Blue Connect "
 "Assinaturas"
 
 #: ../../content/applications/sales/subscriptions/upselling.rst:82
@@ -37261,7 +37261,7 @@ msgid ""
 "separate page containing a list of the related sales orders, clearly "
 "showcasing their individual :guilabel:`Subscription Status`."
 msgstr ""
-"Ao clicar no botão inteligente :guilabel:`Histórico de vendas`, o Odoo exibe "
+"Ao clicar no botão inteligente :guilabel:`Histórico de vendas`, o Blue Connect exibe "
 "uma página separada, que contém uma lista dos pedidos de venda relacionados "
 "mostrando claramente seu :guilabel:`Status da assinatura`."
 
@@ -37271,7 +37271,7 @@ msgid ""
 "Subscriptions."
 msgstr ""
 "O pedido de vendas relacionado pode ser visualizado no botão inteligente "
-"Histórico de vendas no Odoo Assinaturas."
+"Histórico de vendas no Blue Connect Assinaturas."
 
 #~ msgid ":doc:`https`"
 #~ msgstr ":doc:`https`"

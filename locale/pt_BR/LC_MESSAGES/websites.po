@@ -20,7 +20,7 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 14.0\n"
+"Project-Id-Version: Blue Connect 14.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-02-06 18:30+0000\n"
 "PO-Revision-Date: 2025-11-19 20:20+0000\n"
@@ -47,7 +47,7 @@ msgid ""
 "**Odoo Blog** allows you to create and manage blog posts on your website to "
 "engage your audience and build a community."
 msgstr ""
-"O **Odoo Blog** permite que você crie e gerencie publicações de blog em seu "
+"O **Blue Connect Blog** permite que você crie e gerencie publicações de blog em seu "
 "site para envolver seu público e criar uma comunidade."
 
 #: ../../content/applications/websites/blog.rst:9
@@ -496,8 +496,8 @@ msgid ""
 "with an address such as `www.example.com` rather than the default "
 "`example.odoo.com`."
 msgstr ""
-"A Odoo oferece um :ref:`nome de domínio personalizado gratuito <domain-name/"
-"register>` para todas as bases de dados do Odoo Online por um ano. Os "
+"A Blue Connect oferece um :ref:`nome de domínio personalizado gratuito <domain-name/"
+"register>` para todas as bases de dados do Blue Connect Online por um ano. Os "
 "visitantes podem então acessar seu site com um endereço como "
 "`www.example.com` em vez do padrão `example.odoo.com`."
 
@@ -510,14 +510,14 @@ msgstr ":doc:`Documentação de sites <website>`"
 #: ../../content/applications/websites/website/structure.rst:37
 #: ../../content/applications/websites/website/web_design.rst:42
 msgid "`Odoo Tutorials: Website <https://www.odoo.com/slides/website-25>`_"
-msgstr "Tutoriais do Odoo: Site <https://www.odoo.com/slides/website-25>`_"
+msgstr "Tutoriais do Blue Connect: Site <https://www.odoo.com/slides/website-25>`_"
 
 #: ../../content/applications/websites/ecommerce.rst:76
 #: ../../content/applications/websites/ecommerce/ecommerce_design.rst:38
 #: ../../content/applications/websites/website.rst:53
 msgid "`Odoo Tutorials: eCommerce <https://www.odoo.com/slides/ecommerce-26>`_"
 msgstr ""
-"Tutoriais do Odoo: e-Commerce <https://www.odoo.com/slides/ecommerce-26>`_"
+"Tutoriais do Blue Connect: e-Commerce <https://www.odoo.com/slides/ecommerce-26>`_"
 
 #: ../../content/applications/websites/ecommerce/b2b_b2c.rst:3
 msgid "B2B and B2C"
@@ -3120,7 +3120,7 @@ msgid ""
 "It is possible to link your Odoo website with :ref:`analytics/plausible` "
 "and :ref:`analytics/google-analytics`."
 msgstr ""
-"É possível vincular o seu site Odoo a :ref:`analytics/plausible` "
+"É possível vincular o seu site Blue Connect a :ref:`analytics/plausible` "
 "e :ref:`analytics/google-analytics`."
 
 #: ../../content/applications/websites/ecommerce/performance.rst:40
@@ -4652,7 +4652,7 @@ msgid ""
 "amount."
 msgstr ""
 "Como alternativa, insira `0` em sua conta de provedor de remessa "
-"terceirizado e, em seguida, defina a taxa no Odoo. Para fazer isso, acesse o "
+"terceirizado e, em seguida, defina a taxa no Blue Connect. Para fazer isso, acesse o "
 "formulário do método de envio desejado <inventory/shipping_receiving/"
 "configure-delivery-method>` e insira a taxa no campo :guilabel:`Margem sobre "
 "a taxa` para adicionar uma porcentagem aos custos de envio e/ou no "
@@ -4874,7 +4874,7 @@ msgstr ""
 #: ../../content/applications/websites/elearning.rst:16
 msgid "`Odoo Tutorials: eLearning <https://www.odoo.com/slides/elearning-56>`_"
 msgstr ""
-"`Tutoriais do Odoo: e-Learning <https://www.odoo.com/slides/elearning-56>`_"
+"`Tutoriais do Blue Connect: e-Learning <https://www.odoo.com/slides/elearning-56>`_"
 
 #: ../../content/applications/websites/elearning.rst:21
 msgid "Courses"
@@ -5547,7 +5547,7 @@ msgid ""
 "customer support in mind. Adding a forum to a website enables you to build a "
 "community, encourage engagement, and share knowledge."
 msgstr ""
-"O **Odoo Forum** é um fórum de perguntas e respostas desenvolvido pensando "
+"O **Blue Connect Forum** é um fórum de perguntas e respostas desenvolvido pensando "
 "em dar suporte ao cliente. Acrescentar um fórum a um site permite criar uma "
 "comunidade, incentivar a participação e compartilhar conhecimentos."
 
@@ -5674,7 +5674,7 @@ msgid ""
 "single Odoo website."
 msgstr ""
 "Os pontos de karma de um usuário são compartilhados em todos os fóruns, "
-"cursos, etc., de um único site Odoo."
+"cursos, etc., de um único site Blue Connect."
 
 #: ../../content/applications/websites/forum.rst:56
 msgid ""
@@ -6412,7 +6412,7 @@ msgid ""
 "Follow a post and get **notifications** (by email or within Odoo) when it is "
 "answered by clicking the bell button (:guilabel:`🔔`)."
 msgstr ""
-"Siga uma publicação e receba **notificações** (por e-mail ou dentro do Odoo) "
+"Siga uma publicação e receba **notificações** (por e-mail ou dentro do Blue Connect) "
 "quando for respondida, clicando no botão de sino (:guilabel:`🔔`)."
 
 #: ../../content/applications/websites/forum.rst:331
@@ -6663,7 +6663,7 @@ msgstr ""
 #: ../../content/applications/websites/livechat.rst:0
 msgid "View of the settings page and the live chat feature for Odoo Live Chat."
 msgstr ""
-"Visão da página de definições e do recurso de chat do Chat ao Vivo do Odoo."
+"Visão da página de definições e do recurso de chat do Chat ao Vivo do Blue Connect."
 
 #: ../../content/applications/websites/livechat.rst:29
 msgid ""
@@ -6698,7 +6698,7 @@ msgstr ""
 
 #: ../../content/applications/websites/livechat.rst:None
 msgid "View of a live chat channel form for Odoo Live Chat."
-msgstr "Visão de um formulário de canal do Chat ao Vivo do Odoo."
+msgstr "Visão de um formulário de canal do Chat ao Vivo do Blue Connect."
 
 #: ../../content/applications/websites/livechat.rst:46
 msgid ""
@@ -6795,7 +6795,7 @@ msgid ""
 "them as an operator will **not** alter the subscription or billing rate for "
 "a database."
 msgstr ""
-"A criação de um novo usuário pode afetar o status de uma assinatura do Odoo, "
+"A criação de um novo usuário pode afetar o status de uma assinatura do Blue Connect, "
 "pois o número total de usuários em uma base de dados conta para a taxa de "
 "cobrança. Proceda com cuidado antes de criar um novo usuário. Se um usuário "
 "já existir, adicioná-lo como operador **não** alterará a assinatura ou a "
@@ -6876,7 +6876,7 @@ msgstr ""
 
 #: ../../content/applications/websites/livechat.rst:0
 msgid "View of an Odoo website emphasizing the livechat button."
-msgstr "Visão de um site do Odoo, com ênfase no botão do chat ao vivo."
+msgstr "Visão de um site do Blue Connect, com ênfase no botão do chat ao vivo."
 
 #: ../../content/applications/websites/livechat.rst:128
 msgid "Livechat window"
@@ -6955,7 +6955,7 @@ msgstr ""
 
 #: ../../content/applications/websites/livechat.rst:None
 msgid "View of a channel's rules form for Odoo Live Chat."
-msgstr "Visão do formulário de regras de um canal do Chat ao Vivo do Odoo."
+msgstr "Visão do formulário de regras de um canal do Chat ao Vivo do Blue Connect."
 
 #: ../../content/applications/websites/livechat.rst:165
 msgid "Create new rules"
@@ -7103,7 +7103,7 @@ msgid ""
 msgstr ""
 "Para rastrear a localização geográfica dos visitantes, o *GeoIP* **deve** "
 "ser instalado na base de dados. Embora esse recurso seja instalado por "
-"padrão nas bases de dados *Odoo Online*, as bases *On-Premise* "
+"padrão nas bases de dados *Blue Connect Online*, as bases *On-Premise* "
 "exigem :doc:`etapas de configuração </administration/on_premise/geo_ip>`."
 
 #: ../../content/applications/websites/livechat.rst:226
@@ -7125,7 +7125,7 @@ msgid ""
 "the :guilabel:`Channel` field, select the channel to add to the site. "
 "Click :guilabel:`Save` to apply."
 msgstr ""
-"O widget de chat ao vivo pode ser adicionado aos sites criados pelo Odoo "
+"O widget de chat ao vivo pode ser adicionado aos sites criados pelo Blue Connect "
 "navegando até :menuselection:`app Site --> Configuração --> Definições`. Em "
 "seguida, vá até a seção :menuselection:`E-mail e Marketing`. No "
 "campo :guilabel:`Canal`, selecione o canal a ser adicionado ao site. Clique "
@@ -7148,7 +7148,7 @@ msgstr ""
 
 #: ../../content/applications/websites/livechat.rst:None
 msgid "View of the widget tab for Odoo Live Chat."
-msgstr "Visão da aba do widget do Chat ao Vivo do Odoo."
+msgstr "Visão da aba do widget do Chat ao Vivo do Blue Connect."
 
 #: ../../content/applications/websites/livechat.rst:250
 msgid ":doc:`../productivity/discuss`"
@@ -7207,7 +7207,7 @@ msgid ""
 "View of the chat window with a helpdesk ticket created in Odoo Live Chat."
 msgstr ""
 "Visão da janela de chat com um chamado da central de ajuda criado no Chat ao "
-"Vivo do Odoo."
+"Vivo do Blue Connect."
 
 #: ../../content/applications/websites/livechat/chatbots.rst:20
 msgid "Build a chatbot"
@@ -7249,7 +7249,7 @@ msgstr "O *Bot de boas-vindas* pode ser excluído ou arquivado, se necessário."
 
 #: ../../content/applications/websites/livechat/chatbots.rst:0
 msgid "View of the Welcome Bot script in Odoo Live Chat."
-msgstr "Visão do script do Bot de boas-vindas no Chat ao Vivo Odoo."
+msgstr "Visão do script do Bot de boas-vindas no Chat ao Vivo Blue Connect."
 
 #: ../../content/applications/websites/livechat/chatbots.rst:41
 msgid ""
@@ -8229,7 +8229,7 @@ msgstr ""
 "Os *operadores* são usuários que respondem às solicitações do chat ao vivo "
 "dos clientes e visitantes do site. As informações abaixo descrevem as etapas "
 "necessárias para os operadores que participam em conversas de chat ao vivo "
-"em uma base de dados Odoo."
+"em uma base de dados Blue Connect."
 
 #: ../../content/applications/websites/livechat/participate.rst:10
 msgid "Set an online chat name"
@@ -8281,7 +8281,7 @@ msgstr ""
 #: ../../content/applications/websites/livechat/participate.rst:0
 msgid "View of user profile in Odoo, emphasizing the Online Chat name field."
 msgstr ""
-"Visão do perfil do usuário no Odoo, com ênfase no campo Nome do chat online."
+"Visão do perfil do usuário no Blue Connect, com ênfase no campo Nome do chat online."
 
 #: ../../content/applications/websites/livechat/participate.rst:32
 msgid "Set online chat languages"
@@ -8373,14 +8373,14 @@ msgid ""
 "View of a channel form and the option to join a channel for Odoo Live Chat."
 msgstr ""
 "Visão de um formulário de canal e da opção de entrar em um canal para o Chat "
-"ao Vivo do Odoo."
+"ao Vivo do Blue Connect."
 
 #: ../../content/applications/websites/livechat/participate.rst:81
 msgid ""
 "Operators that do not show any activity in Odoo for more than thirty minutes "
 "are considered disconnected, and subsequently removed from the channel."
 msgstr ""
-"Os operadores que não apresentarem nenhuma atividade no Odoo por mais de "
+"Os operadores que não apresentarem nenhuma atividade no Blue Connect por mais de "
 "trinta minutos serão considerados desconectados e, posteriormente, removidos "
 "do canal."
 
@@ -8413,7 +8413,7 @@ msgid ""
 "Odoo."
 msgstr ""
 "Visão do aplicativo Mensagens com uma mensagem enviada pelo chat ao vivo no "
-"Odoo."
+"Blue Connect."
 
 #: ../../content/applications/websites/livechat/participate.rst:97
 msgid ""
@@ -8434,7 +8434,7 @@ msgstr ""
 #: ../../content/applications/websites/livechat/participate.rst:0
 msgid "View of the menu bar in Odoo emphasizing the comments icon."
 msgstr ""
-"Visualização da barra de menus no Odoo, enfatizando o ícone de comentários."
+"Visualização da barra de menus no Blue Connect, enfatizando o ícone de comentários."
 
 #: ../../content/applications/websites/livechat/participate.rst:108
 msgid ":doc:`../../productivity/discuss`"
@@ -8488,7 +8488,7 @@ msgstr "**Dissatisfied** - |frown|"
 #: ../../content/applications/websites/livechat/ratings.rst:None
 msgid "View of the chat window from a user's side for Odoo Live Chat."
 msgstr ""
-"Visão da janela de conversa do lado de um usuário do Chat ao VIvo do Odoo."
+"Visão da janela de conversa do lado de um usuário do Chat ao VIvo do Blue Connect."
 
 #: ../../content/applications/websites/livechat/ratings.rst:29
 msgid ""
@@ -8526,7 +8526,7 @@ msgid ""
 "Odoo Live Chat."
 msgstr ""
 "Visão de uma janela de chat pela janela de um operador, com destaque para "
-"uma avaliação no Chat ao Vivo do Odoo."
+"uma avaliação no Chat ao Vivo do Blue Connect."
 
 #: ../../content/applications/websites/livechat/ratings.rst:47
 msgid "Publish customer ratings"
@@ -8552,7 +8552,7 @@ msgstr ""
 #: ../../content/applications/websites/livechat/ratings.rst:None
 msgid "View of the published ratings on the portal for Odoo Live Chat."
 msgstr ""
-"Visão das avaliações publicadas no portal para do Chat ao Vivo do Odoo."
+"Visão das avaliações publicadas no portal para do Chat ao Vivo do Blue Connect."
 
 #: ../../content/applications/websites/livechat/ratings.rst:62
 msgid ""
@@ -8688,7 +8688,7 @@ msgstr ""
 
 #: ../../content/applications/websites/livechat/ratings.rst:None
 msgid "View of the customer ratings report in Odoo Live Chat."
-msgstr "Visão do relatório de avaliações de clientes no Chat ao Vivo do Odoo."
+msgstr "Visão do relatório de avaliações de clientes no Chat ao Vivo do Blue Connect."
 
 #: ../../content/applications/websites/livechat/ratings.rst:127
 msgid ""
@@ -9072,9 +9072,9 @@ msgid ""
 "shortcut entries in place of longer, well-thought out responses to some of "
 "the most common questions and comments."
 msgstr ""
-"No aplicativo **Chat ao Vivo** do Odoo, os *comandos* permitem ao usuário "
+"No aplicativo **Chat ao Vivo** do Blue Connect, os *comandos* permitem ao usuário "
 "executar ações específicas dentro da janela do chat e através de outros "
-"aplicativos do Odoo. O aplicativo **Chat ao Vivo** também inclui *respostas "
+"aplicativos do Blue Connect. O aplicativo **Chat ao Vivo** também inclui *respostas "
 "rápidas*. São substituições personalizadas e pré-configuradas que permitem "
 "aos usuários substituir entradas breves por respostas mais longas e bem "
 "elaboradas para algumas das perguntas e comentários mais comuns."
@@ -9505,11 +9505,11 @@ msgid ""
 "You can easily customize layouts, add multimedia content, and integrate with "
 "other Odoo apps to expand your website's functionality."
 msgstr ""
-"O **Odoo Site** oferece uma plataforma fácil de usar para criar e gerenciar "
+"O **Blue Connect Site** oferece uma plataforma fácil de usar para criar e gerenciar "
 "seu site. Ele inclui várias ferramentas e recursos para ajudá-lo a projetar, "
 "publicar e manter páginas da web sem a necessidade de habilidades técnicas "
 "avançadas. É possível personalizar layouts com facilidade, adicionar "
-"conteúdo multimídia e integrar-se a outros aplicativos Odoo para expandir a "
+"conteúdo multimídia e integrar-se a outros aplicativos Blue Connect para expandir a "
 "funcionalidade do seu site."
 
 #: ../../content/applications/websites/website.rst:16
@@ -9741,7 +9741,7 @@ msgid ""
 "Odoo powered website."
 msgstr ""
 "Este documento o orientará na configuração de uma conta KeyCDN_ com um site "
-"alimentado pelo Odoo."
+"alimentado pelo Blue Connect."
 
 #: ../../content/applications/websites/website/configuration/cdn.rst:17
 msgid "Create a pull zone in the KeyCDN dashboard"
@@ -9766,7 +9766,7 @@ msgstr ""
 "como :guilabel:`ativo` para ativar a zona. No :guilabel:`Tipo de zona`, "
 "defina o valor como :guilabel:`Pull` e, por fim, em :guilabel:`Definições de "
 "pull`, insira o :guilabel:`URL de origem` - deve ser o endereço completo "
-"do :abbr:`URL` da base de dados do Odoo."
+"do :abbr:`URL` da base de dados do Blue Connect."
 
 #: ../../content/applications/websites/website/configuration/cdn.rst:28
 msgid ""
@@ -9777,7 +9777,7 @@ msgid ""
 msgstr ""
 "Use ``https://yourdatabase.odoo.com`` e substitua o prefixo do subdomínio "
 "*yourdatabase* pelo nome real da base de dados. Um :abbr:`URL` personalizado "
-"também pode ser usado no lugar do subdomínio do Odoo que foi fornecido à "
+"também pode ser usado no lugar do subdomínio do Blue Connect que foi fornecido à "
 "base de dados."
 
 #: ../../content/applications/websites/website/configuration/cdn.rst:None
@@ -9831,7 +9831,7 @@ msgstr ""
 
 #: ../../content/applications/websites/website/configuration/cdn.rst:55
 msgid "Configure the Odoo instance with the new zone"
-msgstr "Configurar a instância do Odoo com a nova zona"
+msgstr "Configurar a instância do Blue Connect com a nova zona"
 
 #: ../../content/applications/websites/website/configuration/cdn.rst:57
 msgid ""
@@ -9841,7 +9841,7 @@ msgid ""
 "the :guilabel:`CDN Base URL` field. This field is only visible and "
 "configurable when the :ref:`developer mode <developer-mode>` is activated."
 msgstr ""
-"No aplicativo Odoo :guilabel:`Site`, vá para :menuselection:`Definições` e, "
+"No aplicativo Blue Connect :guilabel:`Site`, vá para :menuselection:`Definições` e, "
 "em seguida, ative a configuração :guilabel:`Content Delivery Network (CDN)` "
 "e copie/cole o valor do :guilabel:`URL de zona` da etapa anterior no "
 "campo :guilabel:`URL da base CDN`. Esse campo só é visível e configurável "
@@ -9861,7 +9861,7 @@ msgstr ":guilabel:`Salve` as configurações quando estiver concluído."
 
 #: ../../content/applications/websites/website/configuration/cdn.rst:None
 msgid "Activate the CDN setting in Odoo."
-msgstr "Ative a configuração do CDN no Odoo."
+msgstr "Ative a configuração do CDN no Blue Connect."
 
 #: ../../content/applications/websites/website/configuration/cdn.rst:72
 msgid ""
@@ -9880,10 +9880,10 @@ msgid ""
 "Look for it's record by searching within the :guilabel:`Network` tab inside "
 "of devtools."
 msgstr ""
-"No HTML do site da Odoo, a integração :abbr:`CDN (content delivery network)` "
+"No HTML do site da Blue Connect, a integração :abbr:`CDN (content delivery network)` "
 "é ressaltada como funcionando corretamente ao verificar o :abbr:`URL` das "
 "imagens. O valor do *URL da base CDN* pode ser visto usando o "
-"recurso :guilabel:`Inspecionar` de seu navegador da web no site do Odoo. "
+"recurso :guilabel:`Inspecionar` de seu navegador da web no site do Blue Connect. "
 "Procure seu registro pesquisando na aba :guilabel:`Network` dentro do "
 "devtools."
 
@@ -9891,7 +9891,7 @@ msgstr ""
 msgid ""
 "The CDN Base URL can be seen using the inspect function on the Odoo website."
 msgstr ""
-"É possível ver o URL da base CDN usando a função de inspeção no site do Odoo."
+"É possível ver o URL da base CDN usando a função de inspeção no site do Blue Connect."
 
 #: ../../content/applications/websites/website/configuration/cdn.rst:85
 msgid ""
@@ -9917,7 +9917,7 @@ msgid ""
 "declared in the *Font Awesome* CSS won't be loaded from the remote server."
 msgstr ""
 "Se a opção :abbr:`CORS` não estiver ativada na :guilabel:`Zona CDN`, o "
-"problema mais óbvio resultante em um site padrão do Odoo será a falta de "
+"problema mais óbvio resultante em um site padrão do Blue Connect será a falta de "
 "ícones do *Font Awesome*, porque o arquivo de fonte declarado no CSS *Font "
 "Awesome* não será carregado do servidor remoto."
 
@@ -10059,7 +10059,7 @@ msgstr ""
 
 #: ../../content/applications/websites/website/configuration/cookies_bar.rst:60
 msgid "frontend_lang (Odoo)"
-msgstr "frontend_lang (Odoo)"
+msgstr "frontend_lang (Blue Connect)"
 
 #: ../../content/applications/websites/website/configuration/cookies_bar.rst:61
 msgid "Optional - Interaction History"
@@ -10207,7 +10207,7 @@ msgid ""
 "**Odoo Online** and **Odoo.sh** databases use a **subdomain** of the "
 "`odoo.com` **domain** by default (e.g., `mycompany.odoo.com`)."
 msgstr ""
-"As bases de dados **Odoo Online** e **Odoo.sh** por padrão usam um "
+"As bases de dados **Blue Connect Online** e **Blue Connect.sh** por padrão usam um "
 "**subdomínio** do **domínio** `odoo.com` (por exemplo, `mycompany.odoo.com`)."
 
 #: ../../content/applications/websites/website/configuration/domain_names.rst:11
@@ -10219,7 +10219,7 @@ msgid ""
 msgstr ""
 "No entanto, você pode usar um nome de domínio personalizado ao invés disso "
 "ao :ref:`registrar um nome de domínio gratuito <domain-name/register>` "
-"(disponível apenas para bases de dados Odoo Online) ou ao :ref:`configurar "
+"(disponível apenas para bases de dados Blue Connect Online) ou ao :ref:`configurar "
 "um nome de domínio que você já possui <domain-name/existing>`."
 
 #: ../../content/applications/websites/website/configuration/domain_names.rst:16
@@ -10227,7 +10227,7 @@ msgid ""
 "`Odoo Tutorials: Register a free domain name [video] <https://www.odoo.com/"
 "slides/slide/register-a-free-domain-name-1663>`_"
 msgstr ""
-"`Tutoriais do Odoo: Registrar um nome de domínio gratuito [vídeo] <https://"
+"`Tutoriais do Blue Connect: Registrar um nome de domínio gratuito [vídeo] <https://"
 "www.odoo.com/slides/slide/register-a-free-domain-name-1663>`_"
 
 #: ../../content/applications/websites/website/configuration/domain_names.rst:18
@@ -10238,7 +10238,7 @@ msgstr ""
 
 #: ../../content/applications/websites/website/configuration/domain_names.rst:24
 msgid "Register a free domain name with Odoo"
-msgstr "Registrar um nome de domínio gratuito com o Odoo"
+msgstr "Registrar um nome de domínio gratuito com o Blue Connect"
 
 #: ../../content/applications/websites/website/configuration/domain_names.rst:26
 msgid ""
@@ -10247,7 +10247,7 @@ msgid ""
 "databases>`_. Click the :icon:`fa-gear` (:guilabel:`gear`) button next to "
 "the database name and select :icon:`fa-globe` :guilabel:`Domain Names`."
 msgstr ""
-"To register a one-year free domain name for your Odoo Online database, sign "
+"To register a one-year free domain name for your Blue Connect Online database, sign "
 "in to your account and go to the `database manager <https://www.odoo.com/my/"
 "databases>`_. Click the :icon:`fa-gear` (:guilabel:`gear`) button next to "
 "the database name and select :icon:`fa-globe` :guilabel:`Domain Names`."
@@ -10292,7 +10292,7 @@ msgid ""
 "Next, you should :ref:`map your domain name to your Odoo website <domain-"
 "name/website-map>`."
 msgstr ""
-"Em seguida, você deve :ref:`mapear seu nome de domínio para o site do Odoo "
+"Em seguida, você deve :ref:`mapear seu nome de domínio para o site do Blue Connect "
 "<domain-name/db-map>`."
 
 #: ../../content/applications/websites/website/configuration/domain_names.rst:51
@@ -10319,9 +10319,9 @@ msgid ""
 "renewed automatically when the quotation is confirmed."
 msgstr ""
 "O registro do nome de domínio é gratuito durante o primeiro ano. Após esse "
-"período, a Odoo continuará a gerenciar o domínio em parceria com a "
+"período, a Blue Connect continuará a gerenciar o domínio em parceria com a "
 "**Gandi.net**, o registrador de nomes de domínio, e será cobrada a `taxa de "
-"renovação da Gandi.net` <https://www.gandi.net/en/domain>`_. A Odoo envia "
+"renovação da Gandi.net` <https://www.gandi.net/en/domain>`_. A Blue Connect envia "
 "uma cotação de renovação todo ano para o endereço de e-mail mencionado no "
 "formulário de :guilabel:`Proprietário do domínio` várias semanas antes da "
 "data de expiração do domínio. O domínio é renovado automaticamente quando a "
@@ -10329,7 +10329,7 @@ msgstr ""
 
 #: ../../content/applications/websites/website/configuration/domain_names.rst:63
 msgid "The offer is only available for **Odoo Online** databases."
-msgstr "A oferta está disponível apenas para bases de dados **Odoo Online**."
+msgstr "A oferta está disponível apenas para bases de dados **Blue Connect Online**."
 
 #: ../../content/applications/websites/website/configuration/domain_names.rst:64
 msgid "The offer is limited to **one** domain name per client."
@@ -10348,10 +10348,10 @@ msgid ""
 "several days to review them."
 msgstr ""
 "A oferta está disponível para os planos *Um app grátis*. Certifique-se de "
-"que seu site contenha conteúdo original suficiente para que a Odoo verifique "
+"que seu site contenha conteúdo original suficiente para que a Blue Connect verifique "
 "se sua solicitação é legítima e respeita a \"Política de uso aceitável da "
-"Odoo\" <https://www.odoo.com/acceptable-use>`_. Devido ao grande número de "
-"solicitações, a Odoo pode levar vários dias para analisá-las."
+"Blue Connect\" <https://www.odoo.com/acceptable-use>`_. Devido ao grande número de "
+"solicitações, a Blue Connect pode levar vários dias para analisá-las."
 
 #: ../../content/applications/websites/website/configuration/domain_names.rst:74
 msgid "DNS records"
@@ -10416,7 +10416,7 @@ msgid ""
 "`Contact Odoo support <https://www.odoo.com/help>`_ if you need assistance "
 "to manage your domain name."
 msgstr ""
-"`Contact Odoo support <https://www.odoo.com/help>`_ if you need assistance "
+"`Contact Blue Connect support <https://www.odoo.com/help>`_ if you need assistance "
 "to manage your domain name."
 
 #: ../../content/applications/websites/website/configuration/domain_names.rst:97
@@ -10694,7 +10694,7 @@ msgstr "Configurar um nome de domínio existente"
 #: ../../content/applications/websites/website/configuration/domain_names.rst:209
 msgid ""
 "If you already have a domain name, you can use it for your Odoo website."
-msgstr "Se você já tiver um nome de domínio, poderá usá-lo em seu site Odoo."
+msgstr "Se você já tiver um nome de domínio, poderá usá-lo em seu site Blue Connect."
 
 #: ../../content/applications/websites/website/configuration/domain_names.rst:212
 msgid ""
@@ -10738,12 +10738,12 @@ msgid ""
 "Odoo database is required."
 msgstr ""
 "É necessário adicionar um registro CNAME para encaminhar seu nome de domínio "
-"para o endereço do sua base de dados do Odoo."
+"para o endereço do sua base de dados do Blue Connect."
 
 #: ../../content/applications/websites/website/configuration/domain_names.rst:232
 #: ../../content/applications/websites/website/configuration/domain_names.rst:352
 msgid "Odoo Online"
-msgstr "Odoo Online"
+msgstr "Blue Connect Online"
 
 #: ../../content/applications/websites/website/configuration/domain_names.rst:234
 msgid ""
@@ -10756,7 +10756,7 @@ msgstr ""
 #: ../../content/applications/websites/website/configuration/domain_names.rst:237
 #: ../../content/applications/websites/website/configuration/domain_names.rst:362
 msgid "Odoo.sh"
-msgstr "Odoo.sh"
+msgstr "Blue Connect.sh"
 
 #: ../../content/applications/websites/website/configuration/domain_names.rst:239
 msgid ""
@@ -10768,7 +10768,7 @@ msgid ""
 "message indicates which address your CNAME record should target."
 msgstr ""
 "O endereço de destino do registro CNAME deve ser o endereço principal do "
-"projeto, que pode ser encontrado no Odoo.sh, "
+"projeto, que pode ser encontrado no Blue Connect.sh, "
 "acessando :menuselection:`Definições --> Nome do projeto`, ou uma "
 "ramificação específica (produção, teste ou desenvolvimento), "
 "acessando :menuselection:`Ramificações --> selecione a ramificação --> "
@@ -10953,7 +10953,7 @@ msgid ""
 "Odoo database"
 msgstr ""
 "Adição de um registro DNS CNAME ao Cloudflare para redirecionar um "
-"subdomínio www para uma base de dados Odoo"
+"subdomínio www para uma base de dados Blue Connect"
 
 #: ../../content/applications/websites/website/configuration/domain_names.rst:306
 msgid ""
@@ -11037,7 +11037,7 @@ msgstr "Definição do modo de criptografia como total no Cloudflare"
 
 #: ../../content/applications/websites/website/configuration/domain_names.rst:336
 msgid "Map a domain name to an Odoo database"
-msgstr "Mapear um nome de domínio até uma base de dados Odoo"
+msgstr "Mapear um nome de domínio até uma base de dados Blue Connect"
 
 #: ../../content/applications/websites/website/configuration/domain_names.rst:339
 msgid ""
@@ -11046,7 +11046,7 @@ msgid ""
 msgstr ""
 "Certifique-se de ter :ref:`adicionado um registro CNAME <domain-name/cname>` "
 "ao DNS do seu nome de domínio **antes** de mapear seu nome de domínio até a "
-"base de dados do Odoo."
+"base de dados do Blue Connect."
 
 #: ../../content/applications/websites/website/configuration/domain_names.rst:342
 msgid ""
@@ -11088,7 +11088,7 @@ msgstr ""
 
 #: ../../content/applications/websites/website/configuration/domain_names.rst:0
 msgid "Mapping a domain name to an Odoo Online database"
-msgstr "Mapear um nome de domínio até uma base de dados do Odoo Online"
+msgstr "Mapear um nome de domínio até uma base de dados do Blue Connect Online"
 
 #: ../../content/applications/websites/website/configuration/domain_names.rst:364
 msgid ""
@@ -11096,13 +11096,13 @@ msgid ""
 "Settings --> Custom domains`, type the domain name to add, then "
 "click :guilabel:`Add domain`."
 msgstr ""
-"No Odoo.sh, vá para :menuselection:`Ramificações --> selecionar sua "
+"No Blue Connect.sh, vá para :menuselection:`Ramificações --> selecionar sua "
 "ramificação --> Definições --> Domínios personalizados`, digite o nome do "
 "domínio a ser adicionado e clique em :guilabel:`Adicionar domínio`."
 
 #: ../../content/applications/websites/website/configuration/domain_names.rst:0
 msgid "Mapping a domain name to an Odoo.sh branch"
-msgstr "Mapear um nome de domínio até uma ramificação do Odoo.sh"
+msgstr "Mapear um nome de domínio até uma ramificação do Blue Connect.sh"
 
 #: ../../content/applications/websites/website/configuration/domain_names.rst:371
 msgid ":ref:`Odoo.sh branches: settings tab <odoo-sh/branches/tabs/settings>`"
@@ -11128,7 +11128,7 @@ msgid ""
 "database <domain-name/db-map>` using `Let's Encrypt's certificate authority "
 "and ACME protocol <https://letsencrypt.org/how-it-works/>`_."
 msgstr ""
-"O Odoo gera um certificado SSL independente para cada domínio :ref:`mapeado "
+"O Blue Connect gera um certificado SSL independente para cada domínio :ref:`mapeado "
 "até uma base de dados <domain-name/db-map>` usando a autoridade de "
 "certificação do `Let's Encrypt e o protocolo ACME <https://letsencrypt.org/"
 "how-it-works/>`_."
@@ -11148,7 +11148,7 @@ msgstr ""
 #: ../../content/applications/websites/website/configuration/domain_names.rst:390
 msgid "If you use another service, you can keep using it or change to Odoo's."
 msgstr ""
-"Se você usa outro serviço, pode continuar usando-o ou mudar para o do Odoo."
+"Se você usa outro serviço, pode continuar usando-o ou mudar para o do Blue Connect."
 
 #: ../../content/applications/websites/website/configuration/domain_names.rst:393
 msgid ""
@@ -11204,7 +11204,7 @@ msgid ""
 "Parameters --> New`, and enter `web.base.url.freeze` as the :guilabel:`Key` "
 "and `True` as the :guilabel:`Value`."
 msgstr ""
-"Se você acessar seu banco de dados com o endereço original do Odoo (ex.: "
+"Se você acessar seu banco de dados com o endereço original do Blue Connect (ex.: "
 "`mycompany.odoo.com`), o *URL da web da base* da sua base de dados será "
 "atualizado de acordo. Para evitar a atualização automática do *URL da web da "
 "base* quando um administrador fizer login na base de dados, ative a "
@@ -11232,7 +11232,7 @@ msgstr ""
 
 #: ../../content/applications/websites/website/configuration/domain_names.rst:429
 msgid "Map a domain name to an Odoo website"
-msgstr "Mapear um nome de domínio até um site Odoo"
+msgstr "Mapear um nome de domínio até um site Blue Connect"
 
 #: ../../content/applications/websites/website/configuration/domain_names.rst:431
 msgid ""
@@ -11283,7 +11283,7 @@ msgid ""
 "Mapping your domain name to your Odoo website prevents Google Search from "
 "indexing your original database address (e.g., `mycompany.odoo.com`)."
 msgstr ""
-"O mapeamento do seu nome de domínio até o site do Odoo impede que a pesquisa "
+"O mapeamento do seu nome de domínio até o site do Blue Connect impede que a pesquisa "
 "do Google indexe o endereço original da sua base de dados (ex.: "
 "`mycompany.odoo.com`)."
 
@@ -11309,7 +11309,7 @@ msgid ""
 msgstr ""
 "Se você tiver vários sites e empresas na base de dados, certifique-se de "
 "selecionar a :guilabel:`empresa` correta em :menuselection:`Site --> "
-"Configuração --> Definições`. Isso indica ao Odoo qual URL usar "
+"Configuração --> Definições`. Isso indica ao Blue Connect qual URL usar "
 "como :ref:`URL de base <domain-name/web-base-url>` de acordo com a empresa "
 "em uso."
 
@@ -11477,7 +11477,7 @@ msgid ""
 msgstr ""
 "Esse método envolve o carregamento de um arquivo HTML, fornecido pelo "
 "Google, contendo o código de verificação que você deve inserir nas "
-"definições do site do Odoo. O Google verifica a propriedade verificando esse "
+"definições do site do Blue Connect. O Google verifica a propriedade verificando esse "
 "código."
 
 #: ../../content/applications/websites/website/configuration/google_search_console.rst:78
@@ -11513,14 +11513,14 @@ msgid ""
 "the :guilabel:`SEO` section. Paste the verification code (e.g., "
 "`google123abc.html`) in the dedicated field."
 msgstr ""
-"Na sua base de dados Odoo, vá para :menuselection:`Site --> Configuração --> "
+"Na sua base de dados Blue Connect, vá para :menuselection:`Site --> Configuração --> "
 "Definições` e ative :guilabel:`Google Search Console` na "
 "seção :guilabel:`SEO`. Cole o código de verificação (ex.: "
 "`google123abc.html`) no campo dedicado."
 
 #: ../../content/applications/websites/website/configuration/google_search_console.rst:0
 msgid "Paste html code in Odoo"
-msgstr "Colar o código html no Odoo"
+msgstr "Colar o código html no Blue Connect"
 
 #: ../../content/applications/websites/website/configuration/google_search_console.rst:96
 msgid ""
@@ -11584,7 +11584,7 @@ msgid ""
 "can help avoid confusion and make it easier to tailor your digital outreach "
 "strategies and reach your target audience."
 msgstr ""
-"O Odoo permite criar vários sites pela mesma base de dados. Isto pode ser "
+"O Blue Connect permite criar vários sites pela mesma base de dados. Isto pode ser "
 "útil, por exemplo, se tiver várias marcas a operar na sua organização, ou "
 "para criar sites separados para diferentes produtos/serviços, ou diferentes "
 "públicos. Nesses casos, ter sites diferentes pode ajudar a evitar confusão e "
@@ -12021,7 +12021,7 @@ msgstr ""
 "solicitado que os visitantes interajamr. No modo :guilabel:`Não interativo`, "
 "pode ser exibido um widget de carregamento para avisar os visitantes de que "
 "o Turnstile protege o formulário; no entanto, o widget não é suportado pelo "
-"Odoo."
+"Blue Connect."
 
 #: ../../content/applications/websites/website/configuration/spam_protection.rst:50
 msgid ""
@@ -12050,12 +12050,12 @@ msgid ""
 "as copying the keys in Odoo is required next."
 msgstr ""
 "As chaves geradas são então exibidas. Para sua conveniência, deixe a página "
-"aberta, pois a seguir é necessário copiar as chaves no Odoo."
+"aberta, pois a seguir é necessário copiar as chaves no Blue Connect."
 
 #: ../../content/applications/websites/website/configuration/spam_protection.rst:65
 #: ../../content/applications/websites/website/configuration/spam_protection.rst:112
 msgid "On Odoo"
-msgstr "No Odoo"
+msgstr "No Blue Connect"
 
 #: ../../content/applications/websites/website/configuration/spam_protection.rst:67
 msgid ""
@@ -12073,7 +12073,7 @@ msgid ""
 "it into the :guilabel:`CF Site Key` field in Odoo."
 msgstr ""
 "Abra a página do Turnstile da Cloudflare, copie a :guilabel:`chave do Site` "
-"e cole-a no campo :guilabel:`Chave do site CF` no Odoo."
+"e cole-a no campo :guilabel:`Chave do site CF` no Blue Connect."
 
 #: ../../content/applications/websites/website/configuration/spam_protection.rst:71
 msgid ""
@@ -12081,7 +12081,7 @@ msgid ""
 "paste it into the :guilabel:`CF Secret Key` field in Odoo."
 msgstr ""
 "Abra a página do Turnstile da Cloudflare, copie a :guilabel:`Chave secreta` "
-"e cole-a no campo :guilabel:`Chave secreta CF` no Odoo."
+"e cole-a no campo :guilabel:`Chave secreta CF` no Blue Connect."
 
 #: ../../content/applications/websites/website/configuration/spam_protection.rst:73
 #: ../../content/applications/websites/website/configuration/spam_protection.rst:129
@@ -12175,7 +12175,7 @@ msgid ""
 msgstr ""
 "Uma nova página com as chaves geradas é então exibida. Para sua "
 "conveniência, deixe a página aberta, pois a seguir é necessário copiar as "
-"chaves para o Odoo."
+"chaves para o Blue Connect."
 
 #: ../../content/applications/websites/website/configuration/spam_protection.rst:114
 msgid ""
@@ -12201,7 +12201,7 @@ msgid ""
 "into the :guilabel:`Site Key` field in Odoo."
 msgstr ""
 "Abra a página do Google reCAPTCHA, copie a :guilabel:`chave do Site` e cole-"
-"a no campo :guilabel:`chave do Site` no Odoo."
+"a no campo :guilabel:`chave do Site` no Blue Connect."
 
 #: ../../content/applications/websites/website/configuration/spam_protection.rst:123
 msgid ""
@@ -12209,7 +12209,7 @@ msgid ""
 "it into the :guilabel:`Secret Key` field in Odoo."
 msgstr ""
 "Abra a página do Google reCAPTCHA, copie a :guilabel:`chave secreta` e cole-"
-"a no campo :guilabel:`chave secreta` no Odoo."
+"a no campo :guilabel:`chave secreta` no Blue Connect."
 
 #: ../../content/applications/websites/website/configuration/spam_protection.rst:125
 msgid ""
@@ -12671,7 +12671,7 @@ msgstr ""
 "Para enviar mensagens para um grupo de distribuição, os usuários do site "
 "podem enviar um e-mail para o endereço de e-mail do grupo de "
 "distribuição :ref:` <website/mailing_lists/configure_groups>`. Os usuários "
-"internos também podem criar mensagens diretamente pelo Odoo. Para fazer "
+"internos também podem criar mensagens diretamente pelo Blue Connect. Para fazer "
 "isso, vá a :menuselection:`Site --> Configuração --> Listas de "
 "distribuição`, selecione o grupo de distribuição, clique no botão "
 "inteligente :guilabel:`E-mails` e clique em :guilabel:`Novo`. Depois, "
@@ -12852,7 +12852,7 @@ msgid ""
 "or :ref:`analytics/google-analytics`. We recommend using Plausible.io as it "
 "is privacy-friendly, lightweight, and easy to use."
 msgstr ""
-"Você pode acompanhar o tráfego do seu site Odoo usando :ref:`analytics/"
+"Você pode acompanhar o tráfego do seu site Blue Connect usando :ref:`analytics/"
 "plausible` ou :ref:`analytics/google-analytics`. Recomendamos o uso do "
 "Plausible.io, pois ele é adaptado à privacidade, leve e fácil de usar."
 
@@ -12937,7 +12937,7 @@ msgid ""
 "If your database is hosted on **Odoo.sh** or **On-premise**, or if you wish "
 "to use your own Plausible.io account, proceed as follows:"
 msgstr ""
-"Se sua base de dados é hospedada no **Odoo.sh** ou **On-premise**, ou se "
+"Se sua base de dados é hospedada no **Blue Connect.sh** ou **On-premise**, ou se "
 "você quer usar sua própria conta Plausible.io, prossiga da seguinte forma:"
 
 #: ../../content/applications/websites/website/reporting/analytics.rst:55
@@ -12993,7 +12993,7 @@ msgstr "Copiar o URL do link compartilhado do Plausible.io"
 #: ../../content/applications/websites/website/reporting/analytics.rst:79
 #: ../../content/applications/websites/website/reporting/analytics.rst:124
 msgid "In Odoo, go to :menuselection:`Website --> Configuration --> Settings`."
-msgstr "No Odoo, acesse :menuselection:`Site --> Configuração --> Definições`."
+msgstr "No Blue Connect, acesse :menuselection:`Site --> Configuração --> Definições`."
 
 #: ../../content/applications/websites/website/reporting/analytics.rst:80
 msgid ""
@@ -13015,7 +13015,7 @@ msgstr ""
 msgid ""
 "Odoo automatically pushes two custom goals: `Lead Generation` and `Shop`."
 msgstr ""
-"O Odoo impõe automaticamente dois objetivos personalizados: `Geração de "
+"O Blue Connect impõe automaticamente dois objetivos personalizados: `Geração de "
 "lead` e `Loja`."
 
 #: ../../content/applications/websites/website/reporting/analytics.rst:94
@@ -13028,7 +13028,7 @@ msgstr "Google Analytics"
 
 #: ../../content/applications/websites/website/reporting/analytics.rst:101
 msgid "To follow your Odoo website's traffic with Google Analytics:"
-msgstr "Para acompanhar o tráfego do seu site Odoo com o Google Analytics:"
+msgstr "Para acompanhar o tráfego do seu site Blue Connect com o Google Analytics:"
 
 #: ../../content/applications/websites/website/reporting/analytics.rst:103
 msgid ""
@@ -13150,7 +13150,7 @@ msgstr ""
 "Algumas tags GTM usam camadas de dados (por exemplo, camadas avançadas de "
 "dados de rastreamento de e-Commerce) para recuperar variáveis e enviá-las ao "
 "Google Analytics. Atualmente, as camadas de dados não são gerenciadas no "
-"Odoo."
+"Blue Connect."
 
 #: ../../content/applications/websites/website/reporting/analytics.rst:159
 msgid ""
@@ -13214,7 +13214,7 @@ msgid ""
 "(e.g., Google Analytics, Plausible, Facebook Pixel), not in Odoo."
 msgstr ""
 "Os dados são coletados nas ferramentas de marketing usadas para monitorar o "
-"site (ex.: Google Analytics, Plausible, Facebook Pixel), não no Odoo."
+"site (ex.: Google Analytics, Plausible, Facebook Pixel), não no Blue Connect."
 
 #: ../../content/applications/websites/website/reporting/analytics.rst:187
 msgid ""
@@ -13830,7 +13830,7 @@ msgid ""
 "Odoo allows you to create pages for your website and customize their content "
 "and appearance to your needs."
 msgstr ""
-"O Odoo permite criar páginas para o site e personalizar o conteúdo e a "
+"O Blue Connect permite criar páginas para o site e personalizar o conteúdo e a "
 "aparência de acordo com as suas necessidades."
 
 #: ../../content/applications/websites/website/structure/pages.rst:12
@@ -14304,7 +14304,7 @@ msgid ""
 "as :doc:`eCommerce <../../ecommerce>`, :doc:`Blog <../../"
 "blog>`, :doc:`eLearning <../../elearning>`, and :doc:`Forum <../../forum>`."
 msgstr ""
-"O Odoo fornece vários módulos para ajudá-lo a criar o conteúdo do seu site, "
+"O Blue Connect fornece vários módulos para ajudá-lo a criar o conteúdo do seu site, "
 "como :doc:`e-Commerce <../../ecommerce>`, :doc:`Blog <../../blog>`, :doc:`e-"
 "Learning <../../elearning>` e :doc:`Forum <../../forum>`."
 
@@ -14315,7 +14315,7 @@ msgid ""
 "the device: desktop, tablet, or mobile, which positively impacts ranking in "
 "search engines."
 msgstr ""
-"Todos os :doc:`temas <.../web_design/themes>` do Odoo contam com a estrutura "
+"Todos os :doc:`temas <.../web_design/themes>` do Blue Connect contam com a estrutura "
 "CSS `Bootstrap <https://getbootstrap.com/>`_ para renderizar de forma "
 "eficiente de acordo com o dispositivo: desktop, tablet ou celular, o que "
 "afeta positivamente a classificação nos mecanismos de pesquisa."
@@ -14468,11 +14468,11 @@ msgid ""
 "default. If you are using a third-party theme, it may provide images that "
 "are not compressed efficiently."
 msgstr ""
-"O Odoo comprime automaticamente as imagens carregadas e as converte em "
+"O Blue Connect comprime automaticamente as imagens carregadas e as converte em "
 "`Webp`. Com esse formato de arquivo, as fotos são menores, o que aumenta a "
 "velocidade de carregamento da página e, portanto, proporciona uma melhor "
 "classificação em SEO. Todas as imagens usadas nos :doc:`temas <.../"
-"web_design/themes>` oficiais do Odoo também são compactadas por padrão. Se "
+"web_design/themes>` oficiais do Blue Connect também são compactadas por padrão. Se "
 "você estiver usando um tema de terceiros, ele pode fornecer imagens que não "
 "são compactadas de forma eficiente."
 
@@ -14695,7 +14695,7 @@ msgid ""
 "Index file, respecting the `sitemaps.org protocol <http://www.sitemaps.org/"
 "protocol.html>`_, grouping sitemap URLs in 45000 chunks per file."
 msgstr ""
-"Se o seu site tiver muitas páginas, o Odoo criará automaticamente um arquivo "
+"Se o seu site tiver muitas páginas, o Blue Connect criará automaticamente um arquivo "
 "Sitemap Index, respeitando o protocolo `sitemaps.org <http://"
 "www.sitemaps.org/protocol.html>`_, agrupando os URLs do mapa do site em "
 "45.000 blocos por arquivo."
@@ -14852,7 +14852,7 @@ msgid ""
 msgstr ""
 "Microdados é um conjunto de tags, introduzido com HTML5, que ajuda os "
 "mecanismos de busca a entender melhor seu conteúdo e exibi-lo de forma "
-"relevante. O Odoo implementa microdados conforme definido na `especificação "
+"relevante. O Blue Connect implementa microdados conforme definido na `especificação "
 "<https://schema.org/docs/gs.html>`_ do schema.org para eventos, produtos de "
 "e-Commerce, publicações em fóruns e endereços de contato. Isso permite que "
 "suas páginas de produtos sejam exibidas no Google usando informações extras, "
@@ -14873,7 +14873,7 @@ msgid ""
 "informing search engines about a specific page's language and geographical "
 "targeting."
 msgstr ""
-"O Odoo inclui automaticamente as tags `hreflang` e `x-default` no código das "
+"O Blue Connect inclui automaticamente as tags `hreflang` e `x-default` no código das "
 "páginas multilíngues do seu site. Esses atributos HTML são cruciais para "
 "informar aos mecanismos de busca sobre o idioma e o direcionamento "
 "geográfico de uma página específica."
