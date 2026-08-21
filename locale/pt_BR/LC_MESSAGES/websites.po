@@ -10208,7 +10208,7 @@ msgid ""
 "`odoo.com` **domain** by default (e.g., `mycompany.odoo.com`)."
 msgstr ""
 "As bases de dados **Blue Connect Online** e **Blue Connect.sh** por padrão usam um "
-"**subdomínio** do **domínio** `odoo.com` (por exemplo, `mycompany.odoo.com`)."
+"**subdomínio** do **domínio** `odoo.com` (por exemplo, `minhaempresa.blueconnect.com.br`)."
 
 #: ../../content/applications/websites/website/configuration/domain_names.rst:11
 msgid ""
@@ -10464,7 +10464,7 @@ msgstr ""
 "Click :guilabel:`DNS`, then :guilabel:`Add DNS record` and "
 "select :guilabel:`CNAME`. Next, enter the desired subdomain in "
 "the :guilabel:`Name` field (e.g., `subdomain`), the original database domain "
-"with a period at the end (e.g., `mycompany.odoo.com.`) in "
+"with a period at the end (e.g., `minhaempresa.blueconnect.com.br.`) in "
 "the :guilabel:`Content` field, and click :guilabel:`Add record`."
 
 #: ../../content/applications/websites/website/configuration/domain_names.rst:116
@@ -10751,7 +10751,7 @@ msgid ""
 "defined at its creation (e.g., `mycompany.odoo.com`)."
 msgstr ""
 "O endereço de destino do registro CNAME deve ser o endereço da sua base de "
-"dados, conforme definido na sua criação (por exemplo, `mycompany.odoo.com`)."
+"dados, conforme definido na sua criação (por exemplo, `minhaempresa.blueconnect.com.br`)."
 
 #: ../../content/applications/websites/website/configuration/domain_names.rst:237
 #: ../../content/applications/websites/website/configuration/domain_names.rst:362
@@ -10933,7 +10933,7 @@ msgid ""
 msgstr ""
 "Adicione outro segundo registro CNAME para redirecionar o subdomínio `www` "
 "(ex.: `www.yourdomain.com`) para o endereço da sua base de dados (ex.: "
-"`mycompany.odoo.com`) usando a seguinte configuração:"
+"`minhaempresa.blueconnect.com.br`) usando a seguinte configuração:"
 
 #: ../../content/applications/websites/website/configuration/domain_names.rst:299
 msgid ":guilabel:`Name`: e.g., `www.yourdomain.com`"
@@ -10941,7 +10941,7 @@ msgstr ":guilabel:`Nome`: ex.:, `www.yourdomain.com`"
 
 #: ../../content/applications/websites/website/configuration/domain_names.rst:300
 msgid ":guilabel:`Target`: e.g., `mycompany.odoo.com`"
-msgstr ":guilabel:`Albo`: ex.: `mycompany.odoo.com`"
+msgstr ":guilabel:`Albo`: ex.: `minhaempresa.blueconnect.com.br`"
 
 #: ../../content/applications/websites/website/configuration/domain_names.rst:301
 msgid ":guilabel:`Proxy status`: DNS only"
@@ -11205,7 +11205,7 @@ msgid ""
 "and `True` as the :guilabel:`Value`."
 msgstr ""
 "Se você acessar seu banco de dados com o endereço original do Blue Connect (ex.: "
-"`mycompany.odoo.com`), o *URL da web da base* da sua base de dados será "
+"`minhaempresa.blueconnect.com.br`), o *URL da web da base* da sua base de dados será "
 "atualizado de acordo. Para evitar a atualização automática do *URL da web da "
 "base* quando um administrador fizer login na base de dados, ative a "
 "opção :ref:`modo de desenvolvedor <developer-mode>`, vá "
@@ -11285,7 +11285,7 @@ msgid ""
 msgstr ""
 "O mapeamento do seu nome de domínio até o site do Blue Connect impede que a pesquisa "
 "do Google indexe o endereço original da sua base de dados (ex.: "
-"`mycompany.odoo.com`)."
+"`minhaempresa.blueconnect.com.br`)."
 
 #: ../../content/applications/websites/website/configuration/domain_names.rst:447
 msgid ""

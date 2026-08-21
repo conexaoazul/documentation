@@ -6647,7 +6647,7 @@ msgid ""
 "the *yourdbname* part of the URL with the actual Odoo database name."
 msgstr ""
 "No rótulo :guilabel:`URIs de redirecionamento autorizados`, clique no "
-"botão :guilabel:`Adicionar URI` e insira `https://yourdbname.odoo.com/"
+"botão :guilabel:`Adicionar URI` e insira `https://seubanco.blueconnect.com.br/"
 "google_gmail/confirm` no campo :guilabel:`URIs 1`. Certifique-se de "
 "substituir a parte *yourdbname* do URL pelo nome real da base de dados do "
 "Blue Connect."
@@ -6898,7 +6898,7 @@ msgstr ""
 "credenciais, selecionando :guilabel:`Aplicativo web` como :guilabel:`Tipo de "
 "aplicativo`. Em seguida, em :guilabel:`URIs de redirecionamento "
 "autorizadas`, clique em :guilabel:`Adicionar URI` e digite: `https://"
-"yourdbname.odoo.com/google_gmail/confirm` no campo, certificando-se de "
+"seubanco.blueconnect.com.br/google_gmail/confirm` no campo, certificando-se de "
 "substituir *yourdbname* no URL pelo nome da base de dados do Blue Connect."
 
 #: ../../content/applications/general/email_communication/mailjet_api.rst:3
@@ -8584,8 +8584,8 @@ msgid ""
 "mycompany.odoo.com/web#cids=1&action=menu`."
 msgstr ""
 "Use o URL geral da base de dados, não o URL de uma página específica dela. "
-"Por exemplo, use `https://mycompany.odoo.com`, e não `https://"
-"mycompany.odoo.com/web#cids=1&action=menu`."
+"Por exemplo, use `https://minhaempresa.blueconnect.com.br`, e não `https://"
+"minhaempresa.blueconnect.com.br/web#cids=1&action=menu`."
 
 #: ../../content/applications/general/integrations/mail_plugins/gmail.rst:77
 #: ../../content/applications/general/integrations/mail_plugins/gmail.rst:167
