@@ -52,7 +52,7 @@ jobs:
           grep -Fq "Commit: ${GITHUB_SHA}" /tmp/blue-source.txt
 
   publish-image:
-    if: github.event_name == 'push' && (github.ref == 'refs/heads/19.0' || github.ref == 'refs/heads/blueconnect')
+    if: (github.event_name == 'push' || github.event_name == 'workflow_dispatch') && (github.ref == 'refs/heads/19.0' || github.ref == 'refs/heads/blueconnect')
     needs: validate-image
     runs-on: ubuntu-latest
     steps:
