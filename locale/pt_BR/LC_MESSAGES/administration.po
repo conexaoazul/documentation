@@ -4,7 +4,7 @@
 # "Tiffany Chang (tic)" <tic@odoo.com>, 2025.
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 18.0\n"
+"Project-Id-Version: Blue Connect 18.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-12-26 18:30+0000\n"
 "PO-Revision-Date: 2025-10-03 15:44+0000\n"
@@ -28,7 +28,7 @@ msgid ""
 "Odoo databases."
 msgstr ""
 "Esses guias fornecem instruções de como instalar, manter e fazer upgrade das "
-"bases de dados do Odoo."
+"bases de dados do Blue Connect."
 
 #: ../../content/administration.rst:13
 msgid ":doc:`History of Versions <administration/standard_extended_support>`"
@@ -44,7 +44,7 @@ msgid ""
 "Depending on the intended use case, there are multiple ways to install Odoo "
 "- or not install it at all."
 msgstr ""
-"Dependendo do caso de uso pretendido, há várias maneiras de instalar o Odoo "
+"Dependendo do caso de uso pretendido, há várias maneiras de instalar o Blue Connect "
 "- ou de não instalá-lo."
 
 #: ../../content/administration.rst:21
@@ -53,7 +53,7 @@ msgid ""
 "production or to try it."
 msgstr ""
 "A versão :doc:`Online <administration/odoo_online>` é a maneira mais fácil "
-"de usar o Odoo em produção ou de experimentá-lo."
+"de usar o Blue Connect em produção ou de experimentá-lo."
 
 #: ../../content/administration.rst:23
 msgid ""
@@ -62,7 +62,7 @@ msgid ""
 "production with additional deployment and maintenance work."
 msgstr ""
 "Os :doc:`instaladores de pacotes <administration/on_premise/packages>` são "
-"adequados para testar o Odoo e desenvolver módulos. Eles podem ser usados "
+"adequados para testar o Blue Connect e desenvolver módulos. Eles podem ser usados "
 "para produção de longo prazo com trabalho adicional de implementação e "
 "manutenção."
 
@@ -75,7 +75,7 @@ msgid ""
 msgstr ""
 "A :doc:`instalação da fonte <administration/on_premise/source>` oferece "
 "maior flexibilidade, pois permite, por exemplo, executar várias versões do "
-"Odoo no mesmo sistema. É adequada para desenvolver módulos e pode ser usada "
+"Blue Connect no mesmo sistema. É adequada para desenvolver módulos e pode ser usada "
 "como base para a implementação de produção."
 
 #: ../../content/administration.rst:31
@@ -100,9 +100,9 @@ msgid ""
 "licensed under the `GNU LGPLv3 <https://github.com/odoo/odoo/blob/master/"
 "LICENSE>`_. It is the core upon which Odoo Enterprise is built."
 msgstr ""
-"O **Odoo Community** é a versão gratuita e de código aberto do software, "
+"O **Blue Connect Community** é a versão gratuita e de código aberto do software, "
 "licenciada sob a `LPGM GNU v3 <https://github.com/odoo/odoo/blob/master/"
-"LICENSE>`_. É o núcleo sobre o qual o Odoo Enterprise é construído."
+"LICENSE>`_. É o núcleo sobre o qual o Blue Connect Enterprise é construído."
 
 #: ../../content/administration.rst:45
 msgid ""
@@ -111,7 +111,7 @@ msgid ""
 "hosting. `Pricing <https://www.odoo.com/pricing-plan>`_ starts from one app "
 "free."
 msgstr ""
-"o **Odoo Enterprise** é a versão de fonte compartilhada do software, que dá "
+"o **Blue Connect Enterprise** é a versão de fonte compartilhada do software, que dá "
 "acesso a mais funcionalidades, incluindo suporte funcional, atualizações e "
 "hospedagem. O preço <https://www.odoo.com/pricing-plan>`_ começa com um "
 "aplicativo gratuito."
@@ -149,12 +149,12 @@ msgstr "Transferência de uma base de dados local"
 #: ../../content/administration/hosting.rst:17
 #: ../../content/administration/hosting.rst:92
 msgid "To Odoo Online"
-msgstr "Para o Odoo Online"
+msgstr "Para o Blue Connect Online"
 
 #: ../../content/administration/hosting.rst:20
 #: ../../content/administration/hosting.rst:95
 msgid "Odoo Online is *not* compatible with **non-standard apps**."
-msgstr "O Odoo Online *não* é compatível com **aplicativos não padrão**."
+msgstr "O Blue Connect Online *não* é compatível com **aplicativos não padrão**."
 
 #: ../../content/administration/hosting.rst:21
 msgid ""
@@ -209,8 +209,8 @@ msgid ""
 "Odoo then makes sure the database is compatible before putting it online. In "
 "case of technical issues during the process, Odoo might contact you."
 msgstr ""
-"Então, o Odoo se certifica de que a base de dados é compatível antes de "
-"publicá-la on-line. Em caso de problemas técnicos no processo, a Odoo poderá "
+"Então, o Blue Connect se certifica de que a base de dados é compatível antes de "
+"publicá-la on-line. Em caso de problemas técnicos no processo, a Blue Connect poderá "
 "entrar em contato com você."
 
 #: ../../content/administration/hosting.rst:36
@@ -223,7 +223,7 @@ msgstr ""
 #: ../../content/administration/hosting.rst:40
 #: ../../content/administration/hosting.rst:78
 msgid "To Odoo.sh"
-msgstr "Para Odoo.sh"
+msgstr "Para Blue Connect.sh"
 
 #: ../../content/administration/hosting.rst:42
 #: ../../content/administration/hosting.rst:85
@@ -234,7 +234,7 @@ msgstr ""
 
 #: ../../content/administration/hosting.rst:46
 msgid "Transferring an Odoo Online database"
-msgstr "Transferência de uma base de dados do Odoo Online"
+msgstr "Transferência de uma base de dados do Blue Connect Online"
 
 #: ../../content/administration/hosting.rst:49
 msgid ""
@@ -250,8 +250,8 @@ msgid ""
 "Transferring an online database running on Odoo 16.3 would require first "
 "upgrading it to Odoo 17.0."
 msgstr ""
-"A transferência de uma base de dados on-line em execução no Odoo 16.3 "
-"exigiria primeiro a atualização para o Odoo 17.0."
+"A transferência de uma base de dados on-line em execução no Blue Connect 16.3 "
+"exigiria primeiro a atualização para o Blue Connect 17.0."
 
 #: ../../content/administration/hosting.rst:59
 msgid ""
@@ -294,7 +294,7 @@ msgstr ""
 
 #: ../../content/administration/hosting.rst:89
 msgid "Transferring an Odoo.sh database"
-msgstr "Transferência de uma base de dados Odoo.sh"
+msgstr "Transferência de uma base de dados Blue Connect.sh"
 
 #: ../../content/administration/hosting.rst:97
 msgid ""
@@ -342,7 +342,7 @@ msgstr ""
 
 #: ../../content/administration/hosting.rst:114
 msgid "Future **administrator(s)** must have an Odoo.com account."
-msgstr "Os futuros **administradores** devem ter uma conta Odoo.com."
+msgstr "Os futuros **administradores** devem ter uma conta Blue Connect.com."
 
 #: ../../content/administration/hosting.rst:115
 msgid ""
@@ -350,8 +350,8 @@ msgid ""
 "to organize the switch from the Odoo.sh server to the Odoo Online servers."
 msgstr ""
 "A **data e a hora** em que você quer que a base de dados esteja em "
-"funcionamento ajudam a organizar a mudança do servidor Odoo.sh para os "
-"servidores Odoo Online."
+"funcionamento ajudam a organizar a mudança do servidor Blue Connect.sh para os "
+"servidores Blue Connect Online."
 
 #: ../../content/administration/hosting.rst:117
 msgid "Databases are **not reachable** during their migration."
@@ -365,14 +365,14 @@ msgstr ""
 
 #: ../../content/administration/mobile.rst:3
 msgid "Odoo mobile apps"
-msgstr "Aplicativos móveis do Odoo"
+msgstr "Aplicativos móveis do Blue Connect"
 
 #: ../../content/administration/mobile.rst:5
 msgid ""
 "Two kind of Odoo mobile app exist: the progressive web app (PWA) and store "
 "apps. Using the PWA is recommended."
 msgstr ""
-"Existem dois tipos de aplicativos móveis do Odoo: o aplicativo web "
+"Existem dois tipos de aplicativos móveis do Blue Connect: o aplicativo web "
 "progressivo (PWA) e os aplicativos da loja. Recomenda-se usar o PWA."
 
 #: ../../content/administration/mobile.rst:9
@@ -391,7 +391,7 @@ msgstr ""
 
 #: ../../content/administration/mobile.rst:14
 msgid "The Odoo PWA features include:"
-msgstr "Os recursos do Odoo PWA incluem:"
+msgstr "Os recursos do Blue Connect PWA incluem:"
 
 #: ../../content/administration/mobile.rst:16
 msgid "Quick access by adding the PWA to a device's home screen"
@@ -415,8 +415,8 @@ msgid ""
 "Odoo database. The instructions to install a PWA depend on the platform and "
 "browser used."
 msgstr ""
-"Para instalar o Odoo PWA, inicie um navegador que suporte PWAs e faça login "
-"em uma base de dados do Odoo. As instruções para instalar um PWA dependem da "
+"Para instalar o Blue Connect PWA, inicie um navegador que suporte PWAs e faça login "
+"em uma base de dados do Blue Connect. As instruções para instalar um PWA dependem da "
 "plataforma e do navegador usados."
 
 #: ../../content/administration/mobile.rst:26
@@ -438,7 +438,7 @@ msgid ""
 "tap :guilabel:`Add automatically`."
 msgstr ""
 "**Firefox**: abra o menu do Firefox (:guilabel:`⋮`), "
-"selecione :guilabel:`Instalar`, toque no ícone do Odoo e o mantenha "
+"selecione :guilabel:`Instalar`, toque no ícone do Blue Connect e o mantenha "
 "pressionado ou toque em :guilabel:`Adicionar automaticamente`."
 
 #: ../../content/administration/mobile.rst:34
@@ -522,7 +522,7 @@ msgid ""
 "<https://play.google.com/store/apps/details?id=com.odoo.mobile>`_ and `Apple "
 "App Store <https://apps.apple.com/app/odoo/id1272543640>`_."
 msgstr ""
-"Os aplicativos móveis do Odoo estão disponíveis para download na `Google "
+"Os aplicativos móveis do Blue Connect estão disponíveis para download na `Google "
 "Play Store <https://play.google.com/store/apps/details?id=com.odoo.mobile>`_ "
 "e na `Apple App Store <https://apps.apple.com/app/odoo/id1272543640>`_."
 
@@ -572,7 +572,7 @@ msgstr "bases de dados duplicadas"
 
 #: ../../content/administration/neutralized_database.rst:15
 msgid "for Odoo.sh: staging and development databases"
-msgstr "no Odoo.sh: base de dados de teste e desenvolvimento"
+msgstr "no Blue Connect.sh: base de dados de teste e desenvolvimento"
 
 #: ../../content/administration/neutralized_database.rst:18
 msgid ""
@@ -742,7 +742,7 @@ msgstr ""
 #: ../../content/administration/upgrade.rst:109
 #: ../../content/administration/upgrade.rst:330
 msgid "Odoo Online"
-msgstr "Odoo Online"
+msgstr "Blue Connect Online"
 
 #: ../../content/administration/odoo_online.rst:5
 msgid ""
@@ -913,7 +913,7 @@ msgid ""
 "www.odoo.com/cloud-sla>`_."
 msgstr ""
 "O backup das bases de dados é feito diariamente, de acordo com o SLA da "
-"Hospedagem em nuvem da Odoo <https://www.odoo.com/cloud-sla>`_."
+"Hospedagem em nuvem da Blue Connect <https://www.odoo.com/cloud-sla>`_."
 
 #: ../../content/administration/odoo_online.rst:118
 msgid ""
@@ -991,7 +991,7 @@ msgstr ""
 #: ../../content/administration/upgrade.rst:132
 #: ../../content/administration/upgrade.rst:341
 msgid "Odoo.sh"
-msgstr "Odoo.sh"
+msgstr "Blue Connect.sh"
 
 #: ../../content/administration/odoo_sh.rst:8
 msgid ""
@@ -1028,7 +1028,7 @@ msgid ""
 "well as common useful packages, are installed."
 msgstr ""
 "A base é um sistema Ubuntu, no qual todas as dependências necessárias do "
-"Odoo, bem como pacotes úteis comuns, estão instaladas."
+"Blue Connect, bem como pacotes úteis comuns, estão instaladas."
 
 #: ../../content/administration/odoo_sh/advanced/containers.rst:14
 msgid ""
@@ -1051,7 +1051,7 @@ msgid ""
 msgstr ""
 "Os arquivos :file:`requirements.txt` dos submódulos também são levados em "
 "consideração. A plataforma procura por arquivos :file:`requirements.txt` em "
-"cada pasta que contém módulos do Odoo: Não na pasta do módulo em si, mas em "
+"cada pasta que contém módulos do Blue Connect: Não na pasta do módulo em si, mas em "
 "sua pasta principal."
 
 #: ../../content/administration/odoo_sh/advanced/containers.rst:27
@@ -1074,7 +1074,7 @@ msgstr ""
 
 #: ../../content/administration/odoo_sh/advanced/containers.rst:33
 msgid "Here are the Odoo.sh pertinent directories:"
-msgstr "Esses são os diretórios pertinentes do Odoo.sh:"
+msgstr "Esses são os diretórios pertinentes do Blue Connect.sh:"
 
 #: ../../content/administration/odoo_sh/advanced/containers.rst:73
 msgid "Both Python 2.7 and 3.5 are installed in the containers. However:"
@@ -1086,7 +1086,7 @@ msgid ""
 "If your project is configured to use Odoo 10.0, the Odoo server runs with "
 "Python 2.7."
 msgstr ""
-"Se seu projeto estiver configurado para usar o Odoo 10.0, o servidor do Odoo "
+"Se seu projeto estiver configurado para usar o Blue Connect 10.0, o servidor do Blue Connect "
 "será executado com Python 2.7."
 
 #: ../../content/administration/odoo_sh/advanced/containers.rst:76
@@ -1094,8 +1094,8 @@ msgid ""
 "If your project is configured to use Odoo 11.0 or above, the Odoo server "
 "runs with Python 3.5."
 msgstr ""
-"Se seu projeto estiver configurado para usar o Odoo 11.0 ou superior, o "
-"servidor do Odoo será executado com Python 3.5."
+"Se seu projeto estiver configurado para usar o Blue Connect 11.0 ou superior, o "
+"servidor do Blue Connect será executado com Python 3.5."
 
 #: ../../content/administration/odoo_sh/advanced/containers.rst:79
 msgid "Database shell"
@@ -1165,7 +1165,7 @@ msgstr ""
 
 #: ../../content/administration/odoo_sh/advanced/containers.rst:129
 msgid "Run an Odoo server"
-msgstr "Executar um servidor do Odoo"
+msgstr "Executar um servidor do Blue Connect"
 
 #: ../../content/administration/odoo_sh/advanced/containers.rst:131
 msgid ""
@@ -1179,7 +1179,7 @@ msgstr ""
 
 #: ../../content/administration/odoo_sh/advanced/containers.rst:134
 msgid "use the Odoo shell,"
-msgstr "usar o shell do Odoo,"
+msgstr "usar o shell do Blue Connect,"
 
 #: ../../content/administration/odoo_sh/advanced/containers.rst:146
 msgid "install a module,"
@@ -1219,7 +1219,7 @@ msgid ""
 "to run your server. Look for \"*odoo: addons paths*\":"
 msgstr ""
 "Você pode encontrar nos logs (*~/logs/odoo.log*) o caminho dos addons usado "
-"pelo Odoo.sh para executar seu servidor. Procure por \"*odoo: addons "
+"pelo Blue Connect.sh para executar seu servidor. Procure por \"*odoo: addons "
 "paths*\":"
 
 #: ../../content/administration/odoo_sh/advanced/containers.rst:180
@@ -1230,13 +1230,13 @@ msgid ""
 "databases."
 msgstr ""
 "**Tenha cuidado**, especialmente com sua base de dados de produção. As "
-"operações que você realiza executando essa instância do servidor Odoo não "
+"operações que você realiza executando essa instância do servidor Blue Connect não "
 "são isoladas: As alterações entrarão em vigor na base de dados. Sempre faça "
 "seus testes em bases de dados de teste."
 
 #: ../../content/administration/odoo_sh/advanced/containers.rst:185
 msgid "Debugging in Odoo.sh"
-msgstr "Depuração no Odoo.sh"
+msgstr "Depuração no Blue Connect.sh"
 
 #: ../../content/administration/odoo_sh/advanced/containers.rst:187
 msgid ""
@@ -1244,9 +1244,9 @@ msgid ""
 "This article only explains the specificities and limitations of the Odoo.sh "
 "platform, and assumes that you already know how to use a debugger."
 msgstr ""
-"A depuração de uma compilação do Odoo.sh não é realmente diferente de outro "
+"A depuração de uma compilação do Blue Connect.sh não é realmente diferente de outro "
 "aplicativo Python. Este artigo explica apenas as especificidades e "
-"limitações da plataforma Odoo.sh e pressupõe que você já saiba como usar um "
+"limitações da plataforma Blue Connect.sh e pressupõe que você já saiba como usar um "
 "depurador."
 
 #: ../../content/administration/odoo_sh/advanced/containers.rst:189
@@ -1264,8 +1264,8 @@ msgid ""
 "from your Odoo instance backend as the debugger needs a shell to operate."
 msgstr ""
 "É possível usar ``pdb``, ``pudb`` ou ``ipdb`` para depurar seu código no "
-"Odoo.sh. Como o servidor é executado fora de uma shell, você não pode "
-"iniciar o depurador diretamente do back-end da instância do Odoo, pois o "
+"Blue Connect.sh. Como o servidor é executado fora de uma shell, você não pode "
+"iniciar o depurador diretamente do back-end da instância do Blue Connect, pois o "
 "depurador precisa de uma shell para operar."
 
 #: ../../content/administration/odoo_sh/advanced/containers.rst:194
@@ -1316,25 +1316,25 @@ msgid ""
 "run Odoo from a shell."
 msgstr ""
 "A condição :code:`sys.__stdin__.isatty()` é um hack que detecta se você está "
-"executando o Odoo em uma shell."
+"executando o Blue Connect em uma shell."
 
 #: ../../content/administration/odoo_sh/advanced/containers.rst:225
 msgid "Save the file and then run the Odoo Shell:"
-msgstr "Salve o arquivo e, em seguida, execute a shell do Odoo:"
+msgstr "Salve o arquivo e, em seguida, execute a shell do Blue Connect:"
 
 #: ../../content/administration/odoo_sh/advanced/containers.rst:231
 msgid ""
 "Finally, *via* the Odoo Shell, you can trigger the piece of code/function/"
 "method you want to debug."
 msgstr ""
-"Por fim, *através* da shel do Odoo, você pode acionar o trecho de código/"
+"Por fim, *através* da shel do Blue Connect, você pode acionar o trecho de código/"
 "função/método que deseja depurar."
 
 #: ../../content/administration/odoo_sh/advanced/containers.rst:None
 msgid "Console screenshot showing ``pdb`` running in an Odoo.sh shell."
 msgstr ""
 "Captura de tela do console mostrando o ``pdb`` em execução em uma shell "
-"Odoo.sh."
+"Blue Connect.sh."
 
 #: ../../content/administration/odoo_sh/advanced/frequent_technical_questions.rst:6
 msgid "Frequent Technical Questions"
@@ -1351,7 +1351,7 @@ msgid ""
 "On the Odoo.sh platform, we cannot guarantee an exact running time for "
 "scheduled actions."
 msgstr ""
-"Na plataforma Odoo.sh, não podemos garantir um horário de execução exato "
+"Na plataforma Blue Connect.sh, não podemos garantir um horário de execução exato "
 "para as ações agendadas."
 
 #: ../../content/administration/odoo_sh/advanced/frequent_technical_questions.rst:13
@@ -1364,7 +1364,7 @@ msgstr ""
 "Isso se deve ao fato de que pode haver vários clientes no mesmo servidor, e "
 "precisamos garantir uma parte justa do servidor para cada cliente. Portanto, "
 "as ações agendadas são implementadas de forma ligeiramente diferente do que "
-"em um servidor Odoo normal e são executadas em uma política de *melhor "
+"em um servidor Blue Connect normal e são executadas em uma política de *melhor "
 "esforço*."
 
 #: ../../content/administration/odoo_sh/advanced/frequent_technical_questions.rst:16
@@ -1384,7 +1384,7 @@ msgid ""
 "crons).** Therefore, you must keep this fact in mind when developing your "
 "own crons."
 msgstr ""
-"**Odoo.sh sempre limita o tempo de execução das ações agendadas (*aka* "
+"**Blue Connect.sh sempre limita o tempo de execução das ações agendadas (*aka* "
 "crons).** Portanto, você deve ter esse fato em mente ao desenvolver seus "
 "próprios crons."
 
@@ -1482,7 +1482,7 @@ msgid ""
 "same time you clone your own repository."
 msgstr ""
 "De fato, seus módulos personalizados podem depender de módulos de outros "
-"repositórios. Em relação ao Odoo, esse recurso permite que você adicione "
+"repositórios. Em relação ao Blue Connect, esse recurso permite que você adicione "
 "módulos de outros repositórios Git às ramificações do seu repositório. A "
 "adição dessas dependências em sua ramificação por submódulos facilita a "
 "implementação de seu código e servidores, pois você pode clonar os "
@@ -1508,7 +1508,7 @@ msgid ""
 "added modules through submodules in your branches and add them to your "
 "addons path automatically so you can install them in your databases."
 msgstr ""
-"No Odoo.sh, os submódulos lhe dão a possibilidade de usar e depender de "
+"No Blue Connect.sh, os submódulos lhe dão a possibilidade de usar e depender de "
 "módulos disponíveis em outros repositórios. A plataforma detectará que você "
 "adicionou módulos por submódulos em suas ramificações e os adicionará ao seu "
 "caminho de addons automaticamente para que você possa instalá-los em suas "
@@ -1529,7 +1529,7 @@ msgstr "Adicionar um submódulo"
 
 #: ../../content/administration/odoo_sh/advanced/submodules.rst:37
 msgid "With Odoo.sh (simple)"
-msgstr "Com Odoo.sh (simples)"
+msgstr "Com Blue Connect.sh (simples)"
 
 #: ../../content/administration/odoo_sh/advanced/submodules.rst:40
 msgid ""
@@ -1542,7 +1542,7 @@ msgid ""
 "On Odoo.sh, in the branches view of your project, choose the branch in which "
 "you want to add a submodule."
 msgstr ""
-"No Odoo.sh, na visualização de ramificações de seu projeto, escolha a "
+"No Blue Connect.sh, na visualização de ramificações de seu projeto, escolha a "
 "ramificação na qual você pretende adicionar um submódulo."
 
 #: ../../content/administration/odoo_sh/advanced/submodules.rst:45
@@ -1686,8 +1686,8 @@ msgid ""
 "This chapter helps you to create your first Odoo module and deploy it in "
 "your Odoo.sh project."
 msgstr ""
-"Este capítulo instrui a criação do seu primeiro módulo no Odoo e da "
-"implementação dele em seu projeto no Odoo.sh."
+"Este capítulo instrui a criação do seu primeiro módulo no Blue Connect e da "
+"implementação dele em seu projeto no Blue Connect.sh."
 
 #: ../../content/administration/odoo_sh/first_module.rst:10
 msgid ""
@@ -1709,7 +1709,7 @@ msgid ""
 "your Odoo projects,"
 msgstr ""
 "*~/src* é o diretório onde estão localizados os repositórios Git "
-"relacionados aos seus projetos Odoo,"
+"relacionados aos seus projetos Blue Connect,"
 
 #: ../../content/administration/odoo_sh/first_module.rst:18
 msgid "*odoo* is the Github user,"
@@ -1741,7 +1741,7 @@ msgstr "Criar a ramificação de desenvolvimento"
 
 #: ../../content/administration/odoo_sh/first_module.rst:30
 msgid "From Odoo.sh"
-msgstr "Pelo Odoo.sh"
+msgstr "Pelo Blue Connect.sh"
 
 #: ../../content/administration/odoo_sh/first_module.rst:32
 msgid "In the branches view:"
@@ -1807,12 +1807,12 @@ msgid ""
 "bin*."
 msgstr ""
 "Embora não seja necessário, a estruturação evita o tédio de definir a base "
-"do módulo do Odoo. Você pode criar um novo módulo usando o *odoo-bin* "
+"do módulo do Blue Connect. Você pode criar um novo módulo usando o *odoo-bin* "
 "executável."
 
 #: ../../content/administration/odoo_sh/first_module.rst:82
 msgid "From the Odoo.sh editor, in a terminal:"
-msgstr "Pelo editor do Odoo.sh, em um terminal:"
+msgstr "Pelo editor do Blue Connect.sh, em um terminal:"
 
 #: ../../content/administration/odoo_sh/first_module.rst:88
 msgid "Or, from your computer, if you have an installation of Odoo:"
@@ -1825,7 +1825,7 @@ msgid ""
 "my_module.zip>` in which you replace every occurrences of *my_module* to the "
 "name of your choice."
 msgstr ""
-"Se não quiser se dar ao trabalho de instalar o Odoo em seu computador, você "
+"Se não quiser se dar ao trabalho de instalar o Blue Connect em seu computador, você "
 "também pode :download:`baixar esse modelo de estrutura de módulo "
 "<first_module/my_module.zip>`, no qual você substituirá todas as ocorrências "
 "de *my_module* pelo nome de sua escolha."
@@ -1924,7 +1924,7 @@ msgstr "Envie suas alterações para seu repositório remoto"
 
 #: ../../content/administration/odoo_sh/first_module.rst:169
 msgid "From an Odoo.sh editor terminal:"
-msgstr "Em um terminal do editor do Odoo.sh:"
+msgstr "Em um terminal do editor do Blue Connect.sh:"
 
 #: ../../content/administration/odoo_sh/first_module.rst:175
 msgid ""
@@ -1983,7 +1983,7 @@ msgid ""
 "you will directly see it amongst the database apps. Otherwise, it will be "
 "available in the apps to install."
 msgstr ""
-"Se o seu projeto Odoo.sh estiver configurado para instalar seu módulo "
+"Se o seu projeto Blue Connect.sh estiver configurado para instalar seu módulo "
 "automaticamente, você logo o verá entre os aplicativos da base de dados. "
 "Caso contrário, ele estará disponível nos aplicativos para instalar."
 
@@ -2158,7 +2158,7 @@ msgstr ""
 
 #: ../../content/administration/odoo_sh/first_module.rst:314
 msgid "From the Odoo.sh editor,"
-msgstr "No editor do Odoo.sh,"
+msgstr "No editor do Blue Connect.sh,"
 
 #: ../../content/administration/odoo_sh/first_module.rst:313
 msgid "browse to your module folder *~/src/user/my_module*,"
@@ -2236,7 +2236,7 @@ msgid ""
 "manifest."
 msgstr ""
 "Se quiser que a atualização seja realizada automaticamente pela plataforma "
-"Odoo.sh quando você enviar suas alterações, aumente a versão do módulo em "
+"Blue Connect.sh quando você enviar suas alterações, aumente a versão do módulo em "
 "seu manifesto."
 
 #: ../../content/administration/odoo_sh/first_module.rst:357
@@ -2262,7 +2262,7 @@ msgstr "Navegue até sua pasta Git."
 
 #: ../../content/administration/odoo_sh/first_module.rst:376
 msgid "Then, from an Odoo.sh terminal:"
-msgstr "Em seguida, em um terminal do Odoo.sh:"
+msgstr "Em seguida, em um terminal do Blue Connect.sh:"
 
 #: ../../content/administration/odoo_sh/first_module.rst:388
 msgid "Then, stage your changes to be committed"
@@ -2274,7 +2274,7 @@ msgstr "Envie suas alterações:"
 
 #: ../../content/administration/odoo_sh/first_module.rst:402
 msgid "From an Odoo.sh terminal:"
-msgstr "Em um terminal do Odoo.sh:"
+msgstr "Em um terminal do Blue Connect.sh:"
 
 #: ../../content/administration/odoo_sh/first_module.rst:414
 msgid "The platform will then create a new build for the branch *feature-1*."
@@ -2293,7 +2293,7 @@ msgid ""
 msgstr ""
 "Depois de testar suas alterações, você pode mesclar suas alterações na "
 "ramificação de produção, por exemplo, arrastando e soltando a ramificação na "
-"de produção pela interface do Odoo.sh. À medida que você aumentar a versão "
+"de produção pela interface do Blue Connect.sh. À medida que você aumentar a versão "
 "do módulo no manifesto, a plataforma atualizará o módulo automaticamente e "
 "seu novo campo logo estará disponível. Caso contrário, você pode atualizar "
 "manualmente o módulo na lista de aplicativos."
@@ -2321,14 +2321,14 @@ msgid ""
 "modules**."
 msgstr ""
 "Não é possível instalar ou atualizar pacotes do sistema em uma base de dados "
-"do Odoo.sh (por exemplo, pacotes apt). No entanto, sob condições "
+"do Blue Connect.sh (por exemplo, pacotes apt). No entanto, sob condições "
 "específicas, os pacotes podem ser considerados para instalação. Isso também "
 "se aplica a **módulos Python** que exigem pacotes do sistema para sua "
-"compilação e **módulos Odoo de terceiros**."
+"compilação e **módulos Blue Connect de terceiros**."
 
 #: ../../content/administration/odoo_sh/first_module.rst:435
 msgid "**PostgreSQL extensions** are not supported on Odoo.sh."
-msgstr "**As extensões PostgreSQL** não são compatíveis com o Odoo.sh."
+msgstr "**As extensões PostgreSQL** não são compatíveis com o Blue Connect.sh."
 
 #: ../../content/administration/odoo_sh/first_module.rst:436
 msgid ""
@@ -2363,7 +2363,7 @@ msgid ""
 "From the Odoo.sh editor, create and open the file ~/src/user/"
 "requirements.txt."
 msgstr ""
-"No editor do Odoo.sh, crie e abra o arquivo ~/src/user/requirements.txt."
+"No editor do Blue Connect.sh, crie e abra o arquivo ~/src/user/requirements.txt."
 
 #: ../../content/administration/odoo_sh/first_module.rst:447
 msgid ""
@@ -2411,7 +2411,7 @@ msgstr "Em seguida, envie as alterações:"
 
 #: ../../content/administration/odoo_sh/first_module.rst:520
 msgid "In an Odoo.sh terminal:"
-msgstr "Em um terminal do Odoo.sh:"
+msgstr "Em um terminal do Blue Connect.sh:"
 
 #: ../../content/administration/odoo_sh/first_module.rst:526
 msgid "In your computer terminal:"
@@ -5365,9 +5365,9 @@ msgid ""
 "Account <https://accounts.odoo.com/my/subscription>`_ or contact your "
 "Account Manager."
 msgstr ""
-"Verifique a **validade da sua assinatura do Odoo Enterprise** verificando se "
+"Verifique a **validade da sua assinatura do Blue Connect Enterprise** verificando se "
 "os detalhes da sua assinatura têm o marcador :guilabel:`Em andamento` na sua "
-"`Conta Odoo <https://accounts.odoo.com/my/subscription>`_ ou entre em "
+"`Conta Blue Connect <https://accounts.odoo.com/my/subscription>`_ ou entre em "
 "contato com o seu gerente de conta."
 
 #: ../../content/administration/on_premise.rst:43
@@ -5395,7 +5395,7 @@ msgid ""
 "will be displayed."
 msgstr ""
 "Verifique se **nenhuma base de dados compartilha o mesmo UUID** (Universally "
-"Unique Identifier) abrindo seu `Contrato Odoo <https://accounts.odoo.com/my/"
+"Unique Identifier) abrindo seu `Contrato Blue Connect <https://accounts.odoo.com/my/"
 "subscription>`_. Se duas ou mais bases de dados compartilharem o mesmo UUID, "
 "o nome delas será exibido."
 
@@ -5418,17 +5418,17 @@ msgid ""
 "Odoo server to open outgoing connections towards:"
 msgstr ""
 "Como a notificação de atualização deve conseguir alcançar os servidores de "
-"validação de assinatura do Odoo, certifique-se de que suas **configurações "
-"de rede e firewall** permitam que o servidor Odoo abra conexões de saída "
+"validação de assinatura do Blue Connect, certifique-se de que suas **configurações "
+"de rede e firewall** permitam que o servidor Blue Connect abra conexões de saída "
 "para:"
 
 #: ../../content/administration/on_premise.rst:64
 msgid "Odoo 18.0 and above: `services.odoo.com` on port `80`"
-msgstr "Odoo 18.0 e superior: `services.odoo.com` na porta `80`"
+msgstr "Blue Connect 18.0 e superior: `services.odoo.com` na porta `80`"
 
 #: ../../content/administration/on_premise.rst:65
 msgid "Odoo 17.0 and below: `services.openerp.com` on port `80`"
-msgstr "Odoo 17.0 e versões anteriores: `services.openerp.com` na porta `80`"
+msgstr "Blue Connect 17.0 e versões anteriores: `services.openerp.com` na porta `80`"
 
 #: ../../content/administration/on_premise.rst:67
 msgid ""
@@ -5448,7 +5448,7 @@ msgid ""
 "Enterprise subscription, the following message should be displayed."
 msgstr ""
 "Se houver mais usuários em uma base de dados local do que o provisionado em "
-"sua assinatura do Odoo Enterprise, a seguinte mensagem deverá ser exibida."
+"sua assinatura do Blue Connect Enterprise, a seguinte mensagem deverá ser exibida."
 
 #: ../../content/administration/on_premise.rst:None
 msgid "Too many users on a database error message"
@@ -5568,7 +5568,7 @@ msgstr "Reinicie seu servidor"
 
 #: ../../content/administration/on_premise/community_to_enterprise.rst:23
 msgid "Enter your Odoo Enterprise Subscription code"
-msgstr "Digite seu código de assinatura do Odoo Enterprise"
+msgstr "Digite seu código de assinatura do Blue Connect Enterprise"
 
 #: ../../content/administration/on_premise/community_to_enterprise.rst:29
 msgid "On Linux, using an installer"
@@ -5576,7 +5576,7 @@ msgstr "No Linux, usando um instalador"
 
 #: ../../content/administration/on_premise/community_to_enterprise.rst:33
 msgid "Stop the odoo service"
-msgstr "Interrompa o serviço Odoo"
+msgstr "Interrompa o serviço Blue Connect"
 
 #: ../../content/administration/on_premise/community_to_enterprise.rst:39
 msgid ""
@@ -5596,9 +5596,9 @@ msgid ""
 "Enterprise Subscription by entering the code you received by e-mail in the "
 "form input"
 msgstr ""
-"Você conseguirá se conectar à sua instância do Odoo Enterprise com sua forma "
+"Você conseguirá se conectar à sua instância do Blue Connect Enterprise com sua forma "
 "de identificação habitual. Então, você pode vincular sua base de dados à sua "
-"assinatura do Odoo Enterprise inserindo o código que recebeu por e-mail ao "
+"assinatura do Blue Connect Enterprise inserindo o código que recebeu por e-mail ao "
 "enviar o formulário"
 
 #: ../../content/administration/on_premise/community_to_enterprise.rst:57
@@ -5641,7 +5641,7 @@ msgid ""
 msgstr ""
 "Reinicie o servidor com o caminho de complementos atualizado do ponto 3. "
 "Conecte-se à sua instância. Em seguida, você pode vincular sua base de dados "
-"à assinatura do Odoo Enterprise inserindo o código que recebeu por e-mail ao "
+"à assinatura do Blue Connect Enterprise inserindo o código que recebeu por e-mail ao "
 "enviar o formulário"
 
 #: ../../content/administration/on_premise/community_to_enterprise.rst:78
@@ -5653,7 +5653,7 @@ msgid ""
 "Uninstall Odoo Community (using the Uninstall executable in the installation "
 "folder) - PostgreSQL will remain installed"
 msgstr ""
-"Desinstale o Odoo Community (usando o executável Desinstalar na pasta de "
+"Desinstale o Blue Connect Community (usando o executável Desinstalar na pasta de "
 "instalação) - o PostgreSQL permanecerá instalado"
 
 #: ../../content/administration/on_premise/community_to_enterprise.rst:88
@@ -5663,18 +5663,18 @@ msgid ""
 "installation (this folder still contains the PostgreSQL installation). "
 "Uncheck ``Start Odoo`` at the end of the installation"
 msgstr ""
-"Inicialize o instalador do Odoo Enterprise e siga as etapas normalmente. Ao "
+"Inicialize o instalador do Blue Connect Enterprise e siga as etapas normalmente. Ao "
 "escolher o caminho de instalação, você pode definir a pasta da instalação do "
 "Community (essa pasta ainda contém a instalação do PostgreSQL). Desmarque a "
-"opção ``Iniciar Odoo`` no final da instalação"
+"opção ``Iniciar Blue Connect`` no final da instalação"
 
 #: ../../content/administration/on_premise/community_to_enterprise.rst:96
 msgid ""
 "Using a command window, update your Odoo Database using this command (from "
 "the Odoo installation path, in the server subfolder)"
 msgstr ""
-"Em uma janela de comando, atualize sua base de dados Odoo usando este "
-"comando (no caminho de instalação do Odoo, na subpasta do servidor)"
+"Em uma janela de comando, atualize sua base de dados Blue Connect usando este "
+"comando (no caminho de instalação do Blue Connect, na subpasta do servidor)"
 
 #: ../../content/administration/on_premise/community_to_enterprise.rst:103
 msgid ""
@@ -5684,9 +5684,9 @@ msgid ""
 "Subscription by entering the code you received by e-mail in the form input"
 msgstr ""
 "Não há necessidade de inicializar manualmente o servidor, o serviço está em "
-"execução. Você conseguirá se conectar à sua instância do Odoo Enterprise com "
+"execução. Você conseguirá se conectar à sua instância do Blue Connect Enterprise com "
 "sua forma de identificação habitual. Você pode então vincular sua base de "
-"dados à sua assinatura do Odoo Enterprise inserindo o código que recebeu por "
+"dados à sua assinatura do Blue Connect Enterprise inserindo o código que recebeu por "
 "e-mail ao enviar o formulário"
 
 #: ../../content/administration/on_premise/deploy.rst:3
@@ -5700,7 +5700,7 @@ msgid ""
 "is not generally necessary for a development systems that is not exposed on "
 "the internet."
 msgstr ""
-"Este documento descreve as etapas básicas para configurar o Odoo em produção "
+"Este documento descreve as etapas básicas para configurar o Blue Connect em produção "
 "ou em um servidor voltado para a Internet. Isso dá sequência "
 "à :doc:`installation <../on_premise>`, e geralmente não é necessário para "
 "sistemas de desenvolvimento que não estão expostos na internet."
@@ -5724,7 +5724,7 @@ msgid ""
 "customizations (starting from the modules being loaded) depending on the "
 "\"current database\"."
 msgstr ""
-"O Odoo é um sistema multilocatário: um único sistema Odoo pode executar e "
+"O Blue Connect é um sistema multilocatário: um único sistema Blue Connect pode executar e "
 "atender a várias instâncias de base de dados. Ele também é altamente "
 "personalizável, com personalizações (a partir dos módulos carregados) "
 "dependendo da \"base de dados atual\"."
@@ -5749,11 +5749,11 @@ msgid ""
 "use."
 msgstr ""
 "No entanto, é um problema para usuários não logados (portal, site) que não "
-"estão vinculados a uma base de dados: o Odoo precisa saber qual base de "
+"estão vinculados a uma base de dados: o Blue Connect precisa saber qual base de "
 "dados deve ser usada para carregar a página do site ou executar a operação. "
 "Se não for usada multilocação, isso não é um problema, pois há apenas uma "
 "base de dados para usar, mas se houver várias bases de dados acessíveis, o "
-"Odoo precisará de uma regra para saber qual delas deve ser usada."
+"Blue Connect precisará de uma regra para saber qual delas deve ser usada."
 
 #: ../../content/administration/on_premise/deploy.rst:31
 msgid ""
@@ -5848,9 +5848,9 @@ msgid ""
 "and PostgreSQL to execute on different machines [#different-machines]_ it "
 "will need to `listen to network interfaces`_ [#remote-socket]_, either:"
 msgstr ""
-"O soquete UNIX é adequado se você quiser que o Odoo e o PostgreSQL sejam "
+"O soquete UNIX é adequado se você quiser que o Blue Connect e o PostgreSQL sejam "
 "executados na mesma máquina, e é o padrão quando nenhum host é fornecido, "
-"mas se você quiser que o Odoo e o PostgreSQL sejam executados em máquinas "
+"mas se você quiser que o Blue Connect e o PostgreSQL sejam executados em máquinas "
 "diferentes [#different-machines]_, ele precisará `ler as interfaces de "
 "rede`_ [#remote-socket]_, seja para:"
 
@@ -5861,8 +5861,8 @@ msgid ""
 "configure Odoo to connect to its end of the tunnel"
 msgstr ""
 "Aceitar apenas conexões de loopback e `use um túnel SSH`_ entre a máquina na "
-"qual o Odoo é executado e a máquina na qual o PostgreSQL é executado e, em "
-"seguida, configure o Odoo para se conectar à sua extremidade do túnel"
+"qual o Blue Connect é executado e a máquina na qual o PostgreSQL é executado e, em "
+"seguida, configure o Blue Connect para se conectar à sua extremidade do túnel"
 
 #: ../../content/administration/on_premise/deploy.rst:90
 msgid ""
@@ -5870,9 +5870,9 @@ msgid ""
 "ssl (see `PostgreSQL connection settings`_ for details), then configure Odoo "
 "to connect over the network"
 msgstr ""
-"Aceitar conexões com a máquina na qual o Odoo está instalado, possivelmente "
+"Aceitar conexões com a máquina na qual o Blue Connect está instalado, possivelmente "
 "por ssl (consulte `Configurações de conexão PostgreSQL`_ para obter "
-"detalhes) e, em seguida, configure o Odoo para se conectar pela rede"
+"detalhes) e, em seguida, configure o Blue Connect para se conectar pela rede"
 
 #: ../../content/administration/on_premise/deploy.rst:95
 #: ../../content/administration/on_premise/deploy.rst:145
@@ -5903,7 +5903,7 @@ msgstr ""
 
 #: ../../content/administration/on_premise/deploy.rst:119
 msgid "Configuring Odoo"
-msgstr "Configurar o Odoo"
+msgstr "Configurar o Blue Connect"
 
 #: ../../content/administration/on_premise/deploy.rst:121
 msgid ""
@@ -5912,7 +5912,7 @@ msgid ""
 "cmdline/server/database>` when your Postgres deployment is not local and/or "
 "does not use the installation defaults."
 msgstr ""
-"Fora da caixa, o Odoo se conecta a um Postgres local através de um soquete "
+"Fora da caixa, o Blue Connect se conecta a um Postgres local através de um soquete "
 "UNIX pela porta 5432. Isso pode ser substituído usando :ref:`as opções de "
 "base de dados <reference/cmdline/server/database>` quando sua implementação "
 "do Postgres não for local e/ou não usar os padrões de instalação."
@@ -5988,7 +5988,7 @@ msgstr "filtragem de bd com nome que começa com 'mycompany'"
 
 #: ../../content/administration/on_premise/deploy.rst:168
 msgid "SSL Between Odoo and PostgreSQL"
-msgstr "SSL entre Odoo e PostgreSQL"
+msgstr "SSL entre Blue Connect e PostgreSQL"
 
 #: ../../content/administration/on_premise/deploy.rst:170
 msgid ""
@@ -5997,8 +5997,8 @@ msgid ""
 "chosen out of 'disable', 'allow', 'prefer', 'require', 'verify-ca' or "
 "'verify-full'"
 msgstr ""
-"A partir do Odoo 11.0, você pode impor a conexão ssl entre o Odoo e o "
-"PostgreSQL. No Odoo, o db_sslmode controla a segurança ssl da conexão com o "
+"A partir do Blue Connect 11.0, você pode impor a conexão ssl entre o Blue Connect e o "
+"PostgreSQL. No Blue Connect, o db_sslmode controla a segurança ssl da conexão com o "
 "valor escolhido entre 'disable', 'allow', 'prefer', 'require', 'verify-ca' "
 "ou 'verify-full'"
 
@@ -6018,7 +6018,7 @@ msgid ""
 "Odoo includes built-in HTTP, cron, and live-chat servers, using either multi-"
 "threading or multi-processing."
 msgstr ""
-"O Odoo inclui servidores HTTP, cron e chat ao vivo integrados, usando multi-"
+"O Blue Connect inclui servidores HTTP, cron e chat ao vivo integrados, usando multi-"
 "threading ou multiprocessamento."
 
 #: ../../content/administration/on_premise/deploy.rst:185
@@ -6159,8 +6159,8 @@ msgstr ""
 "automaticamente e escuta :option:`--gevent-port <odoo-bin --gevent-port>`. "
 "Por padrão, as solicitações HTTP continuarão acessando os workers HTTP "
 "normais em vez do chat ao vivo. Você deve implementar um proxy na frente do "
-"Odoo e redirecionar as solicitações de entrada cujo caminho começa com ``/"
-"websocket/`` para o worker do chat ao vivo. Você também deve iniciar o Odoo "
+"Blue Connect e redirecionar as solicitações de entrada cujo caminho começa com ``/"
+"websocket/`` para o worker do chat ao vivo. Você também deve iniciar o Blue Connect "
 "em :option:`--proxy-mode <odoo-bin --proxy-mode>` para que ele use os "
 "cabeçalhos reais do cliente (como nome do host, esquema e IP) em vez dos "
 "cabeçalhos do proxy."
@@ -6210,8 +6210,8 @@ msgid ""
 "just about any SSL termination proxy, but requires the following setup:"
 msgstr ""
 "Independentemente de ser acessar pelo site/cliente da web ou pelo serviço da "
-"Web, o Odoo transmite informações de autenticação em texto simples. Isso "
-"significa que uma implementação segura do Odoo deve usar HTTPS\\ "
+"Web, o Blue Connect transmite informações de autenticação em texto simples. Isso "
+"significa que uma implementação segura do Blue Connect deve usar HTTPS\\ "
 "[#switching]_. A terminação SSL pode ser implementada por praticamente "
 "qualquer proxy de terminação SSL, mas requer a seguinte configuração:"
 
@@ -6220,8 +6220,8 @@ msgid ""
 "Enable Odoo's :option:`proxy mode <odoo-bin --proxy-mode>`. This should only "
 "be enabled when Odoo is behind a reverse proxy"
 msgstr ""
-"Habilitar o :option:`proxy mode <odoo-bin --proxy-mode>` do Odoo. Isso só "
-"deve ser ativado quando o Odoo estiver atrás de um proxy reverso"
+"Habilitar o :option:`proxy mode <odoo-bin --proxy-mode>` do Blue Connect. Isso só "
+"deve ser ativado quando o Blue Connect estiver atrás de um proxy reverso"
 
 #: ../../content/administration/on_premise/deploy.rst:269
 msgid "Set up the SSL termination proxy (`Nginx termination example`_)"
@@ -6289,7 +6289,7 @@ msgstr ""
 
 #: ../../content/administration/on_premise/deploy.rst:387
 msgid "Odoo as a WSGI Application"
-msgstr "Odoo como um aplicativo WSGI"
+msgstr "Blue Connect como um aplicativo WSGI"
 
 #: ../../content/administration/on_premise/deploy.rst:389
 msgid ""
@@ -6300,7 +6300,7 @@ msgid ""
 "in :mod:`odoo.tools.config` rather than through the command-line or a "
 "configuration file."
 msgstr ""
-"Também é possível montar o Odoo como um aplicativo WSGI_ padrão. O Odoo "
+"Também é possível montar o Blue Connect como um aplicativo WSGI_ padrão. O Blue Connect "
 "fornece a base para um script de lançamento WSGI como ``odoo-"
 "wsgi.example.py``. Esse script deve ser personalizado (possivelmente depois "
 "de copiá-lo do diretório de configuração) para definir a configuração "
@@ -6314,7 +6314,7 @@ msgid ""
 "creation of workers anymore it can not setup cron or livechat workers"
 msgstr ""
 "No entanto, o servidor WSGI exporá apenas o endpoint HTTP principal do "
-"cliente da web, o site e a API do serviço da web. Como o Odoo não controla "
+"cliente da web, o site e a API do serviço da web. Como o Blue Connect não controla "
 "mais a criação de workers, não é possível configurar workers cron ou chat ao "
 "vivo."
 
@@ -6330,7 +6330,7 @@ msgid ""
 "no-http>` cli option or the ``http_enable = False`` configuration file "
 "setting."
 msgstr ""
-"É necessário iniciar um dos servidores Odoo integrados ao lado do servidor "
+"É necessário iniciar um dos servidores Blue Connect integrados ao lado do servidor "
 "WSGI para processar os trabalhos cron. Esse servidor deve ser configurado "
 "para processar apenas crons e não solicitações HTTP com a opção :option:`--"
 "no-http <odoo-bin --no-http>` do cli ou a definição do arquivo de "
@@ -6376,7 +6376,7 @@ msgid ""
 "port>` (multi-threading server) or on the :option:`--gevent-port <odoo-bin --"
 "gevent-port>` (multi-processing server)."
 msgstr ""
-"O servidor cron do Odoo também pode ser usado para atender às solicitações "
+"O servidor cron do Blue Connect também pode ser usado para atender às solicitações "
 "de chat ao vivo. Basta remover a opção :option:`--no-http <odoo-bin --no-"
 "http>` do servidor cron e certificar-se de que as solicitações cujo caminho "
 "começa com ``/websocket/`` sejam direcionadas para esse servidor, seja no "
@@ -6395,7 +6395,7 @@ msgid ""
 "performances, and static files should generally be served by a static HTTP "
 "server."
 msgstr ""
-"Para maior conveniência no desenvolvimento, o Odoo fornece todos os arquivos "
+"Para maior conveniência no desenvolvimento, o Blue Connect fornece todos os arquivos "
 "estáticos e anexos diretamente em seus módulos. Isso pode não ser ideal "
 "quando se trata de desempenho, e os arquivos estáticos geralmente devem ser "
 "fornecidos por um servidor HTTP estático."
@@ -6411,7 +6411,7 @@ msgid ""
 "static/{FILE}`, and looking up the right module (and file) in the various "
 "addons paths."
 msgstr ""
-"Os arquivos estáticos do Odoo estão localizados na pasta :file:`static/` de "
+"Os arquivos estáticos do Blue Connect estão localizados na pasta :file:`static/` de "
 "cada módulo, de modo que os arquivos estáticos podem ser fornecidos "
 "interceptando todas as solicitações para :samp:`/{MODULE}/static/{FILE}` e "
 "procurando o módulo (e o arquivo) correto nos vários caminhos de "
@@ -6459,7 +6459,7 @@ msgid ""
 "Enterprise, and that the :option:`--addons-path <odoo-bin --addons-path>` is "
 "``'/usr/lib/python3/dist-packages/odoo/addons'``."
 msgstr ""
-"Digamos que o Odoo tenha sido instalado pelos **pacotes Debian** para "
+"Digamos que o Blue Connect tenha sido instalado pelos **pacotes Debian** para "
 "Community e Enterprise, e que :option:`--addons-path <odoo-bin --addons-"
 "path>` seja ``'/usr/lib/python3/dist-packages/odoo/addons'```."
 
@@ -6480,7 +6480,7 @@ msgid ""
 "addons-path <odoo-bin --addons-path>` is ``'/opt/odoo/community/odoo/addons,/"
 "opt/odoo/community/addons,/opt/odoo/enterprise'``."
 msgstr ""
-"Digamos que o Odoo tenha sido instalado por **fontes**, que os repositórios "
+"Digamos que o Blue Connect tenha sido instalado por **fontes**, que os repositórios "
 "git Community e Enterprise tenham sido clonados em :file:`/opt/odoo/"
 "community` e :file:`/opt/odoo/enterprise` respectivamente, e que :option:`--"
 "addons-path <odoo-bin --addons-path>` é ``'/opt/odoo/community/odoo/addons,/"
@@ -6498,7 +6498,7 @@ msgid ""
 "are stored and whether the current user can access them or not."
 msgstr ""
 "Os anexos são arquivos armazenados no armazenamento de arquivos cujo acesso "
-"é regulado pelo Odoo. Eles não podem ser acessados diretamente por um "
+"é regulado pelo Blue Connect. Eles não podem ser acessados diretamente por um "
 "servidor da web estático, pois o acesso a eles requer várias pesquisas na "
 "base de dados para determinar onde os arquivos estão armazenados e se o "
 "usuário atual pode acessá-los ou não."
@@ -6516,13 +6516,13 @@ msgid ""
 "and X-Accel)."
 msgstr ""
 "No entanto, uma vez que o arquivo tenha sido localizado e os direitos de "
-"acesso verificados pelo Odoo, é uma boa ideia fornecer o arquivo usando o "
-"servidor da web estático, em vez do Odoo. Para que o Odoo delegue o "
+"acesso verificados pelo Blue Connect, é uma boa ideia fornecer o arquivo usando o "
+"servidor da web estático, em vez do Blue Connect. Para que o Blue Connect delegue o "
 "fornecimento de arquivos ao servidor web estático, as extensões `X-Sendfile "
 "<https://tn123.org/mod_xsendfile/>`_ (apache) ou `X-Accel <https://"
 "www.nginx.com/resources/wiki/start/topics/examples/x-accel/>`_ (nginx) devem "
 "estar ativadas e configuradas no servidor web estático. Depois de "
-"configurado, inicie o Odoo com o sinalizador :option:`--x-sendfile <odoo-bin "
+"configurado, inicie o Blue Connect com o sinalizador :option:`--x-sendfile <odoo-bin "
 "--x-sendfile>` de  CLI (esse sinalizador exclusivo é usado tanto para o X-"
 "Sendfile quanto para o X-Accel)."
 
@@ -6550,8 +6550,8 @@ msgid ""
 "need."
 msgstr ""
 "Caso não saiba qual é o caminho para o seu armazenamento de arquivos, inicie "
-"o Odoo com a opção :option:`--x-sendfile <odoo-bin --x-sendfile>` e navegue "
-"até o URL ``/web/filestore`` diretamente do Odoo (não acesse o URL pelo "
+"o Blue Connect com a opção :option:`--x-sendfile <odoo-bin --x-sendfile>` e navegue "
+"até o URL ``/web/filestore`` diretamente do Blue Connect (não acesse o URL pelo "
 "NGINX). Isso registra um aviso, a mensagem contém a configuração necessária."
 
 #: ../../content/administration/on_premise/deploy.rst:549
@@ -6701,7 +6701,7 @@ msgid ""
 "enable the :option:`proxy mode <odoo-bin --proxy-mode>` option. See "
 "also :ref:`https_proxy`."
 msgstr ""
-"Execute o Odoo em um servidor da web que forneça terminação HTTPS com um "
+"Execute o Blue Connect em um servidor da web que forneça terminação HTTPS com um "
 "certificado SSL válido, para evitar a interceptação de comunicações em texto "
 "simples. Os certificados SSL são baratos e existem muitas opções gratuitas. "
 "Configure o proxy da web para limitar o tamanho das solicitações, defina "
@@ -6769,15 +6769,15 @@ msgid ""
 "0pointer.net/blog/ip-accounting-and-access-lists-with-systemd.html>`_ may "
 "also be useful to implement per-process network access control."
 msgstr ""
-"Se o seu servidor Odoo voltado para o público tiver acesso a recursos ou "
+"Se o seu servidor Blue Connect voltado para o público tiver acesso a recursos ou "
 "serviços de rede interna confidenciais (por exemplo, por uma VLAN privada), "
 "implemente regras de firewall adequadas para proteger esses recursos "
-"internos. Isso garantirá que o servidor Odoo não possa ser usado "
+"internos. Isso garantirá que o servidor Blue Connect não possa ser usado "
 "acidentalmente (ou como resultado de ações maliciosas do usuário) para "
 "acessar ou interromper esses recursos internos. Normalmente, isso pode ser "
 "feito aplicando uma regra DENY padrão de saída no firewall e, então, "
 "autorizando explicitamente somente o acesso aos recursos internos que o "
-"servidor Odoo precisa acessar. O `Controle de acesso ao tráfego IP do "
+"servidor Blue Connect precisa acessar. O `Controle de acesso ao tráfego IP do "
 "sistema <http://0pointer.net/blog/ip-accounting-and-access-lists-with-"
 "systemd.html>`_ também pode ser útil para implementar o controle de acesso à "
 "rede por processo."
@@ -6796,14 +6796,14 @@ msgid ""
 "CloudFlare usually maintain a public list of their IP address ranges for "
 "this purpose."
 msgstr ""
-"Se o seu servidor Odoo voltado para o público estiver atrás de um firewall "
+"Se o seu servidor Blue Connect voltado para o público estiver atrás de um firewall "
 "de aplicativo web, um balanceador de carga, um serviço transparente de "
 "proteção contra DDoS (como o CloudFlare) ou um dispositivo semelhante no "
-"nível da rede, talvez você queira evitar o acesso direto ao sistema Odoo. "
+"nível da rede, talvez você queira evitar o acesso direto ao sistema Blue Connect. "
 "Geralmente, é difícil manter os endereços IP do endpoint de seus servidores "
-"Odoo em segredo. Por exemplo, eles podem aparecer nos registros do servidor "
+"Blue Connect em segredo. Por exemplo, eles podem aparecer nos registros do servidor "
 "da Web ao consultar sistemas públicos ou nos cabeçalhos de e-mails enviados "
-"a partir do Odoo. Em tal situação, pode ser interessante configurar seu "
+"a partir do Blue Connect. Em tal situação, pode ser interessante configurar seu "
 "firewall para que os endpoints não sejam acessíveis publicamente, exceto a "
 "partir dos endereços IP específicos do seu WAF, balanceador de carga ou "
 "serviço de proxy. Provedores de serviços como o CloudFlare geralmente mantêm "
@@ -6834,7 +6834,7 @@ msgid ""
 "hardening review of the server should be conducted and is outside of the "
 "scope of this guide."
 msgstr ""
-"Recomenda-se fortemente a implementação do Odoo no Linux, em vez de no "
+"Recomenda-se fortemente a implementação do Blue Connect no Linux, em vez de no "
 "Windows. Se, mesmo assim, você optar por implementar em uma plataforma "
 "Windows, deverá ser realizada uma revisão completa da solidez da segurança "
 "do servidor, o que está fora do escopo deste guia."
@@ -6852,7 +6852,7 @@ msgid ""
 msgstr ""
 "Em implementações voltadas para a Internet, ataques de força bruta às senhas "
 "dos usuários são muito comuns, e essa ameaça não deve ser negligenciada nos "
-"servidores Odoo. O Odoo emite uma entrada de registro sempre que uma "
+"servidores Blue Connect. O Blue Connect emite uma entrada de registro sempre que uma "
 "tentativa de login é realizada e informa o resultado (sucesso ou falha), "
 "juntamente com o login de destino e o IP de origem."
 
@@ -7010,7 +7010,7 @@ msgid ""
 msgstr ""
 "Pode haver casos em que a senha mestra tenha sido perdida ou comprometida e "
 "precise ser redefinida. O processo a seguir é para administradores do "
-"sistema de uma base de dados local do Odoo, detalhando como redefinir "
+"sistema de uma base de dados local do Blue Connect, detalhando como redefinir "
 "manualmente e criptografar novamente a senha mestra."
 
 #: ../../content/administration/on_premise/deploy.rst:755
@@ -7025,16 +7025,16 @@ msgid ""
 "any Odoo on-premise deployment."
 msgstr ""
 "Ao criar uma nova base de dados no local, é gerada uma senha mestra "
-"aleatória. A Odoo recomenda o uso dessa senha para proteger a base. Essa "
+"aleatória. A Blue Connect recomenda o uso dessa senha para proteger a base. Essa "
 "senha é implementada por padrão, portanto, há uma senha mestra segura para "
-"qualquer implantação local do Odoo."
+"qualquer implantação local do Blue Connect."
 
 #: ../../content/administration/on_premise/deploy.rst:762
 msgid ""
 "When creating an Odoo on-premise database the installation is accessible to "
 "anyone on the internet, until this password is set to secure the database."
 msgstr ""
-"Ao criar uma base de dados do Odoo on-premise, a instalação fica acessível a "
+"Ao criar uma base de dados do Blue Connect on-premise, a instalação fica acessível a "
 "qualquer pessoa na Internet, até que essa senha seja definida para proteger "
 "a base de dados."
 
@@ -7044,7 +7044,7 @@ msgid ""
 "or `odoorc` (hidden file)). The Odoo master password is needed to modify, "
 "create, or delete a database through the graphical user interface (GUI)."
 msgstr ""
-"A senha mestra é especificada no arquivo de configuração do Odoo "
+"A senha mestra é especificada no arquivo de configuração do Blue Connect "
 "(`odoo.conf` ou `odoorc` (arquivo oculto)). Essa senha é necessária para "
 "modificar, criar ou excluir uma base de dados pela interface gráfica do "
 "usuário (GUI)."
@@ -7058,7 +7058,7 @@ msgid ""
 "First, open the Odoo configuration file (`odoo.conf` or `odoorc` (hidden "
 "file))."
 msgstr ""
-"Primeiro, abra o arquivo de configuração do Odoo (`odoo.conf` ou `odoorc` "
+"Primeiro, abra o arquivo de configuração do Blue Connect (`odoo.conf` ou `odoorc` "
 "(arquivo oculto))."
 
 #: ../../content/administration/on_premise/deploy.rst:776
@@ -7081,7 +7081,7 @@ msgid ""
 "\\server\\\\odoo.conf`"
 msgstr ""
 "O arquivo de configuração está localizado em: `c:\\\\ProgramFiles\\"
-"\\Odoo{VERSION}\\\\server\\\\odoo.conf`"
+"\\Blue Connect{VERSION}\\\\server\\\\odoo.conf`"
 
 #: ../../content/administration/on_premise/deploy.rst:780
 #: ../../content/administration/on_premise/packages.rst:25
@@ -7102,7 +7102,7 @@ msgid ""
 "Depending on how Odoo is installed on the Linux machine, the configuration "
 "file is located in one of two different places:"
 msgstr ""
-"Dependendo de como o Odoo está instalado na máquina Linux, o arquivo de "
+"Dependendo de como o Blue Connect está instalado na máquina Linux, o arquivo de "
 "configuração estará localizado em um de dois lugares diferentes:"
 
 #: ../../content/administration/on_premise/deploy.rst:785
@@ -7189,7 +7189,7 @@ msgid ""
 "edit the configuration file. To modify the configuration file, enter the "
 "following command: :command:`sudo nano /etc/odoo.conf`"
 msgstr ""
-"Conecte-se ao terminal do servidor Odoo pelo protocolo Secure Shell (SSH) e "
+"Conecte-se ao terminal do servidor Blue Connect pelo protocolo Secure Shell (SSH) e "
 "edite o arquivo de configuração. Para modificar o arquivo de configuração, "
 "digite o seguinte comando: :command:`sudo nano /etc/odoo.conf`"
 
@@ -7219,7 +7219,7 @@ msgstr ""
 
 #: ../../content/administration/on_premise/deploy.rst:838
 msgid "Restart Odoo server"
-msgstr "Reiniciar o servidor do Odoo"
+msgstr "Reiniciar o servidor do Blue Connect"
 
 #: ../../content/administration/on_premise/deploy.rst:840
 msgid ""
@@ -7227,7 +7227,7 @@ msgid ""
 "**required**."
 msgstr ""
 "Depois de definir a senha temporária, é **necessário** reiniciar o servidor "
-"do Odoo."
+"do Blue Connect."
 
 #: ../../content/administration/on_premise/deploy.rst:846
 msgid ""
@@ -7235,26 +7235,26 @@ msgid ""
 "Windows :guilabel:`Search` bar. Then, select the :guilabel:`Services` "
 "application, and scroll down to the :guilabel:`Odoo` service."
 msgstr ""
-"Para reiniciar o servidor do Odoo, primeiro, digite `serviços` na barra "
+"Para reiniciar o servidor do Blue Connect, primeiro, digite `serviços` na barra "
 "de :guilabel:`pesquisaa` do Windows. Em seguida, selecione o "
 "aplicativo :guilabel:`Serviços` e role para baixo até o "
-"serviço :guilabel:`Odoo`."
+"serviço :guilabel:`Blue Connect`."
 
 #: ../../content/administration/on_premise/deploy.rst:850
 msgid ""
 "Next, right click on :guilabel:`Odoo`, and select :guilabel:`Start` "
 "or :guilabel:`Restart`. This action manually restarts the Odoo server."
 msgstr ""
-"Em seguida, clique com o botão direito do mouse em :guilabel:`Odoo` e "
+"Em seguida, clique com o botão direito do mouse em :guilabel:`Blue Connect` e "
 "selecione :guilabel:`Iniciar` ou :guilabel:`Reiniciar`. Essa ação reinicia "
-"manualmente o servidor do Odoo."
+"manualmente o servidor do Blue Connect."
 
 #: ../../content/administration/on_premise/deploy.rst:855
 msgid ""
 "Restart the Odoo server by typing the command: :command:`sudo service odoo15 "
 "restart`"
 msgstr ""
-"Reinicie o servidor do Odoo digitando o comando: :command:`sudo service "
+"Reinicie o servidor do Blue Connect digitando o comando: :command:`sudo service "
 "odoo15 restart`"
 
 #: ../../content/administration/on_premise/deploy.rst:858
@@ -7312,7 +7312,7 @@ msgid ""
 "For more information on Odoo database security, see this "
 "documentation: :ref:`db_manager_security`."
 msgstr ""
-"Para obter mais informações sobre a segurança da base de dados do Odoo, "
+"Para obter mais informações sobre a segurança da base de dados do Blue Connect, "
 "consulte esta documentação: :ref:`db_manager_security`."
 
 #: ../../content/administration/on_premise/deploy.rst:883
@@ -7344,7 +7344,7 @@ msgid ""
 "to have multiple Odoo installations use the same PostgreSQL database, or to "
 "provide more computing resources to both software."
 msgstr ""
-"para que várias instalações do Odoo usem a mesma base de dados PostgreSQL ou "
+"para que várias instalações do Blue Connect usem a mesma base de dados PostgreSQL ou "
 "para fornecer mais recursos de computação para ambos os softwares."
 
 #: ../../content/administration/on_premise/deploy.rst:896
@@ -7382,8 +7382,8 @@ msgid ""
 "The Odoo mail gateway allows you to inject directly all the received emails "
 "in Odoo."
 msgstr ""
-"O gateway de e-mail do Odoo permite que você injete diretamente todos os e-"
-"mails recebidos no Odoo."
+"O gateway de e-mail do Blue Connect permite que você injete diretamente todos os e-"
+"mails recebidos no Blue Connect."
 
 #: ../../content/administration/on_premise/email_gateway.rst:7
 msgid ""
@@ -7398,7 +7398,7 @@ msgid ""
 "The script takes care of connecting to your Odoo database through XML-RPC, "
 "and send the emails via the `MailThread.message_process()` feature."
 msgstr ""
-"O script cuida da conexão com a base de dados do Odoo por meio de XML-RPC e "
+"O script cuida da conexão com a base de dados do Blue Connect por meio de XML-RPC e "
 "envia os e-mails pelo recurso `MailThread.message_process()`."
 
 #: ../../content/administration/on_premise/email_gateway.rst:14
@@ -7407,7 +7407,7 @@ msgstr "Pré-requisitos"
 
 #: ../../content/administration/on_premise/email_gateway.rst:16
 msgid "Administrator access to the Odoo database."
-msgstr "Acesso de administrador à base de dados do Odoo."
+msgstr "Acesso de administrador à base de dados do Blue Connect."
 
 #: ../../content/administration/on_premise/email_gateway.rst:17
 msgid "Your own mail server such as Postfix or Exim."
@@ -7496,7 +7496,7 @@ msgstr ""
 "Se não quiser localizar a base de dados geoip em :file:`/usr/share/GeoIP/`, "
 "use as opções :option:`--geoip-city-db <odoo-bin --geoip-city-db>` "
 "e :option:`--geoip-country-db <odoo-bin --geoip-country-db>` da interface de "
-"linha de comando do Odoo. Essas opções pegam o caminho absoluto para o "
+"linha de comando do Blue Connect. Essas opções pegam o caminho absoluto para o "
 "arquivo da base de dados GeoIP e o usam como a base de dados GeoIP. Por "
 "exemplo:"
 
@@ -7506,7 +7506,7 @@ msgstr ":doc:`Documentação de CLI </developer/reference/cli>`."
 
 #: ../../content/administration/on_premise/geo_ip.rst:39
 msgid "Test GeoIP geolocation in your Odoo website"
-msgstr "Testar a geolocalização GeoIP no Odoo Site"
+msgstr "Testar a geolocalização GeoIP no Blue Connect Site"
 
 #: ../../content/administration/on_premise/geo_ip.rst:41
 msgid ""
@@ -7564,8 +7564,8 @@ msgid ""
 "start Odoo with the proxy-mode enabled. See :option:`proxy mode <odoo-bin --"
 "proxy-mode>`."
 msgstr ""
-"Está utilizando um reverse-proxy (apache, nginx) à frente do Odoo, mas não "
-"iniciou o Odoo com o modo proxy ativado. Veja :option:`proxy mode <odoo-bin "
+"Está utilizando um reverse-proxy (apache, nginx) à frente do Blue Connect, mas não "
+"iniciou o Blue Connect com o modo proxy ativado. Veja :option:`proxy mode <odoo-bin "
 "--proxy-mode>`."
 
 #: ../../content/administration/on_premise/geo_ip.rst:62
@@ -7586,7 +7586,7 @@ msgid ""
 "(Debian, Ubuntu, etc.), RPM-based Linux distributions (Fedora, CentOS, RHEL, "
 "etc.), and Windows for the Community and Enterprise editions."
 msgstr ""
-"O Odoo fornece instaladores em pacote para distribuições Linux baseadas em "
+"O Blue Connect fornece instaladores em pacote para distribuições Linux baseadas em "
 "Debian (Debian, Ubuntu, etc.), distribuições Linux baseadas em RPM (Fedora, "
 "CentOS, RHEL, etc.) e Windows para as edições Community e Enterprise."
 
@@ -7610,7 +7610,7 @@ msgid ""
 "the `Odoo download page <https://www.odoo.com/page/download>`_."
 msgstr ""
 "Os pacotes oficiais **Community** e **Enterprise** podem ser baixados da "
-"página de download do Odoo <https://www.odoo.com/page/download>`_."
+"página de download do Blue Connect <https://www.odoo.com/page/download>`_."
 
 #: ../../content/administration/on_premise/packages.rst:19
 msgid ""
@@ -7630,7 +7630,7 @@ msgid ""
 "Odoo needs a `PostgreSQL <https://www.postgresql.org/>`_ server to run "
 "properly."
 msgstr ""
-"O Odoo precisa de um servidor `PostgreSQL <https://www.postgresql.org/>`_ "
+"O Blue Connect precisa de um servidor `PostgreSQL <https://www.postgresql.org/>`_ "
 "para ser executado corretamente."
 
 #: ../../content/administration/on_premise/packages.rst:34
@@ -7645,8 +7645,8 @@ msgid ""
 "PostgreSQL server on the same host as the Odoo instance. Execute the "
 "following command to install the PostgreSQL server:"
 msgstr ""
-"A configuração padrão do pacote 'deb' do Odoo é usar o servidor PostgreSQL "
-"no mesmo host que a instância do Odoo. Execute o seguinte comando para "
+"A configuração padrão do pacote 'deb' do Blue Connect é usar o servidor PostgreSQL "
+"no mesmo host que a instância do Blue Connect. Execute o seguinte comando para "
 "instalar o servidor PostgreSQL:"
 
 #: ../../content/administration/on_premise/packages.rst:44
@@ -7688,7 +7688,7 @@ msgid ""
 "Odoo S.A. provides a repository that can be used to install the "
 "**Community** edition by executing the following commands:"
 msgstr ""
-"A Odoo S.A. fornece um repositório que pode ser usado para instalar a edição "
+"A Blue Connect S.A. fornece um repositório que pode ser usado para instalar a edição "
 "**Community** executando os seguintes comandos:"
 
 #: ../../content/administration/on_premise/packages.rst:78
@@ -7712,7 +7712,7 @@ msgid ""
 "<https://www.odoo.com/page/download>`_."
 msgstr ""
 "Em vez de usar o repositório, os pacotes para as edições **Community** e "
-"**Enterprise** podem ser baixados na página de download do `Odoo <https://"
+"**Enterprise** podem ser baixados na página de download do `Blue Connect <https://"
 "www.odoo.com/page/download>`_."
 
 #: ../../content/administration/on_premise/packages.rst:100
@@ -7732,7 +7732,7 @@ msgid ""
 "the server:"
 msgstr ""
 "Após o download, execute os seguintes comandos **como root** para instalar o "
-"Odoo como um serviço, criar o usuário do PostgreSQL necessário e iniciar "
+"Blue Connect como um serviço, criar o usuário do PostgreSQL necessário e iniciar "
 "automaticamente o servidor:"
 
 #: ../../content/administration/on_premise/packages.rst:117
@@ -7756,7 +7756,7 @@ msgid ""
 msgstr ""
 "O pacote Windows é oferecido testar ou executar instâncias locais de usuário "
 "único convenientemente, mas a implementação de produção é desencorajada "
-"devido a diversas limitações e riscos associados à implementação do Odoo em "
+"devido a diversas limitações e riscos associados à implementação do Blue Connect em "
 "uma plataforma Windows."
 
 #: ../../content/administration/on_premise/packages.rst:137
@@ -7767,7 +7767,7 @@ msgid ""
 msgstr ""
 "Faça o download do instalador no `servidor noturno <https://"
 "nightly.odoo.com>`_ (somente para a Community) ou do instalador do Windows "
-"na `página de download do Odoo <https://www.odoo.com/page/download>`_ "
+"na `página de download do Blue Connect <https://www.odoo.com/page/download>`_ "
 "(qualquer edição."
 
 #: ../../content/administration/on_premise/packages.rst:140
@@ -7796,7 +7796,7 @@ msgstr "Siga as etapas de instalação."
 
 #: ../../content/administration/on_premise/packages.rst:149
 msgid "Odoo launches automatically at the end of the installation."
-msgstr "O Odoo é iniciado automaticamente no final da instalação."
+msgstr "O Blue Connect é iniciado automaticamente no final da instalação."
 
 #: ../../content/administration/on_premise/source.rst:3
 msgid "Source install"
@@ -7807,7 +7807,7 @@ msgid ""
 "The source 'installation' is not about installing Odoo but running it "
 "directly from the source instead."
 msgstr ""
-"A 'instalação' de fonte não se trata de instalar o Odoo, mas de executá-lo "
+"A 'instalação' de fonte não se trata de instalar o Blue Connect, mas de executá-lo "
 "diretamente da fonte."
 
 #: ../../content/administration/on_premise/source.rst:8
@@ -7815,7 +7815,7 @@ msgid ""
 "Using the Odoo source can be more convenient for module developers as it is "
 "more easily accessible than using packaged installers."
 msgstr ""
-"Usar a fonte do Odoo pode ser mais conveniente para desenvolvedores de "
+"Usar a fonte do Blue Connect pode ser mais conveniente para desenvolvedores de "
 "módulos, pois é mais fácil de acessar do que pelo uso de instaladores em "
 "pacote."
 
@@ -7826,7 +7826,7 @@ msgid ""
 "settings using :ref:`command-line parameters <reference/cmdline>` without "
 "needing to edit a configuration file."
 msgstr ""
-"Isso torna a inicialização e a interrupção do Odoo mais flexíveis e "
+"Isso torna a inicialização e a interrupção do Blue Connect mais flexíveis e "
 "explícitas do que os serviços configurados pelos instaladores em pacote. "
 "Além disso, permite substituir configurações usando :ref:`parâmetros de "
 "linha de comando <reference/cmdline>` sem a necessidade de editar um arquivo "
@@ -7838,7 +7838,7 @@ msgid ""
 "more easily keep (and run) multiple versions of Odoo side-by-side."
 msgstr ""
 "Por fim, oferece também maior controle sobre a configuração do sistema e "
-"permite manter (e executar) com mais facilidade várias versões do Odoo lado "
+"permite manter (e executar) com mais facilidade várias versões do Blue Connect lado "
 "a lado."
 
 #: ../../content/administration/on_premise/source.rst:19
@@ -7850,7 +7850,7 @@ msgid ""
 "There are two ways to obtain the source code of Odoo: as a ZIP **archive** "
 "or through **Git**."
 msgstr ""
-"Há duas maneiras de obter o código-fonte do Odoo: como um **arquivo ZIP** ou "
+"Há duas maneiras de obter o código-fonte do Blue Connect: como um **arquivo ZIP** ou "
 "pelo **Git**."
 
 #: ../../content/administration/on_premise/source.rst:24
@@ -7864,7 +7864,7 @@ msgstr "Edição Community:"
 #: ../../content/administration/on_premise/source.rst:28
 #: ../../content/administration/on_premise/source.rst:34
 msgid "`Odoo download page <https://www.odoo.com/page/download>`_"
-msgstr "`Página de download do Odoo <https://www.odoo.com/page/download>`_"
+msgstr "`Página de download do Blue Connect <https://www.odoo.com/page/download>`_"
 
 #: ../../content/administration/on_premise/source.rst:29
 msgid "`GitHub Community repository <https://github.com/odoo/odoo>`_"
@@ -7904,7 +7904,7 @@ msgid ""
 msgstr ""
 "Para clonar um repositório Git, escolha entre clonar com HTTPS ou SSH. Na "
 "maioria dos casos, a melhor opção é o HTTPS. No entanto, escolha SSH para "
-"contribuir com o código-fonte do Odoo ou ao seguir o :doc:`tutorial de "
+"contribuir com o código-fonte do Blue Connect ou ao seguir o :doc:`tutorial de "
 "Primeiros passos para desenvolvedores </developer/tutorials/"
 "server_framework_101>`."
 
@@ -7943,12 +7943,12 @@ msgid ""
 "installation."
 msgstr ""
 "**O repositório git do Enterprise não contém o código-fonte completo do "
-"Odoo**. Ele é apenas uma coleção de complementos extras. O código principal "
+"Blue Connect**. Ele é apenas uma coleção de complementos extras. O código principal "
 "do servidor está na edição Community. Executar a versão Enterprise significa "
 "executar o servidor a partir da versão Community com a opção `addons-path` "
 "definida para a pasta com a edição Enterprise. É necessário clonar os "
 "repositórios Community e Enterprise para ter uma instalação funcional do "
-"Odoo Enterprise."
+"Blue Connect Enterprise."
 
 #: ../../content/administration/on_premise/source.rst:119
 msgid "Python"
@@ -7956,7 +7956,7 @@ msgstr "Python"
 
 #: ../../content/administration/on_premise/source.rst:121
 msgid "Odoo requires **Python 3.10** or later to run."
-msgstr "O Odoo requer **Python 3.10** ou posterior para ser executado."
+msgstr "O Blue Connect requer **Python 3.10** ou posterior para ser executado."
 
 #: ../../content/administration/on_premise/source.rst:123
 msgid "Minimum requirement updated from Python 3.7 to Python 3.10."
@@ -7999,7 +7999,7 @@ msgid ""
 "above, as previous versions are not compatible with Odoo."
 msgstr ""
 "Se já houver Python 3 instalado, certifique-se de que a versão seja 3.10 ou "
-"superior, pois as versões anteriores não são compatíveis com o Odoo."
+"superior, pois as versões anteriores não são compatíveis com o Blue Connect."
 
 #: ../../content/administration/on_premise/source.rst:170
 msgid ""
@@ -8011,7 +8011,7 @@ msgstr ""
 #: ../../content/administration/on_premise/source.rst:195
 msgid "Odoo uses PostgreSQL as its database management system."
 msgstr ""
-"O Odoo usa o PostgreSQL como seu sistema de gerenciamento da base de dados."
+"O Blue Connect usa o PostgreSQL como seu sistema de gerenciamento da base de dados."
 
 #: ../../content/administration/on_premise/source.rst:197
 msgid "Minimum requirement updated from PostgreSQL 12 to PostgreSQL 13."
@@ -8051,7 +8051,7 @@ msgid ""
 "By default, the only user is `postgres`. As Odoo forbids connecting as "
 "`postgres`, create a new PostgreSQL user."
 msgstr ""
-"Por padrão, o único usuário é o `postgres`. Como o Odoo proíbe a conexão "
+"Por padrão, o único usuário é o `postgres`. Como o Blue Connect proíbe a conexão "
 "como `postgres`, crie um novo usuário PostgreSQL."
 
 #: ../../content/administration/on_premise/source.rst:239
@@ -8170,8 +8170,8 @@ msgid ""
 "Odoo dependencies are listed in the :file:`requirements.txt` file located at "
 "the root of the Odoo Community directory."
 msgstr ""
-"As dependências do Odoo estão listadas no arquivo :file:`requirements.txt` "
-"localizado na raiz do diretório Odoo Community."
+"As dependências do Blue Connect estão listadas no arquivo :file:`requirements.txt` "
+"localizado na raiz do diretório Blue Connect Community."
 
 #: ../../content/administration/on_premise/source.rst:312
 msgid ""
@@ -8182,8 +8182,8 @@ msgid ""
 "in the :file:`requirements.txt`."
 msgstr ""
 "Os pacotes Python em :file:`requirements.txt` são baseados em suas versões "
-"correspondentes stable/LTS Debian/Ubuntu no momento do lançamento do Odoo. "
-"Por exemplo, para o Odoo 15.0, a versão do pacote `python3-babel` é 2.8.0 no "
+"correspondentes stable/LTS Debian/Ubuntu no momento do lançamento do Blue Connect. "
+"Por exemplo, para o Blue Connect 15.0, a versão do pacote `python3-babel` é 2.8.0 no "
 "Debian Bullseye e 2.6.0 no Ubuntu Focal. A versão mais baixa é então "
 "escolhida no :file:`requirements.txt`."
 
@@ -8197,7 +8197,7 @@ msgid ""
 "Python environments."
 msgstr ""
 "Pode ser preferível não misturar pacotes de módulos Python entre diferentes "
-"instâncias do Odoo ou com o sistema. No entanto, é possível usar o "
+"instâncias do Blue Connect ou com o sistema. No entanto, é possível usar o "
 "`virtualenv <https://pypi.org/project/virtualenv/>`_ para criar ambientes "
 "Python isolados."
 
@@ -8207,7 +8207,7 @@ msgid ""
 "(:file:`CommunityPath`) and run **pip** on the requirements file to install "
 "the requirements for the current user."
 msgstr ""
-"Navegue até o caminho da instalação do Odoo Community "
+"Navegue até o caminho da instalação do Blue Connect Community "
 "(:file:`CommunityPath`) e execute **pip** no arquivo de requisitos para "
 "instalar os requisitos para o usuário atual."
 
@@ -8228,8 +8228,8 @@ msgid ""
 "Odoo dependencies are listed in the `requirements.txt` file located at the "
 "root of the Odoo Community directory."
 msgstr ""
-"As dependências do Odoo estão listadas no arquivo `requirements.txt` "
-"localizado na raiz do diretório Odoo Community."
+"As dependências do Blue Connect estão listadas no arquivo `requirements.txt` "
+"localizado na raiz do diretório Blue Connect Community."
 
 #: ../../content/administration/on_premise/source.rst:345
 msgid ""
@@ -8237,7 +8237,7 @@ msgid ""
 "and run **pip** on the requirements file in a terminal **with Administrator "
 "privileges**:"
 msgstr ""
-"Navegue até o caminho da instalação do Odoo Community (`CommunityPath`) e "
+"Navegue até o caminho da instalação do Blue Connect Community (`CommunityPath`) e "
 "execute **pip** no arquivo de requisitos em um terminal **com privilégios de "
 "administrador**:"
 
@@ -8246,7 +8246,7 @@ msgid ""
 "Navigate to the path of the Odoo Community installation (`CommunityPath`) "
 "and run **pip** on the requirements file:"
 msgstr ""
-"Navegue até o caminho da instalação do Odoo Community (`CommunityPath`) e "
+"Navegue até o caminho da instalação do Blue Connect Community (`CommunityPath`) e "
 "execute **pip** no arquivo de requisitos:"
 
 #: ../../content/administration/on_premise/source.rst:374
@@ -8311,7 +8311,7 @@ msgstr ""
 
 #: ../../content/administration/on_premise/source.rst:431
 msgid "Running Odoo"
-msgstr "Executar o Odoo"
+msgstr "Executar o Blue Connect"
 
 #: ../../content/administration/on_premise/source.rst:433
 msgid ""
@@ -8319,9 +8319,9 @@ msgid ""
 "bin`, the command-line interface of the server. It is located at the root of "
 "the Odoo Community directory."
 msgstr ""
-"Depois que todas as dependências estiverem configuradas, o Odoo poderá ser "
+"Depois que todas as dependências estiverem configuradas, o Blue Connect poderá ser "
 "iniciado executando o `odoo-bin`, a interface de linha de comando do "
-"servidor. Ela está localizada na raiz do diretório Odoo Community."
+"servidor. Ela está localizada na raiz do diretório Blue Connect Community."
 
 #: ../../content/administration/on_premise/source.rst:436
 msgid ""
@@ -8367,7 +8367,7 @@ msgid ""
 "Where `CommunityPath` is the path of the Odoo Community installation, and "
 "`mydb` is the name of the PostgreSQL database."
 msgstr ""
-"Em que `CommunityPath` é o caminho da instalação do Odoo Community e `mydb` "
+"Em que `CommunityPath` é o caminho da instalação do Blue Connect Community e `mydb` "
 "é o nome da base de dados PostgreSQL."
 
 #: ../../content/administration/on_premise/source.rst:470
@@ -8376,7 +8376,7 @@ msgid ""
 "`dbuser` is the PostgreSQL login, `dbpassword` is the PostgreSQL password, "
 "and `mydb` is the name of the PostgreSQL database."
 msgstr ""
-"Em que `CommunityPath` é o caminho da instalação do Odoo Community, `dbuser` "
+"Em que `CommunityPath` é o caminho da instalação do Blue Connect Community, `dbuser` "
 "é o login do PostgreSQL, `dbpassword` é a senha do PostgreSQL e `mydb` é o "
 "nome da base de dados PostgreSQL."
 
@@ -8389,7 +8389,7 @@ msgid ""
 msgstr ""
 "Depois que o servidor for iniciado (o registro INFO `odoo.modules.loading: "
 "Módulos carregados.` é impresso), abra o site http://localhost:8069 em um "
-"navegador da Web e faça login na base de dados do Odoo com a conta de "
+"navegador da Web e faça login na base de dados do Blue Connect com a conta de "
 "administrador da base: use `admin` como e-mail e, novamente, `admin` como "
 "senha."
 
@@ -8406,7 +8406,7 @@ msgid ""
 "The user account used to log into Odoo's web interface differs from "
 "the :option:`--db_user <odoo-bin -r>` CLI argument."
 msgstr ""
-"A conta de usuário usada para fazer login na interface da web do Odoo é "
+"A conta de usuário usada para fazer login na interface da web do Blue Connect é "
 "diferente do argumento de CLI :option:`--db_user <odoo-bin -r>`."
 
 #: ../../content/administration/on_premise/source.rst:494
@@ -8431,7 +8431,7 @@ msgid ""
 msgstr ""
 "Para se beneficiar dos últimos aprimoramentos, correções de segurança, "
 "correções de bugs e melhorias de desempenho, talvez seja necessário "
-"atualizar sua instalação do Odoo de tempos em tempos."
+"atualizar sua instalação do Blue Connect de tempos em tempos."
 
 #: ../../content/administration/on_premise/update.rst:14
 msgid ""
@@ -8439,8 +8439,8 @@ msgid ""
 "infrastructure. If you are using one of the Odoo Cloud solutions, updates "
 "are automatically performed for you."
 msgstr ""
-"Este guia só se aplica quando você estiver usando o Odoo em sua própria "
-"infraestrutura de hospedagem. Se você estiver usando uma das soluções Odoo "
+"Este guia só se aplica quando você estiver usando o Blue Connect em sua própria "
+"infraestrutura de hospedagem. Se você estiver usando uma das soluções Blue Connect "
 "Cloud, as atualizações serão realizadas automaticamente para você."
 
 #: ../../content/administration/on_premise/update.rst:17
@@ -8453,7 +8453,7 @@ msgstr ""
 
 #: ../../content/administration/on_premise/update.rst:25
 msgid "Updating (an Odoo installation)"
-msgstr "Atualização (de uma instalação do Odoo)"
+msgstr "Atualização (de uma instalação do Blue Connect)"
 
 #: ../../content/administration/on_premise/update.rst:21
 msgid ""
@@ -8464,14 +8464,14 @@ msgid ""
 "previous revision of the source code."
 msgstr ""
 "Refere-se ao processo de obtenção da última revisão do código-fonte de sua "
-"edição atual do Odoo. Por exemplo, atualizar seu Odoo Enterprise 13.0 para a "
+"edição atual do Blue Connect. Por exemplo, atualizar seu Blue Connect Enterprise 13.0 para a "
 "revisão mais recente. Isso não causa nenhuma alteração direta no conteúdo da "
-"sua base de dados Odoo e pode ser desfeito com a reinstalação da revisão "
+"sua base de dados Blue Connect e pode ser desfeito com a reinstalação da revisão "
 "anterior do código-fonte."
 
 #: ../../content/administration/on_premise/update.rst:35
 msgid "Upgrading (an Odoo database)"
-msgstr "Upgrade (de uma base de dados do Odoo)"
+msgstr "Upgrade (de uma base de dados do Blue Connect)"
 
 #: ../../content/administration/on_premise/update.rst:28
 msgid ""
@@ -8486,9 +8486,9 @@ msgid ""
 msgstr ""
 "Refere-se a uma operação complexa de processamento de dados em que a "
 "estrutura e o conteúdo da sua base de dados são permanentemente alterados "
-"para torná-los compatível com uma nova versão do Odoo. Essa operação é "
+"para torná-los compatível com uma nova versão do Blue Connect. Essa operação é "
 "irreversível e normalmente é realizada pelo do `serviço de upgrade da base "
-"de dados do Odoo <https://upgrade.odoo.com>`_, quando você decide mudar para "
+"de dados do Blue Connect <https://upgrade.odoo.com>`_, quando você decide mudar para "
 "uma versão mais recente do sistema. Historicamente, esse processo também é "
 "conhecido como \"migração\", pois envolve a movimentação de dados dentro da "
 "base de dados, embora a base de dados possa acabar no mesmo local físico "
@@ -8502,9 +8502,9 @@ msgid ""
 "upgrade.odoo.com>`_ instead."
 msgstr ""
 "Esta página descreve as etapas típicas necessárias para *atualizar* uma "
-"instalação do Odoo para a versão mais recente. Se desejar obter mais "
+"instalação do Blue Connect para a versão mais recente. Se desejar obter mais "
 "informações sobre o upgrade de uma base de dados, visite a página `Upgrade "
-"do Odoo <https://upgrade.odoo.com>`_."
+"do Blue Connect <https://upgrade.odoo.com>`_."
 
 #: ../../content/administration/on_premise/update.rst:43
 msgid "In a nutshell"
@@ -8517,10 +8517,10 @@ msgid ""
 "your data without any alteration, as long as you do not uninstall PostgreSQL "
 "(the database engine that comes with Odoo)."
 msgstr ""
-"Par atualizar o Odoo, basta reinstalar a versão mais recente da sua edição "
-"do Odoo sobre a instalação atual. Isso preservará seus dados sem qualquer "
+"Par atualizar o Blue Connect, basta reinstalar a versão mais recente da sua edição "
+"do Blue Connect sobre a instalação atual. Isso preservará seus dados sem qualquer "
 "alteração, contanto que você não desinstale o PostgreSQL (o mecanismo de "
-"base de dados que vem com o Odoo)."
+"base de dados que vem com o Blue Connect)."
 
 #: ../../content/administration/on_premise/update.rst:49
 msgid ""
@@ -8536,7 +8536,7 @@ msgid ""
 "Odoo initially, because the procedure is very similar."
 msgstr ""
 "Também é apropriado que a atualização seja realizada pela pessoa que "
-"implantou o Odoo inicialmente, pois o procedimento é muito semelhante."
+"implantou o Blue Connect inicialmente, pois o procedimento é muito semelhante."
 
 #: ../../content/administration/on_premise/update.rst:55
 msgid ""
@@ -8547,7 +8547,7 @@ msgid ""
 "prefer to apply minimal changes temporarily while testing a complete update."
 msgstr ""
 "Sempre recomendamos o download de uma nova versão completa e atualizada do "
-"Odoo, em vez de aplicar manualmente patches como os de segurança, que vêm "
+"Blue Connect, em vez de aplicar manualmente patches como os de segurança, que vêm "
 "com os avisos de segurança. Os patches são fornecidos principalmente para "
 "instalações altamente personalizadas ou para a equipe técnica que prefere "
 "aplicar alterações mínimas temporariamente enquanto testa uma atualização "
@@ -8555,7 +8555,7 @@ msgstr ""
 
 #: ../../content/administration/on_premise/update.rst:64
 msgid "Step 1: Download an updated Odoo version"
-msgstr "Etapa 1: Faça o download de uma versão atualizada do Odoo"
+msgstr "Etapa 1: Faça o download de uma versão atualizada do Blue Connect"
 
 #: ../../content/administration/on_premise/update.rst:66
 msgid ""
@@ -8565,9 +8565,9 @@ msgid ""
 "subscription."
 msgstr ""
 "A página central de download é https://www.odoo.com/page/download. Se você "
-"vir um link \"Comprar\" para o download do Odoo Enterprise, verifique se "
-"está conectado ao Odoo.com com o mesmo login vinculado à sua assinatura do "
-"Odoo Enterprise."
+"vir um link \"Comprar\" para o download do Blue Connect Enterprise, verifique se "
+"está conectado ao Blue Connect.com com o mesmo login vinculado à sua assinatura do "
+"Blue Connect Enterprise."
 
 #: ../../content/administration/on_premise/update.rst:70
 msgid ""
@@ -8575,7 +8575,7 @@ msgid ""
 "your Odoo Enterprise purchase confirmation email."
 msgstr ""
 "Como alternativa, você pode usar o link de download exclusivo que foi "
-"incluído no e-mail de confirmação de compra do Odoo Enterprise."
+"incluído no e-mail de confirmação de compra do Blue Connect Enterprise."
 
 #: ../../content/administration/on_premise/update.rst:73
 msgid ""
@@ -8636,13 +8636,13 @@ msgid ""
 "it on top of the current installation. After installing the package, be sure "
 "to restart the Odoo service or reboot your server, and you're all set."
 msgstr ""
-"Se você instalou o Odoo com um pacote de instalação baixado em nosso site (o "
+"Se você instalou o Blue Connect com um pacote de instalação baixado em nosso site (o "
 "método recomendado), a atualização é muito simples. Tudo o que você precisa "
 "fazer é baixar o pacote de instalação correspondente ao seu sistema "
 "(consulte a etapa 1) e instalá-lo em seu servidor. Eles são atualizados "
 "diariamente e incluem as últimas correções de segurança. Normalmente, basta "
 "clicar duas vezes no pacote para instalá-lo sobre a instalação atual. Depois "
-"de instalar o pacote, certifique-se de reiniciar o serviço Odoo ou reiniciar "
+"de instalar o pacote, certifique-se de reiniciar o serviço Blue Connect ou reiniciar "
 "seu servidor, e está tudo pronto."
 
 #: ../../content/administration/on_premise/update.rst:106
@@ -8657,10 +8657,10 @@ msgid ""
 "daily and include the latest security fixes (see step #1) After downloading "
 "the package, extract it to a temporary location on your server."
 msgstr ""
-"Se você instalou originalmente o Odoo com a versão \"tarball\" (arquivo de "
+"Se você instalou originalmente o Blue Connect com a versão \"tarball\" (arquivo de "
 "código-fonte), é necessário substituir o diretório de instalação por uma "
 "versão mais recente. Primeiro, faça o download do tarball mais recente em "
-"Odoo.com. Eles são atualizados diariamente e incluem as últimas correções de "
+"Blue Connect.com. Eles são atualizados diariamente e incluem as últimas correções de "
 "segurança (consulte a etapa 1). Depois de baixar o pacote, extraia-o para um "
 "local temporário em seu servidor."
 
@@ -8676,7 +8676,7 @@ msgid ""
 msgstr ""
 "Você obterá uma pasta rotulada com a versão do código-fonte, por exemplo, "
 "\"odoo-13.0+e.20190719\", que contém uma pasta \"odoo.egg-info\" e a pasta "
-"do código-fonte real denominada \"odoo\" (para o Odoo 10 e posterior) ou "
+"do código-fonte real denominada \"odoo\" (para o Blue Connect 10 e posterior) ou "
 "\"openerp\" para versões mais antigas. Você pode ignorar a pasta odoo.egg-"
 "info. Localize a pasta onde sua instalação atual está implementada e "
 "substitua-a pela pasta \"odoo\" ou \"openerp\" mais recente que estava no "
@@ -8696,7 +8696,7 @@ msgstr ""
 "caminho em que estava antes. Em seguida, preste atenção a quaisquer arquivos "
 "de configuração específicos que você possa ter copiado ou modificado "
 "manualmente na pasta antiga e copie-os para a nova pasta. Por fim, reinicie "
-"o serviço do Odoo ou reinicie a máquina e tudo estará pronto."
+"o serviço do Blue Connect ou reinicie a máquina e tudo estará pronto."
 
 #: ../../content/administration/on_premise/update.rst:126
 msgid "Source Install (Github)"
@@ -8710,10 +8710,10 @@ msgid ""
 "Odoo repository, and the Enterprise repository), and run the following "
 "commands::"
 msgstr ""
-"Se você instalou originalmente o Odoo com um clone completo  dos "
+"Se você instalou originalmente o Blue Connect com um clone completo  dos "
 "repositórios oficiais do Github, o procedimento de atualização exige que "
 "você extraia o código-fonte mais recente via git. Entre no diretório de cada "
-"repositório (o repositório principal do Odoo e o repositório Enterprise) e "
+"repositório (o repositório principal do Blue Connect e o repositório Enterprise) e "
 "execute os seguintes comandos:"
 
 #: ../../content/administration/on_premise/update.rst:136
@@ -8724,7 +8724,7 @@ msgid ""
 "editing them and deciding which part of the code to keep."
 msgstr ""
 "O último comando pode encontrar conflitos de código-fonte, se você tiver "
-"editado o código-fonte do Odoo localmente. A mensagem de erro fornecerá a "
+"editado o código-fonte do Blue Connect localmente. A mensagem de erro fornecerá a "
 "lista de arquivos com conflitos, e você precisará resolvê-los manualmente, "
 "editando-os e decidindo qual parte do código manter."
 
@@ -8740,7 +8740,7 @@ msgstr ""
 msgid ""
 "Finally, restart the Odoo service or reboot the machine, and you should be "
 "done."
-msgstr "Por fim, reinicie o serviço do Odoo ou o computador e e estará pronto."
+msgstr "Por fim, reinicie o serviço do Blue Connect ou o computador e e estará pronto."
 
 #: ../../content/administration/on_premise/update.rst:149
 msgid "Docker"
@@ -8844,7 +8844,7 @@ msgstr ""
 
 #: ../../content/administration/standard_extended_support.rst:51
 msgid "Odoo SaaS 18.2"
-msgstr "Odoo SaaS 18.2"
+msgstr "Blue Connect SaaS 18.2"
 
 #: ../../content/administration/standard_extended_support.rst:55
 msgid "March 2025"
@@ -8852,7 +8852,7 @@ msgstr "Março de 2025"
 
 #: ../../content/administration/standard_extended_support.rst:57
 msgid "**Odoo 18.0**"
-msgstr "**Odoo 18.0**"
+msgstr "**Blue Connect 18.0**"
 
 #: ../../content/administration/standard_extended_support.rst:61
 #: ../../content/administration/standard_extended_support.rst:80
@@ -8865,7 +8865,7 @@ msgstr ""
 
 #: ../../content/administration/standard_extended_support.rst:63
 msgid "**Odoo 17.0**"
-msgstr "**Odoo 17.0**"
+msgstr "**Blue Connect 17.0**"
 
 #: ../../content/administration/standard_extended_support.rst:67
 msgid "November 2023"
@@ -8877,7 +8877,7 @@ msgstr ""
 
 #: ../../content/administration/standard_extended_support.rst:69
 msgid "**Odoo 16.0**"
-msgstr "**Odoo 16.0**"
+msgstr "**Blue Connect 16.0**"
 
 #: ../../content/administration/standard_extended_support.rst:73
 msgid "October 2022"
@@ -8885,7 +8885,7 @@ msgstr "Outubro de 2022"
 
 #: ../../content/administration/standard_extended_support.rst:75
 msgid "**Odoo 15.0**"
-msgstr "**Odoo 15.0**"
+msgstr "**Blue Connect 15.0**"
 
 #: ../../content/administration/standard_extended_support.rst:79
 msgid "October 2021"
@@ -8929,7 +8929,7 @@ msgid ""
 "Depending on the hosting type and Odoo version used, a database upgrade can "
 "be **mandatory**."
 msgstr ""
-"Dependendo do tipo de hospedagem e da versão do Odoo utilizada, um upgrade "
+"Dependendo do tipo de hospedagem e da versão do Blue Connect utilizada, um upgrade "
 "da base de dados pode ser **obrigatória**."
 
 #: ../../content/administration/upgrade.rst:16
@@ -8962,7 +8962,7 @@ msgstr ""
 
 #: ../../content/administration/upgrade.rst:0
 msgid "The \"unsupported version\" popup on Odoo.sh."
-msgstr "O pop-up \"versão não suportada\" no Odoo.sh."
+msgstr "O pop-up \"versão não suportada\" no Blue Connect.sh."
 
 #: ../../content/administration/upgrade.rst:32
 msgid ""
@@ -8998,7 +8998,7 @@ msgid ""
 "the test fails, you can test an upgrade using the `database manager <https://"
 "www.odoo.com/my/databases>`_."
 msgstr ""
-"Concretamente, a equipe de upgrades do Odoo realiza um teste silencioso de "
+"Concretamente, a equipe de upgrades do Blue Connect realiza um teste silencioso de "
 "upgrade de cada base de dados que deve ser atualizado. Se o teste for bem-"
 "sucedido e durar menos de 20 minutos, você poderá acionar diretamente o "
 "upgrade da base de dados. Se o teste falhar, você poderá testar o upgrade "
@@ -9029,7 +9029,7 @@ msgstr "Um upgrade não cobre:"
 
 #: ../../content/administration/upgrade.rst:57
 msgid "Downgrading to a previous version of Odoo"
-msgstr "Fazer downgrade para uma versão anterior do Odoo"
+msgstr "Fazer downgrade para uma versão anterior do Blue Connect"
 
 #: ../../content/administration/upgrade.rst:58
 msgid ""
@@ -9045,11 +9045,11 @@ msgid ""
 "premise to Odoo Online)"
 msgstr ""
 ":doc:`Alteração do tipo de hospedagem <hosting/change-solution>` (ex.: de on-"
-"premise para o Odoo Online)"
+"premise para o Blue Connect Online)"
 
 #: ../../content/administration/upgrade.rst:61
 msgid "Migrating from another ERP to Odoo"
-msgstr "Migração de outro ERP para o Odoo"
+msgstr "Migração de outro ERP para o Blue Connect"
 
 #: ../../content/administration/upgrade.rst:64
 msgid ""
@@ -9062,7 +9062,7 @@ msgid ""
 msgstr ""
 "Se a sua base de dados contiver módulos personalizados, seu upgrade não "
 "poderá ser realizado até que uma versão de seus módulos personalizados "
-"esteja disponível para a versão de destino do Odoo. Para clientes que mantêm "
+"esteja disponível para a versão de destino do Blue Connect. Para clientes que mantêm "
 "seus próprios módulos personalizados, recomendamos paralelizar o processo "
 "ao :ref:`solicitar uma base de dados com upgrade <upgrade-request-test>` "
 "enquanto também :doc:`faz upgrade o código-fonte de seus módulos "
@@ -9087,7 +9087,7 @@ msgid ""
 "upgrade_custom_db`)."
 msgstr ""
 "Se for o caso, faça upgrade do código-fonte de seu módulo personalizado para "
-"que ele seja compatível com a nova versão do Odoo (consulte :doc:`/developer/"
+"que ele seja compatível com a nova versão do Blue Connect (consulte :doc:`/developer/"
 "howtos/upgrade_custom_db`)."
 
 #: ../../content/administration/upgrade.rst:79
@@ -9104,7 +9104,7 @@ msgid ""
 "`Support page and selecting \"An issue related to my future upgrade (I am "
 "testing an upgrade)\" <https://www.odoo.com/help?stage=migration>`_."
 msgstr ""
-"Relate ao Odoo qualquer problema encontrado durante o teste, acessando a "
+"Relate ao Blue Connect qualquer problema encontrado durante o teste, acessando a "
 "página `Suporte e selecionando \"Problema relacionado a um upgrade futuro "
 "(estou testando um upgrade)\" <https://www.odoo.com/help?stage=migration>`_."
 
@@ -9134,7 +9134,7 @@ msgid ""
 "`Support page and selecting \"An issue related to my upgrade (production)\" "
 "<https://www.odoo.com/help?stage=post_upgrade>`_."
 msgstr ""
-"Relate qualquer problema encontrado durante o upgrade para o Odoo acessando "
+"Relate qualquer problema encontrado durante o upgrade para o Blue Connect acessando "
 "a página `Suporte e selecionando \"Problema relacionado ao meu upgrade "
 "(produção)\" <https://www.odoo.com/help?stage=post_upgrade>`_."
 
@@ -9153,8 +9153,8 @@ msgstr ""
 "A `Página de upgrade <https://upgrade.odoo.com/>`_ é a principal plataforma "
 "para solicitar um upgrade da base de dados. No entanto, dependendo do tipo "
 "de hospedagem, você pode fazer upgrade a partir da linha de comando (local), "
-"do `gerenciador de bases de dados do Odoo Online <https://www.odoo.com/my/"
-"databases>`_ ou do seu `projeto do Odoo.sh <https://www.odoo.sh/project>`_."
+"do `gerenciador de bases de dados do Blue Connect Online <https://www.odoo.com/my/"
+"databases>`_ ou do seu `projeto do Blue Connect.sh <https://www.odoo.sh/project>`_."
 
 #: ../../content/administration/upgrade.rst:103
 msgid ""
@@ -9164,9 +9164,9 @@ msgid ""
 "how Odoo handles your data and privacy."
 msgstr ""
 "A plataforma de upgrade segue a mesma `Política de Privacidade <https://"
-"www.odoo.com/privacy>`_ que os outros serviços da Odoo.com. Visite a página "
+"www.odoo.com/privacy>`_ que os outros serviços da Blue Connect.com. Visite a página "
 "`Lei geral de proteção de dados pessoais <https://www.odoo.com/gdpr>`_ para "
-"saber mais sobre como a Odoo lida com seus dados e privacidade."
+"saber mais sobre como a Blue Connect lida com seus dados e privacidade."
 
 #: ../../content/administration/upgrade.rst:111
 msgid "To upgrade an Odoo Online database:"
@@ -9226,11 +9226,11 @@ msgid ""
 "Odoo.sh is integrated with the upgrade platform to simplify the upgrade "
 "process."
 msgstr ""
-"O Odoo.sh é integrado à plataforma de upgrade para simplificar o processo."
+"O Blue Connect.sh é integrado à plataforma de upgrade para simplificar o processo."
 
 #: ../../content/administration/upgrade.rst:0
 msgid "Odoo.sh project and tabs"
-msgstr "Projeto e abas do Odoo.sh"
+msgstr "Projeto e abas do Blue Connect.sh"
 
 #: ../../content/administration/upgrade.rst:139
 msgid ""
@@ -9268,7 +9268,7 @@ msgid ""
 "platform, and the upgrade mode is exited."
 msgstr ""
 "Nas bases de dados com módulos personalizados instalados, o código-fonte "
-"deve estar atualizado com a versão de destino do Odoo antes que o upgrade "
+"deve estar atualizado com a versão de destino do Blue Connect antes que o upgrade "
 "possa ser realizado. Se não houver nenhum, o modo \"atualizar ao fazer "
 "commit\" é ignorado, a base de dados com upgrade é compilada assim que é "
 "transferida da plataforma de upgrade e o modo de upgrade é fechado."
@@ -9355,7 +9355,7 @@ msgid ""
 "more information."
 msgstr ""
 "Nas bases de dados com módulos personalizados instalados, o código-fonte "
-"deve estar atualizado com a versão de destino do Odoo antes que o upgrade "
+"deve estar atualizado com a versão de destino do Blue Connect antes que o upgrade "
 "possa ser realizado. Consulte a página :doc:`/developer/howtos/"
 "upgrade_custom_db` para obter mais informações."
 
@@ -9405,7 +9405,7 @@ msgid ""
 msgstr ""
 "Uma pasta `filestore` que contém arquivos extraídos de registros na base de "
 "dados em anexos (se houver algum) e novos arquivos padrão da versão de "
-"destino do Odoo (por exemplo, novas imagens, ícones, logotipos de provedores "
+"destino do Blue Connect (por exemplo, novas imagens, ícones, logotipos de provedores "
 "de pagamento, etc.). Essa é a pasta que deve ser mesclada com o "
 "armazenamento de arquivos de produção para obter o armazenamento de arquivos "
 "totalmente atualizado."
@@ -9634,7 +9634,7 @@ msgid ""
 "on your use of Odoo."
 msgstr ""
 "Essa lista é **não** exaustiva. Estenda o exemplo para os outros aplicativos "
-"com base no seu uso do Odoo."
+"com base no seu uso do Blue Connect."
 
 #: ../../content/administration/upgrade.rst:280
 msgid ""
@@ -9646,7 +9646,7 @@ msgid ""
 "production database."
 msgstr ""
 "Se você enfrentar um problema ao testar sua base de dados de teste do "
-"upgrade, poderá solicitar a assistência da Odoo acessando a página `Suporte "
+"upgrade, poderá solicitar a assistência da Blue Connect acessando a página `Suporte "
 "e selecionando \"Problema relacionado ao meu upgrade futuro (estou testando "
 "um upgrade)\" <https://www.odoo.com/help?stage=migration>`_. Em qualquer "
 "caso, é essencial relatar qualquer problema encontrado durante o teste para "
@@ -9664,7 +9664,7 @@ msgstr ""
 "campos e modelos padrão durante o teste. Essas alterações não podem ser "
 "revertidas caso a caso. No entanto, se uma alteração introduzida por uma "
 "nova versão interromper uma personalização, é responsabilidade do mantedor "
-"do seu módulo personalizado torná-lo compatível com a nova versão do Odoo."
+"do seu módulo personalizado torná-lo compatível com a nova versão do Blue Connect."
 
 #: ../../content/administration/upgrade.rst:292
 msgid "Do not forget to test:"
@@ -9889,7 +9889,7 @@ msgid ""
 "stage=post_upgrade>`_."
 msgstr ""
 "No caso de um problema com sua base de dados de produção, você pode "
-"solicitar a assistência da Odoo acessando a `Página de Suporte e "
+"solicitar a assistência da Blue Connect acessando a `Página de Suporte e "
 "selecionando \"Um problema relacionado à minha atualização (produção)\" "
 "<https://www.odoo.com/help?stage=post_upgrade>`_."
 
@@ -9903,8 +9903,8 @@ msgid ""
 "Odoo is **free**, including any support required to rectify potential "
 "discrepancies in the upgraded database."
 msgstr ""
-"Com o Odoo Enterprise, o upgrade de uma base de dados para a versão mais "
-"recente do Odoo é **gratuito**, incluindo qualquer suporte necessário para "
+"Com o Blue Connect Enterprise, o upgrade de uma base de dados para a versão mais "
+"recente do Blue Connect é **gratuito**, incluindo qualquer suporte necessário para "
 "corrigir possíveis discrepâncias na base de dados com upgrade."
 
 #: ../../content/administration/upgrade.rst:397
@@ -9914,7 +9914,7 @@ msgid ""
 "However, this section clarifies what upgrade services you can expect."
 msgstr ""
 "As informações sobre os serviços de upgrade incluídos na licença Enterprice "
-"estão disponíveis no :ref:`Contrato de Assinatura Enterprise da Odoo "
+"estão disponíveis no :ref:`Contrato de Assinatura Enterprise da Blue Connect "
 "<upgrade>`. No entanto, esta seção esclarece quais serviços de upgrade você "
 "pode esperar."
 
@@ -9927,8 +9927,8 @@ msgid ""
 "Databases hosted on Odoo's cloud platforms (Odoo Online and Odoo.sh) or self-"
 "hosted (On-Premise) can benefit from upgrade services at all times for:"
 msgstr ""
-"As bases de dados hospedadas nas plataformas de nuvem da Odoo (Odoo Online e "
-"Odoo.sh) ou auto-hospedadas (On-Premise) podem se beneficiar dos serviços de "
+"As bases de dados hospedadas nas plataformas de nuvem da Blue Connect (Blue Connect Online e "
+"Blue Connect.sh) ou auto-hospedadas (On-Premise) podem se beneficiar dos serviços de "
 "upgrade a qualquer momento para:"
 
 #: ../../content/administration/upgrade.rst:409
@@ -9984,7 +9984,7 @@ msgid ""
 msgstr ""
 "o upgrade de **módulos adicionais não cobertos por um contrato de "
 "manutenção** que são criados internamente ou por terceiros, incluindo "
-"parceiros da Odoo; e"
+"parceiros da Blue Connect; e"
 
 #: ../../content/administration/upgrade.rst:428
 msgid "**training** on using the upgraded version's features and workflows."
@@ -9994,7 +9994,7 @@ msgstr ""
 
 #: ../../content/administration/upgrade.rst:431
 msgid ":doc:`Odoo.sh documentation <odoo_sh>`"
-msgstr ":doc:`Documentação do Odoo.sh <odoo_sh>`"
+msgstr ":doc:`Documentação do Blue Connect.sh <odoo_sh>`"
 
 #: ../../content/administration/upgrade.rst:432
 msgid ":doc:`Supported Odoo versions <standard_extended_support>`"

@@ -4,7 +4,7 @@
 # "Tiffany Chang (tic)" <tic@odoo.com>, 2025.
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 14.0\n"
+"Project-Id-Version: Blue Connect 14.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-10-20 14:56+0200\n"
 "PO-Revision-Date: 2025-10-03 15:43+0000\n"
@@ -20,4 +20,4 @@ msgstr ""
 
 #: ../../content/index.rst:5
 msgid "Odoo Documentation"
-msgstr "Documentação do Odoo"
+msgstr "Documentação do Blue Connect"

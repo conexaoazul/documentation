@@ -2,14 +2,15 @@ name: Blue Docs Immutable Image
 
 on:
   pull_request:
-    branches: ["19.0"]
+    branches: ["19.0", "blueconnect"]
   push:
-    branches: ["19.0"]
+    branches: ["19.0", "blueconnect"]
   workflow_dispatch:
 
 permissions:
   contents: read
   packages: write
+  actions: write
 
 concurrency:
   group: blue-docs-image-${{ github.ref }}
@@ -52,7 +53,7 @@ jobs:
           grep -Fq "Commit: ${GITHUB_SHA}" /tmp/blue-source.txt
 
   publish-image:
-    if: github.event_name == 'push' && github.ref == 'refs/heads/19.0'
+    if: (github.event_name == 'push' || github.event_name == 'workflow_dispatch') && (github.ref == 'refs/heads/19.0' || github.ref == 'refs/heads/blueconnect')
     needs: validate-image
     runs-on: ubuntu-latest
     steps:
@@ -66,6 +67,14 @@ jobs:
           username: ${{ github.actor }}
           password: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Set image tags for branch
+        id: tags
+        run: |
+          set -Eeuo pipefail
+          branch="${GITHUB_REF#refs/heads/}"
+          echo "sha_tag=ghcr.io/conexaoazul/odoo-documentation:${branch}-${GITHUB_SHA}" >> "$GITHUB_OUTPUT"
+          echo "float_tag=ghcr.io/conexaoazul/odoo-documentation:${branch}" >> "$GITHUB_OUTPUT"
+
       - name: Build and publish immutable image
         uses: docker/build-push-action@v6
         with:
@@ -75,5 +84,16 @@ jobs:
           build-args: |
             SOURCE_SHA=${{ github.sha }}
           tags: |
-            ghcr.io/conexaoazul/odoo-documentation:19.0-${{ github.sha }}
-            ghcr.io/conexaoazul/odoo-documentation:19.0
+            ${{ steps.tags.outputs.sha_tag }}
+            ${{ steps.tags.outputs.float_tag }}
+
+      - name: Trigger auto-deploy to dev1 (blueconnect only)
+        if: github.ref == 'refs/heads/blueconnect'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -Eeuo pipefail
+          gh workflow run deploy-docs-erp-dev1.yml \
+            --repo conexaoazul/documentation \
+            --ref blueconnect \
+            -f image="ghcr.io/conexaoazul/odoo-documentation:blueconnect-${GITHUB_SHA}"

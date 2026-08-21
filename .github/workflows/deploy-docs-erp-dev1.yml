@@ -4,9 +4,9 @@ on:
   workflow_dispatch:
     inputs:
       image:
-        description: Immutable GHCR image tag to deploy (prefer 19.0-<sha>)
+        description: Immutable GHCR image tag to deploy (prefer blueconnect-<sha>)
         required: true
-        default: "ghcr.io/conexaoazul/odoo-documentation:19.0"
+        default: "ghcr.io/conexaoazul/odoo-documentation:blueconnect"
 
 permissions:
   contents: read
@@ -22,7 +22,7 @@ jobs:
     timeout-minutes: 20
     env:
       DOCS_ERP_PORT: "18081"
-      DOCS_ERP_HOST: docs-erp.conexaoazul.com
+      DOCS_ERP_HOST: documentation.conexaoazul.com
       DOCS_ERP_IMAGE: ${{ github.event.inputs.image }}
     steps:
       - name: Guard requested image
@@ -30,6 +30,7 @@ jobs:
           set -Eeuo pipefail
           case "$DOCS_ERP_IMAGE" in
             ghcr.io/conexaoazul/odoo-documentation:19.0|ghcr.io/conexaoazul/odoo-documentation:19.0-*) ;;
+            ghcr.io/conexaoazul/odoo-documentation:blueconnect|ghcr.io/conexaoazul/odoo-documentation:blueconnect-*) ;;
             *) echo "Refusing unexpected image: $DOCS_ERP_IMAGE" >&2; exit 2 ;;
           esac
 

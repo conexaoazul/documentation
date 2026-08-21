@@ -16,8 +16,8 @@ _logger = logging.getLogger(__name__)
 #=== General configuration ===#
 
 # General information about the project.
-project = 'Odoo'
-copyright = 'Odoo S.A.'
+project = 'Blue Connect'
+copyright = 'Blue Connect (Conexao Azul Digital)'
 
 # `version` is the version info for the project being documented, acts as replacement for |version|,
 # also used in various other places throughout the built documents.
@@ -232,13 +232,13 @@ sphinx.transforms.i18n.docname_to_domain = (
 # option. If a provided version has no label, the version string is used as label.
 versions_names = {
     'master': "Master",
-    '19.0': "Odoo 19",
-    'saas-18.4': "Odoo 18.4",
-    'saas-18.3': "Odoo 18.3",
-    'saas-18.2': "Odoo 18.2",
-    '18.0': "Odoo 18",
-    '17.0': "Odoo 17",
-    '16.0': "Odoo 16",
+    '19.0': "Blue Connect 19",
+    'saas-18.4': "Blue Connect 18.4",
+    'saas-18.3': "Blue Connect 18.3",
+    'saas-18.2': "Blue Connect 18.2",
+    '18.0': "Blue Connect 18",
+    '17.0': "Blue Connect 17",
+    '16.0': "Blue Connect 16",
 }
 
 # The labels used in the language switcher to show the languages provided with the `languages`

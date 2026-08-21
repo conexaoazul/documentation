@@ -5,7 +5,7 @@
 # Weblate <noreply-mt-weblate@weblate.org>, 2025.
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 18.0\n"
+"Project-Id-Version: Blue Connect 18.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-12-19 18:31+0000\n"
 "PO-Revision-Date: 2025-11-19 20:21+0000\n"
@@ -108,12 +108,12 @@ msgid ""
 "For more information, refer to `Odoo's pricing page <https://www.odoo.com/"
 "pricing-plan>`_ or contact your account manager."
 msgstr ""
-"Para obter mais informações, consulte a página de preços da `Odoo <https://"
+"Para obter mais informações, consulte a página de preços da `Blue Connect <https://"
 "www.odoo.com/pricing-plan>`_ ou entre em contato com o gerente da sua conta."
 
 #: ../../content/applications/studio.rst:52
 msgid "`Odoo Tutorials: Studio <https://www.odoo.com/slides/studio-31>`_"
-msgstr "`Tutoriais do Odoo: Estúdio <https://www.odoo.com/slides/studio-31>`_"
+msgstr "`Tutoriais do Blue Connect: Estúdio <https://www.odoo.com/slides/studio-31>`_"
 
 #: ../../content/applications/studio/approval_rules.rst:3
 msgid "Approval rules"
@@ -880,7 +880,7 @@ msgstr ""
 "É *altamente recomendável* consultar um desenvolvedor, arquiteto de soluções "
 "ou outra função técnica ao decidir usar webhooks e durante todo o processo "
 "de implementação. Se não forem configurados corretamente, os webhooks podem "
-"interromper a base de dados do Odoo e levar tempo para serem revertidos."
+"interromper a base de dados do Blue Connect e levar tempo para serem revertidos."
 
 #: ../../content/applications/studio/automated_actions.rst:None
 msgid "Example of a Based on date field trigger"
@@ -2079,7 +2079,7 @@ msgid ""
 "you can choose from 20 fields in Studio, as some field types are available "
 "more than once with a different default widget."
 msgstr ""
-"Do ponto de vista técnico, há 15 tipos de campo no Odoo. No entanto, você "
+"Do ponto de vista técnico, há 15 tipos de campo no Blue Connect. No entanto, você "
 "pode escolher entre 20 campos no Estúdio, pois alguns tipos de campo estão "
 "disponíveis mais de uma vez com um widget padrão diferente."
 
@@ -2164,7 +2164,7 @@ msgid ""
 msgstr ""
 "Isso funciona de forma diferente de selecionar diretamente o "
 "campo :ref:`Imagem <studio/fields/simple-fields-image>`, pois a imagem não é "
-"armazenada no Odoo quando se usa um campo :guilabel:`Texto` com o "
+"armazenada no Blue Connect quando se usa um campo :guilabel:`Texto` com o "
 "widget :guilabel:`Imagem`. Por exemplo, isso pode ser útil se você quiser "
 "economizar espaço em disco."
 
@@ -2178,7 +2178,7 @@ msgid ""
 "Odoo next to the field."
 msgstr ""
 "Marque :guilabel:`Habilitar SMS` para adicionar ao lado do campo uma opção "
-"para enviar um SMS diretamente do Odoo."
+"para enviar um SMS diretamente do Blue Connect."
 
 #: ../../content/applications/studio/fields.rst:55
 msgid ":guilabel:`URL`: the value becomes a clickable URL."
@@ -2328,7 +2328,7 @@ msgid ""
 msgstr ""
 "Quando você adiciona um campo :guilabel:`Monetário` pela primeira vez, é "
 "solicitado que você adicione um campo :guilabel:`Moeda` se ainda não existir "
-"nenhum no modelo. O Odoo oferece adicionar o campo :guilabel:`Moeda`. Depois "
+"nenhum no modelo. O Blue Connect oferece adicionar o campo :guilabel:`Moeda`. Depois "
 "que ele for adicionado, adicione o campo :guilabel:`Monetário` novamente."
 
 #: ../../content/applications/studio/fields.rst:0
@@ -2345,14 +2345,14 @@ msgid ""
 "Odoo HTML editor."
 msgstr ""
 "O campo :guilabel:`Html` é usado para adicionar texto que pode ser editado "
-"usando o editor HTML do Odoo."
+"usando o editor HTML do Blue Connect."
 
 #: ../../content/applications/studio/fields.rst:148
 msgid ""
 ":guilabel:`Multiline Text`: disables the Odoo HTML editor to allow editing "
 "raw HTML."
 msgstr ""
-":guilabel:`Texto multilinha`: desativa o editor HTML do Odoo para permitir a "
+":guilabel:`Texto multilinha`: desativa o editor HTML do Blue Connect para permitir a "
 "edição de HTML bruto."
 
 #: ../../content/applications/studio/fields.rst:0
@@ -3696,7 +3696,7 @@ msgstr ""
 "chamado `studio_customization` é adicionado à base de dados. É possível "
 "exportar esse módulo como um arquivo ZIP, usando a "
 "função :guilabel:`Exportação do Estúdio`. O módulo pode então ser importado "
-"para outra base de dados do Odoo. Isso pode ser útil, por exemplo, ao "
+"para outra base de dados do Blue Connect. Isso pode ser útil, por exemplo, ao "
 "configurar um novo módulo ou para fins de treinamento."
 
 #: ../../content/applications/studio/models_modules_apps.rst:220
@@ -3709,7 +3709,7 @@ msgid ""
 "created."
 msgstr ""
 "Exportar e importar personalizações dessa forma, em vez de usar as "
-"funções :doc:`padrão de exportação e importação do Odoo <../essentials/"
+"funções :doc:`padrão de exportação e importação do Blue Connect <../essentials/"
 "export_import_data>`, significa que os dados são importados de forma lógica. "
 "Por exemplo, se o módulo contiver clientes e pedidos de vendas, os clientes "
 "serão criados primeiro, pois são necessários para que os pedidos de vendas "
@@ -3726,7 +3726,7 @@ msgid ""
 "either:"
 msgstr ""
 "Para exportar as personalizações, clique no botão :icon:`oi-"
-"studio` :guilabel:`(Alternar Estúdio)` no painel principal do Odoo, depois "
+"studio` :guilabel:`(Alternar Estúdio)` no painel principal do Blue Connect, depois "
 "em :guilabel:`Exportar` e, em seguida, em:"
 
 #: ../../content/applications/studio/models_modules_apps.rst:233
@@ -3888,7 +3888,7 @@ msgid ""
 "module."
 msgstr ""
 "Antes de importar, certifique-se de que a base de dados de destino esteja na "
-"mesma versão do Odoo e contenha os mesmos aplicativos e módulos que a base "
+"mesma versão do Blue Connect e contenha os mesmos aplicativos e módulos que a base "
 "de origem. O Estúdio não adiciona os módulos subjacentes como dependências "
 "do módulo exportado."
 
@@ -3896,7 +3896,7 @@ msgstr ""
 msgid "To import and install Studio customizations in another Odoo database:"
 msgstr ""
 "Para importar e instalar as personalizações do Estúdio em outro base de "
-"dados do Odoo:"
+"dados do Blue Connect:"
 
 #: ../../content/applications/studio/models_modules_apps.rst:294
 msgid "Connect to the destination database."
@@ -3908,7 +3908,7 @@ msgid ""
 "Odoo dashboard, then :guilabel:`Import`."
 msgstr ""
 "Clique no botão :icon:`oi-studio` :guilabel:`(Alternar Estúdio)` no painel "
-"principal do Odoo e, em seguida, :guilabel:`Importar`."
+"principal do Blue Connect e, em seguida, :guilabel:`Importar`."
 
 #: ../../content/applications/studio/models_modules_apps.rst:297
 msgid ""
@@ -5069,7 +5069,7 @@ msgid ""
 "in Odoo."
 msgstr ""
 ":guilabel:`Chamar um método`: especifica um método Python existente já "
-"definido no Odoo."
+"definido no Blue Connect."
 
 #: ../../content/applications/studio/views.rst:55
 msgid ""

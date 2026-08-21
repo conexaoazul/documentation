@@ -19,17 +19,22 @@ RUN python -m pip install --upgrade pip \
 
 COPY . .
 RUN make clean \
-    && make html WORKERS=2 CURRENT_LANG=en IS_REMOTE_BUILD=1 CANONICAL_VERSION=19.0 \
+    && make html WORKERS=2 CURRENT_LANG=pt_BR IS_REMOTE_BUILD=1 CANONICAL_VERSION=19.0 \
+    && if [ -d _build/html/pt_BR ]; then \
+         find _build/html -mindepth 1 -maxdepth 1 -not -name pt_BR -exec rm -rf {} + ; \
+         (cd _build/html/pt_BR && find . -mindepth 1 -maxdepth 1 -exec mv {} .. \;) ; \
+         rm -rf _build/html/pt_BR ; \
+       fi \
     && printf '%s\n' \
         'Source: https://github.com/conexaoazul/documentation' \
-        'Branch: 19.0' \
+        'Branch: blueconnect (rebrand of upstream 19.0)' \
         "Commit: ${SOURCE_SHA}" \
-        'License: CC-BY-SA-4.0' \
+        'License: CC-BY-SA-4.0 (original Odoo S.A. documentation, rebranded content)' \
         > _build/html/BLUE_SOURCE.txt
 
 FROM nginx:1.27-alpine
 
-LABEL org.opencontainers.image.title="Conexao Azul Odoo 19 Documentation" \
+LABEL org.opencontainers.image.title="Conexao Azul Blue Connect Documentation (pt_BR)" \
       org.opencontainers.image.source="https://github.com/conexaoazul/documentation" \
       org.opencontainers.image.licenses="CC-BY-SA-4.0"
 

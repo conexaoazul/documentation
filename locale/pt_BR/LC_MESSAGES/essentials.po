@@ -5,7 +5,7 @@
 # Weblate <noreply-mt-weblate@weblate.org>, 2025.
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 18.0\n"
+"Project-Id-Version: Blue Connect 18.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-02-06 18:30+0000\n"
 "PO-Revision-Date: 2025-11-19 20:21+0000\n"
@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../content/applications/essentials.rst:3
 msgid "Odoo essentials"
-msgstr "Noções básicas sobre o Odoo"
+msgstr "Noções básicas sobre o Blue Connect"
 
 #: ../../content/applications/essentials/activities.rst:3
 msgid "Activities"
@@ -31,7 +31,7 @@ msgstr "Atividades"
 msgid "*Activities* are follow-up tasks tied to a record in an Odoo database."
 msgstr ""
 "*Atividades* são tarefas de acompanhamento vinculadas a um registro da base "
-"de dados do Odoo."
+"de dados do Blue Connect."
 
 #: ../../content/applications/essentials/activities.rst:11
 msgid ""
@@ -214,7 +214,7 @@ msgid ""
 "|clock| is visible in the top-right corner of the main menu bar, amongst the "
 "other view option icons."
 msgstr ""
-"A maioria dos aplicativos no Odoo tem uma visualização *Atividade* "
+"A maioria dos aplicativos no Blue Connect tem uma visualização *Atividade* "
 "disponível. Se disponível, um |relógio| fica visível no canto superior "
 "direito da barra de menu principal, entre os outros ícones de opções de "
 "visualização."
@@ -266,7 +266,7 @@ msgid ""
 "consistent throughout Odoo, regardless of the activity type, or the view."
 msgstr ""
 "As cores das atividades e sua relação com o prazo final de uma atividade são "
-"consistentes em todo o Odoo, independentemente do tipo de atividade ou da "
+"consistentes em todo o Blue Connect, independentemente do tipo de atividade ou da "
 "visualização."
 
 #: ../../content/applications/essentials/activities.rst:112
@@ -1230,8 +1230,8 @@ msgid ""
 "created on other apps. Odoo integrates information from every single app, so "
 "there are many smart buttons."
 msgstr ""
-"Ali, o Odoo exibe uma variedade de registros relacionados a esse contato, "
-"que foram criados em outros aplicativos. O Odoo integra informações de todos "
+"Ali, o Blue Connect exibe uma variedade de registros relacionados a esse contato, "
+"que foram criados em outros aplicativos. O Blue Connect integra informações de todos "
 "os aplicativos, portanto, existem muitos botões inteligentes."
 
 #: ../../content/applications/essentials/contacts.rst:224
@@ -1287,7 +1287,7 @@ msgid ""
 "Odoo-built website by clicking the :guilabel:`Go to Website` smart button."
 msgstr ""
 "Se o contato for um parceiro, o usuário poderá visitar a página do parceiro "
-"no site criado pela Odoo clicando no botão inteligente :guilabel:`Ir para o "
+"no site criado pela Blue Connect clicando no botão inteligente :guilabel:`Ir para o "
 "site`."
 
 #: ../../content/applications/essentials/contacts.rst:244
@@ -1349,7 +1349,7 @@ msgid ""
 "`Odoo's eLearning Contacts tutorial <https://www.odoo.com/slides/slide/"
 "contacts-2527?fullscreen=1>`_"
 msgstr ""
-"`Tutorial de contatos de eLearning do Odoo <https://www.odoo.com/slides/"
+"`Tutorial de contatos de eLearning do Blue Connect <https://www.odoo.com/slides/"
 "slide/contacts-2527?fullscreen=1>`_"
 
 #: ../../content/applications/essentials/contacts/merge.rst:3
@@ -1363,7 +1363,7 @@ msgid ""
 "organized, and prevents contacts from being contacted by more than one "
 "salesperson."
 msgstr ""
-"O aplicativo *Contatos* do Odoo permite ao usuário mesclar contatos "
+"O aplicativo *Contatos* do Blue Connect permite ao usuário mesclar contatos "
 "duplicados, sem perder informações no processo. Isso mantém a base de dados "
 "organizada e evita que os contatos sejam contatados por mais de um vendedor."
 
@@ -1550,9 +1550,9 @@ msgid ""
 "reports, or for data modification. This document covers the export and "
 "import of data into and out of Odoo."
 msgstr ""
-"No Odoo, às vezes é necessário exportar ou importar dados para a execução de "
+"No Blue Connect, às vezes é necessário exportar ou importar dados para a execução de "
 "relatórios ou para a modificação de dados. Este documento aborda a "
-"exportação e a importação de dados para e do Odoo."
+"exportação e a importação de dados para e do Blue Connect."
 
 #: ../../content/applications/essentials/export_import_data.rst:9
 msgid ""
@@ -1569,7 +1569,7 @@ msgstr ""
 
 #: ../../content/applications/essentials/export_import_data.rst:16
 msgid "Export data from Odoo"
-msgstr "Exportar dados do Odoo"
+msgstr "Exportar dados do Blue Connect"
 
 #: ../../content/applications/essentials/export_import_data.rst:18
 msgid ""
@@ -1601,7 +1601,7 @@ msgstr ""
 
 #: ../../content/applications/essentials/export_import_data.rst:None
 msgid "Overview of options to consider when exporting data in Odoo."
-msgstr "Visão geral das opções a serem consideradas ao exportar dados no Odoo."
+msgstr "Visão geral das opções a serem consideradas ao exportar dados no Blue Connect."
 
 #: ../../content/applications/essentials/export_import_data.rst:37
 msgid ""
@@ -1679,7 +1679,7 @@ msgstr ""
 
 #: ../../content/applications/essentials/export_import_data.rst:70
 msgid "Import data into Odoo"
-msgstr "Importar dados para o Odoo"
+msgstr "Importar dados para o Blue Connect"
 
 #: ../../content/applications/essentials/export_import_data.rst:72
 msgid ""
@@ -1688,10 +1688,10 @@ msgid ""
 "data>`. The following documentation covers how to import data into an Odoo "
 "database."
 msgstr ""
-"A importação de dados para o Odoo é extremamente útil durante a "
+"A importação de dados para o Blue Connect é extremamente útil durante a "
 "implementação ou em momentos em que os dados precisam ser :ref:`atualizados "
 "em massa <essentials/update-data>`. A documentação a seguir aborda como "
-"importar dados para uma base de dados do Odoo."
+"importar dados para uma base de dados do Blue Connect."
 
 #: ../../content/applications/essentials/export_import_data.rst:77
 msgid ""
@@ -1739,7 +1739,7 @@ msgid ""
 msgstr ""
 "Se a opção :guilabel:`Permitir correspondência com subcampos` for "
 "selecionada, todos os subcampos de um campo serão usados para fazer a "
-"correspondência com o :guilabel:`Campo do Odoo` durante a importação."
+"correspondência com o :guilabel:`Campo do Blue Connect` durante a importação."
 
 #: ../../content/applications/essentials/export_import_data.rst:97
 msgid "Get started"
@@ -1751,7 +1751,7 @@ msgid ""
 "(`.xlsx`) or :abbr:`CSV (Comma-separated Values)` (`.csv`) formats. This "
 "includes: contacts, products, bank statements, journal entries, and orders."
 msgstr ""
-"Os dados podem ser importados em qualquer objeto de negócios do Odoo usando "
+"Os dados podem ser importados em qualquer objeto de negócios do Blue Connect usando "
 "os formatos Excel (`.xlsx`) ou :abbr:`CSV` (`.csv`). Isso inclui: contatos, "
 "produtos, extratos bancários, lançamentos no diário e pedidos."
 
@@ -1799,7 +1799,7 @@ msgid ""
 "appropriate :guilabel:`Odoo Field` and free of errors."
 msgstr ""
 "Certifique-se de que todos os dados na :guilabel:`Coluna de arquivos` "
-"estejam corretamente mapeados para o :guilabel:`campo do Odoo` apropriado e "
+"estejam corretamente mapeados para o :guilabel:`campo do Blue Connect` apropriado e "
 "sem erros."
 
 #: ../../content/applications/essentials/export_import_data.rst:121
@@ -1883,14 +1883,14 @@ msgid ""
 "mapped manually when the import is tested. Search the drop-down menu for the "
 "corresponding field."
 msgstr ""
-"Quando uma nova coluna é adicionada, o Odoo pode não ser capaz de mapeá-la "
-"automaticamente se o seu rótulo não se enquadrar em nenhum campo do Odoo. No "
+"Quando uma nova coluna é adicionada, o Blue Connect pode não ser capaz de mapeá-la "
+"automaticamente se o seu rótulo não se enquadrar em nenhum campo do Blue Connect. No "
 "entanto, novas colunas podem ser mapeadas manualmente quando a importação "
 "for testada. Procure o campo correspondente no menu suspenso."
 
 #: ../../content/applications/essentials/export_import_data.rst:None
 msgid "Drop-down menu expanded in the initial import screen on Odoo."
-msgstr "Menu suspenso expandido na tela inicial de importação no Odoo."
+msgstr "Menu suspenso expandido na tela inicial de importação no Blue Connect."
 
 #: ../../content/applications/essentials/export_import_data.rst:157
 msgid ""
@@ -1946,7 +1946,7 @@ msgid ""
 msgstr ""
 "Para recriar relações entre registros diferentes, o identificador exclusivo "
 "do aplicativo original deve ser usado para mapeá-lo para a "
-"coluna :guilabel:`ID externo` (ID) no Odoo."
+"coluna :guilabel:`ID externo` (ID) no Blue Connect."
 
 #: ../../content/applications/essentials/export_import_data.rst:182
 msgid ""
@@ -1975,7 +1975,7 @@ msgid ""
 "Odoo heuristically tries to find the type of field for each column inside "
 "the imported file, based on the first ten lines of the files."
 msgstr ""
-"Odoo tenta heuristicamente encontrar o tipo de campo para cada coluna dentro "
+"Blue Connect tenta heuristicamente encontrar o tipo de campo para cada coluna dentro "
 "do arquivo importado, com base nas primeiras dez linhas dos arquivos."
 
 #: ../../content/applications/essentials/export_import_data.rst:194
@@ -2023,7 +2023,7 @@ msgid ""
 "difficult to guess which part of a date format is the day, and which part is "
 "the month, in a date, such as `01-03-2016`."
 msgstr ""
-"O Odoo consegue detectar automaticamente se uma coluna é uma data e tenta "
+"O Blue Connect consegue detectar automaticamente se uma coluna é uma data e tenta "
 "adivinhar o formato da data a partir de um conjunto de formatos de data mais "
 "comumente usados. Embora esse processo possa funcionar para muitos formatos "
 "de data, alguns formatos não são reconhecíveis. Isso pode causar confusão, "
@@ -2035,7 +2035,7 @@ msgid ""
 "When importing a :abbr:`CSV (Comma-separated Values)` file, Odoo "
 "provides :guilabel:`Formatting` options."
 msgstr ""
-"Ao importar um arquivo :abbr:`CSV`, o Odoo fornece opções "
+"Ao importar um arquivo :abbr:`CSV`, o Blue Connect fornece opções "
 "de :guilabel:`Formatação`."
 
 #: ../../content/applications/essentials/export_import_data.rst:219
@@ -2045,7 +2045,7 @@ msgid ""
 "file selector. If this format is incorrect, change it to the preferred "
 "format using *ISO 8601* to define the format."
 msgstr ""
-"Para ver qual formato de data o Odoo encontrou no arquivo, verifique "
+"Para ver qual formato de data o Blue Connect encontrou no arquivo, verifique "
 "o :guilabel:`Formato de data` que é mostrado ao clicar em opções no seletor "
 "de arquivos. Se esse formato estiver incorreto, altere-o para o formato "
 "preferido usando *ISO 8601*."
@@ -2068,8 +2068,8 @@ msgid ""
 msgstr ""
 "Ao importar arquivos do Excel (`.xls`, `.xlsx`), considere o uso de *células "
 "de data* para armazenar datas. Isso mantém os formatos de data locais para "
-"exibição, independentemente de como a data é formatada no Odoo. Ao importar "
-"um arquivo :abbr:`CSV`, use a seção :guilabel:`Formatação` do Odoo para "
+"exibição, independentemente de como a data é formatada no Blue Connect. Ao importar "
+"um arquivo :abbr:`CSV`, use a seção :guilabel:`Formatação` do Blue Connect para "
 "selecionar as colunas de formato de data a serem importadas."
 
 #: ../../content/applications/essentials/export_import_data.rst:235
@@ -2084,10 +2084,10 @@ msgid ""
 "currency symbol unknown to Odoo is used, it might not be recognized as a "
 "number, and the import crashes."
 msgstr ""
-"O Odoo suporta totalmente números com parênteses para representar sinais "
-"negativos, bem como números com sinais de moeda anexados a eles. O Odoo "
+"O Blue Connect suporta totalmente números com parênteses para representar sinais "
+"negativos, bem como números com sinais de moeda anexados a eles. O Blue Connect "
 "também detecta automaticamente qual é o separador de milhar/decimal. Se for "
-"usado um símbolo de moeda desconhecido para o Odoo, ele não será reconhecido "
+"usado um símbolo de moeda desconhecido para o Blue Connect, ele não será reconhecido "
 "como um número e a importação falhará."
 
 #: ../../content/applications/essentials/export_import_data.rst:243
@@ -2154,7 +2154,7 @@ msgid ""
 msgstr ""
 "Um :guilabel:`() (parêntese)` ao redor do número indica que o número é um "
 "valor negativo. O símbolo de moeda **deve** ser colocado dentro do parêntese "
-"para que o Odoo o reconheça como um valor de moeda negativo."
+"para que o Blue Connect o reconheça como um valor de moeda negativo."
 
 #: ../../content/applications/essentials/export_import_data.rst:268
 msgid "Import preview table not displayed correctly"
@@ -2184,7 +2184,7 @@ msgid ""
 "following :ref:`Change CSV file format <export_import_data/change-csv>` "
 "section."
 msgstr ""
-"Se o arquivo :abbr:`CSV` tiver uma tabulação como separador, o Odoo **não** "
+"Se o arquivo :abbr:`CSV` tiver uma tabulação como separador, o Blue Connect **não** "
 "detectará as separações. As opções de formato de arquivo precisam ser "
 "modificadas no aplicativo de planilha. Consulte a seguinte "
 "seção :ref:`Alterar formato do arquivo CSV <export_import_data/change-csv>`."
@@ -2204,7 +2204,7 @@ msgid ""
 msgstr ""
 "Ao editar e salvar arquivos :abbr:`CSV` em aplicativos de planilha, as "
 "configurações regionais do computador são aplicadas para o separador e o "
-"delimitador. A Odoo sugere o uso do *OpenOffice* ou do *LibreOffice*, pois "
+"delimitador. A Blue Connect sugere o uso do *OpenOffice* ou do *LibreOffice*, pois "
 "ambos os aplicativos permitem modificações nas três opções (no aplicativo "
 "*LibreOffice*, vá para :menuselection:`caixa de diálogo 'Salvar como' --> "
 "Marque a caixa 'Editar configurações de filtro' --> Salvar`)."
@@ -2231,8 +2231,8 @@ msgid ""
 msgstr ""
 "Alguns campos definem uma relação com outro objeto. Por exemplo, o país de "
 "um contato é um link para um registro do objeto \"País\". Quando esses "
-"campos são importados, o Odoo precisa recriar os links entre os diferentes "
-"registros. Para ajudar a importar esses campos, o Odoo oferece três "
+"campos são importados, o Blue Connect precisa recriar os links entre os diferentes "
+"registros. Para ajudar a importar esses campos, o Blue Connect oferece três "
 "mecanismos."
 
 #: ../../content/applications/essentials/export_import_data.rst:303
@@ -2244,7 +2244,7 @@ msgid ""
 "For example, to reference the country of a contact, Odoo proposes three "
 "different fields to import:"
 msgstr ""
-"Por exemplo, para fazer referência ao país de um contato, o Odoo propõe três "
+"Por exemplo, para fazer referência ao país de um contato, o Blue Connect propõe três "
 "campos diferentes para importar:"
 
 #: ../../content/applications/essentials/export_import_data.rst:307
@@ -2256,7 +2256,7 @@ msgid ""
 ":guilabel:`Country/Database ID`: the unique Odoo ID for a record, defined by "
 "the ID PostgreSQL column"
 msgstr ""
-":guilabel:`País/ID da base de dados`: o ID exclusivo do Odoo para um "
+":guilabel:`País/ID da base de dados`: o ID exclusivo do Blue Connect para um "
 "registro, definido pela coluna ID PostgreSQL"
 
 #: ../../content/applications/essentials/export_import_data.rst:310
@@ -2367,7 +2367,7 @@ msgid ""
 "relations, the records of the related object need to be imported first, from "
 "their own list menu."
 msgstr ""
-"Um objeto Odoo está sempre relacionado a muitos outros objetos (por exemplo, "
+"Um objeto Blue Connect está sempre relacionado a muitos outros objetos (por exemplo, "
 "um produto está vinculado a categorias de produtos, atributos, fornecedores, "
 "etc.). Para importar essas relações, os registros do objeto relacionado "
 "primeiro precisam ser importados a partir de seu próprio menu de lista."
@@ -2402,10 +2402,10 @@ msgstr ""
 "Se, por exemplo, houver duas categorias de produtos com o nome secundário "
 "`Vendável` (por exemplo, `Diversos. Produtos/Vendável` e `Outros produtos/"
 "Vendável`), a validação será interrompida, mas os dados ainda poderão ser "
-"importados. No entanto, a Odoo recomenda que os dados não sejam importados "
+"importados. No entanto, a Blue Connect recomenda que os dados não sejam importados "
 "porque todos eles serão vinculados à primeira categoria `Vendável` "
 "encontrada na lista *Categoria de produto* (`Diversos. Produtos/Vendável`). "
-"Em vez disso, o Odoo recomenda modificar um dos valores da duplicata ou a "
+"Em vez disso, o Blue Connect recomenda modificar um dos valores da duplicata ou a "
 "hierarquia da categoria do produto."
 
 #: ../../content/applications/essentials/export_import_data.rst:363
@@ -2415,7 +2415,7 @@ msgid ""
 "'Category'."
 msgstr ""
 "No entanto, se a empresa não quiser alterar a configuração das categorias de "
-"produtos, o Odoo recomenda o uso do *ID externo* para esse campo, "
+"produtos, o Blue Connect recomenda o uso do *ID externo* para esse campo, "
 "'Categoria'."
 
 #: ../../content/applications/essentials/export_import_data.rst:367
@@ -2552,7 +2552,7 @@ msgid ""
 "check to automatically link the uploaded images to the imported data file. "
 "If there is no match, the data file is imported without any image."
 msgstr ""
-"Clique em :guilabel:`Importar`. Durante o processo de importação, o Odoo "
+"Clique em :guilabel:`Importar`. Durante o processo de importação, o Blue Connect "
 "executa uma verificação de arquivo para vincular automaticamente as imagens "
 "carregadas ao arquivo de dados importado. Se não houver correspondência, o "
 "arquivo de dados será importado sem nenhuma imagem."
@@ -2604,7 +2604,7 @@ msgstr ""
 msgid ""
 "Odoo takes care of creating or modifying each record, depending if it is new "
 "or not."
-msgstr "O Odoo se encarrega de criar ou modificar os registros."
+msgstr "O Blue Connect se encarrega de criar ou modificar os registros."
 
 #: ../../content/applications/essentials/export_import_data.rst:440
 msgid ""
@@ -2612,7 +2612,7 @@ msgid ""
 "modify a batch of records in a spreadsheet application."
 msgstr ""
 "Esse recurso permite que uma empresa use a ferramenta *Importar/Exportar* no "
-"Odoo para modificar um lote de registros em um aplicativo de planilha."
+"Blue Connect para modificar um lote de registros em um aplicativo de planilha."
 
 #: ../../content/applications/essentials/export_import_data.rst:444
 msgid "Value not provided for a specific field"
@@ -2628,7 +2628,7 @@ msgstr ""
 
 #: ../../content/applications/essentials/export_import_data.rst:451
 msgid "Export/import different tables from an SQL application to Odoo"
-msgstr "Exportar/importar tabelas diferentes de um aplicativo SQL para o Odoo"
+msgstr "Exportar/importar tabelas diferentes de um aplicativo SQL para o Blue Connect"
 
 #: ../../content/applications/essentials/export_import_data.rst:453
 msgid ""
@@ -2652,7 +2652,7 @@ msgid ""
 "of '1')"
 msgstr ""
 "Para gerenciar relações entre tabelas, use os recursos de `ID externo` do "
-"Odoo. O `ID externo` de um registro é o identificador exclusivo desse "
+"Blue Connect. O `ID externo` de um registro é o identificador exclusivo desse "
 "registro em outro aplicativo. O `ID externo` deve ser único em todos os "
 "registros de todos os objetos. É uma boa prática prefixar esse `ID externo` "
 "com o nome do aplicativo ou da tabela. (por exemplo, 'empresa_1', 'pessoa_1' "
@@ -2727,7 +2727,7 @@ msgid ""
 "contacts are linked to the first company). Keep in mind to first import the "
 "companies, and then the people."
 msgstr ""
-"Os dois arquivos produzidos estão prontos para serem importados para o Odoo "
+"Os dois arquivos produzidos estão prontos para serem importados para o Blue Connect "
 "sem nenhuma modificação. Depois de importar esses dois arquivos :abbr:`CSV`, "
 "há quatro contatos e três empresas (os dois primeiros contatos estão "
 "vinculados à primeira empresa). Lembre-se de importar primeiro as empresas e "
@@ -2735,7 +2735,7 @@ msgstr ""
 
 #: ../../content/applications/essentials/export_import_data.rst:515
 msgid "Update data in Odoo"
-msgstr "Atualizar dados no Odoo"
+msgstr "Atualizar dados no Blue Connect"
 
 #: ../../content/applications/essentials/export_import_data.rst:517
 msgid ""
@@ -2825,7 +2825,7 @@ msgstr ""
 
 #: ../../content/applications/essentials/html_editor.rst:5
 msgid "Odoo rich-text editor"
-msgstr "Editor de rich-text do Odoo"
+msgstr "Editor de rich-text do Blue Connect"
 
 #: ../../content/applications/essentials/html_editor.rst:7
 msgid ""
@@ -3625,14 +3625,14 @@ msgid ""
 "iap/all-in-app-services>`_."
 msgstr ""
 "As compras no aplicativo (IAP) são serviços opcionais que aprimoram as bases "
-"de dados do Odoo. Cada serviço oferece seus próprios recursos e "
+"de dados do Blue Connect. Cada serviço oferece seus próprios recursos e "
 "funcionalidades específicos. Uma lista completa de serviços está disponível "
-"no `Catálogo de IAPs do Odoo <https://iap.odoo.com/iap/all-in-app-"
+"no `Catálogo de IAPs do Blue Connect <https://iap.odoo.com/iap/all-in-app-"
 "services>`_."
 
 #: ../../content/applications/essentials/in_app_purchase.rst:None
 msgid "The IAP catalog with various services available on IAP.Odoo.com."
-msgstr "O catálogo de IAPs com vários serviços disponíveis em IAP.Odoo.com."
+msgstr "O catálogo de IAPs com vários serviços disponíveis em IAP.Blue Connect.com."
 
 #: ../../content/applications/essentials/in_app_purchase.rst:15
 msgid ""
@@ -3655,7 +3655,7 @@ msgid ""
 "**must** :ref:`buy more <iap/buying_credits>` in order to keep using it."
 msgstr ""
 "Os serviços |IAP| não precisam ser configurados ou definidos antes do uso. "
-"Os usuários do Odoo podem clicar no serviço no aplicativo para ativá-lo. No "
+"Os usuários do Blue Connect podem clicar no serviço no aplicativo para ativá-lo. No "
 "entanto, cada serviço requer seus próprios créditos pré-pagos e, quando eles "
 "se esgotam, os usuários **devem** :ref:`comprar mais <iap/buying_credits>` "
 "para continuar a usá-lo."
@@ -3667,7 +3667,7 @@ msgid ""
 "includes demo/training databases, educational databases, and one-app-free "
 "databases."
 msgstr ""
-"Os usuários do Odoo Enterprise com uma assinatura válida recebem créditos "
+"Os usuários do Blue Connect Enterprise com uma assinatura válida recebem créditos "
 "gratuitos para testar os recursos de IAP antes de decidir comprar mais "
 "créditos para o base de dados. Isso inclui bases de dados de demonstração/"
 "treinamento, bases educacionais e bases um-app-grátis."
@@ -3681,12 +3681,12 @@ msgid ""
 "|IAP| services are provided by Odoo, as well as third-parties, and have a "
 "wide range of uses."
 msgstr ""
-"Os serviços |IAP| são fornecidos pela Odoo, bem como por terceiros, e têm "
+"Os serviços |IAP| são fornecidos pela Blue Connect, bem como por terceiros, e têm "
 "uma ampla gama de usos."
 
 #: ../../content/applications/essentials/in_app_purchase.rst:35
 msgid "The following |IAP| services are offered by Odoo:"
-msgstr "Os seguintes serviços |IAP| são fornecidos pelo Odoo:"
+msgstr "Os seguintes serviços |IAP| são fornecidos pelo Blue Connect:"
 
 #: ../../content/applications/essentials/in_app_purchase.rst:37
 msgid ""
@@ -3736,7 +3736,7 @@ msgid ""
 "Netherlands."
 msgstr ""
 ":guilabel:`Signer identification with itsme®`: Ask document signatories in "
-"Odoo **Sign** to provide their identity using the *itsme* :icon:`fa-"
+"Blue Connect **Sign** to provide their identity using the *itsme* :icon:`fa-"
 "registered` identity platform, which is available in Belgium and the "
 "Netherlands."
 
@@ -3747,8 +3747,8 @@ msgid ""
 "iap.odoo.com/iap/all-in-app-services>`_."
 msgstr ""
 "Para obter mais informações sobre todos os serviços disponíveis atualmente "
-"(oferecidos por outros desenvolvedores que não o Odoo), visite o `Catálogo "
-"de IAP do Odoo <https://iap.odoo.com/iap/all-in-app-services>`_."
+"(oferecidos por outros desenvolvedores que não o Blue Connect), visite o `Catálogo "
+"de IAP do Blue Connect <https://iap.odoo.com/iap/all-in-app-services>`_."
 
 #: ../../content/applications/essentials/in_app_purchase.rst:52
 msgid "Use IAP services"
@@ -3760,7 +3760,7 @@ msgid ""
 "require users to configure any settings. To use a service, interact with it "
 "wherever it appears in the database."
 msgstr ""
-"Os serviços |IAP| são automaticamente integrados ao Odoo e **não** exigem "
+"Os serviços |IAP| são automaticamente integrados ao Blue Connect e **não** exigem "
 "que os usuários definam nenhuma configuração. Para usar um serviço, basta "
 "interagir com ele onde quer que apareça na base de dados."
 
@@ -3786,14 +3786,14 @@ msgid ""
 "database."
 msgstr ""
 "O ícone de SMS em um formulário típico de informações de contato localizado "
-"em uma base de dados Odoo."
+"em uma base de dados Blue Connect."
 
 #: ../../content/applications/essentials/in_app_purchase.rst:65
 msgid ""
 "One way to utilize the *SMS* |IAP| service with Odoo is showcased in the "
 "following steps:"
 msgstr ""
-"Uma maneira de utilizar o serviço *SMS* |IAP| com o Odoo é apresentada nas "
+"Uma maneira de utilizar o serviço *SMS* |IAP| com o Blue Connect é apresentada nas "
 "seguintes etapas:"
 
 #: ../../content/applications/essentials/in_app_purchase.rst:67
@@ -3826,7 +3826,7 @@ msgid ""
 "form."
 msgstr ""
 "Digite uma mensagem no campo :guilabel:`Mensagem` da janela pop-up. Em "
-"seguida, clique no botão :guilabel:`Enviar SMS`. O Odoo então envia a "
+"seguida, clique no botão :guilabel:`Enviar SMS`. O Blue Connect então envia a "
 "mensagem para o contato por SMS e registra o que foi enviado no *chatter* do "
 "formulário do contato."
 
@@ -3839,7 +3839,7 @@ msgid ""
 msgstr ""
 "Ao enviar a mensagem SMS, os créditos pré-pagos pelo serviço |IAP| de *SMS* "
 "são automaticamente deduzidos dos créditos existentes. Se não houver "
-"créditos suficientes para enviar a mensagem, o Odoo solicitará que o usuário "
+"créditos suficientes para enviar a mensagem, o Blue Connect solicitará que o usuário "
 "compre mais."
 
 #: ../../content/applications/essentials/in_app_purchase.rst:84
@@ -3850,7 +3850,7 @@ msgid ""
 msgstr ""
 "Para obter mais informações sobre como usar vários serviços |IAP| e para "
 "obter instruções mais detalhadas relacionadas à funcionalidade de SMS no "
-"Odoo, consulte a documentação abaixo:"
+"Blue Connect, consulte a documentação abaixo:"
 
 #: ../../content/applications/essentials/in_app_purchase.rst:87
 msgid ":doc:`Lead mining <../sales/crm/acquire_leads/lead_mining>`"
@@ -3880,7 +3880,7 @@ msgid ""
 "set up for when :ref:`credits are low <in_app_purchase/low-credits>`."
 msgstr ""
 "Toda vez que um serviço |IAP| é usado, os créditos pré-pagos desse serviço "
-"são gastos. O Odoo solicita a compra de mais créditos quando não há créditos "
+"são gastos. O Blue Connect solicita a compra de mais créditos quando não há créditos "
 "suficientes para continuar usando um serviço. Também é possível configurar "
 "alertas de e-mail para quando :ref:`os créditos estiverem baixos "
 "<in_app_purchase/low-credits>`."
@@ -3891,7 +3891,7 @@ msgid ""
 "iap.odoo.com/iap/all-in-app-services>`_, and pricing is specific to each "
 "service."
 msgstr ""
-"Os créditos são comprados em *Pacotes* no `Catálogo de IAPs do Odoo <https://"
+"Os créditos são comprados em *Pacotes* no `Catálogo de IAPs do Blue Connect <https://"
 "iap.odoo.com/iap/all-in-app-services>`_, e o preço é específico de cada "
 "serviço."
 
@@ -3960,7 +3960,7 @@ msgid ""
 msgstr ""
 "Os usuários podem verificar o saldo atual de créditos para cada serviço e "
 "comprar manualmente mais créditos, navegando até a seção :menuselection:`app "
-"Definições --> Contatos` e, abaixo da configuração :guilabel:`IAP do Odoo`, "
+"Definições --> Contatos` e, abaixo da configuração :guilabel:`IAP do Blue Connect`, "
 "clique em :guilabel:`Ver meus serviços`."
 
 #: ../../content/applications/essentials/in_app_purchase.rst:133
@@ -3981,7 +3981,7 @@ msgstr "Comprar créditos manualmente"
 
 #: ../../content/applications/essentials/in_app_purchase.rst:140
 msgid "To manually buy credits in Odoo, follow these steps:"
-msgstr "Para comprar créditos manualmente no Odoo, siga estas etapas:"
+msgstr "Para comprar créditos manualmente no Blue Connect, siga estas etapas:"
 
 #: ../../content/applications/essentials/in_app_purchase.rst:142
 msgid ""
@@ -3993,14 +3993,14 @@ msgstr ""
 "Primeiro, vá até o aplicativo :menuselection:`Definições` e digite `IAP` na "
 "barra de pesquisa. Como alternativa, os usuários podem rolar a tela para "
 "baixo até a seção :guilabel:`Contatos`. Na seção :guilabel:`Contatos`, onde "
-"está escrito :guilabel:`IAP do Odoo`, clique em :guilabel:`Ver meus "
+"está escrito :guilabel:`IAP do Blue Connect`, clique em :guilabel:`Ver meus "
 "serviços`."
 
 #: ../../content/applications/essentials/in_app_purchase.rst:None
 msgid ""
 "The Settings app showing the Odoo IAP heading and View My Services button."
 msgstr ""
-"O aplicativo Definições mostrando o cabeçalho IAP do Odoo e o botão Ver meus "
+"O aplicativo Definições mostrando o cabeçalho IAP do Blue Connect e o botão Ver meus "
 "serviços."
 
 #: ../../content/applications/essentials/in_app_purchase.rst:150
@@ -4035,7 +4035,7 @@ msgid ""
 "The SMS service page on IAP.Odoo.com with four packs of credits available "
 "for purchase."
 msgstr ""
-"A página do serviço de SMS no IAP.Odoo.com com quatro pacotes de créditos "
+"A página do serviço de SMS no IAP.Blue Connect.com com quatro pacotes de créditos "
 "disponíveis para compra."
 
 #: ../../content/applications/essentials/in_app_purchase.rst:162
@@ -4068,7 +4068,7 @@ msgid ""
 msgstr ""
 "Vá para o aplicativo :menuselection:`Definições` e digite `IAP` na barra de "
 "pesquisa. Na seção :guilabel:`Contatos`, onde está escrito :guilabel:`IAP do "
-"Odoo`, clique em :guilabel:`Ver meus serviços`."
+"Blue Connect`, clique em :guilabel:`Ver meus serviços`."
 
 #: ../../content/applications/essentials/in_app_purchase.rst:176
 msgid ""
@@ -4101,7 +4101,7 @@ msgid ""
 "Users in Odoo can utilize several keyboard shortcuts to navigate through "
 "modules, execute actions, and manage data."
 msgstr ""
-"Os usuários do Odoo podem utilizar vários atalhos de teclado para navegar "
+"Os usuários do Blue Connect podem utilizar vários atalhos de teclado para navegar "
 "pelos módulos, executar ações e gerenciar dados."
 
 #: ../../content/applications/essentials/keyboard_shortcuts.rst:9
@@ -4114,7 +4114,7 @@ msgstr ""
 
 #: ../../content/applications/essentials/keyboard_shortcuts.rst:0
 msgid "A selection of keyboard shortcuts in Odoo."
-msgstr "Uma seleção de atalhos de teclado no Odoo."
+msgstr "Uma seleção de atalhos de teclado no Blue Connect."
 
 #: ../../content/applications/essentials/keyboard_shortcuts.rst:16
 msgid ""
@@ -4122,7 +4122,7 @@ msgid ""
 "or effective depending on browsers, extensions, or other individual settings."
 msgstr ""
 "Alguns atalhos de teclado podem não estar disponíveis em diferentes versões "
-"do Odoo ou não ser eficazes, dependendo dos navegadores, extensões ou outras "
+"do Blue Connect ou não ser eficazes, dependendo dos navegadores, extensões ou outras "
 "configurações individuais."
 
 #: ../../content/applications/essentials/keyboard_shortcuts.rst:20
@@ -4135,7 +4135,7 @@ msgid ""
 "Odoo, listed by operating system."
 msgstr ""
 "Abaixo está uma lista de alguns dos atalhos de teclado mais comumente usados "
-"no Odoo, listados por sistema operacional."
+"no Blue Connect, listados por sistema operacional."
 
 #: ../../content/applications/essentials/keyboard_shortcuts.rst:29
 msgid "Description"
@@ -4175,7 +4175,7 @@ msgstr ":kbd:`Ctrl` + :kbd:`C`"
 
 #: ../../content/applications/essentials/keyboard_shortcuts.rst:38
 msgid "Odoo Home Page"
-msgstr "Página inicial Odoo"
+msgstr "Página inicial Blue Connect"
 
 #: ../../content/applications/essentials/keyboard_shortcuts.rst:39
 msgid ":kbd:`Alt` + :kbd:`H`"
@@ -4343,7 +4343,7 @@ msgstr ""
 #: ../../content/applications/essentials/keyboard_shortcuts.rst:0
 msgid "The command palette in Odoo, with the menu search option selected."
 msgstr ""
-"A paleta de comandos no Odoo, com a opção de pesquisa de menu selecionada."
+"A paleta de comandos no Blue Connect, com a opção de pesquisa de menu selecionada."
 
 #: ../../content/applications/essentials/property_fields.rst:3
 msgid "Property fields"
@@ -4957,7 +4957,7 @@ msgid ""
 "several views are available for others. However, two generic views are "
 "dedicated to reporting: the graph and pivot views."
 msgstr ""
-"Dependendo do relatório, o Odoo pode exibir os dados de várias maneiras. Às "
+"Dependendo do relatório, o Blue Connect pode exibir os dados de várias maneiras. Às "
 "vezes, há uma visualização exclusiva totalmente adaptada ao relatório "
 "disponível, enquanto diversas visualizações estão disponíveis para outros. "
 "No entanto, duas visualizações genéricas são dedicadas a relatórios: as "
@@ -5034,7 +5034,7 @@ msgid ""
 "measured. In addition, the :guilabel:`Count` option is used to count the "
 "total number of filtered records."
 msgstr ""
-"When you select a measure, Odoo aggregates the values recorded on that field "
+"When you select a measure, Blue Connect aggregates the values recorded on that field "
 "for the filtered records. Only numerical fields (:ref:`integer <studio/"
 "fields/simple-fields-integer>`, :ref:`decimal <studio/fields/simple-fields-"
 "decimal>`, :ref:`monetary <studio/fields/simple-fields-monetary>`) can be "
@@ -5293,7 +5293,7 @@ msgid ""
 "the :ref:`Filter <search/filters>`, :ref:`Group By <search/group>`, "
 "and :ref:`Favorites <search/favorites>` drop-down menus."
 msgstr ""
-"O Odoo permite pesquisar, a filtrar e o agrupar registros em uma "
+"O Blue Connect permite pesquisar, a filtrar e o agrupar registros em uma "
 "visualização para exibir apenas os mais relevantes. A barra de pesquisa está "
 "localizada na parte superior da visualização, comece a digitar "
 "para :ref:`buscar valores <search/values>`, ou clique no ícone  :icon:`fa-"
@@ -6092,7 +6092,7 @@ msgstr "Escolha um :guilabel:`Nome` para o novo estágio."
 
 #: ../../content/applications/essentials/stages.rst:None
 msgid "View of a stage's settings page in Odoo Helpdesk."
-msgstr "Visão da página de definições de estágios da Central de Ajuda do Odoo."
+msgstr "Visão da página de definições de estágios da Central de Ajuda do Blue Connect."
 
 #: ../../content/applications/essentials/stages.rst:44
 msgid "Rotting lead detection"
@@ -6244,7 +6244,7 @@ msgstr ""
 #: ../../content/applications/essentials/stages.rst:None
 msgid "View of an SMS template setup page in Odoo Helpdesk."
 msgstr ""
-"Visão de uma página de configuração de modelo de SMS no Odoo Central de "
+"Visão de uma página de configuração de modelo de SMS no Blue Connect Central de "
 "Ajuda."
 
 #: ../../content/applications/essentials/stages.rst:116

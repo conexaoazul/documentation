@@ -17,7 +17,7 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 14.0\n"
+"Project-Id-Version: Blue Connect 14.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-02-06 18:30+0000\n"
 "PO-Revision-Date: 2025-11-19 20:20+0000\n"
@@ -2148,10 +2148,10 @@ msgid ""
 "schedule and organize meetings, schedule events, plan employee appraisals, "
 "coordinate projects, and more – all from the same platform."
 msgstr ""
-"O Odoo **Calendário** é um aplicativo de agendamento que permite aos "
+"O Blue Connect **Calendário** é um aplicativo de agendamento que permite aos "
 "usuários integrar o fluxo de negócios de uma empresa em uma única plataforma "
 "de gerenciamento. Ao se integrar com outros aplicativos do ecossistema do "
-"Odoo, o **Calendário** permite que os usuários agendem e organizem reuniões, "
+"Blue Connect, o **Calendário** permite que os usuários agendem e organizem reuniões, "
 "programem eventos, planejem avaliações de funcionários, coordenem projetos e "
 "muito mais - tudo a partir da mesma plataforma."
 
@@ -2198,7 +2198,7 @@ msgid ""
 "option to pause synchronization by ticking the checkbox, or automating "
 "synchronization by keeping it blank."
 msgstr ""
-"Os usuários podem sincronizar o Odoo com os calendários existentes "
+"Os usuários podem sincronizar o Blue Connect com os calendários existentes "
 "do :doc:`Outlook <calendar/outlook>` e/ou :doc:`Google <calendar/google>`, "
 "indo até :menuselection:`app Calendário --> Configuração --> Definições`. A "
 "partir daí, insira o :guilabel:`ID do cliente` e o :guilabel:`Cliente "
@@ -2224,11 +2224,11 @@ msgstr ""
 #: ../../content/applications/productivity/calendar.rst:39
 msgid ":doc:`Synchronize Outlook calendar with Odoo <calendar/outlook>`"
 msgstr ""
-":doc:`Sincronizar o calendário do Outlook com o Odoo <calendar/outlook>`"
+":doc:`Sincronizar o calendário do Outlook com o Blue Connect <calendar/outlook>`"
 
 #: ../../content/applications/productivity/calendar.rst:40
 msgid ":doc:`Synchronize Google calendar with Odoo <calendar/google>`"
-msgstr ":doc:`Sincronizar o calendário do Google com o Odoo <calendar/google>`"
+msgstr ":doc:`Sincronizar o calendário do Google com o Blue Connect <calendar/google>`"
 
 #: ../../content/applications/productivity/calendar.rst:43
 msgid "Create activities from chatter"
@@ -2240,7 +2240,7 @@ msgid ""
 "record's chatter, like in a **CRM** opportunity card or task in the "
 "**Projects** app."
 msgstr ""
-"Crie instantaneamente novas reuniões em qualquer lugar do Odoo pelo chatter "
+"Crie instantaneamente novas reuniões em qualquer lugar do Blue Connect pelo chatter "
 "de um registro individual, como em um cartão de oportunidade do **CRM** ou "
 "tarefa no aplicativo **Projetos**."
 
@@ -2276,7 +2276,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/calendar.rst:59
 msgid ":doc:`Schedule activities in Odoo <../essentials/activities>`"
-msgstr ":doc:`Agendar atividades no Odoo <../essentials/activities>`"
+msgstr ":doc:`Agendar atividades no Blue Connect <../essentials/activities>`"
 
 #: ../../content/applications/productivity/calendar.rst:62
 msgid "Plan an event"
@@ -2347,7 +2347,7 @@ msgid ""
 msgstr ""
 "Para reuniões virtuais, copie e cole o URL no espaço fornecido no "
 "campo :guilabel:`URL da videochamada`. Ou clique em :icon:`fa-"
-"plus` :guilabel:`Reunião no Odoo` para criar um link."
+"plus` :guilabel:`Reunião no Blue Connect` para criar um link."
 
 #: ../../content/applications/productivity/calendar.rst:87
 msgid ""
@@ -2468,7 +2468,7 @@ msgid ""
 ":guilabel:`Organizer`: This is defaulted to the current Odoo user. Select a "
 "new one from existing users, or create and edit a new user."
 msgstr ""
-":guilabel:`Organizador`: O padrão é o usuário atual do Odoo. Selecione um "
+":guilabel:`Organizador`: O padrão é o usuário atual do Blue Connect. Selecione um "
 "novo usuário entre os existentes ou crie e edite um novo usuário."
 
 #: ../../content/applications/productivity/calendar.rst:125
@@ -2681,7 +2681,7 @@ msgstr ""
 "Quando as configurações estiverem concluídas, clique no "
 "botão :guilabel:`Compartilhar` para gerar um link a ser enviado diretamente "
 "ou clique em :guilabel:`Publicar` para publicar a seleção de compromissos no "
-"site do Odoo conectado."
+"site do Blue Connect conectado."
 
 #: ../../content/applications/productivity/calendar.rst:210
 msgid ""
@@ -2742,7 +2742,7 @@ msgid ""
 "or :guilabel:`Google Meet` to include a video conference link in the meeting "
 "invitation, or leave it blank to prevent generating a meeting URL."
 msgstr ""
-":guilabel:`Link da videoconferência`: Selecione :guilabel:`Odoo Mensagens` "
+":guilabel:`Link da videoconferência`: Selecione :guilabel:`Blue Connect Mensagens` "
 "ou :guilabel:`Google Meet` para incluir um link de videoconferência no "
 "convite de reunião, ou deixe em branco para evitar a geração de um URL de "
 "reunião."
@@ -2896,7 +2896,7 @@ msgid ""
 "platforms (updates go in both directions). This integration helps organize "
 "schedules, so a meeting is never missed."
 msgstr ""
-"Sincronize o Google Calendar com o Odoo para ver e gerenciar reuniões de "
+"Sincronize o Google Calendar com o Blue Connect para ver e gerenciar reuniões de "
 "ambas as plataformas (as atualizações são feitas em ambas as direções). Essa "
 "integração ajuda a organizar as agendas para que nenhuma reunião seja "
 "perdida."
@@ -2956,7 +2956,7 @@ msgid ""
 "Give the API project a clear name, like `Odoo Sync`, so it can be "
 "identified. Then click the :guilabel:`Create` button."
 msgstr ""
-"Dê ao projeto de API um nome claro, como `Sinc. Odoo`, para que seja "
+"Dê ao projeto de API um nome claro, como `Sinc. Blue Connect`, para que seja "
 "identificada facilmente. Em seguida, clique no botão :guilabel:`Criar`."
 
 #: ../../content/applications/productivity/calendar/google.rst:36
@@ -3037,7 +3037,7 @@ msgid ""
 "field, then enter the email address for the :guilabel:`User support email` "
 "field and click the :guilabel:`Next` button."
 msgstr ""
-"Em :guilabel:`Informações do aplicativo`, digite `Odoo` no "
+"Em :guilabel:`Informações do aplicativo`, digite `Blue Connect` no "
 "campo :guilabel:`Nome do aplicativo` e, em seguida, digite o endereço de e-"
 "mail no campo :guilabel:`E-mail de suporte ao usuário` e clique no "
 "botão :guilabel:`Próximo`."
@@ -3121,7 +3121,7 @@ msgid ""
 "guide to create credentials."
 msgstr ""
 "O *ID do cliente* e o *Segredo do cliente* são necessários para conectar o "
-"Google Calendar ao Odoo. Essa é a última etapa no console do Google. Comece "
+"Google Calendar ao Blue Connect. Essa é a última etapa no console do Google. Comece "
 "clicando em :guilabel:`Clientes` no menu à esquerda. Em seguida, clique "
 "em :guilabel:`Criar credenciais` e selecione :guilabel:`ID do cliente "
 "OAuth`, o Google abrirá um guia para criar credenciais."
@@ -3134,7 +3134,7 @@ msgid ""
 msgstr ""
 "Em :menuselection:`Criar ID do cliente OAuth`, "
 "selecione :guilabel:`Aplitativo Site` no campo :guilabel:`Tipo de "
-"aplicativo` e digite `Minha base de dados do Odoo` no campo :guilabel:`Nome`."
+"aplicativo` e digite `Minha base de dados do Blue Connect` no campo :guilabel:`Nome`."
 
 #: ../../content/applications/productivity/calendar/google.rst:102
 msgid ""
@@ -3143,7 +3143,7 @@ msgid ""
 "(Uniform Resource Locator)` address."
 msgstr ""
 "Na seção :guilabel:`Origens JavaScrit autorizadas`, clique em :guilabel:`+ "
-"Adicionar URI` e digite o endereço completo do Odoo :abbr:`URL (Uniform "
+"Adicionar URI` e digite o endereço completo do Blue Connect :abbr:`URL (Uniform "
 "Resource Locator)` da empresa."
 
 #: ../../content/applications/productivity/calendar/google.rst:104
@@ -3154,7 +3154,7 @@ msgid ""
 "click :guilabel:`Create`."
 msgstr ""
 "Na seção :guilabel:`URIs de redirecionamento autorizados`, clique "
-"em :guilabel:`+ Adicionar URI` e digite o endereço Odoo :abbr:`URL (Uniform "
+"em :guilabel:`+ Adicionar URI` e digite o endereço Blue Connect :abbr:`URL (Uniform "
 "Resource Locator)` da empresa seguido de `/google_account/authentication`. "
 "Por fim, clique em :guilabel:`Criar`."
 
@@ -3174,7 +3174,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/calendar/google.rst:114
 msgid "Setup in Odoo"
-msgstr "Configuração no Odoo"
+msgstr "Configuração no Blue Connect"
 
 #: ../../content/applications/productivity/calendar/google.rst:116
 msgid ""
@@ -3184,7 +3184,7 @@ msgid ""
 "labeled :guilabel:`Google Calendar`."
 msgstr ""
 "Depois que o *ID do cliente* e o *Segredo do client* forem localizados, abra "
-"a base de dados do Odoo e vá para :menuselection:`Definições--> Calendário` "
+"a base de dados do Blue Connect e vá para :menuselection:`Definições--> Calendário` "
 "para localizar o recurso :guilabel:`Google Calendar`. Marque a caixa de "
 "seleção rotulada como :guilabel:`Google Calendar`."
 
@@ -3217,24 +3217,24 @@ msgstr ""
 
 #: ../../content/applications/productivity/calendar/google.rst:133
 msgid "Sync calendar in Odoo"
-msgstr "Sincronizar o calendário no Odoo"
+msgstr "Sincronizar o calendário no Blue Connect"
 
 #: ../../content/applications/productivity/calendar/google.rst:135
 msgid ""
 "Finally, open the :menuselection:`Calendar` app in Odoo and click on "
 "the :guilabel:`Google` sync button to sync Google Calendar with Odoo."
 msgstr ""
-"Por fim, abra o aplicativo :menuselection:`Calendar` no Odoo e clique no "
+"Por fim, abra o aplicativo :menuselection:`Calendar` no Blue Connect e clique no "
 "botão de sincronização :guilabel:`Google` para sincronizar o Google Calendar "
-"com o Odoo."
+"com o Blue Connect."
 
 #: ../../content/applications/productivity/calendar/google.rst:None
 msgid ""
 "Click the Google sync button in Odoo Calendar to sync Google Calendar with "
 "Odoo."
 msgstr ""
-"Clique no botão de sincronização do Google no Calendário do Odoo para "
-"sincronizar o Google Calendar com o Odoo."
+"Clique no botão de sincronização do Google no Calendário do Blue Connect para "
+"sincronizar o Google Calendar com o Blue Connect."
 
 #: ../../content/applications/productivity/calendar/google.rst:142
 msgid ""
@@ -3244,7 +3244,7 @@ msgid ""
 "the app be unverified), and finally select :guilabel:`Continue` (to give "
 "permission for the transfer of data)."
 msgstr ""
-"Ao sincronizar o Google Calendar com o Odoo pela primeira vez, a página será "
+"Ao sincronizar o Google Calendar com o Blue Connect pela primeira vez, a página será "
 "redirecionada para a Conta do Google. A partir daí, selecione "
 "a :guilabel:`Conta de e-mail` que deve ter acesso, depois "
 "selecione :guilabel:`Continuar` (caso o aplicativo não seja verificado) e, "
@@ -3253,12 +3253,12 @@ msgstr ""
 
 #: ../../content/applications/productivity/calendar/google.rst:None
 msgid "Give Odoo permission to access Google Calendar."
-msgstr "Dê permissão ao Odoo para acessar o Google Calendar."
+msgstr "Dê permissão ao Blue Connect para acessar o Google Calendar."
 
 #: ../../content/applications/productivity/calendar/google.rst:150
 msgid "Now, Odoo Calendar is successfully synced with Google Calendar!"
 msgstr ""
-"Agora, o calendário do Odoo está sincronizado com sucesso com o Google "
+"Agora, o calendário do Blue Connect está sincronizado com sucesso com o Google "
 "Calendar!"
 
 #: ../../content/applications/productivity/calendar/google.rst:153
@@ -3268,7 +3268,7 @@ msgid ""
 "before attempting to sync the desired Google Calendar with the user's "
 "production database."
 msgstr ""
-"A Odoo recomenda fortemente testar a sincronização do calendário do Google "
+"A Blue Connect recomenda fortemente testar a sincronização do calendário do Google "
 "em uma base de dados de teste e com um endereço de e-mail de teste (que não "
 "seja usado para nenhuma outra finalidade) antes de tentar sincronizar o "
 "calendário do Google desejado com a base de dados de produção do usuário."
@@ -3277,14 +3277,14 @@ msgstr ""
 msgid "Once a user synchronizes their Google calendar with the Odoo calendar:"
 msgstr ""
 "Quando um usuário sincroniza seu calendário do Google com o calendário do "
-"Odoo:"
+"Blue Connect:"
 
 #: ../../content/applications/productivity/calendar/google.rst:159
 msgid ""
 "Creating an event in Odoo causes Google to send an invitation to all event "
 "attendees."
 msgstr ""
-"A criação de um evento no Odoo faz com que o Google envie um convite a todos "
+"A criação de um evento no Blue Connect faz com que o Google envie um convite a todos "
 "os participantes do evento."
 
 #: ../../content/applications/productivity/calendar/google.rst:160
@@ -3292,7 +3292,7 @@ msgid ""
 "Deleting an event in Odoo causes Google to send a cancellation to all event "
 "attendees."
 msgstr ""
-"A exclusão de um evento no Odoo faz com que o Google envie um cancelamento a "
+"A exclusão de um evento no Blue Connect faz com que o Google envie um cancelamento a "
 "todos os participantes do evento."
 
 #: ../../content/applications/productivity/calendar/google.rst:161
@@ -3331,7 +3331,7 @@ msgid ""
 "correctly with Odoo. Sync issues can be seen in the database logs."
 msgstr ""
 "Pode haver ocasiões em que a conta do *Google Calendar* não seja "
-"sincronizada corretamente com o Odoo. Os problemas de sincronização podem "
+"sincronizada corretamente com o Blue Connect. Os problemas de sincronização podem "
 "ser vistos nos registros da  base de dados."
 
 #: ../../content/applications/productivity/calendar/google.rst:173
@@ -3369,11 +3369,11 @@ msgid ""
 "calendar sync with Odoo:"
 msgstr ""
 "As seguintes opções de redefinição estão disponíveis para solucionar "
-"problemas de sincronização do calendário do Google com o Odoo:"
+"problemas de sincronização do calendário do Google com o Blue Connect:"
 
 #: ../../content/applications/productivity/calendar/google.rst:None
 msgid "Google calendar reset options in Odoo."
-msgstr "Opções de redefinição do calendário do Google no Odoo."
+msgstr "Opções de redefinição do calendário do Google no Blue Connect."
 
 #: ../../content/applications/productivity/calendar/google.rst:191
 #: ../../content/applications/productivity/calendar/outlook.rst:236
@@ -3396,7 +3396,7 @@ msgstr ""
 #: ../../content/applications/productivity/calendar/google.rst:196
 #: ../../content/applications/productivity/calendar/outlook.rst:241
 msgid ":guilabel:`Delete from Odoo`: delete the events from the Odoo calendar."
-msgstr ":guilabel:`Excluir do Odoo`: exclui os eventos do calendário do Odoo."
+msgstr ":guilabel:`Excluir do Blue Connect`: exclui os eventos do calendário do Blue Connect."
 
 #: ../../content/applications/productivity/calendar/google.rst:197
 msgid ""
@@ -3404,7 +3404,7 @@ msgid ""
 "and Odoo calendar."
 msgstr ""
 ":guilabel:`Excluir de ambos`: exclui os eventos do *Google Calendar* e do "
-"calendário do Odoo."
+"calendário do Blue Connect."
 
 #: ../../content/applications/productivity/calendar/google.rst:199
 #: ../../content/applications/productivity/calendar/outlook.rst:245
@@ -3417,7 +3417,7 @@ msgid ""
 "Calendar* and/or Odoo calendar."
 msgstr ""
 ":guilabel:`Sincronizar apenas novos eventos`: sincroniza novos eventos no "
-"*Google Calendar* e/ou no calendário do Odoo."
+"*Google Calendar* e/ou no calendário do Blue Connect."
 
 #: ../../content/applications/productivity/calendar/google.rst:203
 msgid ""
@@ -3425,7 +3425,7 @@ msgid ""
 "Calendar* and/or Odoo calendar."
 msgstr ""
 ":guilabel:`Sincronizar todos os eventos existentes`: sincroniza todos os "
-"eventos no *Google Calendar* e/ou no calendário do Odoo."
+"eventos no *Google Calendar* e/ou no calendário do Blue Connect."
 
 #: ../../content/applications/productivity/calendar/google.rst:206
 #: ../../content/applications/productivity/calendar/outlook.rst:252
@@ -3448,7 +3448,7 @@ msgid ""
 msgstr ""
 "Às vezes, é possível que haja configurações incorretas o e é necessário "
 "solucionar o problema. Abaixo estão os erros mais comuns que ocorrem ao "
-"configurar o *Google Calendar* para uso com o Odoo."
+"configurar o *Google Calendar* para uso com o Blue Connect."
 
 #: ../../content/applications/productivity/calendar/google.rst:217
 msgid "Production vs. testing publishing status"
@@ -3508,7 +3508,7 @@ msgid ""
 msgstr ""
 "Para corrigir esse erro, retorne à tela :guilabel:`Consentimento do OAuth`, "
 "em :guilabel:`APIs e serviços`, e adicione usuários de teste ao aplicativo. "
-"Adicione o e-mail a ser configurado no Odoo."
+"Adicione o e-mail a ser configurado no Blue Connect."
 
 #: ../../content/applications/productivity/calendar/google.rst:242
 msgid "Application Type"
@@ -3548,9 +3548,9 @@ msgid ""
 "database name."
 msgstr ""
 "Em seguida, em :guilabel:`URIs de redirecionamento autorizados`, clique "
-"em :guilabel:`ADD URI` e digite: `https://yourdbname.odoo.com/google_account/"
+"em :guilabel:`ADD URI` e digite: `https://seubanco.blueconnect.com.br/google_account/"
 "authentication` no campo, certificando-se de substituir *yourdbname* no URL "
-"pelo nome **real** da base de dados do Odoo."
+"pelo nome **real** da base de dados do Blue Connect."
 
 #: ../../content/applications/productivity/calendar/google.rst:259
 msgid ""
@@ -3558,7 +3558,7 @@ msgid ""
 "google_account/authentication`) is the exact same domain as configured in "
 "the `web.base.url` system parameter."
 msgstr ""
-"Certifique-se de que o domínio (usado no URI: `https://yourdbname.odoo.com/"
+"Certifique-se de que o domínio (usado no URI: `https://seubanco.blueconnect.com.br/"
 "google_account/authentication`) seja exatamente o mesmo domínio configurado "
 "no parâmetro do sistema `web.base.url`."
 
@@ -3581,7 +3581,7 @@ msgid ""
 "Synchronizing a user's *Outlook Calendar* with Odoo is useful for keeping "
 "track of tasks and appointments across all related applications."
 msgstr ""
-"Sincronizar o *Calendário do Outlook* de um usuário com o Odoo é útil para "
+"Sincronizar o *Calendário do Outlook* de um usuário com o Blue Connect é útil para "
 "manter o controle de tarefas e compromissos em todos os aplicativos "
 "relacionados."
 
@@ -3605,7 +3605,7 @@ msgid ""
 "on the `Azure website <https://azure.microsoft.com/en-us/free/?"
 "WT.mc_id=A261C142F>`_."
 msgstr ""
-"Para sincronizar o *Calendário do Outlook* com o Odoo *Calendário* é "
+"Para sincronizar o *Calendário do Outlook* com o Blue Connect *Calendário* é "
 "necessário ter uma conta do Microsoft *Azure*. A criação de uma conta é "
 "gratuita para usuários que nunca experimentaram ou pagaram pelo *Azure*. "
 "Para obter mais informações, veja as opções de conta no site do Azure "
@@ -3683,7 +3683,7 @@ msgid ""
 msgstr ""
 "A escolha do :guilabel:`Tipo de conta suportado` apropriado é essencial, "
 "caso contrário, o aplicativo conectado não funcionará. Os usuários que "
-"desejam conectar seu *Calendário do Outlook* ao Odoo devem selecionar a "
+"desejam conectar seu *Calendário do Outlook* ao Blue Connect devem selecionar a "
 "opção :guilabel:`Contas em qualquer diretório organizacional (Any Microsoft "
 "Entra ID directory - Multitenant) e contas pessoais da Microsoft (ex. Skype, "
 "Xbox)` para :guilabel:`Tipos de contas compatíveis`."
@@ -3696,7 +3696,7 @@ msgid ""
 msgstr ""
 "Ao configurar o :guilabel:`Redirecionar URI`, escolha a "
 "opção :guilabel:`Web` no primeiro menu suspenso. Em seguida, insira o URI "
-"(URL) da base de dados do Odoo seguido de `/microsoft_account/"
+"(URL) da base de dados do Blue Connect seguido de `/microsoft_account/"
 "authentication`."
 
 #: ../../content/applications/productivity/calendar/outlook.rst:55
@@ -3705,8 +3705,8 @@ msgid ""
 "the :guilabel:`Redirect URI`. Replace `yourdbname.odoo.com` with "
 "the :abbr:`URL (Uniform Resource Locator)`."
 msgstr ""
-"Digite `https://yourdbname.odoo.com/microsoft_account/authentication` para "
-"o :guilabel:`URI de redirecionamento`. Substitua `yourdbname.odoo.com` "
+"Digite `https://seubanco.blueconnect.com.br/microsoft_account/authentication` para "
+"o :guilabel:`URI de redirecionamento`. Substitua `seubanco.blueconnect.com.br` "
 "pelo :abbr:`URL`."
 
 #: ../../content/applications/productivity/calendar/outlook.rst:59
@@ -3785,7 +3785,7 @@ msgid ""
 msgstr ""
 "A segunda credencial necessária para concluir a sincronização do *Calendário "
 "do Outlook* é o *Segredo do cliente*. O usuário **deve** adicionar um "
-"segredo de cliente, pois isso permite que o Odoo se autentique, não exigindo "
+"segredo de cliente, pois isso permite que o Blue Connect se autentique, não exigindo "
 "nenhuma interação por parte do usuário. *Certificados* são opcionais."
 
 #: ../../content/applications/productivity/calendar/outlook.rst:91
@@ -3836,7 +3836,7 @@ msgid ""
 "the maximum allowed expiration date for the client secret (24 months or "
 "custom), so there is no need to re-synchronize soon."
 msgstr ""
-"Como a redefinição da sincronização pode ser complicada, a Odoo recomenda "
+"Como a redefinição da sincronização pode ser complicada, a Blue Connect recomenda "
 "definir a data de validade máxima permitida para o segredo do cliente (24 "
 "meses ou personalizado), para que não haja necessidade de ressincronizar em "
 "breve."
@@ -3856,7 +3856,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/calendar/outlook.rst:121
 msgid "Configuration in Odoo"
-msgstr "Configuração no Odoo"
+msgstr "Configuração no Blue Connect"
 
 #: ../../content/applications/productivity/calendar/outlook.rst:123
 msgid ""
@@ -3864,14 +3864,14 @@ msgid ""
 "> Settings`, and tick the checkbox beside the :guilabel:`Outlook Calendar` "
 "setting. Remember to click :guilabel:`Save` to implement the changes."
 msgstr ""
-"No banco de dados do Odoo, vá para :menuselection:`app Calendário --> "
+"No banco de dados do Blue Connect, vá para :menuselection:`app Calendário --> "
 "Configuração --> Definições` e marque a caixa de seleção ao lado da "
 "configuração :guilabel:`Calendário do Outlook`. Lembre-se de clicar "
 "em :guilabel:`Salvar` para implementar as alterações."
 
 #: ../../content/applications/productivity/calendar/outlook.rst:None
 msgid "The \"Outlook Calendar\" setting activated in Odoo."
-msgstr "A configuração \"Calendário do Outlook\" ativada no Odoo."
+msgstr "A configuração \"Calendário do Outlook\" ativada no Blue Connect."
 
 #: ../../content/applications/productivity/calendar/outlook.rst:130
 msgid ""
@@ -3882,7 +3882,7 @@ msgid ""
 msgstr ""
 "No portal Microsoft *Azure*, na seção :guilabel:`Visão geral` do aplicativo, "
 "copie o :guilabel:`ID (do cliente) do aplicativo`, se ainda não tiver sido "
-"copiado, e cole-o no campo :guilabel:`ID do cliente` no Odoo."
+"copiado, e cole-o no campo :guilabel:`ID do cliente` no Blue Connect."
 
 #: ../../content/applications/productivity/calendar/outlook.rst:None
 msgid "The \"Client ID\" in the Microsoft Azure portal."
@@ -3894,11 +3894,11 @@ msgid ""
 "paste it into the :guilabel:`Client Secret` field in Odoo."
 msgstr ""
 "Copie o :guilabel:`Valor` (Valor do segredo do cliente) adquirido "
-"anteriormente e cole-o no campo :guilabel:`Segredo do cliente` no Odoo."
+"anteriormente e cole-o no campo :guilabel:`Segredo do cliente` no Blue Connect."
 
 #: ../../content/applications/productivity/calendar/outlook.rst:None
 msgid "The \"Client Secret\" token to be copied from Microsoft to Odoo."
-msgstr "O token \"Segredo do cliente\" a copiar da Microsoft para o Odoo."
+msgstr "O token \"Segredo do cliente\" a copiar da Microsoft para o Blue Connect."
 
 #: ../../content/applications/productivity/calendar/outlook.rst:145
 msgid ""
@@ -3906,7 +3906,7 @@ msgid ""
 "click :guilabel:`Save`."
 msgstr ""
 "Por fim, na página  :menuselection:`Definições --> Configurações gerais` do "
-"Odoo, clique em :guilabel:`Salvar`."
+"Blue Connect, clique em :guilabel:`Salvar`."
 
 #: ../../content/applications/productivity/calendar/outlook.rst:150
 msgid "Sync with Outlook"
@@ -3919,7 +3919,7 @@ msgid ""
 "purpose) before attempting to sync the desired Outlook Calendar with the "
 "user's production database."
 msgstr ""
-"A Odoo recomenda fortemente testar a sincronização do calendário do Outlook "
+"A Blue Connect recomenda fortemente testar a sincronização do calendário do Outlook "
 "em uma base de dados de teste com um endereço de e-mail de teste (que não "
 "seja usado para nenhuma outra finalidade) antes de tentar sincronizar o "
 "calendário do Outlook desejado com a base de dados de produção do usuário."
@@ -3932,8 +3932,8 @@ msgid ""
 "notification to be sent from Outlook to all the event attendees."
 msgstr ""
 "Se o usuário tiver algum evento passado, presente ou futuro em seu "
-"calendário do Odoo antes de sincronizar seu calendário do Outlook, o Outlook "
-"tratará os eventos extraídos do calendário do Odoo durante a sincronização "
+"calendário do Blue Connect antes de sincronizar seu calendário do Outlook, o Outlook "
+"tratará os eventos extraídos do calendário do Blue Connect durante a sincronização "
 "como novos eventos, fazendo com que uma notificação por e-mail seja enviada "
 "do Outlook para todos os participantes do evento."
 
@@ -3946,8 +3946,8 @@ msgid ""
 msgstr ""
 "Para evitar que e-mails indesejados sejam enviados a todos os participantes "
 "de eventos passados, presentes e futuros, o usuário deve adicionar os "
-"eventos do calendário do Odoo ao calendário do Outlook antes da primeira "
-"sincronização, excluir os eventos do Odoo e, em seguida, iniciar a "
+"eventos do calendário do Blue Connect ao calendário do Outlook antes da primeira "
+"sincronização, excluir os eventos do Blue Connect e, em seguida, iniciar a "
 "sincronização."
 
 #: ../../content/applications/productivity/calendar/outlook.rst:166
@@ -3958,11 +3958,11 @@ msgid ""
 "changed), with no exceptions. This is a limitation that cannot be fixed from "
 "Odoo's side."
 msgstr ""
-"Mesmo depois de sincronizar o calendário do Odoo com o calendário do "
+"Mesmo depois de sincronizar o calendário do Blue Connect com o calendário do "
 "Outlook, o Outlook ainda enviará uma notificação a todos os participantes do "
 "evento toda vez que um evento for editado (criado, excluído, desarquivado ou "
 "data/hora do evento alterada), sem exceções. Essa é uma limitação que não "
-"pode ser corrigida pelo Odoo."
+"pode ser corrigida pelo Blue Connect."
 
 #: ../../content/applications/productivity/calendar/outlook.rst:171
 msgid ""
@@ -3970,14 +3970,14 @@ msgid ""
 "calendar:"
 msgstr ""
 "Em resumo, quando um usuário sincroniza seu calendário do Outlook com o "
-"calendário do Odoo:"
+"calendário do Blue Connect:"
 
 #: ../../content/applications/productivity/calendar/outlook.rst:173
 msgid ""
 "Creating an event in Odoo causes Outlook to send an invitation to all event "
 "attendees."
 msgstr ""
-"A criação de um evento no Odoo faz com que o Outlook envie um convite a "
+"A criação de um evento no Blue Connect faz com que o Outlook envie um convite a "
 "todos os participantes do evento."
 
 #: ../../content/applications/productivity/calendar/outlook.rst:174
@@ -3985,7 +3985,7 @@ msgid ""
 "Deleting an event in Odoo causes Outlook to send a cancellation to all event "
 "attendees."
 msgstr ""
-"A exclusão de um evento no Odoo faz com que o Outlook envie um cancelamento "
+"A exclusão de um evento no Blue Connect faz com que o Outlook envie um cancelamento "
 "a todos os participantes do evento."
 
 #: ../../content/applications/productivity/calendar/outlook.rst:175
@@ -3993,7 +3993,7 @@ msgid ""
 "Unarchiving an event in Odoo causes Outlook to send an invitation to all "
 "event attendees."
 msgstr ""
-"O desarquivamento de um evento no Odoo faz com que o Outlook envie um "
+"O desarquivamento de um evento no Blue Connect faz com que o Outlook envie um "
 "convite a todos os participantes do evento."
 
 #: ../../content/applications/productivity/calendar/outlook.rst:176
@@ -4001,7 +4001,7 @@ msgid ""
 "Archiving an event in Odoo causes Outlook to send a cancellation to all "
 "event attendees."
 msgstr ""
-"O arquivamento de um evento no Odoo faz com que o Outlook envie um "
+"O arquivamento de um evento no Blue Connect faz com que o Outlook envie um "
 "cancelamento a todos os participantes do evento."
 
 #: ../../content/applications/productivity/calendar/outlook.rst:177
@@ -4022,7 +4022,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/calendar/outlook.rst:181
 msgid "Sync Odoo Calendar and Outlook"
-msgstr "Sincronizar o Calendário do Odoo com o Outlook"
+msgstr "Sincronizar o Calendário do Blue Connect com o Outlook"
 
 #: ../../content/applications/productivity/calendar/outlook.rst:183
 msgid ""
@@ -4030,13 +4030,13 @@ msgid ""
 "the :guilabel:`Outlook` sync button on the right-side of the page, beneath "
 "the monthly calendar."
 msgstr ""
-"Na base de dados do Odoo, abra o módulo *Calendário* e clique no botão de "
+"Na base de dados do Blue Connect, abra o módulo *Calendário* e clique no botão de "
 "sincronização :guilabel:`Outlook` no lado direito da página, abaixo do "
 "calendário mensal."
 
 #: ../../content/applications/productivity/calendar/outlook.rst:None
 msgid "The \"Outlook\" sync button in Odoo Calendar."
-msgstr "O botão de sincronização do \"Outlook\" no Calendário do Odoo."
+msgstr "O botão de sincronização do \"Outlook\" no Calendário do Blue Connect."
 
 #: ../../content/applications/productivity/calendar/outlook.rst:190
 msgid ""
@@ -4047,7 +4047,7 @@ msgid ""
 "clicking :guilabel:`Accept`."
 msgstr ""
 "A sincronização é um processo bidirecional, o que significa que os eventos "
-"são reconciliados em ambas as contas (*Outlook* e Odoo). A página é "
+"são reconciliados em ambas as contas (*Outlook* e Blue Connect). A página é "
 "redirecionada para uma página de login da Microsoft, e o usuário é "
 "solicitado a fazer login em sua conta, caso ainda não o tenha feito. Por "
 "fim, conceda as permissões necessárias clicando em :guilabel:`Aceitar`."
@@ -4086,7 +4086,7 @@ msgid ""
 "sync correctly with Odoo. Sync issues can be seen in the database logs."
 msgstr ""
 "Pode haver ocasiões em que a conta *Calendároo do Microsoft Outlook* não "
-"seja sincronizada corretamente com o Odoo. Os problemas de sincronização "
+"seja sincronizada corretamente com o Blue Connect. Os problemas de sincronização "
 "podem ser vistos nos registros da base de dados."
 
 #: ../../content/applications/productivity/calendar/outlook.rst:215
@@ -4108,11 +4108,11 @@ msgid ""
 "Outlook Calendar* sync with Odoo:"
 msgstr ""
 "As seguintes opções de redefinição estão disponíveis para solucionar "
-"problemas de sincronização do *Calendário do Microsoft Outlook* com o Odoo:"
+"problemas de sincronização do *Calendário do Microsoft Outlook* com o Blue Connect:"
 
 #: ../../content/applications/productivity/calendar/outlook.rst:None
 msgid "Outlook calendar reset options in Odoo."
-msgstr "Opções de redefinição do calendário do Outlook no Odoo."
+msgstr "Opções de redefinição do calendário do Outlook no Blue Connect."
 
 #: ../../content/applications/productivity/calendar/outlook.rst:239
 msgid ""
@@ -4128,7 +4128,7 @@ msgid ""
 "Calendar* and Odoo calendar."
 msgstr ""
 ":guilabel:`Excluir de ambos`: exclui os eventos do *Calendário do Outlook* e "
-"do calendário do Odoo."
+"do calendário do Blue Connect."
 
 #: ../../content/applications/productivity/calendar/outlook.rst:247
 msgid ""
@@ -4136,7 +4136,7 @@ msgid ""
 "Outlook Calendar* and/or Odoo calendar."
 msgstr ""
 ":guilabel:`Sincronizar apenas novos eventos`: sincroniza novos eventos no "
-"*Calendário do Outlook* e/ou no calendário do Odoo."
+"*Calendário do Outlook* e/ou no calendário do Blue Connect."
 
 #: ../../content/applications/productivity/calendar/outlook.rst:249
 msgid ""
@@ -4144,7 +4144,7 @@ msgid ""
 "Outlook Calendar* and/or Odoo calendar."
 msgstr ""
 ":guilabel:`Sincronizar todos os eventos existentes`: sincroniza todos os "
-"eventos no *Calendário do Outlook* e/ou no calendário do Odoo."
+"eventos no *Calendário do Outlook* e/ou no calendário do Blue Connect."
 
 #: ../../content/applications/productivity/dashboards.rst:5
 msgid "Dashboards"
@@ -5411,7 +5411,7 @@ msgid ""
 "The Odoo **Data Cleaning** app maintains data integrity and consistency with "
 "the following features:"
 msgstr ""
-"O aplicativo **Limpeza de dados** do Odoo mantém a integridade e a "
+"O aplicativo **Limpeza de dados** do Blue Connect mantém a integridade e a "
 "consistência dos dados com os seguintes recursos:"
 
 #: ../../content/applications/productivity/data_cleaning.rst:7
@@ -5488,7 +5488,7 @@ msgid ""
 "edition <install/editions>`."
 msgstr ""
 "Módulo de base para ativar a funcionalidade de reciclagem, disponível "
-"na :ref:`edição Odoo Community  <install/editions>`."
+"na :ref:`edição Blue Connect Community  <install/editions>`."
 
 #: ../../content/applications/productivity/data_cleaning.rst:0
 msgid ":guilabel:`Data Cleaning`"
@@ -5504,7 +5504,7 @@ msgid ""
 "available **only** on :ref:`Odoo Enterprise edition <install/editions>`."
 msgstr ""
 "Ativa a funcionalidade de limpeza de campos para formatar dados de texto em "
-"vários registros, disponível **apenas** na  :ref:`edição Odoo Enterprise "
+"vários registros, disponível **apenas** na  :ref:`edição Blue Connect Enterprise "
 "<install/editions>`."
 
 #: ../../content/applications/productivity/data_cleaning.rst:0
@@ -5522,7 +5522,7 @@ msgid ""
 "editions>`."
 msgstr ""
 "Ativa a funcionalidade de desduplicação para localizar registros semelhantes "
-"(ou duplicados) e mescla-los, disponível **apenas** na  :ref:`edição Odoo "
+"(ou duplicados) e mescla-los, disponível **apenas** na  :ref:`edição Blue Connect "
 "Enterprise <install/editions>`."
 
 #: ../../content/applications/productivity/data_cleaning.rst:0
@@ -5706,7 +5706,7 @@ msgid ""
 "Optionally, no master record can be set, leaving Odoo to choose a record at "
 "random to merge into."
 msgstr ""
-"Opcionalmente, não é definido nenhum registro mestre e o Odoo escolhe ao "
+"Opcionalmente, não é definido nenhum registro mestre e o Blue Connect escolhe ao "
 "acaso um registro no qual ocorrerá a mesclagem."
 
 #: ../../content/applications/productivity/data_cleaning.rst:108
@@ -6713,7 +6713,7 @@ msgid ""
 "enables communication through a persistent chat window that works across "
 "applications, or through the dedicated *Discuss* dashboard."
 msgstr ""
-"O Odoo **Mensagens** é um aplicativo de comunicação interna que permite que "
+"O Blue Connect **Mensagens** é um aplicativo de comunicação interna que permite que "
 "os usuários se conectem por mensagens, anotações, compartilhamento de "
 "arquivos e chamadas de vídeo. O **Mensagens** permite a comunicação em uma "
 "janela de chat, que funciona em todos os aplicativos ou no painel dedicado "
@@ -6751,7 +6751,7 @@ msgstr ""
 "na :icon:`fa-inbox` :guilabel:`Caixa de entrada`. :icon:`fa-star-"
 "o` :guilabel:`Favoritos` é o local onde as mensagens marcadas com estrela "
 "são armazenadas. O :icon:`fa-history` :guilabel:`Histórico` mostra as "
-"atualizações do chat de registros na base de dados do Odoo aos quais o "
+"atualizações do chat de registros na base de dados do Blue Connect aos quais o "
 "usuário foi atribuído ou marcado."
 
 #: ../../content/applications/productivity/discuss.rst:25
@@ -6971,7 +6971,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/discuss.rst:None
 msgid "View of a Meeting in Odoo Discuss."
-msgstr "Visualização de uma reunião no Odoo Mensagens."
+msgstr "Visualização de uma reunião no Blue Connect Mensagens."
 
 #: ../../content/applications/productivity/discuss.rst:111
 msgid "Once a meeting has been started, the following buttons can be used:"
@@ -7068,7 +7068,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/discuss.rst:None
 msgid "View of the Preferences tab for Odoo Discuss."
-msgstr "Visualização da aba Preferências do Mensagens do Odoo."
+msgstr "Visualização da aba Preferências do Mensagens do Blue Connect."
 
 #: ../../content/applications/productivity/discuss.rst:144
 msgid ""
@@ -7080,7 +7080,7 @@ msgid ""
 msgstr ""
 "Por padrão, o campo :guilabel:`Notificação` é definido como :guilabel:`Por e-"
 "mail`. Com essa configuração ativada, um e-mail de notificação é enviado "
-"pelo Odoo sempre que uma mensagem é enviada do chatter de um registro, uma "
+"pelo Blue Connect sempre que uma mensagem é enviada do chatter de um registro, uma "
 "nota é enviada com menção `@` (do chatter de um registro) ou uma notificação "
 "é enviada para um registro que o usuário segue."
 
@@ -7089,7 +7089,7 @@ msgid ""
 "By choosing :guilabel:`Handle in Odoo`, the above notifications are shown in "
 "the **Discuss** app's *Inbox*."
 msgstr ""
-"Ao escolher :guilabel:`Pelo Odoo`, as notificações acima aparecem na *Caixa "
+"Ao escolher :guilabel:`Pelo Blue Connect`, as notificações acima aparecem na *Caixa "
 "de entrada* do aplicativo **Mensagens**."
 
 #: ../../content/applications/productivity/discuss.rst:153
@@ -7104,7 +7104,7 @@ msgid ""
 "the database header."
 msgstr ""
 "O aplicativo **Mensagens** permite a comunicação entre todos os aplicativos "
-"do Odoo. Para visualizar chats e canais ou iniciar uma nova mensagem, clique "
+"do Blue Connect. Para visualizar chats e canais ou iniciar uma nova mensagem, clique "
 "nos balões de fala que estão sempre presentes no canto superior direito do "
 "cabeçalho do base de dados."
 
@@ -7417,7 +7417,7 @@ msgid ""
 "record within the database, and allow users to communicate with both "
 "internal users and external contacts."
 msgstr ""
-"O recurso *Chatter* está integrado em todo o Odoo para agilizar a "
+"O recurso *Chatter* está integrado em todo o Blue Connect para agilizar a "
 "comunicação, manter a rastreabilidade e fornecer responsabilidade entre os "
 "membros da equipe. As janelas do Chatter, conhecidas como *compositores*, "
 "estão localizadas em quase todos os registros da base de dados e permitem "
@@ -7479,12 +7479,12 @@ msgid ""
 msgstr ""
 "Se um registro foi criado ou editado através de um arquivo importado ou foi "
 "atualizado de outra forma por uma intervenção do sistema, o tópico de "
-"conversa cria uma nota de registro e credita a alteração ao OdooBot."
+"conversa cria uma nota de registro e credita a alteração ao Blue ConnectBot."
 
 #: ../../content/applications/productivity/discuss/chatter.rst:None
 msgid "A close up of a chatter thread of an OdooBot created contact record."
 msgstr ""
-"Zoom de um tópico de chatter de um registro de contato criado pelo OdooBot."
+"Zoom de um tópico de chatter de um registro de contato criado pelo Blue ConnectBot."
 
 #: ../../content/applications/productivity/discuss/chatter.rst:45
 msgid "Add followers"
@@ -7661,7 +7661,7 @@ msgstr ""
 "Digite a nota no compositor de chatter. Para marcar um usuário interno, "
 "digite `@` e comece a digitar o nome da pessoa a ser marcada. Em seguida, "
 "selecione um nome no menu suspenso. Dependendo das configurações de "
-"notificação, o usuário é notificado por e-mail ou pelo Odoo."
+"notificação, o usuário é notificado por e-mail ou pelo Blue Connect."
 
 #: ../../content/applications/productivity/discuss/chatter.rst:117
 msgid ""
@@ -7994,7 +7994,7 @@ msgid ""
 "thread, Kanban view, list view, or activities view of an application."
 msgstr ""
 "*Atividades* são tarefas de acompanhamento vinculadas a um registro em uma "
-"base de dados Odoo. As atividades podem ser agendadas em qualquer página da "
+"base de dados Blue Connect. As atividades podem ser agendadas em qualquer página da "
 "base de dados que contenha um tópico de chatter, visualização Kanban, "
 "visualização de lista ou visualização de atividades de um aplicativo."
 
@@ -8311,9 +8311,9 @@ msgid ""
 "the Odoo Community edition. To sign up for an Odoo Enterprise edition, click "
 "here: `Odoo Free Trial <https://www.odoo.com/trial>`_."
 msgstr ""
-"O *WhatsApp* é um aplicativo exclusivo do Odoo Enterprise que **não** "
-"funciona na edição Odoo Community. Para se inscrever em uma edição do Odoo "
-"Enterprise, clique aqui: `Teste gratuito do Odoo <https://www.odoo.com/"
+"O *WhatsApp* é um aplicativo exclusivo do Blue Connect Enterprise que **não** "
+"funciona na edição Blue Connect Community. Para se inscrever em uma edição do Blue Connect "
+"Enterprise, clique aqui: `Teste gratuito do Blue Connect <https://www.odoo.com/"
 "trial>`_."
 
 #: ../../content/applications/productivity/discuss/chatter.rst:390
@@ -8354,7 +8354,7 @@ msgid ""
 "chatter."
 msgstr ""
 "É possível usar o *Google Tradutor* para traduzir textos gerados pelo "
-"usuário no chatter do Odoo."
+"usuário no chatter do Blue Connect."
 
 #: ../../content/applications/productivity/discuss/chatter.rst:407
 msgid ""
@@ -8421,12 +8421,12 @@ msgid ""
 "attendee. To set up an ICE server, first, create a Twilio account for video "
 "calls, and then, connect that Twilio account to Odoo."
 msgstr ""
-"O Odoo Mensagens usa a API WebRTC e conexões ponto a ponto para chamadas de "
+"O Blue Connect Mensagens usa a API WebRTC e conexões ponto a ponto para chamadas de "
 "voz e vídeo. Se um dos participantes da chamada estiver atrás de um NAT "
 "simétrico, você precisará configurar um servidor ICE para estabelecer uma "
 "conexão com o participante da chamada. Para configurar um servidor ICE, "
 "primeiro crie uma conta Twilio para chamadas de vídeo e, em seguida, conecte "
-"essa conta Twilio ao Odoo."
+"essa conta Twilio ao Blue Connect."
 
 #: ../../content/applications/productivity/discuss/ice_servers.rst:11
 msgid "Create a Twilio account"
@@ -8524,7 +8524,7 @@ msgstr ""
 "conta do Twilio. Em seguida, clique em :guilabel:`Desenvolver` na barra "
 "lateral. Na seção :guilabel:`Informações da conta`, localize "
 "o :guilabel:`SID da conta` e o :guilabel:`Token de autenticação`. Ambos são "
-"necessários para conectar o Twilio ao Odoo."
+"necessários para conectar o Twilio ao Blue Connect."
 
 #: ../../content/applications/productivity/discuss/ice_servers.rst:None
 msgid ""
@@ -8536,7 +8536,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/discuss/ice_servers.rst:49
 msgid "Connect Twilio to Odoo"
-msgstr "Conectar a Twilio ao Odoo"
+msgstr "Conectar a Twilio ao Blue Connect"
 
 #: ../../content/applications/productivity/discuss/ice_servers.rst:51
 msgid ""
@@ -8546,7 +8546,7 @@ msgid ""
 "and :guilabel:`Auth Token`. Finally, click :guilabel:`Save` to apply these "
 "changes."
 msgstr ""
-"Abra a base de dados do Odoo e vá para :menuselection:`Definições --> "
+"Abra a base de dados do Blue Connect e vá para :menuselection:`Definições --> "
 "Configurações gerais --> Mensagens`. Marque a caixa ao lado "
 "de :guilabel:`Usar servidores do Twilio ICE` e insira o :guilabel:`SID da "
 "conta` e o :guilabel:`Token de autenticação` da conta Twilio. Por fim, "
@@ -8555,7 +8555,7 @@ msgstr ""
 #: ../../content/applications/productivity/discuss/ice_servers.rst:None
 msgid "Enable the \"Use Twilio ICE servers\" option in Odoo General Settings."
 msgstr ""
-"Habilite \"Usar servidores ICE do Twilio nas Configurações gerais do Odoo."
+"Habilite \"Usar servidores ICE do Twilio nas Configurações gerais do Blue Connect."
 
 #: ../../content/applications/productivity/discuss/ice_servers.rst:61
 msgid "Define a list of custom ICE servers"
@@ -8570,7 +8570,7 @@ msgid ""
 msgstr ""
 "Esta etapa não é necessária para a configuração do Twilio. No entanto, se o "
 "Twilio não estiver configurado ou não estiver funcionando em um determinado "
-"momento, o Odoo recorrerá à lista de servidores ICE personalizados. O "
+"momento, o Blue Connect recorrerá à lista de servidores ICE personalizados. O "
 "usuário deve definir a lista de servidores ICE personalizados."
 
 #: ../../content/applications/productivity/discuss/ice_servers.rst:67
@@ -8584,26 +8584,26 @@ msgstr ""
 
 #: ../../content/applications/productivity/discuss/ice_servers.rst:None
 msgid "The \"ICE Servers\" button in Odoo General Settings."
-msgstr "O botão \"Servidores ICE\" nas Configurações gerais do Odoo."
+msgstr "O botão \"Servidores ICE\" nas Configurações gerais do Blue Connect."
 
 #: ../../content/applications/productivity/discuss/ice_servers.rst:74
 msgid ""
 "Odoo will redirect to the :guilabel:`ICE servers` page. Here you can define "
 "your own list of ICE servers."
 msgstr ""
-"Odoo redirecionará para a página :guilabel:`servidores ICE`. Aqui você pode "
+"Blue Connect redirecionará para a página :guilabel:`servidores ICE`. Aqui você pode "
 "definir sua própria lista de servidores ICE."
 
 #: ../../content/applications/productivity/discuss/ice_servers.rst:None
 msgid "The \"ICE servers\" page in Odoo."
-msgstr "A página \"Servidores ICE\" no Odoo."
+msgstr "A página \"Servidores ICE\" no Blue Connect."
 
 #: ../../content/applications/productivity/discuss/ice_servers.rst:82
 msgid ""
 "For on-premise instances of Odoo, the package `python3-gevent` is necessary "
 "for the Discuss module to run calls/video calls on Ubuntu (Linux) servers."
 msgstr ""
-"Para instâncias locais do Odoo, o pacote `python3-gevent` é necessário para "
+"Para instâncias locais do Blue Connect, o pacote `python3-gevent` é necessário para "
 "que o módulo Mensagens execute chamadas/videochamadas em servidores Ubuntu "
 "(Linux)."
 
@@ -8635,7 +8635,7 @@ msgstr ""
 msgid "View of discuss's sidebar and a channel being created in Odoo Discuss."
 msgstr ""
 "Visualização da barra lateral e de um canal sendo criado no Mensagens do "
-"Odoo."
+"Blue Connect."
 
 #: ../../content/applications/productivity/discuss/team_communication.rst:20
 msgid ""
@@ -8658,7 +8658,7 @@ msgstr ""
 #: ../../content/applications/productivity/discuss/team_communication.rst:None
 msgid "View of a channel's settings form in Odoo Discuss."
 msgstr ""
-"Visualização do formulário de configurações de um canal no Mensagens do Odoo."
+"Visualização do formulário de configurações de um canal no Mensagens do Blue Connect."
 
 #: ../../content/applications/productivity/discuss/team_communication.rst:33
 msgid ""
@@ -8719,7 +8719,7 @@ msgstr ""
 msgid "View of Discuss' option to invite members in Odoo Discuss."
 msgstr ""
 "Opção \"Visualização de Mensagens\" para convidar membros no Mensagens do "
-"Odoo."
+"Blue Connect."
 
 #: ../../content/applications/productivity/discuss/team_communication.rst:63
 msgid "Quick search bar"
@@ -8739,7 +8739,7 @@ msgid ""
 "Discuss."
 msgstr ""
 "Visualização da barra lateral, com ênfase na barra de pesquisa rápida no "
-"Mensagens do Odoo."
+"Mensagens do Blue Connect."
 
 #: ../../content/applications/productivity/discuss/team_communication.rst:73
 msgid "Finding channels"
@@ -8801,8 +8801,8 @@ msgstr "Documentos"
 msgid ""
 "**Odoo Documents** allows you to store, view, and manage files within Odoo."
 msgstr ""
-"O **Odoo Documentos** permite que você armazene, visualize e gerencie "
-"arquivos no Odoo."
+"O **Blue Connect Documentos** permite que você armazene, visualize e gerencie "
+"arquivos no Blue Connect."
 
 #: ../../content/applications/productivity/documents.rst:7
 msgid ""
@@ -10614,12 +10614,12 @@ msgstr ""
 
 #: ../../content/applications/productivity/sign.rst:46
 msgid "`Odoo Sign: product page <https://www.odoo.com/app/sign>`_"
-msgstr "`Odoo Assinar: página do produto <https://www.odoo.com/app/sign>`_"
+msgstr "`Blue Connect Assinar: página do produto <https://www.odoo.com/app/sign>`_"
 
 #: ../../content/applications/productivity/sign.rst:47
 msgid "`Odoo Tutorials: Sign [video] <https://www.odoo.com/slides/sign-61>`_"
 msgstr ""
-"`Tutoriais do Odoo: Assinar [vídeo] <https://www.odoo.com/slides/sign-61>`_"
+"`Tutoriais do Blue Connect: Assinar [vídeo] <https://www.odoo.com/slides/sign-61>`_"
 
 #: ../../content/applications/productivity/sign/configuration.rst:8
 msgid "Settings"
@@ -13071,7 +13071,7 @@ msgid ""
 "Odoo generates the first type, **simple electronic signatures**; these "
 "signatures are legally valid in the EU, as stated in the eIDAS regulation."
 msgstr ""
-"O Odoo gera o primeiro tipo, **assinaturas eletrônicas simples**; essas "
+"O Blue Connect gera o primeiro tipo, **assinaturas eletrônicas simples**; essas "
 "assinaturas são legalmente válidas na UE, conforme estabelecido no "
 "regulamento eIDAS."
 
@@ -13110,7 +13110,7 @@ msgid ""
 "document is detected by Odoo with the use of cryptographic proofs)"
 msgstr ""
 "Rastreabilidade e inalterabilidade de documentos (qualquer alteração feita "
-"em um documento assinado é detectada pelo Odoo com o uso de provas "
+"em um documento assinado é detectada pelo Blue Connect com o uso de provas "
 "criptográficas)"
 
 #: ../../content/applications/productivity/sign/validity.rst:49
@@ -13177,7 +13177,7 @@ msgid ""
 "signer's IP address, is added to the signature, which can be used as "
 "supporting evidence."
 msgstr ""
-"**A assinatura deve ser claramente atribuída**. No Odoo, metadados, como o "
+"**A assinatura deve ser claramente atribuída**. No Blue Connect, metadados, como o "
 "endereço IP do signatário, são adicionados à assinatura, que pode ser usada "
 "como evidência de apoio."
 
@@ -13406,7 +13406,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/sign/validity/algeria.rst:5
 msgid "Odoo Sign legality in Algeria"
-msgstr "Legalidade do Odoo Assinar na Argélia"
+msgstr "Legalidade do Blue Connect Assinar na Argélia"
 
 #: ../../content/applications/productivity/sign/validity/algeria.rst:7
 msgid ""
@@ -13564,14 +13564,14 @@ msgstr ""
 #: ../../content/applications/productivity/sign/validity/algeria.rst:26
 msgid "How Odoo Sign complies with Algerian regulations"
 msgstr ""
-"Como o Odoo Assinar está em conformidade com as regulamentações da Argélia"
+"Como o Blue Connect Assinar está em conformidade com as regulamentações da Argélia"
 
 #: ../../content/applications/productivity/sign/validity/algeria.rst:28
 msgid ""
 "Odoo Sign ensures full compliance with the Electronic Signature Law of "
 "Algeria by incorporating the following features:"
 msgstr ""
-"O Odoo Assinar garante total conformidade com a Lei de Assinatura Eletrônica "
+"O Blue Connect Assinar garante total conformidade com a Lei de Assinatura Eletrônica "
 "da Argélia ao incorporar os seguintes recursos:"
 
 #: ../../content/applications/productivity/sign/validity/algeria.rst:31
@@ -13629,7 +13629,7 @@ msgid ""
 "**Secure signature creation**: Odoo Sign utilizes advanced cryptographic "
 "techniques to ensure the authenticity and integrity of electronic signatures."
 msgstr ""
-"**Criação segura de assinaturas**: O Odoo Assinar utiliza técnicas "
+"**Criação segura de assinaturas**: O Blue Connect Assinar utiliza técnicas "
 "criptográficas avançadas para garantir a autenticidade e a integridade das "
 "assinaturas eletrônicas."
 
@@ -13689,7 +13689,7 @@ msgid ""
 "independent validation mechanism that adds an extra layer of security to the "
 "procurement process."
 msgstr ""
-"**Autenticador de assinatura de terceiros**: Odoo Online serve como um "
+"**Autenticador de assinatura de terceiros**: Blue Connect Online serve como um "
 "mecanismo de validação independente que adiciona uma camada extra de "
 "segurança ao processo de aquisições."
 
@@ -13809,7 +13809,7 @@ msgid ""
 "operation is logged securely. An audit log provides full transparency to all "
 "parties while preserving private data."
 msgstr ""
-"**Rastreabilidade criptográfica e imutabilidade**: O Odoo Assinar garante "
+"**Rastreabilidade criptográfica e imutabilidade**: O Blue Connect Assinar garante "
 "que qualquer operação é registrada de forma segura. Um log de auditoria "
 "proporciona total transparência a todas as partes, preservando os dados "
 "privados."
@@ -13924,7 +13924,7 @@ msgstr ""
 #: ../../content/applications/productivity/sign/validity/uzbekistan.rst:43
 #: ../../content/applications/productivity/sign/validity/vietnam.rst:45
 msgid "Types of documents you can sign with Odoo Sign"
-msgstr "Tipos de documentos que podem ser assinados com o Odoo Assinar"
+msgstr "Tipos de documentos que podem ser assinados com o Blue Connect Assinar"
 
 #: ../../content/applications/productivity/sign/validity/algeria.rst:45
 #: ../../content/applications/productivity/sign/validity/angola.rst:47
@@ -13981,7 +13981,7 @@ msgid ""
 "Odoo Sign is versatile and can be used for a wide range of documents, "
 "including but not limited to:"
 msgstr ""
-"O Odoo Assianar é versátil e pode ser utilizado para uma vasta gama de "
+"O Blue Connect Assianar é versátil e pode ser utilizado para uma vasta gama de "
 "documentos, incluindo, mas não se limitando a:"
 
 #: ../../content/applications/productivity/sign/validity/algeria.rst:47
@@ -14275,7 +14275,7 @@ msgid ""
 "While Odoo Sign is broadly applicable, there are certain exceptions where "
 "electronic signatures may not be suitable or legally recognized in Algeria:"
 msgstr ""
-"Embora o Odoo Assinar seja amplamente aplicável, há certas exceções em que "
+"Embora o Blue Connect Assinar seja amplamente aplicável, há certas exceções em que "
 "as assinaturas eletrônicas podem não ser adequadas ou legalmente "
 "reconhecidas na Argélia:"
 
@@ -14517,7 +14517,7 @@ msgid ""
 "also be necessary."
 msgstr ""
 "As informações fornecidas nesta página são apenas para fins informativos "
-"gerais e não constituem aconselhamento jurídico. Embora o Odoo Assinar "
+"gerais e não constituem aconselhamento jurídico. Embora o Blue Connect Assinar "
 "esteja em conformidade com a Lei de Assinatura Eletrônica da Argélia, os "
 "usuários devem consultar profissionais da área jurídica para garantir que "
 "tipos específicos de documentos e casos de uso atendam a todos os requisitos "
@@ -14568,7 +14568,7 @@ msgstr "*Última atualização: 21 de junho de 2024*"
 
 #: ../../content/applications/productivity/sign/validity/angola.rst:5
 msgid "Odoo Sign legality in Angola"
-msgstr "Legalidade do Odoo Assinar na Angola"
+msgstr "Legalidade do Blue Connect Assinar na Angola"
 
 #: ../../content/applications/productivity/sign/validity/angola.rst:7
 msgid ""
@@ -14604,21 +14604,21 @@ msgstr ""
 "**Assinatura eletrônica certificada**: assinatura digital gerada com um "
 "certificado digital fornecido por um provedor qualificado. Em alguns casos, "
 "somente a assinatura eletrônica certificada tem validade legal e jurídica na "
-"Angola. Nesses casos, as assinaturas eletrônicas simples, como a Odoo "
+"Angola. Nesses casos, as assinaturas eletrônicas simples, como a Blue Connect "
 "Assinatura, funcionam apenas como prova do acordo para celebrar a transação "
 "correspondente, que será submetida aos critérios da autoridade."
 
 #: ../../content/applications/productivity/sign/validity/angola.rst:28
 msgid "How Odoo Sign complies with Angolan regulations"
 msgstr ""
-"Como o Odoo Assinar está em conformidade com as regulamentações da Angola"
+"Como o Blue Connect Assinar está em conformidade com as regulamentações da Angola"
 
 #: ../../content/applications/productivity/sign/validity/angola.rst:30
 msgid ""
 "Odoo Sign ensures full compliance with the Electronic Signature Law of "
 "Angola by incorporating the following features:"
 msgstr ""
-"O Odoo Assinar garante total conformidade com a Lei de Assinatura Eletrônica "
+"O Blue Connect Assinar garante total conformidade com a Lei de Assinatura Eletrônica "
 "da Angola ao incorporar os seguintes recursos:"
 
 #: ../../content/applications/productivity/sign/validity/angola.rst:58
@@ -14626,7 +14626,7 @@ msgid ""
 "While Odoo Sign is broadly applicable, there are certain exceptions where "
 "electronic signatures may not be suitable or legally recognized in Angola:"
 msgstr ""
-"Embora o Odoo Assinar seja amplamente aplicável, há certas exceções em que "
+"Embora o Blue Connect Assinar seja amplamente aplicável, há certas exceções em que "
 "as assinaturas eletrônicas podem não ser adequadas ou legalmente "
 "reconhecidas na Angola:"
 
@@ -14640,7 +14640,7 @@ msgid ""
 "also be necessary."
 msgstr ""
 "As informações fornecidas nesta página são apenas para fins informativos "
-"gerais e não constituem aconselhamento jurídico. Embora o Odoo Assinar "
+"gerais e não constituem aconselhamento jurídico. Embora o Blue Connect Assinar "
 "esteja em conformidade com a Lei de Assinatura Eletrônica da Angola, os "
 "usuários devem consultar profissionais da área jurídica para garantir que "
 "tipos específicos de documentos e casos de uso atendam a todos os requisitos "
@@ -14649,7 +14649,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/sign/validity/argentina.rst:5
 msgid "Odoo Sign legality in Argentina"
-msgstr "Legalidade do Odoo Assinar na Argentina"
+msgstr "Legalidade do Blue Connect Assinar na Argentina"
 
 #: ../../content/applications/productivity/sign/validity/argentina.rst:7
 msgid ""
@@ -14690,14 +14690,14 @@ msgstr ""
 #: ../../content/applications/productivity/sign/validity/argentina.rst:27
 msgid "How Odoo Sign complies with Argentinian regulations"
 msgstr ""
-"Como o Odoo Assinar está em conformidade com as regulamentações da Argentina"
+"Como o Blue Connect Assinar está em conformidade com as regulamentações da Argentina"
 
 #: ../../content/applications/productivity/sign/validity/argentina.rst:29
 msgid ""
 "Odoo Sign ensures full compliance with the Electronic Signature Law of "
 "Argentina by incorporating the following features:"
 msgstr ""
-"O Odoo Assinar garante total conformidade com a Lei de Assinatura Eletrônica "
+"O Blue Connect Assinar garante total conformidade com a Lei de Assinatura Eletrônica "
 "da Argentina ao incorporar os seguintes recursos:"
 
 #: ../../content/applications/productivity/sign/validity/argentina.rst:57
@@ -14705,7 +14705,7 @@ msgid ""
 "While Odoo Sign is broadly applicable, there are certain exceptions where "
 "electronic signatures may not be suitable or legally recognized in Argentina:"
 msgstr ""
-"Embora o Odoo Assinar seja amplamente aplicável, há certas exceções em que "
+"Embora o Blue Connect Assinar seja amplamente aplicável, há certas exceções em que "
 "as assinaturas eletrônicas podem não ser adequadas ou legalmente "
 "reconhecidas na Argentina:"
 
@@ -14719,7 +14719,7 @@ msgid ""
 "also be necessary."
 msgstr ""
 "As informações fornecidas nesta página são apenas para fins informativos "
-"gerais e não constituem aconselhamento jurídico. Embora o Odoo Assinar "
+"gerais e não constituem aconselhamento jurídico. Embora o Blue Connect Assinar "
 "esteja em conformidade com a Lei de Assinatura Eletrônica da Argentina, os "
 "usuários devem consultar profissionais da área jurídica para garantir que "
 "tipos específicos de documentos e casos de uso atendam a todos os requisitos "
@@ -14728,7 +14728,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/sign/validity/australia.rst:5
 msgid "Odoo Sign legality in Australia"
-msgstr "Legalidade do Odoo Assinar na Austrália"
+msgstr "Legalidade do Blue Connect Assinar na Austrália"
 
 #: ../../content/applications/productivity/sign/validity/australia.rst:7
 msgid ""
@@ -14763,14 +14763,14 @@ msgstr ""
 #: ../../content/applications/productivity/sign/validity/australia.rst:25
 msgid "How Odoo Sign complies with Australian regulations"
 msgstr ""
-"Como o Odoo Assinar está em conformidade com os regulamentos australianos"
+"Como o Blue Connect Assinar está em conformidade com os regulamentos australianos"
 
 #: ../../content/applications/productivity/sign/validity/australia.rst:27
 msgid ""
 "Odoo Sign ensures full compliance with the Electronic Signature Law of "
 "Australia by incorporating the following features:"
 msgstr ""
-"O Odoo Assinar garante total conformidade com a Lei de Assinatura Eletrônica "
+"O Blue Connect Assinar garante total conformidade com a Lei de Assinatura Eletrônica "
 "da Austrália, incorporando os seguintes recursos:"
 
 #: ../../content/applications/productivity/sign/validity/australia.rst:55
@@ -14778,7 +14778,7 @@ msgid ""
 "While Odoo Sign is broadly applicable, there are certain exceptions where "
 "electronic signatures may not be suitable or legally recognized in Australia:"
 msgstr ""
-"Embora o Odoo Assinar seja amplamente aplicável, existem algumas exceções em "
+"Embora o Blue Connect Assinar seja amplamente aplicável, existem algumas exceções em "
 "que as assinaturas eletrônicas podem não ser adequadas ou legalmente "
 "reconhecidas na Austrália:"
 
@@ -14792,7 +14792,7 @@ msgid ""
 "also be necessary."
 msgstr ""
 "As informações fornecidas nesta página destinam-se apenas a fins "
-"informativos gerais e não constituem aconselhamento jurídico. Embora o Odoo "
+"informativos gerais e não constituem aconselhamento jurídico. Embora o Blue Connect "
 "Assinar esteja em conformidade com a Lei de Assinatura Eletrônica da "
 "Austrália, os usuários devem consultar profissionais jurídicos para garantir "
 "que tipos de documentos específicos e casos de uso cumprem todos os "
@@ -14816,7 +14816,7 @@ msgstr "*Última atualização: 19 de junho de 2024*"
 
 #: ../../content/applications/productivity/sign/validity/azerbaijan.rst:5
 msgid "Odoo Sign legality in Azerbaijan"
-msgstr "Legalidade do Odoo Assinar no Azerbaijão"
+msgstr "Legalidade do Blue Connect Assinar no Azerbaijão"
 
 #: ../../content/applications/productivity/sign/validity/azerbaijan.rst:7
 msgid ""
@@ -14853,14 +14853,14 @@ msgstr ""
 #: ../../content/applications/productivity/sign/validity/azerbaijan.rst:26
 msgid "How Odoo Sign complies with Azerbaijani regulations"
 msgstr ""
-"Como o Odoo Assinar está em conformidade com as regulamentações do Azerbaijão"
+"Como o Blue Connect Assinar está em conformidade com as regulamentações do Azerbaijão"
 
 #: ../../content/applications/productivity/sign/validity/azerbaijan.rst:28
 msgid ""
 "Odoo Sign ensures full compliance with the Electronic Signature Law of "
 "Azerbaijan by incorporating the following features:"
 msgstr ""
-"O Odoo Assinar garante total conformidade com a Lei de Assinatura Eletrônica "
+"O Blue Connect Assinar garante total conformidade com a Lei de Assinatura Eletrônica "
 "do Azerbaijão ao incorporar os seguintes recursos:"
 
 #: ../../content/applications/productivity/sign/validity/azerbaijan.rst:56
@@ -14869,7 +14869,7 @@ msgid ""
 "electronic signatures may not be suitable or legally recognized in "
 "Azerbaijan:"
 msgstr ""
-"Embora o Odoo Assinar seja amplamente aplicável, há certas exceções em que "
+"Embora o Blue Connect Assinar seja amplamente aplicável, há certas exceções em que "
 "as assinaturas eletrônicas podem não ser adequadas ou legalmente "
 "reconhecidas no Azerbaijão:"
 
@@ -14883,7 +14883,7 @@ msgid ""
 "also be necessary."
 msgstr ""
 "As informações fornecidas nesta página são apenas para fins informativos "
-"gerais e não constituem aconselhamento jurídico. Embora o Odoo Assinar "
+"gerais e não constituem aconselhamento jurídico. Embora o Blue Connect Assinar "
 "esteja em conformidade com a Lei de Assinatura Eletrônica da Azerbaijão, os "
 "usuários devem consultar profissionais da área jurídica para garantir que "
 "tipos específicos de documentos e casos de uso atendam a todos os requisitos "
@@ -14892,7 +14892,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/sign/validity/bangladesh.rst:5
 msgid "Odoo Sign legality in Bangladesh"
-msgstr "Legalidade do Odoo Assinar em Bangladesh"
+msgstr "Legalidade do Blue Connect Assinar em Bangladesh"
 
 #: ../../content/applications/productivity/sign/validity/bangladesh.rst:7
 msgid ""
@@ -14931,14 +14931,14 @@ msgstr ""
 #: ../../content/applications/productivity/sign/validity/bangladesh.rst:26
 msgid "How Odoo Sign complies with Bangladeshi regulations"
 msgstr ""
-"Como o Odoo Assinar está em conformidade com as regulamentações de Bangladesh"
+"Como o Blue Connect Assinar está em conformidade com as regulamentações de Bangladesh"
 
 #: ../../content/applications/productivity/sign/validity/bangladesh.rst:28
 msgid ""
 "Odoo Sign ensures full compliance with the Electronic Signature Law of "
 "Bangladesh by incorporating the following features:"
 msgstr ""
-"O Odoo Assinar garante a total conformidade com a Lei de Assinatura "
+"O Blue Connect Assinar garante a total conformidade com a Lei de Assinatura "
 "Eletrônica de Bangladesh, incorporando os seguintes recursos:"
 
 #: ../../content/applications/productivity/sign/validity/bangladesh.rst:56
@@ -14947,7 +14947,7 @@ msgid ""
 "electronic signatures may not be suitable or legally recognized in "
 "Bangladesh:"
 msgstr ""
-"Embora o Odoo Assinar seja amplamente aplicável, existem certas exceções em "
+"Embora o Blue Connect Assinar seja amplamente aplicável, existem certas exceções em "
 "que as assinaturas eletrônicas podem não ser adequadas ou legalmente "
 "reconhecidas em Bangladesh:"
 
@@ -14961,7 +14961,7 @@ msgid ""
 "also be necessary."
 msgstr ""
 "As informações fornecidas nesta página são apenas para fins informativos "
-"gerais e não constituem aconselhamento jurídico. Embora o Odoo Assinar "
+"gerais e não constituem aconselhamento jurídico. Embora o Blue Connect Assinar "
 "esteja em conformidade com a Lei de Assinatura Eletrônica de Bangladesh, os "
 "usuários devem consultar profissionais da área jurídica para garantir que "
 "tipos específicos de documentos e casos de uso atendam a todos os requisitos "
@@ -14970,7 +14970,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/sign/validity/brazil.rst:5
 msgid "Odoo Sign legality in Brazil"
-msgstr "Legalidade do Odoo Assinar no Brasil"
+msgstr "Legalidade do Blue Connect Assinar no Brasil"
 
 #: ../../content/applications/productivity/sign/validity/brazil.rst:7
 msgid ""
@@ -15019,14 +15019,14 @@ msgstr ""
 
 #: ../../content/applications/productivity/sign/validity/brazil.rst:30
 msgid "How Odoo Sign complies with Brazilian regulations"
-msgstr "Como o Odoo Assinar cumpre os regulamentos brasileiros"
+msgstr "Como o Blue Connect Assinar cumpre os regulamentos brasileiros"
 
 #: ../../content/applications/productivity/sign/validity/brazil.rst:32
 msgid ""
 "Odoo Sign ensures full compliance with the Electronic Signature Law of "
 "Brazil by incorporating the following features:"
 msgstr ""
-"O Odoo Assinar assegura a total conformidade com a Lei da Assinatura "
+"O Blue Connect Assinar assegura a total conformidade com a Lei da Assinatura "
 "Eletrônica do Brasil ao incorporar as seguintes funcionalidades:"
 
 #: ../../content/applications/productivity/sign/validity/brazil.rst:60
@@ -15034,7 +15034,7 @@ msgid ""
 "While Odoo Sign is broadly applicable, there are certain exceptions where "
 "electronic signatures may not be suitable or legally recognized in Brazil:"
 msgstr ""
-"Embora o Odoo Assinar seja amplamente aplicável, existem algumas exceções em "
+"Embora o Blue Connect Assinar seja amplamente aplicável, existem algumas exceções em "
 "que as assinaturas eletrônicas podem não ser adequadas ou legalmente "
 "reconhecidas no Brasil:"
 
@@ -15048,7 +15048,7 @@ msgid ""
 "also be necessary."
 msgstr ""
 "As informações fornecidas nesta página destinam-se apenas a fins "
-"informativos gerais e não constituem aconselhamento jurídico. Embora o Odoo "
+"informativos gerais e não constituem aconselhamento jurídico. Embora o Blue Connect "
 "Assinar esteja em conformidade com a Lei de Assinatura Eletrônica do Brasil, "
 "os usuários devem consultar profissionais jurídicos para garantir que tipos "
 "de documentos específicos e casos de uso cumprem todos os requisitos legais. "
@@ -15057,7 +15057,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/sign/validity/canada.rst:5
 msgid "Odoo Sign legality in Canada"
-msgstr "Legalidade do Odoo Assinar no Canadá"
+msgstr "Legalidade do Blue Connect Assinar no Canadá"
 
 #: ../../content/applications/productivity/sign/validity/canada.rst:7
 msgid ""
@@ -15101,14 +15101,14 @@ msgstr ""
 #: ../../content/applications/productivity/sign/validity/canada.rst:28
 msgid "How Odoo Sign complies with Canadian regulations"
 msgstr ""
-"Como o Odoo Assinar está em conformidade com as regulamentações canadenses"
+"Como o Blue Connect Assinar está em conformidade com as regulamentações canadenses"
 
 #: ../../content/applications/productivity/sign/validity/canada.rst:30
 msgid ""
 "Odoo Sign ensures full compliance with the Electronic Signature Law of "
 "Canada by incorporating the following features:"
 msgstr ""
-"O Odoo Assinar garante a total conformidade com a Lei de Assinatura "
+"O Blue Connect Assinar garante a total conformidade com a Lei de Assinatura "
 "Eletrônica do Canadá, incorporando os seguintes recursos:"
 
 #: ../../content/applications/productivity/sign/validity/canada.rst:58
@@ -15116,7 +15116,7 @@ msgid ""
 "While Odoo Sign is broadly applicable, there are certain exceptions where "
 "electronic signatures may not be suitable or legally recognized in Canada:"
 msgstr ""
-"Embora o Odoo Assinar seja amplamente aplicável, existem certas exceções em "
+"Embora o Blue Connect Assinar seja amplamente aplicável, existem certas exceções em "
 "que as assinaturas eletrônicas podem não ser adequadas ou legalmente "
 "reconhecidas no Canadá:"
 
@@ -15130,7 +15130,7 @@ msgid ""
 "also be necessary."
 msgstr ""
 "As informações fornecidas nesta página destinam-se apenas a fins "
-"informativos gerais e não constituem aconselhamento jurídico. Embora o Odoo "
+"informativos gerais e não constituem aconselhamento jurídico. Embora o Blue Connect "
 "Assinar esteja em conformidade com a Lei de Assinatura Eletrônica do Canadá, "
 "os usuários devem consultar profissionais jurídicos para garantir que tipos "
 "de documentos específicos e casos de uso cumprem todos os requisitos legais. "
@@ -15139,7 +15139,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/sign/validity/chile.rst:5
 msgid "Odoo Sign legality in Chile"
-msgstr "Legalidade do Odoo Assinar no Chile"
+msgstr "Legalidade do Blue Connect Assinar no Chile"
 
 #: ../../content/applications/productivity/sign/validity/chile.rst:7
 msgid ""
@@ -15184,14 +15184,14 @@ msgstr ""
 #: ../../content/applications/productivity/sign/validity/chile.rst:29
 msgid "How Odoo Sign complies with Chilean regulations"
 msgstr ""
-"Como o Odoo Assinar está em conformidade com as regulamentações do Chile"
+"Como o Blue Connect Assinar está em conformidade com as regulamentações do Chile"
 
 #: ../../content/applications/productivity/sign/validity/chile.rst:31
 msgid ""
 "Odoo Sign ensures full compliance with the Electronic Signature Law of Chile "
 "by incorporating the following features:"
 msgstr ""
-"O Odoo Assinar garante a total conformidade com a Lei de Assinatura "
+"O Blue Connect Assinar garante a total conformidade com a Lei de Assinatura "
 "Eletrônica do Chile, incorporando os seguintes recursos:"
 
 #: ../../content/applications/productivity/sign/validity/chile.rst:59
@@ -15199,7 +15199,7 @@ msgid ""
 "While Odoo Sign is broadly applicable, there are certain exceptions where "
 "electronic signatures may not be suitable or legally recognized in Chile:"
 msgstr ""
-"Embora o Odoo Assinar seja amplamente aplicável, existem algumas exceções em "
+"Embora o Blue Connect Assinar seja amplamente aplicável, existem algumas exceções em "
 "que as assinaturas eletrônicas podem não ser adequadas ou legalmente "
 "reconhecidas no Chile:"
 
@@ -15213,7 +15213,7 @@ msgid ""
 "also be necessary."
 msgstr ""
 "As informações fornecidas nesta página destinam-se apenas a fins "
-"informativos gerais e não constituem aconselhamento jurídico. Embora o Odoo "
+"informativos gerais e não constituem aconselhamento jurídico. Embora o Blue Connect "
 "Assinar esteja em conformidade com a Lei de Assinatura Eletrônica do Chile, "
 "os usuários devem consultar profissionais jurídicos para garantir que tipos "
 "de documentos específicos e casos de uso cumprem todos os requisitos legais. "
@@ -15222,7 +15222,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/sign/validity/china.rst:5
 msgid "Odoo Sign legality in China"
-msgstr "Legalidade do Odoo Assinar na China"
+msgstr "Legalidade do Blue Connect Assinar na China"
 
 #: ../../content/applications/productivity/sign/validity/china.rst:7
 msgid ""
@@ -15260,14 +15260,14 @@ msgstr ""
 #: ../../content/applications/productivity/sign/validity/china.rst:25
 msgid "How Odoo Sign complies with Chinese regulations"
 msgstr ""
-"Como o Odoo Assinar está em conformidade com as regulamentações chinesas"
+"Como o Blue Connect Assinar está em conformidade com as regulamentações chinesas"
 
 #: ../../content/applications/productivity/sign/validity/china.rst:27
 msgid ""
 "Odoo Sign ensures full compliance with the Electronic Signature Law of China "
 "by incorporating the following features:"
 msgstr ""
-"O Odoo Assinar garante a total conformidade com a Lei de Assinatura "
+"O Blue Connect Assinar garante a total conformidade com a Lei de Assinatura "
 "Eletrônica da China, incorporando os seguintes recursos:"
 
 #: ../../content/applications/productivity/sign/validity/china.rst:55
@@ -15275,7 +15275,7 @@ msgid ""
 "While Odoo Sign is broadly applicable, there are certain exceptions where "
 "electronic signatures may not be suitable or legally recognized in China:"
 msgstr ""
-"Embora o Odoo Assinar seja amplamente aplicável, existem algumas exceções em "
+"Embora o Blue Connect Assinar seja amplamente aplicável, existem algumas exceções em "
 "que as assinaturas eletrônicas podem não ser adequadas ou legalmente "
 "reconhecidas na China:"
 
@@ -15289,7 +15289,7 @@ msgid ""
 "also be necessary."
 msgstr ""
 "As informações fornecidas nesta página destinam-se apenas a fins "
-"informativos gerais e não constituem aconselhamento jurídico. Embora o Odoo "
+"informativos gerais e não constituem aconselhamento jurídico. Embora o Blue Connect "
 "Assinar esteja em conformidade com a Lei de Assinatura Eletrônica da China, "
 "os usuários devem consultar profissionais jurídicos para garantir que tipos "
 "de documentos específicos e casos de uso cumprem todos os requisitos legais. "
@@ -15298,7 +15298,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/sign/validity/colombia.rst:5
 msgid "Odoo Sign legality in Colombia"
-msgstr "Legalidade do Odoo Assinar na Colômbia"
+msgstr "Legalidade do Blue Connect Assinar na Colômbia"
 
 #: ../../content/applications/productivity/sign/validity/colombia.rst:7
 msgid ""
@@ -15340,21 +15340,21 @@ msgstr ""
 "incorpora certificados emitidos por uma autoridade de certificação "
 "reconhecida. Em alguns casos, somente a assinatura eletrônica certificada "
 "tem validade legal e jurídica na Colômbia. Nesses casos, as assinaturas "
-"eletrônicas simples, como a Odoo Assinatura, funcionam apenas como prova do "
+"eletrônicas simples, como a Blue Connect Assinatura, funcionam apenas como prova do "
 "acordo para celebrar a transação correspondente, que será submetida aos "
 "critérios da autoridade."
 
 #: ../../content/applications/productivity/sign/validity/colombia.rst:28
 msgid "How Odoo Sign complies with Colombian regulations"
 msgstr ""
-"Como o Odoo Assinar está em conformidade com as regulamentações da Colômbia"
+"Como o Blue Connect Assinar está em conformidade com as regulamentações da Colômbia"
 
 #: ../../content/applications/productivity/sign/validity/colombia.rst:30
 msgid ""
 "Odoo Sign ensures full compliance with the Electronic Signature Law of "
 "Colombia by incorporating the following features:"
 msgstr ""
-"O Odoo Assinar garante total conformidade com a Lei de Assinatura Eletrônica "
+"O Blue Connect Assinar garante total conformidade com a Lei de Assinatura Eletrônica "
 "da Colômbia ao incorporar os seguintes recursos:"
 
 #: ../../content/applications/productivity/sign/validity/colombia.rst:58
@@ -15362,7 +15362,7 @@ msgid ""
 "While Odoo Sign is broadly applicable, there are certain exceptions where "
 "electronic signatures may not be suitable or legally recognized in Colombia:"
 msgstr ""
-"Embora o Odoo Assinar seja amplamente aplicável, há certas exceções em que "
+"Embora o Blue Connect Assinar seja amplamente aplicável, há certas exceções em que "
 "as assinaturas eletrônicas podem não ser adequadas ou legalmente "
 "reconhecidas na Colômbia:"
 
@@ -15376,7 +15376,7 @@ msgid ""
 "also be necessary."
 msgstr ""
 "As informações fornecidas nesta página destinam-se apenas a fins "
-"informativos gerais e não constituem aconselhamento jurídico. Embora o Odoo "
+"informativos gerais e não constituem aconselhamento jurídico. Embora o Blue Connect "
 "Assinar esteja em conformidade com a Lei de Assinatura Eletrônica da "
 "Colômbia, os usuários devem consultar profissionais jurídicos para garantir "
 "que tipos de documentos específicos e casos de uso cumprem todos os "
@@ -15385,7 +15385,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/sign/validity/dominican_republic.rst:5
 msgid "Odoo Sign legality in the Dominican Republic"
-msgstr "Legalidade do Odoo Assinar na República Dominicana"
+msgstr "Legalidade do Blue Connect Assinar na República Dominicana"
 
 #: ../../content/applications/productivity/sign/validity/dominican_republic.rst:7
 msgid ""
@@ -15427,7 +15427,7 @@ msgstr ""
 #: ../../content/applications/productivity/sign/validity/dominican_republic.rst:26
 msgid "How Odoo Sign complies with Dominican regulations"
 msgstr ""
-"Como o Odoo Assinar está em conformidade com as regulamentações da República "
+"Como o Blue Connect Assinar está em conformidade com as regulamentações da República "
 "Dominicana"
 
 #: ../../content/applications/productivity/sign/validity/dominican_republic.rst:28
@@ -15435,7 +15435,7 @@ msgid ""
 "Odoo Sign ensures full compliance with the Electronic Signature Law of the "
 "Dominican Republic by incorporating the following features:"
 msgstr ""
-"O Odoo Assinar garante a total conformidade com a Lei de Assinatura "
+"O Blue Connect Assinar garante a total conformidade com a Lei de Assinatura "
 "Eletrônica da República Dominicana, incorporando os seguintes recursos:"
 
 #: ../../content/applications/productivity/sign/validity/dominican_republic.rst:56
@@ -15444,7 +15444,7 @@ msgid ""
 "electronic signatures may not be suitable or legally recognized in the "
 "Dominican Republic:"
 msgstr ""
-"Embora o Odoo Assinar seja amplamente aplicável, existem algumas exceções em "
+"Embora o Blue Connect Assinar seja amplamente aplicável, existem algumas exceções em "
 "que as assinaturas eletrônicas podem não ser adequadas ou legalmente "
 "reconhecidas na República Dominicana:"
 
@@ -15458,7 +15458,7 @@ msgid ""
 "regulations may also be necessary."
 msgstr ""
 "As informações fornecidas nesta página destinam-se apenas a fins "
-"informativos gerais e não constituem aconselhamento jurídico. Embora o Odoo "
+"informativos gerais e não constituem aconselhamento jurídico. Embora o Blue Connect "
 "Assinar esteja em conformidade com a Lei de Assinatura Eletrônica da "
 "República Dominicana, os usuários devem consultar profissionais jurídicos "
 "para garantir que tipos de documentos específicos e casos de uso cumprem "
@@ -15467,7 +15467,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/sign/validity/ecuador.rst:5
 msgid "Odoo Sign legality in Ecuador"
-msgstr "Legalidade do Odoo Assinar no Equador"
+msgstr "Legalidade do Blue Connect Assinar no Equador"
 
 #: ../../content/applications/productivity/sign/validity/ecuador.rst:7
 msgid ""
@@ -15496,14 +15496,14 @@ msgstr ""
 #: ../../content/applications/productivity/sign/validity/ecuador.rst:26
 msgid "How Odoo Sign complies with Ecuadoran regulations"
 msgstr ""
-"Como o Odoo Assinar está em conformidade com as regulamentações do Equador"
+"Como o Blue Connect Assinar está em conformidade com as regulamentações do Equador"
 
 #: ../../content/applications/productivity/sign/validity/ecuador.rst:28
 msgid ""
 "Odoo Sign ensures full compliance with the Electronic Signature Law of "
 "Ecuador by incorporating the following features:"
 msgstr ""
-"O Odoo Assinar garante a total conformidade com a Lei de Assinatura "
+"O Blue Connect Assinar garante a total conformidade com a Lei de Assinatura "
 "Eletrônica do Equador, incorporando os seguintes recursos:"
 
 #: ../../content/applications/productivity/sign/validity/ecuador.rst:56
@@ -15511,7 +15511,7 @@ msgid ""
 "While Odoo Sign is broadly applicable, there are certain exceptions where "
 "electronic signatures may not be suitable or legally recognized in Ecuador:"
 msgstr ""
-"Embora o Odoo Assinar seja amplamente aplicável, existem certas exceções em "
+"Embora o Blue Connect Assinar seja amplamente aplicável, existem certas exceções em "
 "que as assinaturas eletrônicas podem não ser adequadas ou legalmente "
 "reconhecidas no Equador:"
 
@@ -15525,7 +15525,7 @@ msgid ""
 "also be necessary."
 msgstr ""
 "As informações fornecidas nesta página destinam-se apenas a fins "
-"informativos gerais e não constituem aconselhamento jurídico. Embora o Odoo "
+"informativos gerais e não constituem aconselhamento jurídico. Embora o Blue Connect "
 "Assinar esteja em conformidade com a Lei de Assinatura Eletrônica do "
 "Equador, os usuários devem consultar profissionais jurídicos para garantir "
 "que tipos de documentos específicos e casos de uso cumprem todos os "
@@ -15534,7 +15534,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/sign/validity/egypt.rst:5
 msgid "Odoo Sign legality in Egypt"
-msgstr "Legalidade do Odoo Assinar no Egito"
+msgstr "Legalidade do Blue Connect Assinar no Egito"
 
 #: ../../content/applications/productivity/sign/validity/egypt.rst:7
 msgid ""
@@ -15571,14 +15571,14 @@ msgstr ""
 #: ../../content/applications/productivity/sign/validity/egypt.rst:25
 msgid "How Odoo Sign complies with Egyptian regulations"
 msgstr ""
-"Como o Odoo Assinar está em conformidade com as regulamentações do Egito"
+"Como o Blue Connect Assinar está em conformidade com as regulamentações do Egito"
 
 #: ../../content/applications/productivity/sign/validity/egypt.rst:27
 msgid ""
 "Odoo Sign ensures full compliance with the Electronic Signature Law of Egypt "
 "by incorporating the following features:"
 msgstr ""
-"O Odoo Assinar garante a total conformidade com a Lei de Assinatura "
+"O Blue Connect Assinar garante a total conformidade com a Lei de Assinatura "
 "Eletrônica do Egito, incorporando os seguintes recursos:"
 
 #: ../../content/applications/productivity/sign/validity/egypt.rst:55
@@ -15586,7 +15586,7 @@ msgid ""
 "While Odoo Sign is broadly applicable, there are certain exceptions where "
 "electronic signatures may not be suitable or legally recognized in Egypt:"
 msgstr ""
-"Embora o Odoo Assinar seja amplamente aplicável, existem algumas exceções em "
+"Embora o Blue Connect Assinar seja amplamente aplicável, existem algumas exceções em "
 "que as assinaturas eletrônicas podem não ser adequadas ou legalmente "
 "reconhecidas no Egito:"
 
@@ -15600,7 +15600,7 @@ msgid ""
 "also be necessary."
 msgstr ""
 "As informações fornecidas nesta página destinam-se apenas a fins "
-"informativos gerais e não constituem aconselhamento jurídico. Embora o Odoo "
+"informativos gerais e não constituem aconselhamento jurídico. Embora o Blue Connect "
 "Assinar esteja em conformidade com a Lei de Assinatura Eletrônica do Egito, "
 "os usuários devem consultar profissionais jurídicos para garantir que tipos "
 "de documentos específicos e casos de uso cumprem todos os requisitos legais. "
@@ -15609,7 +15609,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/sign/validity/ethiopia.rst:5
 msgid "Odoo Sign legality in Ethiopia"
-msgstr "Legalidade do Odoo Assinar na Etiópia"
+msgstr "Legalidade do Blue Connect Assinar na Etiópia"
 
 #: ../../content/applications/productivity/sign/validity/ethiopia.rst:7
 msgid ""
@@ -15647,14 +15647,14 @@ msgstr ""
 #: ../../content/applications/productivity/sign/validity/ethiopia.rst:25
 msgid "How Odoo Sign complies with Ethiopian regulations"
 msgstr ""
-"Como o Odoo Assinar está em conformidade com as regulamentações da Etiópia"
+"Como o Blue Connect Assinar está em conformidade com as regulamentações da Etiópia"
 
 #: ../../content/applications/productivity/sign/validity/ethiopia.rst:27
 msgid ""
 "Odoo Sign ensures full compliance with the Electronic Signature Law of "
 "Ethiopia by incorporating the following features:"
 msgstr ""
-"O Odoo Assinar garante a total conformidade com a Lei de Assinatura "
+"O Blue Connect Assinar garante a total conformidade com a Lei de Assinatura "
 "Eletrônica da Etiópia, incorporando os seguintes recursos:"
 
 #: ../../content/applications/productivity/sign/validity/ethiopia.rst:55
@@ -15662,7 +15662,7 @@ msgid ""
 "While Odoo Sign is broadly applicable, there are certain exceptions where "
 "electronic signatures may not be suitable or legally recognized in Ethiopia:"
 msgstr ""
-"Embora o Odoo Assinar seja amplamente aplicável, existem algumas exceções em "
+"Embora o Blue Connect Assinar seja amplamente aplicável, existem algumas exceções em "
 "que as assinaturas eletrônicas podem não ser adequadas ou legalmente "
 "reconhecidas no Etiópia:"
 
@@ -15676,7 +15676,7 @@ msgid ""
 "also be necessary."
 msgstr ""
 "As informações fornecidas nesta página destinam-se apenas a fins "
-"informativos gerais e não constituem aconselhamento jurídico. Embora o Odoo "
+"informativos gerais e não constituem aconselhamento jurídico. Embora o Blue Connect "
 "Assinar esteja em conformidade com a Lei de Assinatura Eletrônica da "
 "Etiópia, os usuários devem consultar profissionais jurídicos para garantir "
 "que tipos de documentos específicos e casos de uso cumprem todos os "
@@ -15685,7 +15685,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/sign/validity/germany.rst:5
 msgid "Odoo Sign legality in Germany"
-msgstr "Legalidade do Odoo Assinar na Alemanha"
+msgstr "Legalidade do Blue Connect Assinar na Alemanha"
 
 #: ../../content/applications/productivity/sign/validity/germany.rst:7
 msgid ""
@@ -15725,14 +15725,14 @@ msgstr ""
 #: ../../content/applications/productivity/sign/validity/germany.rst:27
 msgid "How Odoo Sign complies with German regulations"
 msgstr ""
-"Como o Odoo Assinar está em conformidade com as regulamentações da Alemanha"
+"Como o Blue Connect Assinar está em conformidade com as regulamentações da Alemanha"
 
 #: ../../content/applications/productivity/sign/validity/germany.rst:29
 msgid ""
 "Odoo Sign ensures full compliance with the Electronic Signature Law of "
 "Germany by incorporating the following features:"
 msgstr ""
-"O Odoo Assinar garante a total conformidade com a Lei de Assinatura "
+"O Blue Connect Assinar garante a total conformidade com a Lei de Assinatura "
 "Eletrônica da Alemanha, incorporando os seguintes recursos:"
 
 #: ../../content/applications/productivity/sign/validity/germany.rst:57
@@ -15740,7 +15740,7 @@ msgid ""
 "While Odoo Sign is broadly applicable, there are certain exceptions where "
 "electronic signatures may not be suitable or legally recognized in Germany:"
 msgstr ""
-"Embora o Odoo Assinar seja amplamente aplicável, existem certas exceções em "
+"Embora o Blue Connect Assinar seja amplamente aplicável, existem certas exceções em "
 "que as assinaturas eletrônicas podem não ser adequadas ou legalmente "
 "reconhecidas na Alemanha:"
 
@@ -15754,7 +15754,7 @@ msgid ""
 "also be necessary."
 msgstr ""
 "As informações fornecidas nesta página são apenas para fins informativos "
-"gerais e não constituem aconselhamento jurídico. Embora o Odoo Assinar "
+"gerais e não constituem aconselhamento jurídico. Embora o Blue Connect Assinar "
 "esteja em conformidade com a Lei de Assinatura Eletrônica da Alemanha, os "
 "usuários devem consultar profissionais da área jurídica para garantir que "
 "tipos específicos de documentos e casos de uso atendam a todos os requisitos "
@@ -15763,7 +15763,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/sign/validity/guatemala.rst:5
 msgid "Odoo Sign legality in Guatemala"
-msgstr "Legalidade do Odoo Assinar na Guatemala"
+msgstr "Legalidade do Blue Connect Assinar na Guatemala"
 
 #: ../../content/applications/productivity/sign/validity/guatemala.rst:7
 msgid ""
@@ -15802,14 +15802,14 @@ msgstr ""
 #: ../../content/applications/productivity/sign/validity/guatemala.rst:25
 msgid "How Odoo Sign complies with Guatemalan regulations"
 msgstr ""
-"Como o Odoo Assinar está em conformidade com as regulamentações da Guatemala"
+"Como o Blue Connect Assinar está em conformidade com as regulamentações da Guatemala"
 
 #: ../../content/applications/productivity/sign/validity/guatemala.rst:27
 msgid ""
 "Odoo Sign ensures full compliance with the Electronic Signature Law of "
 "Guatemala by incorporating the following features:"
 msgstr ""
-"O Odoo Assinar garante a total conformidade com a Lei de Assinatura "
+"O Blue Connect Assinar garante a total conformidade com a Lei de Assinatura "
 "Eletrônica da Guatemala, incorporando os seguintes recursos:"
 
 #: ../../content/applications/productivity/sign/validity/guatemala.rst:55
@@ -15817,7 +15817,7 @@ msgid ""
 "While Odoo Sign is broadly applicable, there are certain exceptions where "
 "electronic signatures may not be suitable or legally recognized in Guatemala:"
 msgstr ""
-"Embora o Odoo Assinar seja amplamente aplicável, existem certas exceções em "
+"Embora o Blue Connect Assinar seja amplamente aplicável, existem certas exceções em "
 "que as assinaturas eletrônicas podem não ser adequadas ou legalmente "
 "reconhecidas na Guatemala:"
 
@@ -15831,7 +15831,7 @@ msgid ""
 "also be necessary."
 msgstr ""
 "As informações fornecidas nesta página destinam-se apenas a fins "
-"informativos gerais e não constituem aconselhamento jurídico. Embora o Odoo "
+"informativos gerais e não constituem aconselhamento jurídico. Embora o Blue Connect "
 "Assinar esteja em conformidade com a Lei de Assinatura Eletrônica da "
 "Guatemala, os usuários devem consultar profissionais jurídicos para garantir "
 "que tipos de documentos específicos e casos de uso cumprem todos os "
@@ -15840,7 +15840,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/sign/validity/hong_kong.rst:5
 msgid "Odoo Sign legality in Hong Kong"
-msgstr "Legalidade do Odoo Assinar em Hong Kong"
+msgstr "Legalidade do Blue Connect Assinar em Hong Kong"
 
 #: ../../content/applications/productivity/sign/validity/hong_kong.rst:7
 msgid ""
@@ -15868,14 +15868,14 @@ msgstr ""
 #: ../../content/applications/productivity/sign/validity/hong_kong.rst:25
 msgid "How Odoo Sign complies with Hong Kong regulations"
 msgstr ""
-"Como o Odoo Assinar está em conformidade com as regulamentações de Hong Kong"
+"Como o Blue Connect Assinar está em conformidade com as regulamentações de Hong Kong"
 
 #: ../../content/applications/productivity/sign/validity/hong_kong.rst:27
 msgid ""
 "Odoo Sign ensures full compliance with the Electronic Signature Law of Hong "
 "Kong by incorporating the following features:"
 msgstr ""
-"O Odoo Assinar garante total conformidade com a Lei de Assinatura Eletrônica "
+"O Blue Connect Assinar garante total conformidade com a Lei de Assinatura Eletrônica "
 "de Hong Kong ao incorporar os seguintes recursos:"
 
 #: ../../content/applications/productivity/sign/validity/hong_kong.rst:55
@@ -15883,7 +15883,7 @@ msgid ""
 "While Odoo Sign is broadly applicable, there are certain exceptions where "
 "electronic signatures may not be suitable or legally recognized in Hong Kong:"
 msgstr ""
-"Embora o Odoo Assinar seja amplamente aplicável, há certas exceções em que "
+"Embora o Blue Connect Assinar seja amplamente aplicável, há certas exceções em que "
 "as assinaturas eletrônicas podem não ser adequadas ou legalmente "
 "reconhecidas em Hong Kong:"
 
@@ -15897,7 +15897,7 @@ msgid ""
 "also be necessary."
 msgstr ""
 "As informações fornecidas nesta página são apenas para fins informativos "
-"gerais e não constituem aconselhamento jurídico. Embora o Odoo Assinar "
+"gerais e não constituem aconselhamento jurídico. Embora o Blue Connect Assinar "
 "esteja em conformidade com a Lei de Assinatura Eletrônica de Hong Kong, os "
 "usuários devem consultar profissionais da área jurídica para garantir que "
 "tipos específicos de documentos e casos de uso atendam a todos os requisitos "
@@ -15906,7 +15906,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/sign/validity/india.rst:5
 msgid "Odoo Sign legality in India"
-msgstr "Legalidade do Odoo Assinar na Índia"
+msgstr "Legalidade do Blue Connect Assinar na Índia"
 
 #: ../../content/applications/productivity/sign/validity/india.rst:7
 msgid ""
@@ -15952,14 +15952,14 @@ msgstr ""
 #: ../../content/applications/productivity/sign/validity/india.rst:29
 msgid "How Odoo Sign complies with Indian regulations"
 msgstr ""
-"Como o Odoo Assinar está em conformidade com as regulamentações indianas"
+"Como o Blue Connect Assinar está em conformidade com as regulamentações indianas"
 
 #: ../../content/applications/productivity/sign/validity/india.rst:31
 msgid ""
 "Odoo Sign ensures full compliance with the Electronic Signature Law of India "
 "by incorporating the following features:"
 msgstr ""
-"O Odoo Assinar garante a total conformidade com a Lei de Assinatura "
+"O Blue Connect Assinar garante a total conformidade com a Lei de Assinatura "
 "Eletrônica da Índia, incorporando os seguintes recursos:"
 
 #: ../../content/applications/productivity/sign/validity/india.rst:59
@@ -15967,7 +15967,7 @@ msgid ""
 "While Odoo Sign is broadly applicable, there are certain exceptions where "
 "electronic signatures may not be suitable or legally recognized in India:"
 msgstr ""
-"Embora o Odoo Assinar seja amplamente aplicável, existem algumas exceções em "
+"Embora o Blue Connect Assinar seja amplamente aplicável, existem algumas exceções em "
 "que as assinaturas eletrônicas podem não ser adequadas ou legalmente "
 "reconhecidas na Índia:"
 
@@ -15981,7 +15981,7 @@ msgid ""
 "also be necessary."
 msgstr ""
 "As informações fornecidas nesta página destinam-se apenas a fins "
-"informativos gerais e não constituem aconselhamento jurídico. Embora o Odoo "
+"informativos gerais e não constituem aconselhamento jurídico. Embora o Blue Connect "
 "Assinar esteja em conformidade com a Lei de Assinatura Eletrônica da Índia, "
 "os usuários devem consultar profissionais jurídicos para garantir que tipos "
 "de documentos específicos e casos de uso cumprem todos os requisitos legais. "
@@ -15990,7 +15990,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/sign/validity/indonesia.rst:5
 msgid "Odoo Sign legality in Indonesia"
-msgstr "Legalidade do Odoo Assinar na Indonésia"
+msgstr "Legalidade do Blue Connect Assinar na Indonésia"
 
 #: ../../content/applications/productivity/sign/validity/indonesia.rst:7
 msgid ""
@@ -16042,14 +16042,14 @@ msgstr ""
 #: ../../content/applications/productivity/sign/validity/indonesia.rst:31
 msgid "How Odoo Sign complies with Indonesian regulations"
 msgstr ""
-"Como o Odoo Assinar está em conformidade com as regulamentações da Indonésia"
+"Como o Blue Connect Assinar está em conformidade com as regulamentações da Indonésia"
 
 #: ../../content/applications/productivity/sign/validity/indonesia.rst:33
 msgid ""
 "Odoo Sign ensures full compliance with the Electronic Signature Law of "
 "Indonesia by incorporating the following features:"
 msgstr ""
-"O Odoo Assinar garante a total conformidade com a Lei de Assinatura "
+"O Blue Connect Assinar garante a total conformidade com a Lei de Assinatura "
 "Eletrônica da Indonésia, incorporando os seguintes recursos:"
 
 #: ../../content/applications/productivity/sign/validity/indonesia.rst:61
@@ -16057,7 +16057,7 @@ msgid ""
 "While Odoo Sign is broadly applicable, there are certain exceptions where "
 "electronic signatures may not be suitable or legally recognized in Indonesia:"
 msgstr ""
-"Embora o Odoo Assinar seja amplamente aplicável, existem algumas exceções em "
+"Embora o Blue Connect Assinar seja amplamente aplicável, existem algumas exceções em "
 "que as assinaturas eletrônicas podem não ser adequadas ou legalmente "
 "reconhecidas na Indonésia:"
 
@@ -16071,7 +16071,7 @@ msgid ""
 "also be necessary."
 msgstr ""
 "As informações fornecidas nesta página destinam-se apenas a fins "
-"informativos gerais e não constituem aconselhamento jurídico. Embora o Odoo "
+"informativos gerais e não constituem aconselhamento jurídico. Embora o Blue Connect "
 "Assinar esteja em conformidade com a Lei de Assinatura Eletrônica da "
 "Indonésia, os usuários devem consultar profissionais jurídicos para garantir "
 "que tipos de documentos específicos e casos de uso cumprem todos os "
@@ -16080,7 +16080,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/sign/validity/iran.rst:5
 msgid "Odoo Sign legality in Iran"
-msgstr "Legalidade do Odoo Assinar no Irã"
+msgstr "Legalidade do Blue Connect Assinar no Irã"
 
 #: ../../content/applications/productivity/sign/validity/iran.rst:7
 msgid ""
@@ -16108,14 +16108,14 @@ msgstr ""
 
 #: ../../content/applications/productivity/sign/validity/iran.rst:24
 msgid "How Odoo Sign complies with Iranian regulations"
-msgstr "Como o Odoo Assinar está em conformidade com as regulamentações do Irã"
+msgstr "Como o Blue Connect Assinar está em conformidade com as regulamentações do Irã"
 
 #: ../../content/applications/productivity/sign/validity/iran.rst:26
 msgid ""
 "Odoo Sign ensures full compliance with the Electronic Signature Law of Iran "
 "by incorporating the following features:"
 msgstr ""
-"O Odoo Assinar garante a total conformidade com a Lei de Assinatura "
+"O Blue Connect Assinar garante a total conformidade com a Lei de Assinatura "
 "Eletrônica do Irã, incorporando os seguintes recursos:"
 
 #: ../../content/applications/productivity/sign/validity/iran.rst:54
@@ -16123,7 +16123,7 @@ msgid ""
 "While Odoo Sign is broadly applicable, there are certain exceptions where "
 "electronic signatures may not be suitable or legally recognized in Iran:"
 msgstr ""
-"Embora o Odoo Assinar seja amplamente aplicável, existem certas exceções em "
+"Embora o Blue Connect Assinar seja amplamente aplicável, existem certas exceções em "
 "que as assinaturas eletrônicas podem não ser adequadas ou legalmente "
 "reconhecidas no Irã:"
 
@@ -16137,7 +16137,7 @@ msgid ""
 "also be necessary."
 msgstr ""
 "As informações fornecidas nesta página destinam-se apenas a fins "
-"informativos gerais e não constituem aconselhamento jurídico. Embora o Odoo "
+"informativos gerais e não constituem aconselhamento jurídico. Embora o Blue Connect "
 "Assinar esteja em conformidade com a Lei de Assinatura Eletrônica do Irã, os "
 "usuários devem consultar profissionais jurídicos para garantir que tipos de "
 "documentos específicos e casos de uso cumprem todos os requisitos legais. "
@@ -16146,7 +16146,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/sign/validity/iraq.rst:5
 msgid "Odoo Sign legality in Iraq"
-msgstr "Legalidade do Odoo Assinar no Iraque"
+msgstr "Legalidade do Blue Connect Assinar no Iraque"
 
 #: ../../content/applications/productivity/sign/validity/iraq.rst:7
 msgid ""
@@ -16187,21 +16187,21 @@ msgstr ""
 "incorpora certificados emitidos por uma autoridade de certificação "
 "reconhecida. Em alguns casos, somente a assinatura eletrônica certificada "
 "tem validade legal e jurídica no Iraque. Nesses casos, as assinaturas "
-"eletrônicas simples, como a Odoo Assinatura, funcionam apenas como prova do "
+"eletrônicas simples, como a Blue Connect Assinatura, funcionam apenas como prova do "
 "acordo para celebrar a transação correspondente, que será submetida aos "
 "critérios da autoridade."
 
 #: ../../content/applications/productivity/sign/validity/iraq.rst:29
 msgid "How Odoo Sign complies with Iraqi regulations"
 msgstr ""
-"Como o Odoo Assinar está em conformidade com as regulamentações do Iraque"
+"Como o Blue Connect Assinar está em conformidade com as regulamentações do Iraque"
 
 #: ../../content/applications/productivity/sign/validity/iraq.rst:31
 msgid ""
 "Odoo Sign ensures full compliance with the Electronic Signature Law of Iraq "
 "by incorporating the following features:"
 msgstr ""
-"O Odoo Assinar garante a total conformidade com a Lei de Assinatura "
+"O Blue Connect Assinar garante a total conformidade com a Lei de Assinatura "
 "Eletrônica do Iraque, incorporando os seguintes recursos:"
 
 #: ../../content/applications/productivity/sign/validity/iraq.rst:59
@@ -16209,7 +16209,7 @@ msgid ""
 "While Odoo Sign is broadly applicable, there are certain exceptions where "
 "electronic signatures may not be suitable or legally recognized in Iraq:"
 msgstr ""
-"Embora o Odoo Assinar seja amplamente aplicável, existem certas exceções em "
+"Embora o Blue Connect Assinar seja amplamente aplicável, existem certas exceções em "
 "que as assinaturas eletrônicas podem não ser adequadas ou legalmente "
 "reconhecidas no Iraque:"
 
@@ -16223,7 +16223,7 @@ msgid ""
 "also be necessary."
 msgstr ""
 "As informações fornecidas nesta página destinam-se apenas a fins "
-"informativos gerais e não constituem aconselhamento jurídico. Embora o Odoo "
+"informativos gerais e não constituem aconselhamento jurídico. Embora o Blue Connect "
 "Assinar esteja em conformidade com a Lei de Assinatura Eletrônica do Iraque, "
 "os usuários devem consultar profissionais jurídicos para garantir que tipos "
 "de documentos específicos e casos de uso cumprem todos os requisitos legais. "
@@ -16232,7 +16232,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/sign/validity/israel.rst:5
 msgid "Odoo Sign legality in Israel"
-msgstr "Legalidade do Odoo Assinar em Israel"
+msgstr "Legalidade do Blue Connect Assinar em Israel"
 
 #: ../../content/applications/productivity/sign/validity/israel.rst:7
 msgid ""
@@ -16267,14 +16267,14 @@ msgstr ""
 
 #: ../../content/applications/productivity/sign/validity/israel.rst:25
 msgid "How Odoo Sign complies with Israeli regulations"
-msgstr "Como o Odoo Sign está em conformidade com as regulamentações de Israel"
+msgstr "Como o Blue Connect Sign está em conformidade com as regulamentações de Israel"
 
 #: ../../content/applications/productivity/sign/validity/israel.rst:27
 msgid ""
 "Odoo Sign ensures full compliance with the Electronic Signature Law of "
 "Israel by incorporating the following features:"
 msgstr ""
-"O Odoo Assinar garante a total conformidade com a Lei de Assinatura "
+"O Blue Connect Assinar garante a total conformidade com a Lei de Assinatura "
 "Eletrônica de Israel, incorporando os seguintes recursos:"
 
 #: ../../content/applications/productivity/sign/validity/israel.rst:55
@@ -16282,7 +16282,7 @@ msgid ""
 "While Odoo Sign is broadly applicable, there are certain exceptions where "
 "electronic signatures may not be suitable or legally recognized in Israel:"
 msgstr ""
-"Embora o Odoo Assinar seja amplamente aplicável, existem certas exceções em "
+"Embora o Blue Connect Assinar seja amplamente aplicável, existem certas exceções em "
 "que as assinaturas eletrônicas podem não ser adequadas ou legalmente "
 "reconhecidas em Israel:"
 
@@ -16296,7 +16296,7 @@ msgid ""
 "also be necessary."
 msgstr ""
 "As informações fornecidas nesta página destinam-se apenas a fins "
-"informativos gerais e não constituem aconselhamento jurídico. Embora o Odoo "
+"informativos gerais e não constituem aconselhamento jurídico. Embora o Blue Connect "
 "Assinar esteja em conformidade com a Lei de Assinatura Eletrônica de Israel, "
 "os usuários devem consultar profissionais jurídicos para garantir que tipos "
 "de documentos específicos e casos de uso cumprem todos os requisitos legais. "
@@ -16305,7 +16305,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/sign/validity/japan.rst:5
 msgid "Odoo Sign legality in Japan"
-msgstr "Legalidade do Odoo Assinar no Japão"
+msgstr "Legalidade do Blue Connect Assinar no Japão"
 
 #: ../../content/applications/productivity/sign/validity/japan.rst:7
 msgid ""
@@ -16344,14 +16344,14 @@ msgstr ""
 #: ../../content/applications/productivity/sign/validity/japan.rst:26
 msgid "How Odoo Sign complies with Japanese regulations"
 msgstr ""
-"Como o Odoo Assinar está em conformidade com as regulamentações japonesas"
+"Como o Blue Connect Assinar está em conformidade com as regulamentações japonesas"
 
 #: ../../content/applications/productivity/sign/validity/japan.rst:28
 msgid ""
 "Odoo Sign ensures full compliance with the Electronic Signature Law of Japan "
 "by incorporating the following features:"
 msgstr ""
-"O Odoo Assinar garante a total conformidade com a Lei de Assinatura "
+"O Blue Connect Assinar garante a total conformidade com a Lei de Assinatura "
 "Eletrônica do Japão, incorporando os seguintes recursos:"
 
 #: ../../content/applications/productivity/sign/validity/japan.rst:56
@@ -16359,7 +16359,7 @@ msgid ""
 "While Odoo Sign is broadly applicable, there are certain exceptions where "
 "electronic signatures may not be suitable or legally recognized in Japan:"
 msgstr ""
-"Embora o Odoo Assinar seja amplamente aplicável, existem certas exceções em "
+"Embora o Blue Connect Assinar seja amplamente aplicável, existem certas exceções em "
 "que as assinaturas eletrônicas podem não ser adequadas ou legalmente "
 "reconhecidas no Japão:"
 
@@ -16373,7 +16373,7 @@ msgid ""
 "also be necessary."
 msgstr ""
 "As informações fornecidas nesta página destinam-se apenas a fins "
-"informativos gerais e não constituem aconselhamento jurídico. Embora o Odoo "
+"informativos gerais e não constituem aconselhamento jurídico. Embora o Blue Connect "
 "Assinar esteja em conformidade com a Lei de Assinatura Eletrônica do Japão, "
 "os usuários devem consultar profissionais jurídicos para garantir que tipos "
 "de documentos específicos e casos de uso cumprem todos os requisitos legais. "
@@ -16382,7 +16382,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/sign/validity/kazakhstan.rst:5
 msgid "Odoo Sign legality in Kazakhstan"
-msgstr "Legalidade do Odoo Assinar no Cazaquistão"
+msgstr "Legalidade do Blue Connect Assinar no Cazaquistão"
 
 #: ../../content/applications/productivity/sign/validity/kazakhstan.rst:7
 msgid ""
@@ -16413,7 +16413,7 @@ msgstr ""
 #: ../../content/applications/productivity/sign/validity/kazakhstan.rst:27
 msgid "How Odoo Sign complies with Kazakhstani regulations"
 msgstr ""
-"Como o Odoo Assinar está em conformidade com as regulamentações do "
+"Como o Blue Connect Assinar está em conformidade com as regulamentações do "
 "Cazaquistão"
 
 #: ../../content/applications/productivity/sign/validity/kazakhstan.rst:29
@@ -16421,7 +16421,7 @@ msgid ""
 "Odoo Sign ensures full compliance with the Electronic Signature Law of "
 "Kazakhstan by incorporating the following features:"
 msgstr ""
-"O Odoo Assinar garante a total conformidade com a Lei de Assinatura "
+"O Blue Connect Assinar garante a total conformidade com a Lei de Assinatura "
 "Eletrônica do Cazaquistão, incorporando os seguintes recursos:"
 
 #: ../../content/applications/productivity/sign/validity/kazakhstan.rst:57
@@ -16430,7 +16430,7 @@ msgid ""
 "electronic signatures may not be suitable or legally recognized in "
 "Kazakhstan:"
 msgstr ""
-"Embora o Odoo Assinar seja amplamente aplicável, existem certas exceções em "
+"Embora o Blue Connect Assinar seja amplamente aplicável, existem certas exceções em "
 "que as assinaturas eletrônicas podem não ser adequadas ou legalmente "
 "reconhecidas no Cazaquistão:"
 
@@ -16444,7 +16444,7 @@ msgid ""
 "also be necessary."
 msgstr ""
 "As informações fornecidas nesta página destinam-se apenas a fins "
-"informativos gerais e não constituem aconselhamento jurídico. Embora o Odoo "
+"informativos gerais e não constituem aconselhamento jurídico. Embora o Blue Connect "
 "Assinar esteja em conformidade com a Lei de Assinatura Eletrônica do "
 "Cazaquistão, os usuários devem consultar profissionais jurídicos para "
 "garantir que tipos de documentos específicos e casos de uso cumprem todos os "
@@ -16453,7 +16453,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/sign/validity/kenya.rst:5
 msgid "Odoo Sign legality in Kenya"
-msgstr "Legalidade do Odoo Assinar na Quênia"
+msgstr "Legalidade do Blue Connect Assinar na Quênia"
 
 #: ../../content/applications/productivity/sign/validity/kenya.rst:7
 msgid ""
@@ -16482,14 +16482,14 @@ msgstr ""
 #: ../../content/applications/productivity/sign/validity/kenya.rst:25
 msgid "How Odoo Sign complies with Kenyan regulations"
 msgstr ""
-"Como o Odoo Assinar está em conformidade com as regulamentações da Quênia"
+"Como o Blue Connect Assinar está em conformidade com as regulamentações da Quênia"
 
 #: ../../content/applications/productivity/sign/validity/kenya.rst:27
 msgid ""
 "Odoo Sign ensures full compliance with the Electronic Signature Law of Kenya "
 "by incorporating the following features:"
 msgstr ""
-"O Odoo Assinar garante a total conformidade com a Lei de Assinatura "
+"O Blue Connect Assinar garante a total conformidade com a Lei de Assinatura "
 "Eletrônica da Quênia, incorporando os seguintes recursos:"
 
 #: ../../content/applications/productivity/sign/validity/kenya.rst:55
@@ -16497,7 +16497,7 @@ msgid ""
 "While Odoo Sign is broadly applicable, there are certain exceptions where "
 "electronic signatures may not be suitable or legally recognized in Kenya:"
 msgstr ""
-"Embora o Odoo Assinar seja amplamente aplicável, existem algumas exceções em "
+"Embora o Blue Connect Assinar seja amplamente aplicável, existem algumas exceções em "
 "que as assinaturas eletrônicas podem não ser adequadas ou legalmente "
 "reconhecidas na Quênia:"
 
@@ -16511,7 +16511,7 @@ msgid ""
 "also be necessary."
 msgstr ""
 "As informações fornecidas nesta página destinam-se apenas a fins "
-"informativos gerais e não constituem aconselhamento jurídico. Embora o Odoo "
+"informativos gerais e não constituem aconselhamento jurídico. Embora o Blue Connect "
 "Assinar esteja em conformidade com a Lei de Assinatura Eletrônica de Quênia, "
 "os usuários devem consultar profissionais jurídicos para garantir que tipos "
 "de documentos específicos e casos de uso cumprem todos os requisitos legais. "
@@ -16520,7 +16520,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/sign/validity/kuwait.rst:5
 msgid "Odoo Sign legality in Kuwait"
-msgstr "Legalidade do Odoo Assinar em Kuwait"
+msgstr "Legalidade do Blue Connect Assinar em Kuwait"
 
 #: ../../content/applications/productivity/sign/validity/kuwait.rst:7
 msgid ""
@@ -16560,14 +16560,14 @@ msgstr ""
 #: ../../content/applications/productivity/sign/validity/kuwait.rst:24
 msgid "How Odoo Sign complies with Kuwaiti regulations"
 msgstr ""
-"Como o Odoo Assinar está em conformidade com as regulamentações de Kuwait"
+"Como o Blue Connect Assinar está em conformidade com as regulamentações de Kuwait"
 
 #: ../../content/applications/productivity/sign/validity/kuwait.rst:26
 msgid ""
 "Odoo Sign ensures full compliance with the Electronic Signature Law of "
 "Kuwait by incorporating the following features:"
 msgstr ""
-"O Odoo Assinar garante a total conformidade com a Lei de Assinatura "
+"O Blue Connect Assinar garante a total conformidade com a Lei de Assinatura "
 "Eletrônica de Kuwait, incorporando os seguintes recursos:"
 
 #: ../../content/applications/productivity/sign/validity/kuwait.rst:54
@@ -16575,7 +16575,7 @@ msgid ""
 "While Odoo Sign is broadly applicable, there are certain exceptions where "
 "electronic signatures may not be suitable or legally recognized in Kuwait:"
 msgstr ""
-"Embora o Odoo Assinar seja amplamente aplicável, existem algumas exceções em "
+"Embora o Blue Connect Assinar seja amplamente aplicável, existem algumas exceções em "
 "que as assinaturas eletrônicas podem não ser adequadas ou legalmente "
 "reconhecidas na Kuwait:"
 
@@ -16589,7 +16589,7 @@ msgid ""
 "also be necessary."
 msgstr ""
 "As informações fornecidas nesta página destinam-se apenas a fins "
-"informativos gerais e não constituem aconselhamento jurídico. Embora o Odoo "
+"informativos gerais e não constituem aconselhamento jurídico. Embora o Blue Connect "
 "Assinar esteja em conformidade com a Lei de Assinatura Eletrônica de Kuwait, "
 "os usuários devem consultar profissionais jurídicos para garantir que tipos "
 "de documentos específicos e casos de uso cumprem todos os requisitos legais. "
@@ -16598,7 +16598,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/sign/validity/malaysia.rst:5
 msgid "Odoo Sign legality in Malaysia"
-msgstr "Legalidade do Odoo Assinar na Malásia"
+msgstr "Legalidade do Blue Connect Assinar na Malásia"
 
 #: ../../content/applications/productivity/sign/validity/malaysia.rst:7
 msgid ""
@@ -16642,14 +16642,14 @@ msgstr ""
 #: ../../content/applications/productivity/sign/validity/malaysia.rst:27
 msgid "How Odoo Sign complies with Malaysian regulations"
 msgstr ""
-"Como o Odoo Assinar está em conformidade com as regulamentações da Malásia"
+"Como o Blue Connect Assinar está em conformidade com as regulamentações da Malásia"
 
 #: ../../content/applications/productivity/sign/validity/malaysia.rst:29
 msgid ""
 "Odoo Sign ensures full compliance with the Electronic Signature Law of "
 "Malaysia by incorporating the following features:"
 msgstr ""
-"O Odoo Assinar garante a total conformidade com a Lei de Assinatura "
+"O Blue Connect Assinar garante a total conformidade com a Lei de Assinatura "
 "Eletrônica da Malásia, incorporando os seguintes recursos:"
 
 #: ../../content/applications/productivity/sign/validity/malaysia.rst:57
@@ -16657,7 +16657,7 @@ msgid ""
 "While Odoo Sign is broadly applicable, there are certain exceptions where "
 "electronic signatures may not be suitable or legally recognized in Malaysia:"
 msgstr ""
-"Embora o Odoo Assinar seja amplamente aplicável, existem algumas exceções em "
+"Embora o Blue Connect Assinar seja amplamente aplicável, existem algumas exceções em "
 "que as assinaturas eletrônicas podem não ser adequadas ou legalmente "
 "reconhecidas na Malásia:"
 
@@ -16671,7 +16671,7 @@ msgid ""
 "also be necessary."
 msgstr ""
 "As informações fornecidas nesta página destinam-se apenas a fins "
-"informativos gerais e não constituem aconselhamento jurídico. Embora o Odoo "
+"informativos gerais e não constituem aconselhamento jurídico. Embora o Blue Connect "
 "Assinar esteja em conformidade com a Lei de Assinatura Eletrônica de "
 "Malásia, os usuários devem consultar profissionais jurídicos para garantir "
 "que tipos de documentos específicos e casos de uso cumprem todos os "
@@ -16680,7 +16680,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/sign/validity/mexico.rst:5
 msgid "Odoo Sign legality in Mexico"
-msgstr "Legalidade do Odoo Assinar no México"
+msgstr "Legalidade do Blue Connect Assinar no México"
 
 #: ../../content/applications/productivity/sign/validity/mexico.rst:7
 msgid ""
@@ -16724,14 +16724,14 @@ msgstr ""
 #: ../../content/applications/productivity/sign/validity/mexico.rst:28
 msgid "How Odoo Sign complies with Mexican regulations"
 msgstr ""
-"Como o Odoo Assinar está em conformidade com as regulamentações mexicanas"
+"Como o Blue Connect Assinar está em conformidade com as regulamentações mexicanas"
 
 #: ../../content/applications/productivity/sign/validity/mexico.rst:30
 msgid ""
 "Odoo Sign ensures full compliance with the Electronic Signature Law of "
 "Mexico by incorporating the following features:"
 msgstr ""
-"O Odoo Assinar garante a total conformidade com a Lei de Assinatura "
+"O Blue Connect Assinar garante a total conformidade com a Lei de Assinatura "
 "Eletrônica do México, incorporando os seguintes recursos:"
 
 #: ../../content/applications/productivity/sign/validity/mexico.rst:58
@@ -16739,7 +16739,7 @@ msgid ""
 "While Odoo Sign is broadly applicable, there are certain exceptions where "
 "electronic signatures may not be suitable or legally recognized in Mexico:"
 msgstr ""
-"Embora o Odoo Assinar seja amplamente aplicável, existem algumas exceções em "
+"Embora o Blue Connect Assinar seja amplamente aplicável, existem algumas exceções em "
 "que as assinaturas eletrônicas podem não ser adequadas ou legalmente "
 "reconhecidas no México:"
 
@@ -16753,7 +16753,7 @@ msgid ""
 "also be necessary."
 msgstr ""
 "As informações fornecidas nesta página destinam-se apenas a fins "
-"informativos gerais e não constituem aconselhamento jurídico. Embora o Odoo "
+"informativos gerais e não constituem aconselhamento jurídico. Embora o Blue Connect "
 "Assinar esteja em conformidade com a Lei de Assinatura Eletrônica do México, "
 "os usuários devem consultar profissionais jurídicos para garantir que tipos "
 "de documentos específicos e casos de uso cumprem todos os requisitos legais. "
@@ -16762,7 +16762,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/sign/validity/morocco.rst:5
 msgid "Odoo Sign legality in Morocco"
-msgstr "Legalidade do Odoo Assinar no Marrocos"
+msgstr "Legalidade do Blue Connect Assinar no Marrocos"
 
 #: ../../content/applications/productivity/sign/validity/morocco.rst:7
 msgid ""
@@ -16791,14 +16791,14 @@ msgstr ""
 #: ../../content/applications/productivity/sign/validity/morocco.rst:26
 msgid "How Odoo Sign complies with Moroccan regulations"
 msgstr ""
-"Como o Odoo Assinar está em conformidade com as regulamentações do Marrocos"
+"Como o Blue Connect Assinar está em conformidade com as regulamentações do Marrocos"
 
 #: ../../content/applications/productivity/sign/validity/morocco.rst:28
 msgid ""
 "Odoo Sign ensures full compliance with the Electronic Signature Law of "
 "Morocco by incorporating the following features:"
 msgstr ""
-"O Odoo Assinar garante a total conformidade com a Lei de Assinatura "
+"O Blue Connect Assinar garante a total conformidade com a Lei de Assinatura "
 "Eletrônica do Marrocos, incorporando os seguintes recursos:"
 
 #: ../../content/applications/productivity/sign/validity/morocco.rst:56
@@ -16806,7 +16806,7 @@ msgid ""
 "While Odoo Sign is broadly applicable, there are certain exceptions where "
 "electronic signatures may not be suitable or legally recognized in Morocco:"
 msgstr ""
-"Embora o Odoo Assinar seja amplamente aplicável, existem algumas exceções em "
+"Embora o Blue Connect Assinar seja amplamente aplicável, existem algumas exceções em "
 "que as assinaturas eletrônicas podem não ser adequadas ou legalmente "
 "reconhecidas no Marrocos:"
 
@@ -16820,7 +16820,7 @@ msgid ""
 "also be necessary."
 msgstr ""
 "As informações fornecidas nesta página destinam-se apenas a fins "
-"informativos gerais e não constituem aconselhamento jurídico. Embora o Odoo "
+"informativos gerais e não constituem aconselhamento jurídico. Embora o Blue Connect "
 "Assinar esteja em conformidade com a Lei de Assinatura Eletrônica do "
 "Marrocos, os usuários devem consultar profissionais jurídicos para garantir "
 "que tipos de documentos específicos e casos de uso cumprem todos os "
@@ -16829,7 +16829,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/sign/validity/new_zealand.rst:5
 msgid "Odoo Sign legality in New Zealand"
-msgstr "Legalidade do Odoo Assinar na Nova Zelândia"
+msgstr "Legalidade do Blue Connect Assinar na Nova Zelândia"
 
 #: ../../content/applications/productivity/sign/validity/new_zealand.rst:7
 msgid ""
@@ -16868,14 +16868,14 @@ msgstr ""
 #: ../../content/applications/productivity/sign/validity/new_zealand.rst:26
 msgid "How Odoo Sign complies with New Zealand regulations"
 msgstr ""
-"Como o Odoo Assinar está em conformidade com os regulamentos da Nova Zelândia"
+"Como o Blue Connect Assinar está em conformidade com os regulamentos da Nova Zelândia"
 
 #: ../../content/applications/productivity/sign/validity/new_zealand.rst:28
 msgid ""
 "Odoo Sign ensures full compliance with the Electronic Signature Law of New "
 "Zealand by incorporating the following features:"
 msgstr ""
-"O Odoo Assinar garante total conformidade com a Lei de Assinatura Eletrônica "
+"O Blue Connect Assinar garante total conformidade com a Lei de Assinatura Eletrônica "
 "da Nova Zelândia ao incorporar os seguintes recursos:"
 
 #: ../../content/applications/productivity/sign/validity/new_zealand.rst:56
@@ -16884,7 +16884,7 @@ msgid ""
 "electronic signatures may not be suitable or legally recognized in New "
 "Zealand:"
 msgstr ""
-"Embora o Odoo Assinar seja amplamente aplicável, há certas exceções em que "
+"Embora o Blue Connect Assinar seja amplamente aplicável, há certas exceções em que "
 "as assinaturas eletrônicas podem não ser adequadas ou legalmente "
 "reconhecidas na Nova Zelândia:"
 
@@ -16898,7 +16898,7 @@ msgid ""
 "also be necessary."
 msgstr ""
 "As informações fornecidas nesta página destinam-se apenas a fins "
-"informativos gerais e não constituem aconselhamento jurídico. Embora o Odoo "
+"informativos gerais e não constituem aconselhamento jurídico. Embora o Blue Connect "
 "Assinar esteja em conformidade com a Lei de Assinatura Eletrônica da Nova "
 "Zelândia, os usuários devem consultar profissionais jurídicos para garantir "
 "que tipos de documentos específicos e casos de uso cumprem todos os "
@@ -16907,7 +16907,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/sign/validity/nigeria.rst:5
 msgid "Odoo Sign legality in Nigeria"
-msgstr "Legalidade do Odoo Assinar na Nigéria"
+msgstr "Legalidade do Blue Connect Assinar na Nigéria"
 
 #: ../../content/applications/productivity/sign/validity/nigeria.rst:7
 msgid ""
@@ -16934,14 +16934,14 @@ msgstr ""
 #: ../../content/applications/productivity/sign/validity/nigeria.rst:24
 msgid "How Odoo Sign complies with Nigerian regulations"
 msgstr ""
-"Como o Odoo Assinar está em conformidade com as regulamentações nigerianas"
+"Como o Blue Connect Assinar está em conformidade com as regulamentações nigerianas"
 
 #: ../../content/applications/productivity/sign/validity/nigeria.rst:26
 msgid ""
 "Odoo Sign ensures full compliance with the Electronic Signature Law of "
 "Nigeria by incorporating the following features:"
 msgstr ""
-"O Odoo Assinar garante total conformidade com a Lei de Assinatura Eletrônica "
+"O Blue Connect Assinar garante total conformidade com a Lei de Assinatura Eletrônica "
 "da Nigéria ao incorporar os seguintes recursos:"
 
 #: ../../content/applications/productivity/sign/validity/nigeria.rst:54
@@ -16949,7 +16949,7 @@ msgid ""
 "While Odoo Sign is broadly applicable, there are certain exceptions where "
 "electronic signatures may not be suitable or legally recognized in Nigeria:"
 msgstr ""
-"Embora o Odoo Assinar seja amplamente aplicável, há certas exceções em que "
+"Embora o Blue Connect Assinar seja amplamente aplicável, há certas exceções em que "
 "as assinaturas eletrônicas podem não ser adequadas ou legalmente "
 "reconhecidas na Nigéria:"
 
@@ -16963,7 +16963,7 @@ msgid ""
 "also be necessary."
 msgstr ""
 "As informações fornecidas nesta página são apenas para fins informativos "
-"gerais e não constituem aconselhamento jurídico. Embora o Odoo Assinar "
+"gerais e não constituem aconselhamento jurídico. Embora o Blue Connect Assinar "
 "esteja em conformidade com a Lei de Assinatura Eletrônica da Nigéria, os "
 "usuários devem consultar profissionais da área jurídica para garantir que "
 "tipos específicos de documentos e casos de uso atendam a todos os requisitos "
@@ -16972,7 +16972,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/sign/validity/norway.rst:5
 msgid "Odoo Sign legality in Norway"
-msgstr "Legalidade do Odoo Assinar na Noruega"
+msgstr "Legalidade do Blue Connect Assinar na Noruega"
 
 #: ../../content/applications/productivity/sign/validity/norway.rst:7
 msgid ""
@@ -17013,14 +17013,14 @@ msgstr ""
 #: ../../content/applications/productivity/sign/validity/norway.rst:27
 msgid "How Odoo Sign complies with Norwegian regulations"
 msgstr ""
-"Como o Odoo Assinar está em conformidade com as regulamentações da Nigéria"
+"Como o Blue Connect Assinar está em conformidade com as regulamentações da Nigéria"
 
 #: ../../content/applications/productivity/sign/validity/norway.rst:29
 msgid ""
 "Odoo Sign ensures full compliance with the Electronic Signature Law of "
 "Norway by incorporating the following features:"
 msgstr ""
-"O Odoo Assinar garante a total conformidade com a Lei de Assinatura "
+"O Blue Connect Assinar garante a total conformidade com a Lei de Assinatura "
 "Eletrônica da Noruega, incorporando os seguintes recursos:"
 
 #: ../../content/applications/productivity/sign/validity/norway.rst:57
@@ -17028,7 +17028,7 @@ msgid ""
 "While Odoo Sign is broadly applicable, there are certain exceptions where "
 "electronic signatures may not be suitable or legally recognized in Norway:"
 msgstr ""
-"Embora o Odoo Assinar seja amplamente aplicável, existem certas exceções em "
+"Embora o Blue Connect Assinar seja amplamente aplicável, existem certas exceções em "
 "que as assinaturas eletrônicas podem não ser adequadas ou legalmente "
 "reconhecidas na Noruega:"
 
@@ -17042,7 +17042,7 @@ msgid ""
 "also be necessary."
 msgstr ""
 "As informações fornecidas nesta página são apenas para fins informativos "
-"gerais e não constituem aconselhamento jurídico. Embora o Odoo Assinar "
+"gerais e não constituem aconselhamento jurídico. Embora o Blue Connect Assinar "
 "esteja em conformidade com a Lei de Assinatura Eletrônica da Noruega, os "
 "usuários devem consultar profissionais da área jurídica para garantir que "
 "tipos específicos de documentos e casos de uso atendam a todos os requisitos "
@@ -17051,7 +17051,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/sign/validity/oman.rst:5
 msgid "Odoo Sign legality in Oman"
-msgstr "Legalidade do Odoo Assinar no Omã"
+msgstr "Legalidade do Blue Connect Assinar no Omã"
 
 #: ../../content/applications/productivity/sign/validity/oman.rst:7
 msgid ""
@@ -17077,14 +17077,14 @@ msgstr ""
 
 #: ../../content/applications/productivity/sign/validity/oman.rst:25
 msgid "How Odoo Sign complies with Omani regulations"
-msgstr "Como o Odoo Assinar está em conformidade com as regulamentações do Omã"
+msgstr "Como o Blue Connect Assinar está em conformidade com as regulamentações do Omã"
 
 #: ../../content/applications/productivity/sign/validity/oman.rst:27
 msgid ""
 "Odoo Sign ensures full compliance with the Electronic Signature Law of Oman "
 "by incorporating the following features:"
 msgstr ""
-"O Odoo Assinar garante a total conformidade com a Lei de Assinatura "
+"O Blue Connect Assinar garante a total conformidade com a Lei de Assinatura "
 "Eletrônica do Omã, incorporando os seguintes recursos:"
 
 #: ../../content/applications/productivity/sign/validity/oman.rst:55
@@ -17092,7 +17092,7 @@ msgid ""
 "While Odoo Sign is broadly applicable, there are certain exceptions where "
 "electronic signatures may not be suitable or legally recognized in Oman:"
 msgstr ""
-"Embora o Odoo Assinar seja amplamente aplicável, existem certas exceções em "
+"Embora o Blue Connect Assinar seja amplamente aplicável, existem certas exceções em "
 "que as assinaturas eletrônicas podem não ser adequadas ou legalmente "
 "reconhecidas no Omã:"
 
@@ -17106,7 +17106,7 @@ msgid ""
 "also be necessary."
 msgstr ""
 "As informações fornecidas nesta página destinam-se apenas a fins "
-"informativos gerais e não constituem aconselhamento jurídico. Embora o Odoo "
+"informativos gerais e não constituem aconselhamento jurídico. Embora o Blue Connect "
 "Assinar esteja em conformidade com a Lei de Assinatura Eletrônica do Omã, os "
 "usuários devem consultar profissionais jurídicos para garantir que tipos de "
 "documentos específicos e casos de uso cumprem todos os requisitos legais. "
@@ -17115,7 +17115,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/sign/validity/pakistan.rst:5
 msgid "Odoo Sign legality in Pakistan"
-msgstr "Legalidade do Odoo Assinar no Paquistão"
+msgstr "Legalidade do Blue Connect Assinar no Paquistão"
 
 #: ../../content/applications/productivity/sign/validity/pakistan.rst:7
 msgid ""
@@ -17154,14 +17154,14 @@ msgstr ""
 #: ../../content/applications/productivity/sign/validity/pakistan.rst:26
 msgid "How Odoo Sign complies with Pakistani regulations"
 msgstr ""
-"Como o Odoo Assinar está em conformidade com as regulamentações do Paquistão"
+"Como o Blue Connect Assinar está em conformidade com as regulamentações do Paquistão"
 
 #: ../../content/applications/productivity/sign/validity/pakistan.rst:28
 msgid ""
 "Odoo Sign ensures full compliance with the Electronic Signature Law of "
 "Pakistan by incorporating the following features:"
 msgstr ""
-"O Odoo Assinar garante a total conformidade com a Lei de Assinatura "
+"O Blue Connect Assinar garante a total conformidade com a Lei de Assinatura "
 "Eletrônica do Paquistão, incorporando os seguintes recursos:"
 
 #: ../../content/applications/productivity/sign/validity/pakistan.rst:56
@@ -17169,7 +17169,7 @@ msgid ""
 "While Odoo Sign is broadly applicable, there are certain exceptions where "
 "electronic signatures may not be suitable or legally recognized in Pakistan:"
 msgstr ""
-"Embora o Odoo Assinar seja amplamente aplicável, existem certas exceções em "
+"Embora o Blue Connect Assinar seja amplamente aplicável, existem certas exceções em "
 "que as assinaturas eletrônicas podem não ser adequadas ou legalmente "
 "reconhecidas no Paquistão:"
 
@@ -17183,7 +17183,7 @@ msgid ""
 "also be necessary."
 msgstr ""
 "As informações fornecidas nesta página destinam-se apenas a fins "
-"informativos gerais e não constituem aconselhamento jurídico. Embora o Odoo "
+"informativos gerais e não constituem aconselhamento jurídico. Embora o Blue Connect "
 "Assinar esteja em conformidade com a Lei de Assinatura Eletrônica do "
 "Paquistão, os usuários devem consultar profissionais jurídicos para garantir "
 "que tipos de documentos específicos e casos de uso cumprem todos os "
@@ -17192,7 +17192,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/sign/validity/peru.rst:5
 msgid "Odoo Sign legality in Peru"
-msgstr "Legalidade do Odoo Assinar no Peru"
+msgstr "Legalidade do Blue Connect Assinar no Peru"
 
 #: ../../content/applications/productivity/sign/validity/peru.rst:7
 msgid ""
@@ -17240,14 +17240,14 @@ msgstr ""
 #: ../../content/applications/productivity/sign/validity/peru.rst:28
 msgid "How Odoo Sign complies with Peruvian regulations"
 msgstr ""
-"Como o Odoo Assinar está em conformidade com as regulamentações do Peru"
+"Como o Blue Connect Assinar está em conformidade com as regulamentações do Peru"
 
 #: ../../content/applications/productivity/sign/validity/peru.rst:30
 msgid ""
 "Odoo Sign ensures full compliance with the Electronic Signature Law of Peru "
 "by incorporating the following features:"
 msgstr ""
-"O Odoo Assinar garante a total conformidade com a Lei de Assinatura "
+"O Blue Connect Assinar garante a total conformidade com a Lei de Assinatura "
 "Eletrônica do Peru, incorporando os seguintes recursos:"
 
 #: ../../content/applications/productivity/sign/validity/peru.rst:58
@@ -17255,7 +17255,7 @@ msgid ""
 "While Odoo Sign is broadly applicable, there are certain exceptions where "
 "electronic signatures may not be suitable or legally recognized in Peru:"
 msgstr ""
-"Embora o Odoo Assinar seja amplamente aplicável, existem certas exceções em "
+"Embora o Blue Connect Assinar seja amplamente aplicável, existem certas exceções em "
 "que as assinaturas eletrônicas podem não ser adequadas ou legalmente "
 "reconhecidas no Peru:"
 
@@ -17269,7 +17269,7 @@ msgid ""
 "also be necessary."
 msgstr ""
 "As informações fornecidas nesta página destinam-se apenas a fins "
-"informativos gerais e não constituem aconselhamento jurídico. Embora o Odoo "
+"informativos gerais e não constituem aconselhamento jurídico. Embora o Blue Connect "
 "Assinar esteja em conformidade com a Lei de Assinatura Eletrônica do Peru, "
 "os usuários devem consultar profissionais jurídicos para garantir que tipos "
 "de documentos específicos e casos de uso cumprem todos os requisitos legais. "
@@ -17278,7 +17278,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/sign/validity/philippines.rst:5
 msgid "Odoo Sign legality in the Philippines"
-msgstr "Legalidade do Odoo Assinar nas Filipinas"
+msgstr "Legalidade do Blue Connect Assinar nas Filipinas"
 
 #: ../../content/applications/productivity/sign/validity/philippines.rst:7
 msgid ""
@@ -17321,14 +17321,14 @@ msgstr ""
 #: ../../content/applications/productivity/sign/validity/philippines.rst:28
 msgid "How Odoo Sign complies with Philippine regulations"
 msgstr ""
-"Como o Odoo Assinar está em conformidade com as regulamentações das Filipinas"
+"Como o Blue Connect Assinar está em conformidade com as regulamentações das Filipinas"
 
 #: ../../content/applications/productivity/sign/validity/philippines.rst:30
 msgid ""
 "Odoo Sign ensures full compliance with the Electronic Signature Law of the "
 "Philippines by incorporating the following features:"
 msgstr ""
-"O Odoo Assinar garante a total conformidade com a Lei de Assinatura "
+"O Blue Connect Assinar garante a total conformidade com a Lei de Assinatura "
 "Eletrônica das Filipinas, incorporando os seguintes recursos:"
 
 #: ../../content/applications/productivity/sign/validity/philippines.rst:58
@@ -17337,7 +17337,7 @@ msgid ""
 "electronic signatures may not be suitable or legally recognized in the "
 "Philippines:"
 msgstr ""
-"Embora o Odoo Assinar seja amplamente aplicável, existem algumas exceções em "
+"Embora o Blue Connect Assinar seja amplamente aplicável, existem algumas exceções em "
 "que as assinaturas eletrônicas podem não ser adequadas ou legalmente "
 "reconhecidas nas Filipinas:"
 
@@ -17351,7 +17351,7 @@ msgid ""
 "also be necessary."
 msgstr ""
 "As informações fornecidas nesta página destinam-se apenas a fins "
-"informativos gerais e não constituem aconselhamento jurídico. Embora o Odoo "
+"informativos gerais e não constituem aconselhamento jurídico. Embora o Blue Connect "
 "Assinar esteja em conformidade com a Lei de Assinatura Eletrônica das "
 "Filipinas, os usuários devem consultar profissionais jurídicos para garantir "
 "que tipos de documentos específicos e casos de uso cumprem todos os "
@@ -17360,7 +17360,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/sign/validity/qatar.rst:5
 msgid "Odoo Sign legality in Qatar"
-msgstr "Legalidade do Odoo Assinar no Catar"
+msgstr "Legalidade do Blue Connect Assinar no Catar"
 
 #: ../../content/applications/productivity/sign/validity/qatar.rst:7
 msgid ""
@@ -17397,14 +17397,14 @@ msgstr ""
 #: ../../content/applications/productivity/sign/validity/qatar.rst:26
 msgid "How Odoo Sign complies with Qatari regulations"
 msgstr ""
-"Como o Odoo Assinar está em conformidade com as regulamentações do Catar"
+"Como o Blue Connect Assinar está em conformidade com as regulamentações do Catar"
 
 #: ../../content/applications/productivity/sign/validity/qatar.rst:28
 msgid ""
 "Odoo Sign ensures full compliance with the Electronic Signature Law of Qatar "
 "by incorporating the following features:"
 msgstr ""
-"O Odoo Assinar garante a total conformidade com a Lei de Assinatura "
+"O Blue Connect Assinar garante a total conformidade com a Lei de Assinatura "
 "Eletrônica do Catar, incorporando os seguintes recursos:"
 
 #: ../../content/applications/productivity/sign/validity/qatar.rst:56
@@ -17412,7 +17412,7 @@ msgid ""
 "While Odoo Sign is broadly applicable, there are certain exceptions where "
 "electronic signatures may not be suitable or legally recognized in Qatar:"
 msgstr ""
-"Embora o Odoo Assinar seja amplamente aplicável, existem certas exceções em "
+"Embora o Blue Connect Assinar seja amplamente aplicável, existem certas exceções em "
 "que as assinaturas eletrônicas podem não ser adequadas ou legalmente "
 "reconhecidas no Catar:"
 
@@ -17426,7 +17426,7 @@ msgid ""
 "also be necessary."
 msgstr ""
 "As informações fornecidas nesta página destinam-se apenas a fins "
-"informativos gerais e não constituem aconselhamento jurídico. Embora o Odoo "
+"informativos gerais e não constituem aconselhamento jurídico. Embora o Blue Connect "
 "Assinar esteja em conformidade com a Lei de Assinatura Eletrônica do Catar, "
 "os usuários devem consultar profissionais jurídicos para garantir que tipos "
 "de documentos específicos e casos de uso cumprem todos os requisitos legais. "
@@ -17435,7 +17435,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/sign/validity/russia.rst:5
 msgid "Odoo Sign legality in Russia"
-msgstr "Legalidade do Odoo Assinar na Rússia"
+msgstr "Legalidade do Blue Connect Assinar na Rússia"
 
 #: ../../content/applications/productivity/sign/validity/russia.rst:7
 msgid ""
@@ -17483,14 +17483,14 @@ msgstr ""
 
 #: ../../content/applications/productivity/sign/validity/russia.rst:30
 msgid "How Odoo Sign complies with Russian regulations"
-msgstr "Como o Odoo Assinar está em conformidade com as regulamentações russas"
+msgstr "Como o Blue Connect Assinar está em conformidade com as regulamentações russas"
 
 #: ../../content/applications/productivity/sign/validity/russia.rst:32
 msgid ""
 "Odoo Sign ensures full compliance with the Electronic Signature Law of "
 "Russia by incorporating the following features:"
 msgstr ""
-"O Odoo Assinar garante a total conformidade com a Lei de Assinatura "
+"O Blue Connect Assinar garante a total conformidade com a Lei de Assinatura "
 "Eletrônica da Rússia, incorporando os seguintes recursos:"
 
 #: ../../content/applications/productivity/sign/validity/russia.rst:60
@@ -17498,7 +17498,7 @@ msgid ""
 "While Odoo Sign is broadly applicable, there are certain exceptions where "
 "electronic signatures may not be suitable or legally recognized in Russia:"
 msgstr ""
-"Embora o Odoo Assinar seja amplamente aplicável, existem algumas exceções em "
+"Embora o Blue Connect Assinar seja amplamente aplicável, existem algumas exceções em "
 "que as assinaturas eletrônicas podem não ser adequadas ou legalmente "
 "reconhecidas na Rússia:"
 
@@ -17512,7 +17512,7 @@ msgid ""
 "also be necessary."
 msgstr ""
 "As informações fornecidas nesta página destinam-se apenas a fins "
-"informativos gerais e não constituem aconselhamento jurídico. Embora o Odoo "
+"informativos gerais e não constituem aconselhamento jurídico. Embora o Blue Connect "
 "Assinar esteja em conformidade com a Lei de Assinatura Eletrônica da Rússia, "
 "os usuários devem consultar profissionais jurídicos para garantir que tipos "
 "de documentos específicos e casos de uso cumprem todos os requisitos legais. "
@@ -17521,7 +17521,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/sign/validity/saudi_arabia.rst:5
 msgid "Odoo Sign legality in Saudi Arabia"
-msgstr "Legalidade do Odoo Assinar na Arábia Saudita"
+msgstr "Legalidade do Blue Connect Assinar na Arábia Saudita"
 
 #: ../../content/applications/productivity/sign/validity/saudi_arabia.rst:7
 msgid ""
@@ -17560,7 +17560,7 @@ msgstr ""
 #: ../../content/applications/productivity/sign/validity/saudi_arabia.rst:25
 msgid "How Odoo Sign complies with Saudi regulations"
 msgstr ""
-"Como o Odoo Assinar está em conformidade com as regulamentações da Arábia "
+"Como o Blue Connect Assinar está em conformidade com as regulamentações da Arábia "
 "Saudita"
 
 #: ../../content/applications/productivity/sign/validity/saudi_arabia.rst:27
@@ -17568,7 +17568,7 @@ msgid ""
 "Odoo Sign ensures full compliance with the Electronic Signature Law of Saudi "
 "Arabia by incorporating the following features:"
 msgstr ""
-"O Odoo Assinar garante total conformidade com a Lei de Assinatura Eletrônica "
+"O Blue Connect Assinar garante total conformidade com a Lei de Assinatura Eletrônica "
 "da Arábia Saudita, incorporando os seguintes recursos:"
 
 #: ../../content/applications/productivity/sign/validity/saudi_arabia.rst:55
@@ -17577,7 +17577,7 @@ msgid ""
 "electronic signatures may not be suitable or legally recognized in Saudi "
 "Arabia:"
 msgstr ""
-"Embora o Odoo Assinar seja amplamente aplicável, existem algumas exceções em "
+"Embora o Blue Connect Assinar seja amplamente aplicável, existem algumas exceções em "
 "que as assinaturas eletrônicas podem não ser adequadas ou legalmente "
 "reconhecidas na Arábia Saudita:"
 
@@ -17591,7 +17591,7 @@ msgid ""
 "also be necessary."
 msgstr ""
 "As informações fornecidas nesta página destinam-se apenas a fins "
-"informativos gerais e não constituem aconselhamento jurídico. Embora o Odoo "
+"informativos gerais e não constituem aconselhamento jurídico. Embora o Blue Connect "
 "Assinar esteja em conformidade com a Lei de Assinatura Eletrônica da Arábia "
 "Saudita, os usuários devem consultar profissionais jurídicos para garantir "
 "que tipos de documentos específicos e casos de uso cumprem todos os "
@@ -17600,7 +17600,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/sign/validity/singapore.rst:5
 msgid "Odoo Sign legality in Singapore"
-msgstr "Legalidade do Odoo Assinar em Singapura"
+msgstr "Legalidade do Blue Connect Assinar em Singapura"
 
 #: ../../content/applications/productivity/sign/validity/singapore.rst:7
 msgid ""
@@ -17631,14 +17631,14 @@ msgstr ""
 #: ../../content/applications/productivity/sign/validity/singapore.rst:23
 msgid "How Odoo Sign complies with Singapore regulations"
 msgstr ""
-"Como o Odoo Assinar está em conformidade com as regulamentações de Singapura"
+"Como o Blue Connect Assinar está em conformidade com as regulamentações de Singapura"
 
 #: ../../content/applications/productivity/sign/validity/singapore.rst:25
 msgid ""
 "Odoo Sign ensures full compliance with the Electronic Signature Law of "
 "Singapore by incorporating the following features:"
 msgstr ""
-"O Odoo Assinar garante total conformidade com a Lei de Assinatura Eletrônica "
+"O Blue Connect Assinar garante total conformidade com a Lei de Assinatura Eletrônica "
 "de Singapura ao incorporar os seguintes recursos:"
 
 #: ../../content/applications/productivity/sign/validity/singapore.rst:53
@@ -17646,7 +17646,7 @@ msgid ""
 "While Odoo Sign is broadly applicable, there are certain exceptions where "
 "electronic signatures may not be suitable or legally recognized in Singapore:"
 msgstr ""
-"Embora o Odoo Assinar seja amplamente aplicável, há certas exceções em que "
+"Embora o Blue Connect Assinar seja amplamente aplicável, há certas exceções em que "
 "as assinaturas eletrônicas podem não ser adequadas ou legalmente "
 "reconhecidas em Singapura:"
 
@@ -17660,7 +17660,7 @@ msgid ""
 "also be necessary."
 msgstr ""
 "As informações fornecidas nesta página destinam-se apenas a fins "
-"informativos gerais e não constituem aconselhamento jurídico. Embora o Odoo "
+"informativos gerais e não constituem aconselhamento jurídico. Embora o Blue Connect "
 "Assinar esteja em conformidade com a Lei de Assinatura Eletrônica de "
 "Singapura, os usuários devem consultar profissionais jurídicos para garantir "
 "que tipos de documentos específicos e casos de uso cumprem todos os "
@@ -17669,7 +17669,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/sign/validity/south_africa.rst:5
 msgid "Odoo Sign legality in South Africa"
-msgstr "Legalidade do Odoo Assinar na África do Sul"
+msgstr "Legalidade do Blue Connect Assinar na África do Sul"
 
 #: ../../content/applications/productivity/sign/validity/south_africa.rst:7
 msgid ""
@@ -17707,7 +17707,7 @@ msgstr ""
 #: ../../content/applications/productivity/sign/validity/south_africa.rst:26
 msgid "How Odoo Sign complies with South African regulations"
 msgstr ""
-"Como o Odoo Assinar está em conformidade com as regulamentações da África do "
+"Como o Blue Connect Assinar está em conformidade com as regulamentações da África do "
 "Sul"
 
 #: ../../content/applications/productivity/sign/validity/south_africa.rst:28
@@ -17715,7 +17715,7 @@ msgid ""
 "Odoo Sign ensures full compliance with the Electronic Signature Law of South "
 "Africa by incorporating the following features:"
 msgstr ""
-"O Odoo Assinar garante total conformidade com a Lei de Assinatura Eletrônica "
+"O Blue Connect Assinar garante total conformidade com a Lei de Assinatura Eletrônica "
 "da África do Sul, incorporando os seguintes recursos:"
 
 #: ../../content/applications/productivity/sign/validity/south_africa.rst:56
@@ -17724,7 +17724,7 @@ msgid ""
 "electronic signatures may not be suitable or legally recognized in South "
 "Africa:"
 msgstr ""
-"Embora o Odoo Assinar seja amplamente aplicável, existem algumas exceções em "
+"Embora o Blue Connect Assinar seja amplamente aplicável, existem algumas exceções em "
 "que as assinaturas eletrônicas podem não ser adequadas ou legalmente "
 "reconhecidas na África do Sul:"
 
@@ -17738,7 +17738,7 @@ msgid ""
 "also be necessary."
 msgstr ""
 "As informações fornecidas nesta página destinam-se apenas a fins "
-"informativos gerais e não constituem aconselhamento jurídico. Embora o Odoo "
+"informativos gerais e não constituem aconselhamento jurídico. Embora o Blue Connect "
 "Assinar esteja em conformidade com a Lei de Assinatura Eletrônica da África "
 "do Sul, os usuários devem consultar profissionais jurídicos para garantir "
 "que tipos de documentos específicos e casos de uso cumprem todos os "
@@ -17747,7 +17747,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/sign/validity/south_korea.rst:5
 msgid "Odoo Sign legality in South Korea"
-msgstr "Legalidade do Odoo Assinar na Coreia do Sul"
+msgstr "Legalidade do Blue Connect Assinar na Coreia do Sul"
 
 #: ../../content/applications/productivity/sign/validity/south_korea.rst:7
 msgid ""
@@ -17797,14 +17797,14 @@ msgstr ""
 #: ../../content/applications/productivity/sign/validity/south_korea.rst:28
 msgid "How Odoo Sign complies with South Korean regulations"
 msgstr ""
-"Como o Odoo Assinar está em conformidade com as regulamentações sul-coreanos"
+"Como o Blue Connect Assinar está em conformidade com as regulamentações sul-coreanos"
 
 #: ../../content/applications/productivity/sign/validity/south_korea.rst:30
 msgid ""
 "Odoo Sign ensures full compliance with the Electronic Signature Law of South "
 "Korea by incorporating the following features:"
 msgstr ""
-"O Odoo Assinar garante total conformidade com a Lei de Assinatura Eletrônica "
+"O Blue Connect Assinar garante total conformidade com a Lei de Assinatura Eletrônica "
 "da Coreia do Sul, incorporando os seguintes recursos:"
 
 #: ../../content/applications/productivity/sign/validity/south_korea.rst:58
@@ -17813,7 +17813,7 @@ msgid ""
 "electronic signatures may not be suitable or legally recognized in South "
 "Korea:"
 msgstr ""
-"Embora o Odoo Assinar seja amplamente aplicável, existem algumas exceções em "
+"Embora o Blue Connect Assinar seja amplamente aplicável, existem algumas exceções em "
 "que as assinaturas eletrônicas podem não ser adequadas ou legalmente "
 "reconhecidas na Coreia do Sul:"
 
@@ -17827,7 +17827,7 @@ msgid ""
 "also be necessary."
 msgstr ""
 "As informações fornecidas nesta página destinam-se apenas a fins "
-"informativos gerais e não constituem aconselhamento jurídico. Embora o Odoo "
+"informativos gerais e não constituem aconselhamento jurídico. Embora o Blue Connect "
 "Assinar esteja em conformidade com a Lei de Assinatura Eletrônica da Coreia "
 "do Sul, os usuários devem consultar profissionais jurídicos para garantir "
 "que tipos de documentos específicos e casos de uso cumprem todos os "
@@ -17836,7 +17836,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/sign/validity/switzerland.rst:5
 msgid "Odoo Sign legality in Switzerland"
-msgstr "Legalidade do Odoo Assinar na Suíça"
+msgstr "Legalidade do Blue Connect Assinar na Suíça"
 
 #: ../../content/applications/productivity/sign/validity/switzerland.rst:7
 msgid ""
@@ -17875,14 +17875,14 @@ msgstr ""
 #: ../../content/applications/productivity/sign/validity/switzerland.rst:26
 msgid "How Odoo Sign complies with Swiss regulations"
 msgstr ""
-"Como o Odoo Assinar está em conformidade com as regulamentações da Suíça"
+"Como o Blue Connect Assinar está em conformidade com as regulamentações da Suíça"
 
 #: ../../content/applications/productivity/sign/validity/switzerland.rst:28
 msgid ""
 "Odoo Sign ensures full compliance with the Electronic Signature Law of "
 "Switzerland by incorporating the following features:"
 msgstr ""
-"O Odoo Assinar garante total conformidade com a Lei de Assinatura Eletrônica "
+"O Blue Connect Assinar garante total conformidade com a Lei de Assinatura Eletrônica "
 "da Suíça ao incorporar os seguintes recursos:"
 
 #: ../../content/applications/productivity/sign/validity/switzerland.rst:56
@@ -17891,7 +17891,7 @@ msgid ""
 "electronic signatures may not be suitable or legally recognized in "
 "Switzerland:"
 msgstr ""
-"Embora o Odoo Assinar seja amplamente aplicável, há certas exceções em que "
+"Embora o Blue Connect Assinar seja amplamente aplicável, há certas exceções em que "
 "as assinaturas eletrônicas podem não ser adequadas ou legalmente "
 "reconhecidas na Suíça:"
 
@@ -17905,7 +17905,7 @@ msgid ""
 "also be necessary."
 msgstr ""
 "As informações fornecidas nesta página são apenas para fins informativos "
-"gerais e não constituem aconselhamento jurídico. Embora o Odoo Assinar "
+"gerais e não constituem aconselhamento jurídico. Embora o Blue Connect Assinar "
 "esteja em conformidade com a Lei de Assinatura Eletrônica da Suíça, os "
 "usuários devem consultar profissionais da área jurídica para garantir que "
 "tipos específicos de documentos e casos de uso atendam a todos os requisitos "
@@ -17914,7 +17914,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/sign/validity/thailand.rst:5
 msgid "Odoo Sign legality in Thailand"
-msgstr "Legalidade do Odoo Assinar na Tailândia"
+msgstr "Legalidade do Blue Connect Assinar na Tailândia"
 
 #: ../../content/applications/productivity/sign/validity/thailand.rst:7
 msgid ""
@@ -17943,14 +17943,14 @@ msgstr ""
 #: ../../content/applications/productivity/sign/validity/thailand.rst:23
 msgid "How Odoo Sign complies with Thai regulations"
 msgstr ""
-"Como o Odoo Assinar está em conformidade com as regulamentações da Tailândia"
+"Como o Blue Connect Assinar está em conformidade com as regulamentações da Tailândia"
 
 #: ../../content/applications/productivity/sign/validity/thailand.rst:25
 msgid ""
 "Odoo Sign ensures full compliance with the Electronic Signature Law of "
 "Thailand by incorporating the following features:"
 msgstr ""
-"O Odoo Assinar garante a total conformidade com a Lei de Assinatura "
+"O Blue Connect Assinar garante a total conformidade com a Lei de Assinatura "
 "Eletrônica da Tailândia, incorporando os seguintes recursos:"
 
 #: ../../content/applications/productivity/sign/validity/thailand.rst:53
@@ -17958,7 +17958,7 @@ msgid ""
 "While Odoo Sign is broadly applicable, there are certain exceptions where "
 "electronic signatures may not be suitable or legally recognized in Thailand:"
 msgstr ""
-"Embora o Odoo Assinar seja amplamente aplicável, existem certas exceções em "
+"Embora o Blue Connect Assinar seja amplamente aplicável, existem certas exceções em "
 "que as assinaturas eletrônicas podem não ser adequadas ou legalmente "
 "reconhecidas na Tailândia:"
 
@@ -17972,7 +17972,7 @@ msgid ""
 "also be necessary."
 msgstr ""
 "As informações fornecidas nesta página são apenas para fins informativos "
-"gerais e não constituem aconselhamento jurídico. Embora o Odoo Assinar "
+"gerais e não constituem aconselhamento jurídico. Embora o Blue Connect Assinar "
 "esteja em conformidade com a Lei de Assinatura Eletrônica da Tailândia, os "
 "usuários devem consultar profissionais da área jurídica para garantir que "
 "tipos específicos de documentos e casos de uso atendam a todos os requisitos "
@@ -17981,7 +17981,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/sign/validity/turkey.rst:5
 msgid "Odoo Sign legality in Turkey"
-msgstr "Legalidade do Odoo Assinar na Turquia"
+msgstr "Legalidade do Blue Connect Assinar na Turquia"
 
 #: ../../content/applications/productivity/sign/validity/turkey.rst:7
 msgid ""
@@ -18022,14 +18022,14 @@ msgstr ""
 #: ../../content/applications/productivity/sign/validity/turkey.rst:27
 msgid "How Odoo Sign complies with Turkish regulations"
 msgstr ""
-"Como o Odoo Assinar está em conformidade com as regulamentações da Turquia"
+"Como o Blue Connect Assinar está em conformidade com as regulamentações da Turquia"
 
 #: ../../content/applications/productivity/sign/validity/turkey.rst:29
 msgid ""
 "Odoo Sign ensures full compliance with the Electronic Signature Law of "
 "Turkey by incorporating the following features:"
 msgstr ""
-"O Odoo Assinar garante total conformidade com a Lei de Assinatura Eletrônica "
+"O Blue Connect Assinar garante total conformidade com a Lei de Assinatura Eletrônica "
 "da Turquia ao incorporar os seguintes recursos:"
 
 #: ../../content/applications/productivity/sign/validity/turkey.rst:57
@@ -18037,7 +18037,7 @@ msgid ""
 "While Odoo Sign is broadly applicable, there are certain exceptions where "
 "electronic signatures may not be suitable or legally recognized in Turkey:"
 msgstr ""
-"Embora o Odoo Assinar seja amplamente aplicável, existem certas exceções em "
+"Embora o Blue Connect Assinar seja amplamente aplicável, existem certas exceções em "
 "que as assinaturas eletrônicas podem não ser adequadas ou legalmente "
 "reconhecidas na Turquia:"
 
@@ -18051,7 +18051,7 @@ msgid ""
 "also be necessary."
 msgstr ""
 "As informações fornecidas nesta página são apenas para fins informativos "
-"gerais e não constituem aconselhamento jurídico. Embora o Odoo Assinar "
+"gerais e não constituem aconselhamento jurídico. Embora o Blue Connect Assinar "
 "esteja em conformidade com a Lei de Assinatura Eletrônica da Turquia, os "
 "usuários devem consultar profissionais da área jurídica para garantir que "
 "tipos específicos de documentos e casos de uso atendam a todos os requisitos "
@@ -18060,7 +18060,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/sign/validity/ukraine.rst:5
 msgid "Odoo Sign legality in Ukraine"
-msgstr "Legalidade do Odoo Assinar no Ucrânia"
+msgstr "Legalidade do Blue Connect Assinar no Ucrânia"
 
 #: ../../content/applications/productivity/sign/validity/ukraine.rst:7
 msgid ""
@@ -18087,14 +18087,14 @@ msgstr ""
 #: ../../content/applications/productivity/sign/validity/ukraine.rst:25
 msgid "How Odoo Sign complies with Ukrainian regulations"
 msgstr ""
-"Como o Odoo Assinar está em conformidade com as regulamentações da Ucrânia"
+"Como o Blue Connect Assinar está em conformidade com as regulamentações da Ucrânia"
 
 #: ../../content/applications/productivity/sign/validity/ukraine.rst:27
 msgid ""
 "Odoo Sign ensures full compliance with the Electronic Signature Law of "
 "Ukraine by incorporating the following features:"
 msgstr ""
-"O Odoo Assinar garante a total conformidade com a Lei de Assinatura "
+"O Blue Connect Assinar garante a total conformidade com a Lei de Assinatura "
 "Eletrônica da Ucrânia, incorporando os seguintes recursos:"
 
 #: ../../content/applications/productivity/sign/validity/ukraine.rst:55
@@ -18102,7 +18102,7 @@ msgid ""
 "While Odoo Sign is broadly applicable, there are certain exceptions where "
 "electronic signatures may not be suitable or legally recognized in Ukraine:"
 msgstr ""
-"Embora o Odoo Assinar seja amplamente aplicável, existem certas exceções em "
+"Embora o Blue Connect Assinar seja amplamente aplicável, existem certas exceções em "
 "que as assinaturas eletrônicas podem não ser adequadas ou legalmente "
 "reconhecidas na Ucrânia:"
 
@@ -18116,7 +18116,7 @@ msgid ""
 "also be necessary."
 msgstr ""
 "As informações fornecidas nesta página são apenas para fins informativos "
-"gerais e não constituem aconselhamento jurídico. Embora o Odoo Assinar "
+"gerais e não constituem aconselhamento jurídico. Embora o Blue Connect Assinar "
 "esteja em conformidade com a Lei de Assinatura Eletrônica da Ucrânia, os "
 "usuários devem consultar profissionais da área jurídica para garantir que "
 "tipos específicos de documentos e casos de uso atendam a todos os requisitos "
@@ -18125,7 +18125,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/sign/validity/united_arab_emirates.rst:5
 msgid "Odoo Sign legality in the United Arab Emirates"
-msgstr "Legalidade do Odoo Assinar no Emirados Árabes Unidos"
+msgstr "Legalidade do Blue Connect Assinar no Emirados Árabes Unidos"
 
 #: ../../content/applications/productivity/sign/validity/united_arab_emirates.rst:7
 msgid ""
@@ -18179,7 +18179,7 @@ msgstr ""
 #: ../../content/applications/productivity/sign/validity/united_arab_emirates.rst:28
 msgid "How Odoo Sign complies with Emirati regulations"
 msgstr ""
-"Como o Odoo Assinar está em conformidade com as regulamentações dos Emirados "
+"Como o Blue Connect Assinar está em conformidade com as regulamentações dos Emirados "
 "Árabes Unidos"
 
 #: ../../content/applications/productivity/sign/validity/united_arab_emirates.rst:30
@@ -18187,7 +18187,7 @@ msgid ""
 "Odoo Sign ensures full compliance with the Electronic Signature Law of the "
 "United Arab Emirates by incorporating the following features:"
 msgstr ""
-"O Odoo Assinar garante a total conformidade com a Lei de Assinatura "
+"O Blue Connect Assinar garante a total conformidade com a Lei de Assinatura "
 "Eletrônica dos Emirados Árabes Unidos, incorporando os seguintes recursos:"
 
 #: ../../content/applications/productivity/sign/validity/united_arab_emirates.rst:58
@@ -18196,7 +18196,7 @@ msgid ""
 "electronic signatures may not be suitable or legally recognized in the "
 "United Arab Emirates:"
 msgstr ""
-"Embora o Odoo Assinar seja amplamente aplicável, existem algumas exceções em "
+"Embora o Blue Connect Assinar seja amplamente aplicável, existem algumas exceções em "
 "que as assinaturas eletrônicas podem não ser adequadas ou legalmente "
 "reconhecidas nos Emirados Árabes Unidos:"
 
@@ -18210,7 +18210,7 @@ msgid ""
 "regulations may also be necessary."
 msgstr ""
 "As informações fornecidas nesta página destinam-se apenas a fins "
-"informativos gerais e não constituem aconselhamento jurídico. Embora o Odoo "
+"informativos gerais e não constituem aconselhamento jurídico. Embora o Blue Connect "
 "Assinar esteja em conformidade com a Lei de Assinatura Eletrônica dos "
 "Emirados Árabes Unidos, os usuários devem consultar profissionais jurídicos "
 "para garantir que tipos de documentos específicos e casos de uso cumprem "
@@ -18219,7 +18219,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/sign/validity/united_kingdom.rst:5
 msgid "Odoo Sign legality in the United Kingdom"
-msgstr "Legalidade do Odoo Assinar no Reino Unido"
+msgstr "Legalidade do Blue Connect Assinar no Reino Unido"
 
 #: ../../content/applications/productivity/sign/validity/united_kingdom.rst:7
 msgid ""
@@ -18276,7 +18276,7 @@ msgstr ""
 #: ../../content/applications/productivity/sign/validity/united_kingdom.rst:32
 msgid "How Odoo Sign complies with the United Kingdom regulations"
 msgstr ""
-"Como o Odoo Assinar está em conformidade com as regulamentações do Reino "
+"Como o Blue Connect Assinar está em conformidade com as regulamentações do Reino "
 "Unido"
 
 #: ../../content/applications/productivity/sign/validity/united_kingdom.rst:34
@@ -18284,7 +18284,7 @@ msgid ""
 "Odoo Sign ensures full compliance with the Electronic Signature Law of the "
 "United Kingdom by incorporating the following features:"
 msgstr ""
-"O Odoo Assinar garante a total conformidade com a Lei de Assinatura "
+"O Blue Connect Assinar garante a total conformidade com a Lei de Assinatura "
 "Eletrônica do Reino Unido, incorporando os seguintes recursos:"
 
 #: ../../content/applications/productivity/sign/validity/united_kingdom.rst:62
@@ -18293,7 +18293,7 @@ msgid ""
 "electronic signatures may not be suitable or legally recognized in the "
 "United Kingdom:"
 msgstr ""
-"Embora o Odoo Assinar seja amplamente aplicável, existem algumas exceções em "
+"Embora o Blue Connect Assinar seja amplamente aplicável, existem algumas exceções em "
 "que as assinaturas eletrônicas podem não ser adequadas ou legalmente "
 "reconhecidas no Reino Unido:"
 
@@ -18307,7 +18307,7 @@ msgid ""
 "may also be necessary."
 msgstr ""
 "As informações fornecidas nesta página destinam-se apenas a fins "
-"informativos gerais e não constituem aconselhamento jurídico. Embora o Odoo "
+"informativos gerais e não constituem aconselhamento jurídico. Embora o Blue Connect "
 "Assinar esteja em conformidade com a Lei de Assinatura Eletrônica do Reino "
 "Unido, os usuários devem consultar profissionais jurídicos para garantir que "
 "tipos de documentos específicos e casos de uso cumprem todos os requisitos "
@@ -18316,7 +18316,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/sign/validity/uzbekistan.rst:5
 msgid "Odoo Sign legality in Uzbekistan"
-msgstr "Legalidade do Odoo Assinar no Uzbequistão"
+msgstr "Legalidade do Blue Connect Assinar no Uzbequistão"
 
 #: ../../content/applications/productivity/sign/validity/uzbekistan.rst:7
 msgid ""
@@ -18353,7 +18353,7 @@ msgstr ""
 #: ../../content/applications/productivity/sign/validity/uzbekistan.rst:26
 msgid "How Odoo Sign complies with Uzbekistani regulations"
 msgstr ""
-"Como o Odoo Assinar está em conformidade com as regulamentações do "
+"Como o Blue Connect Assinar está em conformidade com as regulamentações do "
 "Uzbequistão"
 
 #: ../../content/applications/productivity/sign/validity/uzbekistan.rst:28
@@ -18361,7 +18361,7 @@ msgid ""
 "Odoo Sign ensures full compliance with the Electronic Signature Law of "
 "Uzbekistan by incorporating the following features:"
 msgstr ""
-"O Odoo Assinar garante a total conformidade com a Lei de Assinatura "
+"O Blue Connect Assinar garante a total conformidade com a Lei de Assinatura "
 "Eletrônica do Uzbequistão, incorporando os seguintes recursos:"
 
 #: ../../content/applications/productivity/sign/validity/uzbekistan.rst:56
@@ -18370,7 +18370,7 @@ msgid ""
 "electronic signatures may not be suitable or legally recognized in "
 "Uzbekistan:"
 msgstr ""
-"Embora o Odoo Assinar seja amplamente aplicável, existem certas exceções em "
+"Embora o Blue Connect Assinar seja amplamente aplicável, existem certas exceções em "
 "que as assinaturas eletrônicas podem não ser adequadas ou legalmente "
 "reconhecidas no Uzbequistão:"
 
@@ -18384,7 +18384,7 @@ msgid ""
 "also be necessary."
 msgstr ""
 "As informações fornecidas nesta página destinam-se apenas a fins "
-"informativos gerais e não constituem aconselhamento jurídico. Embora o Odoo "
+"informativos gerais e não constituem aconselhamento jurídico. Embora o Blue Connect "
 "Assinar esteja em conformidade com a Lei de Assinatura Eletrônica do "
 "Uzbequistão, os usuários devem consultar profissionais jurídicos para "
 "garantir que tipos de documentos específicos e casos de uso cumprem todos os "
@@ -18393,7 +18393,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/sign/validity/vietnam.rst:5
 msgid "Odoo Sign legality in Vietnam"
-msgstr "Legalidade do Odoo Assinar no Vietnã"
+msgstr "Legalidade do Blue Connect Assinar no Vietnã"
 
 #: ../../content/applications/productivity/sign/validity/vietnam.rst:7
 msgid ""
@@ -18437,14 +18437,14 @@ msgstr ""
 #: ../../content/applications/productivity/sign/validity/vietnam.rst:28
 msgid "How Odoo Sign complies with Vietnamese regulations"
 msgstr ""
-"Como o Odoo Assinar está em conformidade com as regulamentações do Vietnã"
+"Como o Blue Connect Assinar está em conformidade com as regulamentações do Vietnã"
 
 #: ../../content/applications/productivity/sign/validity/vietnam.rst:30
 msgid ""
 "Odoo Sign ensures full compliance with the Electronic Signature Law of "
 "Vietnam by incorporating the following features:"
 msgstr ""
-"O Odoo Assinar garante a total conformidade com a Lei de Assinatura "
+"O Blue Connect Assinar garante a total conformidade com a Lei de Assinatura "
 "Eletrônica do Vietnã, incorporando os seguintes recursos:"
 
 #: ../../content/applications/productivity/sign/validity/vietnam.rst:58
@@ -18452,7 +18452,7 @@ msgid ""
 "While Odoo Sign is broadly applicable, there are certain exceptions where "
 "electronic signatures may not be suitable or legally recognized in Vietnam:"
 msgstr ""
-"Embora o Odoo Assinar seja amplamente aplicável, existem certas exceções em "
+"Embora o Blue Connect Assinar seja amplamente aplicável, existem certas exceções em "
 "que as assinaturas eletrônicas podem não ser adequadas ou legalmente "
 "reconhecidas no Vietnã:"
 
@@ -18466,7 +18466,7 @@ msgid ""
 "also be necessary."
 msgstr ""
 "As informações fornecidas nesta página são apenas para fins informativos "
-"gerais e não constituem aconselhamento jurídico. Embora o Odoo Assinar "
+"gerais e não constituem aconselhamento jurídico. Embora o Blue Connect Assinar "
 "esteja em conformidade com a Lei de Assinatura Eletrônica do Vietnã, os "
 "usuários devem consultar profissionais da área jurídica para garantir que "
 "tipos específicos de documentos e casos de uso atendam a todos os requisitos "
@@ -26767,7 +26767,7 @@ msgid ""
 msgstr ""
 "Se você optar por :guilabel:`Editar` uma tarefa, terá a opção de "
 "adicionar :guilabel:`Marcadores`, :guilabel:`Responsáveis` ou mais "
-"informações usando o Odoo Editor."
+"informações usando o Blue Connect Editor."
 
 #: ../../content/applications/productivity/to_do.rst:18
 msgid "Adding :guilabel:`Assignees` shares the to-do with the users selected."
@@ -26790,7 +26790,7 @@ msgid ""
 "clicking :guilabel:`Add a To-Do`, or by clicking the clock button and "
 "then :guilabel:`Add a To-Do`."
 msgstr ""
-"Você pode criar um novo afazer imediatamente, de qualquer lugar do Odoo, "
+"Você pode criar um novo afazer imediatamente, de qualquer lugar do Blue Connect, "
 "abrindo a ferramenta **paleta de comandos** com o atalho de teclado 'ctrl+k' "
 "e clicando em :guilabel:`Adicionar um afazer, ou clicando no botão do "
 "relógio e depois em :guilabel:`Adicionar um afazer`."
@@ -26953,8 +26953,8 @@ msgid ""
 "Calls and messages are logged within these apps, keeping records linked to "
 "customer interactions."
 msgstr ""
-"O |VOIP| no Odoo permite que as empresas lidem com chamadas pela Internet, "
-"integrando-se diretamente aos aplicativos do Odoo, como **CRM**, **Central "
+"O |VOIP| no Blue Connect permite que as empresas lidem com chamadas pela Internet, "
+"integrando-se diretamente aos aplicativos do Blue Connect, como **CRM**, **Central "
 "de Ajuda** e outros. As chamadas e mensagens são registradas nesses "
 "aplicativos, mantendo os registros vinculados às interações com os clientes."
 
@@ -26962,7 +26962,7 @@ msgstr ""
 msgid ""
 "`Odoo Tutorials: VoIP <https://www.odoo.com/slides/voip-voice-over-ip-315>`_"
 msgstr ""
-"Tutoriais do `Odoo: VoIP <https://www.odoo.com/slides/voip-voice-over-"
+"Tutoriais do `Blue Connect: VoIP <https://www.odoo.com/slides/voip-voice-over-"
 "ip-315>`_"
 
 #: ../../content/applications/productivity/voip.rst:16
@@ -27061,11 +27061,11 @@ msgid ""
 msgstr ""
 "Depois que o módulo for instalado, um ícone :icon:`oi-voip` "
 "(:guilabel:`VoIP`) aparecerá na parte superior da tela. É aqui que as "
-"chamadas telefônicas são feitas dentro do Odoo. Quando esse ícone é clicado, "
+"chamadas telefônicas são feitas dentro do Blue Connect. Quando esse ícone é clicado, "
 "um widget pop-up |VOIP| aparece na tela e é onde os e-mails podem ser "
 "enviados, as informações de usuários e funcionários podem ser editadas e as "
 "atividades podem ser gerenciadas. Enquanto esse widget pop-up estiver "
-"aberto, o usuário poderá navegar pelos aplicativos Odoo."
+"aberto, o usuário poderá navegar pelos aplicativos Blue Connect."
 
 #: ../../content/applications/productivity/voip.rst:58
 msgid "Assign user permissions"
@@ -27164,7 +27164,7 @@ msgid ""
 msgstr ""
 "Se houver algum problema com o provedor de serviços |VOIP|, entre em contato "
 "com a equipe de suporte dele. Se houver algum problema durante a "
-"configuração do provedor de serviços |VOIP| no Odoo, siga as :ref:`etapas de "
+"configuração do provedor de serviços |VOIP| no Blue Connect, siga as :ref:`etapas de "
 "solução de problemas em questão <voip/voip_widget/troubleshooting_voip>`."
 
 #: ../../content/applications/productivity/voip.rst:101
@@ -27173,8 +27173,8 @@ msgid ""
 "Odoo's systems. However, if the above requirements are met, then no issues "
 "should be found."
 msgstr ""
-"A Odoo **não pode** verificar se todos os provedores alternativos são "
-"compatíveis com os sistemas da Odoo. No entanto, se os requisitos acima "
+"A Blue Connect **não pode** verificar se todos os provedores alternativos são "
+"compatíveis com os sistemas da Blue Connect. No entanto, se os requisitos acima "
 "forem atendidos, não deve ocorrer nenhum problema."
 
 #: ../../content/applications/productivity/voip.rst:105
@@ -27231,7 +27231,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/voip/axivox/axivox_config.rst:3
 msgid "VoIP services in Odoo with Axivox"
-msgstr "Serviços de VoIP no Odoo com a Axivox"
+msgstr "Serviços de VoIP no Blue Connect com a Axivox"
 
 #: ../../content/applications/productivity/voip/axivox/axivox_config.rst:6
 #: ../../content/applications/productivity/voip/onsip.rst:20
@@ -27244,7 +27244,7 @@ msgid ""
 "`Axivox <https://www.axivox.com/>`_. In that case, a VoIP server is **not** "
 "necessary, as the infrastructure is hosted and managed by Axivox."
 msgstr ""
-"O VoIP (Voice over Internet Protocol) do Odoo pode ser configurado para "
+"O VoIP (Voice over Internet Protocol) do Blue Connect pode ser configurado para "
 "funcionar em conjunto com o `Axivox <https://www.axivox.com/>`_. Nesse caso, "
 "**não** é necessário ter um servidor VoIP, pois a infraestrutura é hospedada "
 "e gerenciada pela Axivox."
@@ -27265,7 +27265,7 @@ msgid ""
 "To configure Axivox in Odoo, go to the :menuselection:`Apps` application, "
 "and search for `VoIP`. Then, install the :guilabel:`VoIP` module."
 msgstr ""
-"Para configurar o Axivox no Odoo, acesse o "
+"Para configurar o Axivox no Blue Connect, acesse o "
 "aplicativo :menuselection:`Aplicativos` e procure por `VoIP`. Em seguida, "
 "instale o módulo :guilabel:`VoIP`."
 
@@ -27298,7 +27298,7 @@ msgstr ":guilabel:`Ambiente do VoIP`: definido como :guilabel:`Produção`"
 
 #: ../../content/applications/productivity/voip/axivox/axivox_config.rst:None
 msgid "Integration of Axivox as VoIP provider in an Odoo database."
-msgstr "Integração da Axivox como provedor de VoIP em uma base de dados Odoo."
+msgstr "Integração da Axivox como provedor de VoIP em uma base de dados Blue Connect."
 
 #: ../../content/applications/productivity/voip/axivox/axivox_config.rst:36
 msgid ""
@@ -27314,15 +27314,15 @@ msgstr ""
 
 #: ../../content/applications/productivity/voip/axivox/axivox_config.rst:41
 msgid "Configure VoIP user in Odoo"
-msgstr "Configurar o usuário VoIP no Odoo"
+msgstr "Configurar o usuário VoIP no Blue Connect"
 
 #: ../../content/applications/productivity/voip/axivox/axivox_config.rst:43
 msgid ""
 "Next, the user is configured in Odoo, which **must** take place for every "
 "Axivox/Odoo user using VoIP."
 msgstr ""
-"Em seguida, o usuário é configurado no Odoo, o que **deve** ocorrer para "
-"cada usuário Axivox/Odoo que usa VoIP."
+"Em seguida, o usuário é configurado no Blue Connect, o que **deve** ocorrer para "
+"cada usuário Axivox/Blue Connect que usa VoIP."
 
 #: ../../content/applications/productivity/voip/axivox/axivox_config.rst:46
 msgid ""
@@ -27331,7 +27331,7 @@ msgid ""
 "over Internet Protocol)`. Under the :guilabel:`Preferences` tab, fill out "
 "the :guilabel:`VOIP Configuration` section:"
 msgstr ""
-"No Odoo, vá para :menuselection:`app Definições --> Usuários e Empresas --> "
+"No Blue Connect, vá para :menuselection:`app Definições --> Usuários e Empresas --> "
 "Usuários`, depois abra o formulário do usuário desejado para "
 "configurar :abbr:`VoIP (Voice over Internet Protocol)`. Na "
 "aba :guilabel:`Preferências`, preencha a seção :guilabel:`Configuração do "
@@ -27384,7 +27384,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/voip/axivox/axivox_config.rst:None
 msgid "Integration of Axivox user in the Odoo user preference."
-msgstr "Integração do usuário Axivox na preferência do usuário do Odoo."
+msgstr "Integração do usuário Axivox na preferência do usuário do Blue Connect."
 
 #: ../../content/applications/productivity/voip/axivox/axivox_config.rst:63
 msgid ""
@@ -27786,7 +27786,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/voip/axivox/call_queues.rst:147
 msgid "Connect to queue on Odoo"
-msgstr "Conectar-se à fila no Odoo"
+msgstr "Conectar-se à fila no Blue Connect"
 
 #: ../../content/applications/productivity/voip/axivox/call_queues.rst:149
 msgid ""
@@ -27863,7 +27863,7 @@ msgid ""
 "in Odoo *VoIP*."
 msgstr ""
 "Este documento aborda a configuração de chamadas em conferência na Axivox "
-"para uso no Odoo *VoIP*."
+"para uso no Blue Connect *VoIP*."
 
 #: ../../content/applications/productivity/voip/axivox/conference_calls.rst:12
 msgid "Add a virtual conference"
@@ -28067,7 +28067,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/voip/axivox/conference_calls.rst:87
 msgid "Start call in Odoo"
-msgstr "Iniciar chamada no Odoo"
+msgstr "Iniciar chamada no Blue Connect"
 
 #: ../../content/applications/productivity/voip/axivox/conference_calls.rst:89
 msgid ""
@@ -28076,14 +28076,14 @@ msgid ""
 "dial the specific extension number for the conference, and click "
 "the :guilabel:`📞 (phone)` icon."
 msgstr ""
-"Em qualquer lugar da base de dados do Odoo, abra o widget *VoIP*, clicando "
+"Em qualquer lugar da base de dados do Blue Connect, abra o widget *VoIP*, clicando "
 "no ícone :guilabel:`☎️ (telefone)`, localizado no canto superior direito. Em "
 "seguida, disque o número do ramal específico da conferência e clique no "
 "ícone :guilabel:`📞 (telefone)`."
 
 #: ../../content/applications/productivity/voip/axivox/conference_calls.rst:None
 msgid "Connecting to a conference extension using the Odoo VoIP widget."
-msgstr "Conectando-se a um ramal de conferência usando o widget VoIP do Odoo."
+msgstr "Conectando-se a um ramal de conferência usando o widget VoIP do Blue Connect."
 
 #: ../../content/applications/productivity/voip/axivox/conference_calls.rst:97
 msgid ""
@@ -30004,7 +30004,7 @@ msgid ""
 msgstr ""
 "O gerenciamento de usuários do :abbr:`VoIP (Voice over Internet Protocol)` "
 "do Axivox é uma parte importante da configuração do :abbr:`VoIP` em uma base "
-"de dados Odoo. Cada usuário do Axivox tem um nome, número de telefone e/ou "
+"de dados Blue Connect. Cada usuário do Axivox tem um nome, número de telefone e/ou "
 "ramal e correio de voz exclusivos. Dessa forma, eles podem ser contatados de "
 "várias maneiras convenientes."
 
@@ -30504,7 +30504,7 @@ msgid ""
 "incoming number. For more information, visit the :doc:`VoIP Mobile "
 "Integrations <../devices_integrations>` documentation."
 msgstr ""
-"O aplicativo móvel Odoo, ou outro cliente móvel :abbr:`SIP (Session "
+"O aplicativo móvel Blue Connect, ou outro cliente móvel :abbr:`SIP (Session "
 "Initiation Protocol)`, permite o toque simultâneo do ramal do usuário ou do "
 "número de entrada. Para obter mais informações, visite a "
 "documentação :doc:`VoIP Mobile Integrations <.../devices_integrations>`."
@@ -30640,7 +30640,7 @@ msgstr ""
 "*O SIP*, que significa telefonia de Protocolo de Iniciação de Sessão, "
 "permite fazer e receber chamadas por meio de uma conexão com a Internet. A "
 "aba :guilabel:`Identificadores SIP` no formulário :guilabel:`Novo usuário` "
-"contém as credenciais necessárias para configurar usuários Axivox no Odoo e/"
+"contém as credenciais necessárias para configurar usuários Axivox no Blue Connect e/"
 "ou em um cliente móvel :abbr:`SIP (Session Initiation Protocol)` diferente."
 
 #: ../../content/applications/productivity/voip/axivox/manage_users.rst:247
@@ -30651,7 +30651,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/voip/axivox/manage_users.rst:249
 msgid ":doc:`Use VoIP services in Odoo with Axivox <axivox_config>`"
-msgstr ":doc:`Use serviços VoIP no Odoo com o Axivox <axivox_config>"
+msgstr ":doc:`Use serviços VoIP no Blue Connect com o Axivox <axivox_config>"
 
 #: ../../content/applications/productivity/voip/axivox/manage_users.rst:250
 msgid ":doc:`Axivox Mobile Integrations <../devices_integrations>`"
@@ -30682,7 +30682,7 @@ msgid ""
 "mobile :abbr:`SIP (Session Initiation Protocol)` clients."
 msgstr ""
 "O valor no campo :guilabel:`Senha SIP` é exclusivo para cada usuário da "
-"Axivox. Esse valor é usado para fazer login na Axivox no Odoo e em qualquer "
+"Axivox. Esse valor é usado para fazer login na Axivox no Blue Connect e em qualquer "
 "cliente :abbr:`SIP (Session Initiation Protocol) ` móvel."
 
 #: ../../content/applications/productivity/voip/axivox/manage_users.rst:None
@@ -31606,7 +31606,7 @@ msgid ""
 "can be used with *any* :abbr:`SIP (Session Initiation Protocol)` compatible "
 "application."
 msgstr ""
-"Odoo *VoIP* é compatível com SIP, o que significa que pode ser usado com "
+"Blue Connect *VoIP* é compatível com SIP, o que significa que pode ser usado com "
 "*qualquer* :abbr:`SIP` aplicativo compatível."
 
 #: ../../content/applications/productivity/voip/devices_integrations.rst:12
@@ -31614,7 +31614,7 @@ msgid ""
 "This document covers the process of setting up Odoo *VoIP* across different "
 "devices and integrations."
 msgstr ""
-"Este documento aborda o processo de configuração do Odoo *VoIP* em "
+"Este documento aborda o processo de configuração do Blue Connect *VoIP* em "
 "diferentes dispositivos e integrações."
 
 #: ../../content/applications/productivity/voip/devices_integrations.rst:15
@@ -31622,7 +31622,7 @@ msgid ""
 "Odoo is fully-integrated with all Odoo apps, allowing users to click into "
 "any app, and schedule a call as an activity in the chatter."
 msgstr ""
-"O Odoo é totalmente integrado a todos os aplicativos Odoo, permitindo que os "
+"O Blue Connect é totalmente integrado a todos os aplicativos Blue Connect, permitindo que os "
 "usuários cliquem em qualquer aplicativo e agendem uma chamada como uma "
 "atividade no chatter."
 
@@ -31658,12 +31658,12 @@ msgstr ""
 msgid ""
 "View of CRM leads and the option to schedule an activity for Odoo Discuss."
 msgstr ""
-"Visualização de leads do CRM e a opção de agendar uma atividade para o Odoo "
+"Visualização de leads do CRM e a opção de agendar uma atividade para o Blue Connect "
 "Mensagens."
 
 #: ../../content/applications/productivity/voip/devices_integrations.rst:34
 msgid "Odoo VoIP (laptop/desktop computer)"
-msgstr "Odoo VoIP (notebook/computador de mesa)"
+msgstr "Blue Connect VoIP (notebook/computador de mesa)"
 
 #: ../../content/applications/productivity/voip/devices_integrations.rst:36
 msgid ""
@@ -31672,10 +31672,10 @@ msgid ""
 "the :guilabel:`☎️ (phone)` icon in the upper-right corner, while in the Odoo "
 "database, and the widget appears."
 msgstr ""
-"O módulo e o widget *VoIP* do Odoo podem ser usados em qualquer navegador em "
+"O módulo e o widget *VoIP* do Blue Connect podem ser usados em qualquer navegador em "
 "notebook ou computador desktop. Basta clicar no ícone :guilabel:`☎️ "
 "(telefone)` no canto superior direito, enquanto estiver na base de dados do "
-"Odoo, e o widget será exibido."
+"Blue Connect, e o widget será exibido."
 
 #: ../../content/applications/productivity/voip/devices_integrations.rst:41
 msgid ""
@@ -31687,7 +31687,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/voip/devices_integrations.rst:45
 msgid "Odoo VoIP (tablet/mobile device)"
-msgstr "Odoo VoIP (tablet/dispositivo móvel)"
+msgstr "Blue Connect VoIP (tablet/dispositivo móvel)"
 
 #: ../../content/applications/productivity/voip/devices_integrations.rst:47
 msgid ""
@@ -31695,8 +31695,8 @@ msgid ""
 "Odoo Android or Apple IOS applications. Additionally, a mobile web browser "
 "can be used to access the database."
 msgstr ""
-"O aplicativo Odoo *VoIP* pode ser usado em tablets e telefones celulares, "
-"por meio dos aplicativos Odoo Android ou Apple IOS. Além disso, um navegador "
+"O aplicativo Blue Connect *VoIP* pode ser usado em tablets e telefones celulares, "
+"por meio dos aplicativos Blue Connect Android ou Apple IOS. Além disso, um navegador "
 "móvel pode ser usado para acessar a base de dados."
 
 #: ../../content/applications/productivity/voip/devices_integrations.rst:51
@@ -31705,9 +31705,9 @@ msgid ""
 "Odoo on the Android and Apple portals. This means Odoo support only handles "
 "limited scopes of Odoo Android or Apple IOS support tickets."
 msgstr ""
-"Os aplicativos Odoo Android e Apple IOS não estão mais sendo mantidos pela "
-"Odoo nos portais Android e Apple. Isso significa que o suporte da Odoo lida "
-"apenas com escopos limitados de chamados de suporte para Odoo Android ou "
+"Os aplicativos Blue Connect Android e Apple IOS não estão mais sendo mantidos pela "
+"Blue Connect nos portais Android e Apple. Isso significa que o suporte da Blue Connect lida "
+"apenas com escopos limitados de chamados de suporte para Blue Connect Android ou "
 "Apple IOS."
 
 #: ../../content/applications/productivity/voip/devices_integrations.rst:56
@@ -31718,8 +31718,8 @@ msgid ""
 "be reachable on a mobile device at all times, an app, like Zoiper, should be "
 "used. Apps like that stay connected in the background at all times."
 msgstr ""
-"Embora seja possível fazer chamadas usando o Odoo em um dispositivo móvel, "
-"esteja ciente de que o Odoo **não** é um aplicativo :abbr:`VoIP` completo e "
+"Embora seja possível fazer chamadas usando o Blue Connect em um dispositivo móvel, "
+"esteja ciente de que o Blue Connect **não** é um aplicativo :abbr:`VoIP` completo e "
 "**não** toca nas chamadas recebidas. Se o usuário precisar estar sempre "
 "acessível em um dispositivo móvel, um aplicativo como o Zoiper deverá ser "
 "usado. Aplicativos como esse permanecem conectados em segundo plano o tempo "
@@ -31737,7 +31737,7 @@ msgid ""
 "right corner. The widget appears in the lower-left corner."
 msgstr ""
 "Enquanto estiver no aplicativo móvel em um dispositivo móvel/tablet, acesse "
-"o widget *VoIP* do Odoo tocando no ícone :guilabel:`☎️ (telefone)` no canto "
+"o widget *VoIP* do Blue Connect tocando no ícone :guilabel:`☎️ (telefone)` no canto "
 "superior direito. O widget aparece no canto inferior esquerdo."
 
 #: ../../content/applications/productivity/voip/devices_integrations.rst:67
@@ -31757,7 +31757,7 @@ msgid ""
 "This step is **necessary**, whether using the mobile Odoo application or web "
 "browser."
 msgstr ""
-"Esta etapa é **necessária**, seja usando o aplicativo móvel Odoo ou o "
+"Esta etapa é **necessária**, seja usando o aplicativo móvel Blue Connect ou o "
 "navegador da web."
 
 #: ../../content/applications/productivity/voip/devices_integrations.rst:None
@@ -31771,7 +31771,7 @@ msgid ""
 "box next to :guilabel:`Remember ?` should this decision be the default "
 "moving forward."
 msgstr ""
-"O Odoo então pergunta como fazer a chamada. As duas opções "
+"O Blue Connect então pergunta como fazer a chamada. As duas opções "
 "são: :guilabel:`VOIP` ou :guilabel:`Telefone` (caso o tablet esteja "
 "habilitado para fazer chamadas). Clique na caixa ao lado "
 "de :guilabel:`Lembrar?` para que essa decisão seja a padrão daqui para "
@@ -31788,7 +31788,7 @@ msgstr ""
 #: ../../content/applications/productivity/voip/devices_integrations.rst:85
 msgid ""
 "Here is the layout of what the Odoo *VoIP* app looks like on a mobile device:"
-msgstr "Este é o layout do aplicativo Odoo *VoIP* em um dispositivo móvel:"
+msgstr "Este é o layout do aplicativo Blue Connect *VoIP* em um dispositivo móvel:"
 
 #: ../../content/applications/productivity/voip/devices_integrations.rst:None
 msgid "Layout of what the VoIP app looks like on the a mobile device."
@@ -32192,7 +32192,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/voip/didww.rst:77
 msgid "Odoo setup"
-msgstr "Configuração do Odoo"
+msgstr "Configuração do Blue Connect"
 
 #: ../../content/applications/productivity/voip/didww.rst:79
 msgid ""
@@ -32226,7 +32226,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/voip/onsip.rst:3
 msgid "Use VoIP services in Odoo with OnSIP"
-msgstr "Usar serviços VoIP no Odoo com OnSIP"
+msgstr "Usar serviços VoIP no Blue Connect com OnSIP"
 
 #: ../../content/applications/productivity/voip/onsip.rst:6
 msgid ""
@@ -32274,8 +32274,8 @@ msgid ""
 "<https://info.onsip.com/odoo/>`_. OnSIP is a VoIP provider. An account is "
 "needed with OnSIP in order to use this service."
 msgstr ""
-"O Odoo *VoIP* pode ser configurado para trabalhar em conjunto com o `OnSIP "
-"(Odoo Landing Page) <https://info.onsip.com/odoo/>`_. O OnSIP é um provedor "
+"O Blue Connect *VoIP* pode ser configurado para trabalhar em conjunto com o `OnSIP "
+"(Blue Connect Landing Page) <https://info.onsip.com/odoo/>`_. O OnSIP é um provedor "
 "de VoIP. É necessário ter uma conta no OnSIP para usar esse serviço."
 
 #: ../../content/applications/productivity/voip/onsip.rst:26
@@ -32293,7 +32293,7 @@ msgid ""
 "configure it on an Odoo database."
 msgstr ""
 "Depois de abrir uma conta OnSIP, siga o procedimento de configuração abaixo "
-"para configurá-la em uma base de dados Odoo."
+"para configurá-la em uma base de dados Blue Connect."
 
 #: ../../content/applications/productivity/voip/onsip.rst:35
 msgid ""
@@ -32302,9 +32302,9 @@ msgid ""
 "remove the default `Apps` filter from the :guilabel:`Search...` bar, and "
 "search for `OnSIP`."
 msgstr ""
-"Para configurar a base de dados Odoo para se conectar aos serviços OnSIP, "
+"Para configurar a base de dados Blue Connect para se conectar aos serviços OnSIP, "
 "primeiro navegue até o aplicativo :menuselection:`Aplicativos` no painel "
-"principal do Odoo. Em seguida, remova o filtro padrão `Aplicativos` da "
+"principal do Blue Connect. Em seguida, remova o filtro padrão `Aplicativos` da "
 "barra :guilabel:`Pesquisar…` e procure por `OnSIP`."
 
 #: ../../content/applications/productivity/voip/onsip.rst:39
@@ -32318,7 +32318,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/voip/onsip.rst:46
 msgid "Odoo VoIP setting"
-msgstr "Configuração do VoIP do Odoo"
+msgstr "Configuração do VoIP do Blue Connect"
 
 #: ../../content/applications/productivity/voip/onsip.rst:48
 msgid ""
@@ -32350,7 +32350,7 @@ msgstr ":guilabel:`Ambiente VoIP`: :guilabel:`Produção`"
 
 #: ../../content/applications/productivity/voip/onsip.rst:None
 msgid "VoIP configuration settings in Odoo Settings app."
-msgstr "Definições de configuração de VoIP no aplicativo Odoo Definições."
+msgstr "Definições de configuração de VoIP no aplicativo Blue Connect Definições."
 
 #: ../../content/applications/productivity/voip/onsip.rst:62
 msgid ""
@@ -32390,7 +32390,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/voip/onsip.rst:77
 msgid "Odoo user setting"
-msgstr "Definições de usuário do Odoo"
+msgstr "Definições de usuário do Blue Connect"
 
 #: ../../content/applications/productivity/voip/onsip.rst:79
 msgid ""
@@ -32398,9 +32398,9 @@ msgid ""
 "OnSIP user **must** also be configured in the Odoo user's settings/"
 "preferences."
 msgstr ""
-"Em seguida, o usuário precisa ser configurado no Odoo. Todo usuário "
+"Em seguida, o usuário precisa ser configurado no Blue Connect. Todo usuário "
 "associado a um usuário OnSIP **deve** também ser configurado nas "
-"configurações/preferências do usuário do Odoo."
+"configurações/preferências do usuário do Blue Connect."
 
 #: ../../content/applications/productivity/voip/onsip.rst:82
 msgid ""
@@ -32456,7 +32456,7 @@ msgid ""
 "When these steps are complete, navigate away from the user form in Odoo to "
 "save the configurations."
 msgstr ""
-"Quando essas etapas forem concluídas, saia do formulário do usuário no Odoo "
+"Quando essas etapas forem concluídas, saia do formulário do usuário no Blue Connect "
 "para salvar as configurações."
 
 #: ../../content/applications/productivity/voip/onsip.rst:100
@@ -32464,8 +32464,8 @@ msgid ""
 "Once saved, Odoo users can make phone calls by clicking the :guilabel:`☎️ "
 "(phone)` icon in the top-right corner of Odoo."
 msgstr ""
-"Depois de salvos, os usuários do Odoo podem fazer chamadas telefônicas "
-"clicando no ícone :guilabel:`☎️ (telefone)` no canto superior direito do Odoo."
+"Depois de salvos, os usuários do Blue Connect podem fazer chamadas telefônicas "
+"clicando no ícone :guilabel:`☎️ (telefone)` no canto superior direito do Blue Connect."
 
 #: ../../content/applications/productivity/voip/onsip.rst:104
 msgid ""
@@ -32486,8 +32486,8 @@ msgid ""
 "in Odoo. When those call pop-up windows appear, click the green :guilabel:`"
 "📞 (phone)` icon to answer the call."
 msgstr ""
-"A base de dados do Odoo também recebe chamadas que produzem janelas pop-up "
-"no Odoo. Quando essas janelas pop-up de chamadas aparecerem, clique no ícone "
+"A base de dados do Blue Connect também recebe chamadas que produzem janelas pop-up "
+"no Blue Connect. Quando essas janelas pop-up de chamadas aparecerem, clique no ícone "
 "verde :guilabel:`📞 (telefone)` para atender a chamada."
 
 #: ../../content/applications/productivity/voip/onsip.rst:113
@@ -32497,7 +32497,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/voip/onsip.rst:None
 msgid "Incoming call shown in the Odoo VoIP widget."
-msgstr "Chamada recebida exibida no widget VoIP do Odoo."
+msgstr "Chamada recebida exibida no widget VoIP do Blue Connect."
 
 #: ../../content/applications/productivity/voip/onsip.rst:121
 msgid ":doc:`voip_widget`"
@@ -32516,12 +32516,12 @@ msgid ""
 "If a *Missing Parameters* message appears in the Odoo widget, make sure to "
 "refresh the Odoo browser window (or tab), and try again."
 msgstr ""
-"Se uma mensagem *Parâmetros ausentes* aparecer no widget do Odoo, certifique-"
-"se de atualizar a janela (ou aba) do navegador Odoo e tente novamente."
+"Se uma mensagem *Parâmetros ausentes* aparecer no widget do Blue Connect, certifique-"
+"se de atualizar a janela (ou aba) do navegador Blue Connect e tente novamente."
 
 #: ../../content/applications/productivity/voip/onsip.rst:None
 msgid "Missing parameter message in the Odoo VoIP widget."
-msgstr "Mensagem de parâmetro ausente no widget Odoo VoIP."
+msgstr "Mensagem de parâmetro ausente no widget Blue Connect VoIP."
 
 #: ../../content/applications/productivity/voip/onsip.rst:137
 #: ../../content/applications/productivity/voip/voip_widget.rst:169
@@ -32534,7 +32534,7 @@ msgid ""
 "use the international format for the number. This means leading with the "
 "international country code."
 msgstr ""
-"Se uma mensagem *Número incorreto* for exibida no widget do Odoo, certifique-"
+"Se uma mensagem *Número incorreto* for exibida no widget do Blue Connect, certifique-"
 "se de usar o formato internacional para o número. Isso significa começar com "
 "o código internacional do país."
 
@@ -32548,7 +32548,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/voip/onsip.rst:None
 msgid "Incorrect number message populated in the Odoo VoIP widget."
-msgstr "Mensagem de número incorreto preenchida no widget Odoo VoIP."
+msgstr "Mensagem de número incorreto preenchida no widget Blue Connect VoIP."
 
 #: ../../content/applications/productivity/voip/onsip.rst:157
 msgid "OnSIP on mobile phone"
@@ -32561,8 +32561,8 @@ msgid ""
 "parallel with Odoo *VoIP*."
 msgstr ""
 "Para fazer e receber chamadas telefônicas quando o usuário não estiver na "
-"frente do Odoo em seu computador, um aplicativo de softphone em um telefone "
-"celular pode ser usado em paralelo com o Odoo *VoIP*."
+"frente do Blue Connect em seu computador, um aplicativo de softphone em um telefone "
+"celular pode ser usado em paralelo com o Blue Connect *VoIP*."
 
 #: ../../content/applications/productivity/voip/onsip.rst:162
 msgid ""
@@ -32971,7 +32971,7 @@ msgid ""
 msgstr ""
 "O widget |VOIP| contém três abas: :guilabel:`Recente`, :guilabel:`Próximas "
 "atividades` e :guilabel:`Contatos`, que são usadas para gerenciar chamadas e "
-"atividades diárias no Odoo. Use a barra de pesquisa para encontrar contatos "
+"atividades diárias no Blue Connect. Use a barra de pesquisa para encontrar contatos "
 "mais rapidamente."
 
 #: ../../content/applications/productivity/voip/voip_widget.rst:None
@@ -33033,7 +33033,7 @@ msgid ""
 "Odoo (like sales orders)"
 msgstr ""
 ":icon:`fa-file-text-o` :guilabel:`(documentos)`: mostra o registro anexado "
-"no Odoo (como pedidos de vendas)"
+"no Blue Connect (como pedidos de vendas)"
 
 #: ../../content/applications/productivity/voip/voip_widget.rst:42
 msgid ":icon:`fa-clock-o` :guilabel:`(Activities)`: schedule an activity"
@@ -33174,7 +33174,7 @@ msgid ""
 "notification. To close the widget, click the :icon:`oi-"
 "close` :guilabel:`(close)` icon in the upper-right of the widget's screen."
 msgstr ""
-"Ao receber chamadas no Odoo, o widget |VOIP| toca e exibe uma notificação. "
+"Ao receber chamadas no Blue Connect, o widget |VOIP| toca e exibe uma notificação. "
 "Para fechar o widget, clique no ícone :icon:`oi-close` :guilabel:`(fechar)` "
 "no canto superior direito da tela do widget."
 
@@ -33368,7 +33368,7 @@ msgid ""
 "provider."
 msgstr ""
 "Se o usuário não conseguir se conectar ao seu número de telefone |VOIP|, é "
-"porque o perfil do Odoo não tem o :guilabel:`Segredo do Voip`. Para "
+"porque o perfil do Blue Connect não tem o :guilabel:`Segredo do Voip`. Para "
 "adicionar isso, clique no avatar do usuário e, em seguida, clique "
 "em :guilabel:`Meu perfil`. A partir daí, clique na guia :guilabel:`VoIP` e "
 "insira o :guilabel:`Segredo do Voip` do usuário. Essa é a senha do usuário "
@@ -33838,7 +33838,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/whatsapp.rst:253
 msgid "WhatsApp configuration in Odoo"
-msgstr "Configuração do WhatsApp no Odoo"
+msgstr "Configuração do WhatsApp no Blue Connect"
 
 #: ../../content/applications/productivity/whatsapp.rst:255
 msgid ""
@@ -33870,7 +33870,7 @@ msgstr "Console da Meta"
 
 #: ../../content/applications/productivity/whatsapp.rst:273
 msgid "Odoo Interface"
-msgstr "Interface do Odoo"
+msgstr "Interface do Blue Connect"
 
 #: ../../content/applications/productivity/whatsapp.rst:274
 msgid "Phone"
@@ -34237,7 +34237,7 @@ msgid ""
 "app --> Configuration --> WhatsApp Business Accounts`."
 msgstr ""
 "Com esse valor de token, atualize o campo :guilabel:`Token de acesso` na "
-"conta do WhatsApp Business no Odoo, navegando até o :menuselection:`app "
+"conta do WhatsApp Business no Blue Connect, navegando até o :menuselection:`app "
 "WhatsApp --> Configuração --> Contas do WhatsApp Business`."
 
 #: ../../content/applications/productivity/whatsapp.rst:452
@@ -34550,7 +34550,7 @@ msgid ""
 "referencing fields from within a model."
 msgstr ""
 "As variáveis dinâmicas fazem referência a determinados campos na base de "
-"dados do Odoo para produzir dados exclusivos na mensagem do WhatsApp ao usar "
+"dados do Blue Connect para produzir dados exclusivos na mensagem do WhatsApp ao usar "
 "um modelo. As variáveis dinâmicas são codificadas para exibir campos de "
 "dentro da base de dados, referenciando campos de dentro de um modelo."
 
@@ -34564,7 +34564,7 @@ msgid ""
 msgstr ""
 "Muitas empresas gostam de aprimorar suas mensagens do WhatsApp com "
 "informações personalizadas do cliente para chamar a atenção. Isso pode ser "
-"feito no Odoo pela referenciação de um campo em um modelo, definindo uma "
+"feito no Blue Connect pela referenciação de um campo em um modelo, definindo uma "
 "variável dinâmica. Por exemplo, o nome de um cliente pode ser referenciado "
 "no e-mail a partir do campo :guilabel:`Cliente` no modelo :guilabel:`Pedido "
 "de venda`."
@@ -34756,7 +34756,7 @@ msgstr ""
 msgid "Customizing WhatsApp templates is out of the scope of Odoo Support."
 msgstr ""
 "A personalização dos modelos do WhatsApp está fora do escopo do Suporte do "
-"Odoo."
+"Blue Connect."
 
 #: ../../content/applications/productivity/whatsapp.rst:691
 msgid "Meta template approval"
@@ -34776,7 +34776,7 @@ msgid ""
 "database. See this documentation: :ref:`productivity/whatsapp/sync`."
 msgstr ""
 "Após a aprovação da Meta, sincronize os modelos novamente na base de dados "
-"do Odoo. Consulte esta documentação: :ref:`productivity/whatsapp/sync`."
+"do Blue Connect. Consulte esta documentação: :ref:`productivity/whatsapp/sync`."
 
 #: ../../content/applications/productivity/whatsapp.rst:701
 msgid ""
@@ -34806,7 +34806,7 @@ msgid ""
 "Templates'\n"
 "highlighted."
 msgstr ""
-"Sincronização dos modelos do Meta WhatsApp com a base de dados do Odoo, com "
+"Sincronização dos modelos do Meta WhatsApp com a base de dados do Blue Connect, com "
 "a opção 'Sincronizar modelos'\n"
 "destacada."
 
@@ -34917,9 +34917,9 @@ msgid ""
 "configuration in Odoo."
 msgstr ""
 "As notificações no WhatsApp são tratadas de forma semelhante a uma conversa "
-"por mensagem no Odoo. Uma janela pop-up é exibida com a conversa do cliente. "
+"por mensagem no Blue Connect. Uma janela pop-up é exibida com a conversa do cliente. "
 "Por padrão, as notificações são definidas na configuração da conta do "
-"WhatsApp Business no Odoo."
+"WhatsApp Business no Blue Connect."
 
 #: ../../content/applications/productivity/whatsapp.rst:787
 msgid ""
