@@ -22,4 +22,5 @@ administradores e implementadores, mas a navegação principal é organizada por
    blue_connect/growth_sales
    blue_connect/ai_automation
    blue_connect/saas_revenue
+   blue_connect/releases_marketplace
    blue_connect/module_index
