@@ -8,6 +8,11 @@ automação, dados e inteligência artificial em uma mesma arquitetura de negóc
 Esta documentação continua cobrindo o núcleo ERP/CRM baseado em Odoo 19, enquanto o ecossistema
 Blue Connect adiciona capabilities especializadas por meio de módulos, integrações e serviços.
 
+.. toctree::
+   :maxdepth: 2
+
+   releases_marketplace
+
 Visão da plataforma
 ===================
 
@@ -50,7 +55,7 @@ Marketplace BlueApps
 O catálogo BlueApps reúne módulos especializados para Odoo 19. Em agosto de 2026, o catálogo
 interno consolidado contém mais de 100 módulos vendáveis, com preço e maturidade tratados por
 regras de governança. A presença no catálogo não implica publicação automática em marketplaces
-externos.
+externos. Consulte :doc:`releases_marketplace` para a organização por capability e maturidade.
 
 Maturidade e roadmap
 ====================
@@ -69,6 +74,7 @@ Links do ecossistema
 ====================
 
 * `Site Blue Connect <https://www.conexaoazul.com/blue-connect-platform>`__
+* `Releases e Marketplace <https://www.conexaoazul.com/blue-connect-releases>`__
 * `Roadmap 2026 <https://www.conexaoazul.com/roadmap-2026>`__
 * `Documentação de APIs de dados <https://docs.conexaoazul.com/blue-credit-api/intro>`__
 * `Repositório público da documentação <https://github.com/conexaoazul/documentation>`__
