@@ -125,6 +125,12 @@ def set_blueconnect_commercial_context(app, pagename, templatename, context, doc
         context['blueconnect_commercial'] = None
         return
 
+    existing_css = context['meta'].get('custom-css', '')
+    css_files = [item for item in existing_css.split(',') if item]
+    if 'docs_growth.css' not in css_files:
+        css_files.append('docs_growth.css')
+    context['meta']['custom-css'] = ','.join(css_files)
+
     params = {
         'utm_source': 'documentation',
         'utm_medium': 'docs_cta',
