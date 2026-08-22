@@ -4,6 +4,11 @@
 Sales
 =====
 
+.. seealso::
+
+   Para recursos adicionais de atendimento, distribuição, cadência e operação comercial,
+   consulte :doc:`../blue_connect/crm_omnichannel` e :doc:`../blue_connect/growth_sales`.
+
 
 .. toctree::
 
