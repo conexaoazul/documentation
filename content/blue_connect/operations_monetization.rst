@@ -12,8 +12,8 @@ serviços e instâncias vendidas.
 .. toctree::
    :maxdepth: 1
 
-   financeiro_asaas
-   saas_revenue
+   Financeiro e Asaas <financeiro_asaas>
+   SaaS e Recorrência <saas_revenue>
 
 Comece por aqui
 ===============
