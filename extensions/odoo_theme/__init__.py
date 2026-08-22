@@ -144,7 +144,7 @@ def set_blueconnect_commercial_context(app, pagename, templatename, context, doc
     }
     context['blueconnect_commercial'] = {
         **commercial,
-        'primary_url': f"https://www.conexaoazul.com/diagnostico?{urlencode(params)}",
+        'primary_url': f"https://www.conexaoazul.com/diagnostico/blueconnect?{urlencode(params)}",
         'secondary_url': (
             'https://www.conexaoazul.com/blueapps?utm_source=documentation'
             '&utm_medium=docs_cta&utm_campaign=blueconnect_docs_acquisition'
