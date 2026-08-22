@@ -66,6 +66,11 @@ def main() -> None:
     if sorted(seen) != sorted(leaf_names) or len(seen) != len(set(seen)):
         raise SystemExit("Each Blue Connect solution must appear in exactly one navigation group")
 
+    require_once(
+        header,
+        'class="d-none d-lg-flex align-items-stretch"',
+        "desktop-only quick navigation breakpoint",
+    )
     for pathto in (
         "pathto('blue_connect')",
         "pathto('applications')",
