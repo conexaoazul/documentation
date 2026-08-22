@@ -1,6 +1,6 @@
-========================
+========================================
 Índice de módulos principais
-========================
+========================================
 
 Este índice é voltado a administradores, implementadores e suporte. Para usuários finais, prefira
 navegar pelo objetivo de negócio em :doc:`overview`.

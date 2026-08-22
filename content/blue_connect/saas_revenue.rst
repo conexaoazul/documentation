@@ -1,6 +1,6 @@
-=====================================
+========================================
 SaaS, assinaturas e receita recorrente
-=====================================
+========================================
 
 A família Blue SaaS conecta a jornada comercial de um software recorrente ao ciclo de vida da
 instância, assinatura, cobrança, portal e provisionamento. O ERP mantém o contexto comercial;

@@ -1,6 +1,6 @@
-===============================
+========================================
 Dados, consultas e enriquecimento
-===============================
+========================================
 
 A família de dados reúne consultas, saldo, recarga, provedores e enriquecimento para apoiar
 qualificação comercial, análise cadastral e fluxos operacionais.
