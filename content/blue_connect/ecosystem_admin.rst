@@ -2,9 +2,9 @@
 :show-content:
 :show-toc:
 
-==========================
+===========================
 Ecossistema e administração
-==========================
+===========================
 
 Referências para acompanhar maturidade, releases, marketplace e a correspondência entre soluções
 de negócio e módulos técnicos.
