@@ -1,6 +1,6 @@
-=======================
+========================================
 Visão geral da plataforma
-=======================
+========================================
 
 O Blue Connect organiza capacidades adicionais ao ERP/CRM em camadas que compartilham o mesmo
 contexto de clientes, oportunidades, pedidos, faturas, atividades e operações.
