@@ -20,6 +20,7 @@ def main() -> None:
     root_index = read("content/index.rst")
     blue_index = read("content/blue_connect.rst")
     header = read("extensions/odoo_theme/layout_templates/header.html")
+    homepage = read("extensions/odoo_theme/layout_templates/homepage.html")
 
     root_blue = root_index.find("    blue_connect\n")
     root_apps = root_index.find("    applications\n")
@@ -77,6 +78,17 @@ def main() -> None:
         "pathto('blue_connect/releases_marketplace')",
     ):
         require_once(header, pathto, "desktop quick navigation")
+
+    homepage_labels = (
+        "CRM e Omnichannel",
+        "Financeiro e Asaas",
+        "Dados e Consultas",
+        "Prospecção e Vendas",
+        "IA e Automações",
+        "SaaS e Recorrência",
+    )
+    for label in homepage_labels:
+        require_once(homepage, f'_({chr(34)}{label}{chr(34)})', "homepage solution taxonomy")
 
     print("Blue Connect navigation contract: OK")
 
