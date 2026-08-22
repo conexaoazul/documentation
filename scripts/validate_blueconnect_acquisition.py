@@ -52,7 +52,11 @@ def main() -> None:
     ):
         require(theme, f"'{key}'", "diagnostic attribution")
 
-    require(theme, "https://www.conexaoazul.com/diagnostico?", "diagnostic destination")
+    require(
+        theme,
+        "https://www.conexaoazul.com/diagnostico/blueconnect?",
+        "diagnostic destination",
+    )
     require(theme, "docs_growth.css", "commercial page stylesheet")
     require(theme, "js/docs_growth.js", "growth tracking asset")
 
