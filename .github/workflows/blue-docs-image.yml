@@ -2,9 +2,9 @@ name: Blue Docs Immutable Image
 
 on:
   pull_request:
-    branches: ["19.0", "blueconnect"]
+    branches: ["blueconnect"]
   push:
-    branches: ["19.0", "blueconnect"]
+    branches: ["blueconnect"]
   workflow_dispatch:
 
 permissions:
@@ -53,7 +53,7 @@ jobs:
           grep -Fq "Commit: ${GITHUB_SHA}" /tmp/blue-source.txt
 
   publish-image:
-    if: (github.event_name == 'push' || github.event_name == 'workflow_dispatch') && (github.ref == 'refs/heads/19.0' || github.ref == 'refs/heads/blueconnect')
+    if: (github.event_name == 'push' || github.event_name == 'workflow_dispatch') && github.ref == 'refs/heads/blueconnect'
     needs: validate-image
     runs-on: ubuntu-latest
     steps:
@@ -67,13 +67,12 @@ jobs:
           username: ${{ github.actor }}
           password: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Set image tags for branch
+      - name: Set canonical release tags
         id: tags
         run: |
           set -Eeuo pipefail
-          branch="${GITHUB_REF#refs/heads/}"
-          echo "sha_tag=ghcr.io/conexaoazul/odoo-documentation:${branch}-${GITHUB_SHA}" >> "$GITHUB_OUTPUT"
-          echo "float_tag=ghcr.io/conexaoazul/odoo-documentation:${branch}" >> "$GITHUB_OUTPUT"
+          echo "sha_tag=ghcr.io/conexaoazul/odoo-documentation:blueconnect-${GITHUB_SHA}" >> "$GITHUB_OUTPUT"
+          echo "float_tag=ghcr.io/conexaoazul/odoo-documentation:blueconnect" >> "$GITHUB_OUTPUT"
 
       - name: Build and publish immutable image
         uses: docker/build-push-action@v6
@@ -87,8 +86,7 @@ jobs:
             ${{ steps.tags.outputs.sha_tag }}
             ${{ steps.tags.outputs.float_tag }}
 
-      - name: Trigger auto-deploy to dev1 (blueconnect only)
-        if: github.ref == 'refs/heads/blueconnect'
+      - name: Trigger automatic deployment to dev1
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
