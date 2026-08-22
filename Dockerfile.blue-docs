@@ -3,7 +3,8 @@ FROM python:3.10-slim-bookworm AS builder
 ARG SOURCE_SHA=unknown
 ENV PIP_DISABLE_PIP_VERSION_CHECK=1 \
     PYTHONDONTWRITEBYTECODE=1 \
-    PYTHONUNBUFFERED=1
+    PYTHONUNBUFFERED=1 \
+    BLUE_DOCS_DEFAULT_LANGUAGE=pt_BR
 
 WORKDIR /src
 
@@ -18,25 +19,40 @@ RUN python -m pip install --upgrade pip \
     && python -m pip install --no-cache-dir -r requirements.txt
 
 COPY . .
-RUN make clean \
-    && make html WORKERS=2 CURRENT_LANG=pt_BR IS_REMOTE_BUILD=1 CANONICAL_VERSION=19.0 \
-    && if [ -d _build/html/pt_BR ]; then \
-         find _build/html -mindepth 1 -maxdepth 1 -not -name pt_BR -exec rm -rf {} + ; \
-         (cd _build/html/pt_BR && find . -mindepth 1 -maxdepth 1 -exec mv {} .. \;) ; \
-         rm -rf _build/html/pt_BR ; \
-       fi \
-    && printf '%s\n' \
-        'Source: https://github.com/conexaoazul/documentation' \
-        'Branch: blueconnect (rebrand of upstream 19.0)' \
-        "Commit: ${SOURCE_SHA}" \
-        'License: CC-BY-SA-4.0 (original Odoo S.A. documentation, rebranded content)' \
-        > _build/html/BLUE_SOURCE.txt
+RUN set -Eeuo pipefail; \
+    make clean; \
+    make html WORKERS=2 CURRENT_LANG=pt_BR LANGUAGES="pt_BR en es" IS_REMOTE_BUILD=1 CANONICAL_VERSION=19.0; \
+    if [ -d _build/html/pt_BR ]; then \
+      mkdir -p /tmp/pt-root; \
+      cp -a _build/html/pt_BR/. /tmp/pt-root/; \
+      rm -rf _build/html/pt_BR; \
+      cp -a /tmp/pt-root/. _build/html/; \
+      rm -rf /tmp/pt-root; \
+    fi; \
+    for lang in en es; do \
+      rm -rf "_build/lang-${lang}"; \
+      make html WORKERS=2 BUILD_DIR="_build/lang-${lang}" CURRENT_LANG="$lang" LANGUAGES="pt_BR en es" IS_REMOTE_BUILD=1 CANONICAL_VERSION=19.0; \
+      src="_build/lang-${lang}/html"; \
+      if [ -d "$src/19.0" ]; then src="$src/19.0"; fi; \
+      if [ -d "$src/$lang" ]; then src="$src/$lang"; fi; \
+      mkdir -p "_build/html/$lang"; \
+      cp -a "$src/." "_build/html/$lang/"; \
+    done; \
+    printf '%s\n' \
+      'Source: https://github.com/conexaoazul/documentation' \
+      'Branch: blueconnect (rebrand of upstream 19.0)' \
+      "Commit: ${SOURCE_SHA}" \
+      'Default-Language: pt_BR' \
+      'Published-Languages: pt_BR,en,es' \
+      'License: CC-BY-SA-4.0 (original Odoo S.A. documentation, rebranded content)' \
+      > _build/html/BLUE_SOURCE.txt
 
 FROM nginx:1.27-alpine
 
-LABEL org.opencontainers.image.title="Conexao Azul Blue Connect Documentation (pt_BR)" \
+LABEL org.opencontainers.image.title="Conexao Azul Blue Connect Documentation" \
       org.opencontainers.image.source="https://github.com/conexaoazul/documentation" \
-      org.opencontainers.image.licenses="CC-BY-SA-4.0"
+      org.opencontainers.image.licenses="CC-BY-SA-4.0" \
+      org.opencontainers.image.description="Portuguese-first Blue Connect documentation with EN/ES navigation"
 
 COPY blue-docs.nginx.conf /etc/nginx/conf.d/default.conf
 COPY --from=builder /src/_build/html/ /usr/share/nginx/html/
