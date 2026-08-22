@@ -90,7 +90,7 @@ jobs:
           set -Eeuo pipefail
           git checkout -B blueconnect origin/blueconnect
           before="$(git rev-parse HEAD)"
-          if ! git merge --no-edit origin/19.0; then
+          if ! git merge --no-edit 19.0; then
             git merge --abort || true
             title="sync(upstream): conflict 19.0 -> blueconnect"
             existing="$(gh issue list --repo "$GITHUB_REPOSITORY" --state open --search "$title in:title" --json number --jq '.[0].number // empty')"
@@ -126,8 +126,8 @@ jobs:
         run: gh workflow run "$RELEASE_WORKFLOW" --repo "$GITHUB_REPOSITORY" --ref blueconnect
 
   sync-blueapps:
-    if: github.event_name == 'schedule' || inputs.sync_blueapps
     needs: sync-odoo
+    if: always() && (github.event_name == 'schedule' || inputs.sync_blueapps) && (needs.sync-odoo.result == 'success' || needs.sync-odoo.result == 'skipped')
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
