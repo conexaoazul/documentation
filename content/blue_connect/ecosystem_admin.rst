@@ -12,8 +12,8 @@ de negócio e módulos técnicos.
 .. toctree::
    :maxdepth: 1
 
-   releases_marketplace
-   module_index
+   Releases e Marketplace <releases_marketplace>
+   Índice de módulos <module_index>
 
 Para quem é esta seção
 ======================
