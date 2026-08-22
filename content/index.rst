@@ -1,12 +1,13 @@
 :nosearch:
 
-==================
-Odoo Documentation
-==================
+==========================
+Blue Connect Documentation
+==========================
 
 
 .. toctree::
 
+    blue_connect
     applications
     administration
     developer
