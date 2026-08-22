@@ -6,6 +6,8 @@ ENV PIP_DISABLE_PIP_VERSION_CHECK=1 \
     PYTHONUNBUFFERED=1 \
     BLUE_DOCS_DEFAULT_LANGUAGE=pt_BR
 
+SHELL ["/bin/bash", "-o", "pipefail", "-c"]
+
 WORKDIR /src
 
 RUN apt-get update \
