@@ -28,6 +28,24 @@ def set_missing_meta(app, pagename, templatename, context, doctree):
     if context.get('meta') is None:  # Pages without title (used with `include::`) have no meta
         context['meta'] = {}
 
+    # Blue Connect is Portuguese-first. Keep the language selector usable even when the
+    # upstream Odoo context does not populate alternate_languages for our custom deployment.
+    current_language = app.config.language or 'pt_BR'
+    language_labels = {'pt_BR': 'PT-BR', 'en': 'EN', 'es': 'ES'}
+    published_languages = getattr(app.config, 'blueconnect_languages', ['pt_BR', 'en', 'es'])
+    context['language'] = language_labels.get(current_language, current_language.upper())
+    if not context.get('alternate_languages'):
+        page = 'index.html' if pagename == 'index' else f'{pagename}.html'
+        context['alternate_languages'] = [
+            (
+                language_labels.get(code, code.upper()),
+                code,
+                f'/{page}' if code == 'pt_BR' else f'/{code}/{page}',
+            )
+            for code in published_languages
+            if code != current_language
+        ]
+
 class Monkey:
     """ Replace patched method of an object by a new method receiving the old one in argument. """
     def __init__(self, obj):
@@ -78,8 +96,6 @@ def resolve(old_resolve, tree, docname, *args, **kwargs):
         _ref = _node['refuri'].replace('.html', '')
         _parent_directory_occurrences = _ref.count('..')
         if not _parent_directory_occurrences and '/' not in docname:
-            # The current document is at the root of the documentation source directory
-            # (e.g. docname == 'index'|'applications'|...). i.e., the ref is already the docname.
             _docname = _ref
         else:
             _path_parts = _ref.split('/')
@@ -89,25 +105,19 @@ def resolve(old_resolve, tree, docname, *args, **kwargs):
         return _docname
 
     def _clear_reference_if_empty_page(_reference_node, _node_docname):
-        """ Clear reference of 'empty' toctree pages.
-
-        Inspect parent node's siblings to determine whether the node references a toc and, if so,
-        clear its reference URL. (<a href="#"/>)
-        If the page has the `show-content` metadata, don't clear the reference.
-        """
         if _node_docname and any(
             isinstance(_subnode, nodes.bullet_list)
             for _subnode in _reference_node.parent.parent.children
-        ):  # The node references a toc
+        ):
             if 'show-content' not in tree.env.metadata[_node_docname]:
-                _reference_node['refuri'] = '#'  # The page must not be accessible
+                _reference_node['refuri'] = '#'
 
     def _set_docname_as_class(_reference_node, _node_docname):
-        _node_docname = _node_docname or docname  # refuri==None <-> href="#"
+        _node_docname = _node_docname or docname
         _reference_node.parent.parent['classes'].append(f'o_menu_{_node_docname.replace("/", "_")}')
 
     resolved_toc = old_resolve(tree, docname, *args, **kwargs)
-    if resolved_toc:  # `resolve` returns None if the depth of the TOC to resolve is too high
+    if resolved_toc:
         _update_toctree_nodes(resolved_toc)
     return resolved_toc
 
@@ -129,8 +139,8 @@ def icon_role(name, rawtext, text, lineno, inliner, options=None, content=None):
     elif text.startswith('os-'):
         icon_html = (
             '<svg class="os-icon" aria-hidden="true" role="img">'
-                f'<use href="#{text[3:]}" />' # [3:] strips 'os-' specifier from svg id
-             '</svg>'                         # see ../static/img/odoo-spreadsheets-icons.svg
+                f'<use href="#{text[3:]}" />'
+             '</svg>'
         )
     else:
         icon_html = f'<i class="{text}"></i>'
