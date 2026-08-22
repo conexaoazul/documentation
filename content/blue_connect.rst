@@ -13,14 +13,10 @@ Comece pelo objetivo de negócio. Os nomes técnicos dos módulos aparecem como 
 administradores e implementadores, mas a navegação principal é organizada por solução.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
    blue_connect/overview
-   blue_connect/crm_omnichannel
-   blue_connect/financeiro_asaas
-   blue_connect/data_intelligence
-   blue_connect/growth_sales
-   blue_connect/ai_automation
-   blue_connect/saas_revenue
-   blue_connect/releases_marketplace
-   blue_connect/module_index
+   blue_connect/customer_revenue
+   blue_connect/operations_monetization
+   blue_connect/intelligence_automation
+   blue_connect/ecosystem_admin

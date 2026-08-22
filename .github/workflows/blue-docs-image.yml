@@ -26,6 +26,12 @@ jobs:
         with:
           fetch-depth: 1
 
+      - name: Validate Blue Connect navigation contract
+        run: python3 scripts/validate_blueconnect_navigation.py
+
+      - name: Validate Blue Connect acquisition contract
+        run: python3 scripts/validate_blueconnect_acquisition.py
+
       - name: Build validation image
         run: |
           set -Eeuo pipefail

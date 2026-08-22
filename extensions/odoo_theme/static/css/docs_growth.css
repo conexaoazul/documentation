@@ -1,0 +1,60 @@
+.ca_docs_growth {
+    margin-top: 2rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid #dee2e6;
+}
+
+.ca_docs_growth_inner {
+    display: grid;
+    gap: 1.5rem;
+    padding: 1.5rem;
+    border: 1px solid #dee2e6;
+    border-radius: .5rem;
+    background: linear-gradient(135deg, rgba(1, 126, 132, .045), rgba(113, 75, 103, .055));
+}
+
+.ca_docs_growth_eyebrow {
+    display: inline-block;
+    margin-bottom: .5rem;
+    color: #714b67;
+    font-size: .875rem;
+    font-weight: 700;
+    letter-spacing: .06em;
+    text-transform: uppercase;
+}
+
+.ca_docs_growth h2 {
+    margin: 0 0 .5rem;
+    font-size: 1.45rem;
+}
+
+.ca_docs_growth p,
+.ca_docs_growth small {
+    color: #5f6368;
+}
+
+.ca_docs_growth p {
+    margin: 0;
+}
+
+.ca_docs_growth_actions {
+    display: grid;
+    gap: .5rem;
+}
+
+.ca_docs_growth_actions .btn {
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
+}
+
+.ca_docs_growth_actions small {
+    line-height: 1.4;
+}
+
+@media (min-width: 768px) {
+    .ca_docs_growth_inner {
+        grid-template-columns: minmax(0, 1fr) minmax(230px, .48fr);
+        align-items: center;
+    }
+}

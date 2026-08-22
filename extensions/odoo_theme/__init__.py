@@ -1,3 +1,5 @@
+from urllib.parse import urlencode
+
 from docutils import nodes
 from docutils.parsers.rst import roles
 from sphinx import addnodes
@@ -6,16 +8,85 @@ from sphinx.environment.adapters import toctree
 from . import pygments_override, translator
 
 
+BLUECONNECT_COMMERCIAL = {
+    'blue_connect/overview': {
+        'solution': 'blue_connect',
+        'intent': 'stack_discovery',
+        'title': 'Descubra o stack certo para sua operação',
+        'description': 'Leve seu cenário, versão do Odoo e prioridades para um diagnóstico orientado a solução.',
+        'primary_label': 'Montar meu diagnóstico',
+    },
+    'blue_connect/crm_omnichannel': {
+        'solution': 'crm_omnichannel',
+        'intent': 'implementation',
+        'title': 'Valide CRM e Omnichannel no seu Odoo',
+        'description': 'Mapeie WhatsApp, Chatwoot, Kanban, Helpdesk e agenda sem duplicar a fonte de verdade.',
+        'primary_label': 'Avaliar no meu ambiente',
+    },
+    'blue_connect/financeiro_asaas': {
+        'solution': 'financeiro_asaas',
+        'intent': 'implementation',
+        'title': 'Valide cobrança, pagamentos e NFSe no seu fluxo',
+        'description': 'Confira dependências, meios de pagamento, recorrência e pontos de integração antes da implantação.',
+        'primary_label': 'Validar integração financeira',
+    },
+    'blue_connect/data_intelligence': {
+        'solution': 'data_intelligence',
+        'intent': 'data_assessment',
+        'title': 'Defina as consultas e fontes de dados do seu caso',
+        'description': 'Transforme a necessidade de CPF, CNPJ, crédito ou enriquecimento em um fluxo de consulta governado.',
+        'primary_label': 'Avaliar meu caso de dados',
+    },
+    'blue_connect/growth_sales': {
+        'solution': 'growth_sales',
+        'intent': 'sales_assessment',
+        'title': 'Desenhe sua máquina comercial',
+        'description': 'Conecte geração, enriquecimento, distribuição, cadência, WhatsApp e CRM em uma jornada mensurável.',
+        'primary_label': 'Avaliar minha operação comercial',
+    },
+    'blue_connect/ai_automation': {
+        'solution': 'ai_automation',
+        'intent': 'automation_assessment',
+        'title': 'Escolha o primeiro processo para automatizar com IA',
+        'description': 'Identifique o gargalo de maior impacto e defina o limite entre automação, agente e decisão humana.',
+        'primary_label': 'Descobrir meu primeiro gargalo',
+    },
+    'blue_connect/saas_revenue': {
+        'solution': 'saas_revenue',
+        'intent': 'saas_assessment',
+        'title': 'Desenhe trial, assinatura e provisionamento',
+        'description': 'Valide a jornada comercial, cobrança e liberação da instância antes de automatizar o lifecycle.',
+        'primary_label': 'Desenhar meu fluxo SaaS',
+    },
+    'blue_connect/releases_marketplace': {
+        'solution': 'marketplace',
+        'intent': 'adoption',
+        'title': 'Quer adotar uma capability desta release?',
+        'description': 'Leve a capability, a versão e o cenário para validar readiness, dependências e implantação.',
+        'primary_label': 'Avaliar uma capability',
+    },
+    'blue_connect/module_index': {
+        'solution': 'blueapps',
+        'intent': 'stack_discovery',
+        'title': 'Monte seu stack BlueApps',
+        'description': 'Selecione os módulos pelo problema de negócio e valide compatibilidade, dependências e edição.',
+        'primary_label': 'Encontrar módulos para meu cenário',
+    },
+}
+
+
 def setup(app):
     app.set_translator('html', translator.BootstrapTranslator)
 
     app.connect('html-page-context', set_missing_meta)
+    app.connect('html-page-context', set_blueconnect_commercial_context)
 
     app.add_js_file('js/utils.js')  # Keep in first position
     app.add_js_file('js/layout.js')
     app.add_js_file('js/menu.js')
     app.add_js_file('js/page_toc.js')
     app.add_js_file('js/switchers.js')
+    app.add_js_file('js/docs_growth.js')
 
     roles.register_canonical_role('icon', icon_role)
 
@@ -23,6 +94,7 @@ def setup(app):
         'parallel_read_safe': True,
         'parallel_write_safe': True
     }
+
 
 def set_missing_meta(app, pagename, templatename, context, doctree):
     if context.get('meta') is None:  # Pages without title (used with `include::`) have no meta
@@ -46,6 +118,41 @@ def set_missing_meta(app, pagename, templatename, context, doctree):
             if code != current_language
         ]
 
+
+def set_blueconnect_commercial_context(app, pagename, templatename, context, doctree):
+    commercial = BLUECONNECT_COMMERCIAL.get(pagename)
+    if not commercial:
+        context['blueconnect_commercial'] = None
+        return
+
+    existing_css = context['meta'].get('custom-css', '')
+    css_files = [item for item in existing_css.split(',') if item]
+    if 'docs_growth.css' not in css_files:
+        css_files.append('docs_growth.css')
+    context['meta']['custom-css'] = ','.join(css_files)
+
+    params = {
+        'utm_source': 'documentation',
+        'utm_medium': 'docs_cta',
+        'utm_campaign': 'blueconnect_docs_acquisition',
+        'source': 'docs',
+        'surface': 'documentation',
+        'solution': commercial['solution'],
+        'intent': commercial['intent'],
+        'page': pagename,
+        'version': '19.0',
+    }
+    context['blueconnect_commercial'] = {
+        **commercial,
+        'primary_url': f"https://www.conexaoazul.com/diagnostico/blueconnect?{urlencode(params)}",
+        'secondary_url': (
+            'https://www.conexaoazul.com/blueapps?utm_source=documentation'
+            '&utm_medium=docs_cta&utm_campaign=blueconnect_docs_acquisition'
+        ),
+        'secondary_label': 'Ver BlueApps',
+    }
+
+
 class Monkey:
     """ Replace patched method of an object by a new method receiving the old one in argument. """
     def __init__(self, obj):
@@ -54,6 +161,7 @@ class Monkey:
         name = fn.__name__
         old = getattr(self.obj, name)
         setattr(self.obj, name, lambda self_, *args, **kwargs: fn(old, self_, *args, **kwargs))
+
 
 @Monkey(toctree.TocTree)
 def resolve(old_resolve, tree, docname, *args, **kwargs):
