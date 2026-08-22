@@ -1,0 +1,32 @@
+{%- if blueconnect_commercial %}
+<section class="ca_docs_growth" aria-labelledby="ca_docs_growth_title">
+    <div class="ca_docs_growth_inner">
+        <div class="ca_docs_growth_copy">
+            <span class="ca_docs_growth_eyebrow">Próximo passo</span>
+            <h2 id="ca_docs_growth_title">{{ blueconnect_commercial.title }}</h2>
+            <p>{{ blueconnect_commercial.description }}</p>
+        </div>
+        <div class="ca_docs_growth_actions">
+            <a class="btn btn-primary"
+               href="{{ blueconnect_commercial.primary_url }}"
+               data-blueconnect-cta="primary"
+               data-docs-source="documentation"
+               data-docs-solution="{{ blueconnect_commercial.solution }}"
+               data-docs-intent="{{ blueconnect_commercial.intent }}"
+               data-docs-page="{{ pagename }}">
+                {{ blueconnect_commercial.primary_label }}
+            </a>
+            <a class="btn btn-outline-secondary"
+               href="{{ blueconnect_commercial.secondary_url }}"
+               data-blueconnect-cta="secondary"
+               data-docs-source="documentation"
+               data-docs-solution="{{ blueconnect_commercial.solution }}"
+               data-docs-intent="marketplace"
+               data-docs-page="{{ pagename }}">
+                {{ blueconnect_commercial.secondary_label }}
+            </a>
+            <small>O próximo passo leva o contexto desta página para evitar perguntas repetidas.</small>
+        </div>
+    </div>
+</section>
+{%- endif %}
