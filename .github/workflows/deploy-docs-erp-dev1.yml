@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       image:
-        description: Immutable GHCR image tag to deploy (prefer blueconnect-<sha>)
+        description: Immutable GHCR image tag to deploy (blueconnect-<sha>)
         required: true
         default: "ghcr.io/conexaoazul/odoo-documentation:blueconnect"
 
@@ -29,9 +29,8 @@ jobs:
         run: |
           set -Eeuo pipefail
           case "$DOCS_ERP_IMAGE" in
-            ghcr.io/conexaoazul/odoo-documentation:19.0|ghcr.io/conexaoazul/odoo-documentation:19.0-*) ;;
             ghcr.io/conexaoazul/odoo-documentation:blueconnect|ghcr.io/conexaoazul/odoo-documentation:blueconnect-*) ;;
-            *) echo "Refusing unexpected image: $DOCS_ERP_IMAGE" >&2; exit 2 ;;
+            *) echo "Refusing non-canonical image: $DOCS_ERP_IMAGE" >&2; exit 2 ;;
           esac
 
       - name: Authenticate to GHCR
@@ -99,6 +98,7 @@ jobs:
         run: |
           {
             echo "## docs-erp dev1"
+            echo "- Canonical branch: blueconnect"
             echo "- Host: https://${DOCS_ERP_HOST}"
             echo "- Local origin: http://127.0.0.1:${DOCS_ERP_PORT}"
             echo "- Container: conexaoazul-docs-erp"
