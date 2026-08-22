@@ -1,0 +1,191 @@
+name: Sync Odoo upstream and BlueApps catalog
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+    inputs:
+      sync_odoo:
+        description: Sync Odoo documentation branches
+        required: true
+        default: true
+        type: boolean
+      sync_blueapps:
+        description: Refresh BlueApps catalogs
+        required: true
+        default: true
+        type: boolean
+
+permissions:
+  contents: write
+  issues: write
+  actions: write
+
+concurrency:
+  group: blueconnect-source-federation
+  cancel-in-progress: false
+
+env:
+  ODOO_UPSTREAM: https://github.com/odoo/documentation.git
+  BLUEAPPS_REPO: conexaoazul/blueapps
+  RELEASE_WORKFLOW: blue-docs-image.yml
+
+jobs:
+  sync-odoo:
+    if: github.event_name == 'schedule' || inputs.sync_odoo
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: Checkout canonical repository
+        uses: actions/checkout@v4
+        with:
+          ref: blueconnect
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Configure Git
+        run: |
+          git config user.name "blueconnect-sync[bot]"
+          git config user.email "blueconnect-sync[bot]@users.noreply.github.com"
+          git remote add odoo "$ODOO_UPSTREAM" || git remote set-url odoo "$ODOO_UPSTREAM"
+          git fetch --prune origin '+refs/heads/*:refs/remotes/origin/*'
+          git fetch --prune odoo 17.0 18.0 19.0
+
+      - name: Incrementally sync maintained Odoo branches
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -Eeuo pipefail
+          changed=0
+          for version in 17.0 18.0 19.0; do
+            echo "::group::Sync Odoo ${version}"
+            git checkout -B "$version" "origin/$version"
+            before="$(git rev-parse HEAD)"
+            if ! git merge --no-edit "odoo/$version"; then
+              git merge --abort || true
+              title="sync(upstream): conflict Odoo ${version}"
+              existing="$(gh issue list --repo "$GITHUB_REPOSITORY" --state open --search "$title in:title" --json number --jq '.[0].number // empty')"
+              body="Automatic upstream sync found a merge conflict between our ${version} branch and odoo/documentation:${version}. No branch was modified. Resolve this conflict manually, preserving Blue Connect customizations."
+              if [ -n "$existing" ]; then
+                gh issue comment "$existing" --repo "$GITHUB_REPOSITORY" --body "$body"
+              else
+                gh issue create --repo "$GITHUB_REPOSITORY" --title "$title" --body "$body"
+              fi
+              echo "::endgroup::"
+              continue
+            fi
+            after="$(git rev-parse HEAD)"
+            if [ "$before" != "$after" ]; then
+              git push origin "$version"
+              changed=1
+            fi
+            echo "::endgroup::"
+          done
+          echo "ODOO_BRANCHES_CHANGED=$changed" >> "$GITHUB_ENV"
+
+      - name: Feed Odoo 19.0 incrementally into blueconnect
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -Eeuo pipefail
+          git checkout -B blueconnect origin/blueconnect
+          before="$(git rev-parse HEAD)"
+          if ! git merge --no-edit origin/19.0; then
+            git merge --abort || true
+            title="sync(upstream): conflict 19.0 -> blueconnect"
+            existing="$(gh issue list --repo "$GITHUB_REPOSITORY" --state open --search "$title in:title" --json number --jq '.[0].number // empty')"
+            body="Odoo 19.0 was updated successfully, but automatic promotion into blueconnect conflicts with Blue Connect customizations. No blueconnect change was pushed."
+            if [ -n "$existing" ]; then
+              gh issue comment "$existing" --repo "$GITHUB_REPOSITORY" --body "$body"
+            else
+              gh issue create --repo "$GITHUB_REPOSITORY" --title "$title" --body "$body"
+            fi
+            exit 0
+          fi
+          after="$(git rev-parse HEAD)"
+          if [ "$before" = "$after" ]; then
+            echo "BLUECONNECT_ODOO_CHANGED=0" >> "$GITHUB_ENV"
+            exit 0
+          fi
+
+          docker build --file Dockerfile.blue-docs --build-arg "SOURCE_SHA=${after}" --tag blue-docs:upstream-validation .
+          docker run -d --rm --name blue-docs-upstream-validation -p 127.0.0.1:18082:8080 blue-docs:upstream-validation
+          trap 'docker stop blue-docs-upstream-validation >/dev/null 2>&1 || true' EXIT
+          for attempt in $(seq 1 30); do
+            curl -fsS http://127.0.0.1:18082/healthz | grep -Fq ok && break
+            sleep 1
+          done
+          curl -fsS http://127.0.0.1:18082/index.html | grep -Eiq '<html|<!doctype'
+          git push origin blueconnect
+          echo "BLUECONNECT_ODOO_CHANGED=1" >> "$GITHUB_ENV"
+
+      - name: Trigger canonical release after Odoo promotion
+        if: env.BLUECONNECT_ODOO_CHANGED == '1'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh workflow run "$RELEASE_WORKFLOW" --repo "$GITHUB_REPOSITORY" --ref blueconnect
+
+  sync-blueapps:
+    if: github.event_name == 'schedule' || inputs.sync_blueapps
+    needs: sync-odoo
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout latest blueconnect
+        uses: actions/checkout@v4
+        with:
+          ref: blueconnect
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Require cross-repository read token
+        env:
+          BLUEAPPS_READ_TOKEN: ${{ secrets.BLUEAPPS_READ_TOKEN }}
+        run: |
+          if [ -z "$BLUEAPPS_READ_TOKEN" ]; then
+            echo "Missing repository secret BLUEAPPS_READ_TOKEN with Contents: Read access to conexaoazul/blueapps." >&2
+            exit 2
+          fi
+
+      - name: Checkout BlueApps version branches
+        env:
+          BLUEAPPS_READ_TOKEN: ${{ secrets.BLUEAPPS_READ_TOKEN }}
+        run: |
+          set -Eeuo pipefail
+          mkdir -p .sources/blueapps
+          for version in 19.0 18.0 17.0; do
+            git clone --depth 1 --branch "$version" \
+              "https://x-access-token:${BLUEAPPS_READ_TOKEN}@github.com/${BLUEAPPS_REPO}.git" \
+              ".sources/blueapps/${version}"
+            rm -rf ".sources/blueapps/${version}/.git"
+          done
+
+      - name: Generate consolidated incremental catalog
+        run: |
+          python3 scripts/build_blueapps_catalog.py \
+            --source-root .sources/blueapps \
+            --output static/data/blueapps-catalog.json \
+            --versions 19.0 18.0 17.0
+          rm -rf .sources
+
+      - name: Commit catalog only when source changed
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -Eeuo pipefail
+          git config user.name "blueconnect-sync[bot]"
+          git config user.email "blueconnect-sync[bot]@users.noreply.github.com"
+          git add static/data/blueapps-catalog.json
+          if git diff --cached --quiet; then
+            echo "BLUEAPPS_CHANGED=0" >> "$GITHUB_ENV"
+            exit 0
+          fi
+          git commit -m "docs(catalog): refresh BlueApps 17/18/19 capabilities"
+          git push origin blueconnect
+          echo "BLUEAPPS_CHANGED=1" >> "$GITHUB_ENV"
+
+      - name: Trigger canonical release after catalog refresh
+        if: env.BLUEAPPS_CHANGED == '1'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh workflow run "$RELEASE_WORKFLOW" --repo "$GITHUB_REPOSITORY" --ref blueconnect
