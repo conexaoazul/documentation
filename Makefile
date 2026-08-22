@@ -20,7 +20,7 @@ endif
 SPHINX_BUILD   = sphinx-build
 CONFIG_DIR     = .
 SPHINXOPTS     = -D project_root=$(ROOT) -D canonical_version=$(CANONICAL_VERSION) \
-                 -D versions=$(VERSIONS) -D languages=$(LANGUAGES) -D language=$(CURRENT_LANG) \
+                 -D versions=$(VERSIONS) -D "languages=$(LANGUAGES)" -D language=$(CURRENT_LANG) \
                  -D is_remote_build=$(IS_REMOTE_BUILD) \
                  -T \
                  -A google_analytics_key=$(GOOGLE_ANALYTICS_KEY) \
@@ -74,7 +74,7 @@ latexpdf:
 gettext:
 	@echo "Generating translatable files..."
 	$(SPHINX_BUILD) -c $(CONFIG_DIR) -b gettext $(SOURCE_DIR) $(EXPORT_PATH)
-	@echo "Generation finished."
+	@echo "Build finished."
 
 $(HTML_BUILD_DIR)/_static/style.css: extensions/odoo_theme/static/style.scss extensions/odoo_theme/static/scss/*.scss
 	@echo "Compiling stylesheets..."
