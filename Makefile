@@ -74,7 +74,7 @@ latexpdf:
 gettext:
 	@echo "Generating translatable files..."
 	$(SPHINX_BUILD) -c $(CONFIG_DIR) -b gettext $(SOURCE_DIR) $(EXPORT_PATH)
-	@echo "Build finished."
+	@echo "Generation finished."
 
 $(HTML_BUILD_DIR)/_static/style.css: extensions/odoo_theme/static/style.scss extensions/odoo_theme/static/scss/*.scss
 	@echo "Compiling stylesheets..."
