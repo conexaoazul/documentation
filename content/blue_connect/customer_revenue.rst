@@ -12,8 +12,8 @@ próximas ações no mesmo contexto de negócio.
 .. toctree::
    :maxdepth: 1
 
-   crm_omnichannel
-   growth_sales
+   CRM e Omnichannel <crm_omnichannel>
+   Prospecção e Vendas <growth_sales>
 
 Comece por aqui
 ===============
