@@ -7,7 +7,7 @@ Blue Connect Documentation
 
 .. toctree::
 
-    blue_connect/index
+    blue_connect
     applications
     administration
     developer
