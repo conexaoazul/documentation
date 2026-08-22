@@ -57,6 +57,21 @@ Workflows n8n entram como templates reutilizáveis para conectar sistemas sem tr
 fonte de verdade. ERP, CRM, billing, mensageria e APIs continuam responsáveis pelos respectivos
 estados canônicos.
 
+Catálogos estruturados
+======================
+
+Além das páginas para leitura humana, o Blue Connect publica índices JSON para integrações,
+agentes, automações e validações internas consumirem a mesma fonte sem scraping de HTML:
+
+* `Capability Graph <https://www.conexaoazul.com/data/blueconnect-capabilities.json>`__ — lista
+  capabilities, categoria, maturidade, ``source_repo``, ``source_ref`` e rota pública.
+* `Release Index <https://www.conexaoazul.com/data/blueconnect-releases.json>`__ — lista releases,
+  status, benefício resumido, links e fontes de evidência.
+
+Esses índices são contratos públicos de descoberta. Eles não substituem a autoridade dos
+repositórios, sistemas transacionais ou evidências de QA. Seu objetivo é conectar descoberta,
+documentação e automação com uma representação comum.
+
 Rastreabilidade
 ===============
 
@@ -68,5 +83,9 @@ Uma capability pública deve apontar, sempre que possível, para uma ou mais des
 * status de QA/homologação;
 * roadmap quando ainda não estiver disponível.
 
-Essa separação reduz promessas ambíguas e ajuda clientes, parceiros e equipe interna a distinguir
-produto disponível de trabalho em evolução.
+A linha de rastreabilidade recomendada é:
+
+``Repo -> Capability -> Release -> Documentation -> Marketplace -> Roadmap -> Evidence``.
+
+Essa separação reduz promessas ambíguas e ajuda clientes, parceiros, agentes e equipe interna a
+distinguir produto disponível de trabalho em evolução.
