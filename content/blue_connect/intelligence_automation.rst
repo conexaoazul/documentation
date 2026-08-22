@@ -12,8 +12,8 @@ fonte de verdade fora dos aplicativos operacionais.
 .. toctree::
    :maxdepth: 1
 
-   data_intelligence
-   ai_automation
+   Dados e Consultas <data_intelligence>
+   IA e Automações <ai_automation>
 
 Comece por aqui
 ===============
