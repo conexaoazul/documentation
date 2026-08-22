@@ -4,6 +4,11 @@
 Productivity
 ============
 
+.. seealso::
+
+   Para integrar WhatsApp/Chatwoot, agenda, IA e automações ao contexto do CRM, consulte
+   :doc:`../blue_connect/crm_omnichannel` e :doc:`../blue_connect/ai_automation`.
+
 
 .. toctree::
 
