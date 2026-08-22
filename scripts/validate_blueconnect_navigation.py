@@ -27,17 +27,29 @@ def main() -> None:
         raise SystemExit("content/index.rst must expose Blue Connect before User Docs/applications")
 
     groups = {
-        "blue_connect/customer_revenue": ["crm_omnichannel", "growth_sales"],
-        "blue_connect/operations_monetization": ["financeiro_asaas", "saas_revenue"],
-        "blue_connect/intelligence_automation": ["data_intelligence", "ai_automation"],
-        "blue_connect/ecosystem_admin": ["releases_marketplace", "module_index"],
+        "blue_connect/customer_revenue": [
+            ("CRM e Omnichannel", "crm_omnichannel"),
+            ("Prospecção e Vendas", "growth_sales"),
+        ],
+        "blue_connect/operations_monetization": [
+            ("Financeiro e Asaas", "financeiro_asaas"),
+            ("SaaS e Recorrência", "saas_revenue"),
+        ],
+        "blue_connect/intelligence_automation": [
+            ("Dados e Consultas", "data_intelligence"),
+            ("IA e Automações", "ai_automation"),
+        ],
+        "blue_connect/ecosystem_admin": [
+            ("Releases e Marketplace", "releases_marketplace"),
+            ("Índice de módulos", "module_index"),
+        ],
     }
 
     require_once(blue_index, "   blue_connect/overview\n", "Blue Connect root menu")
     for group in groups:
         require_once(blue_index, f"   {group}\n", "Blue Connect root menu")
 
-    leaf_names = [leaf for leaves in groups.values() for leaf in leaves]
+    leaf_names = [leaf for leaves in groups.values() for _, leaf in leaves]
     for leaf in leaf_names:
         if f"   blue_connect/{leaf}\n" in blue_index:
             raise SystemExit(
@@ -45,10 +57,10 @@ def main() -> None:
             )
 
     seen = []
-    for group, leaves in groups.items():
+    for group, entries in groups.items():
         group_text = read(f"content/{group}.rst")
-        for leaf in leaves:
-            require_once(group_text, f"   {leaf}\n", f"submenu {group}")
+        for label, leaf in entries:
+            require_once(group_text, f"   {label} <{leaf}>\n", f"submenu {group}")
             seen.append(leaf)
 
     if sorted(seen) != sorted(leaf_names) or len(seen) != len(set(seen)):
