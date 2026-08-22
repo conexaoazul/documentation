@@ -1,6 +1,6 @@
-==========================
+========================================
 CRM e atendimento omnichannel
-==========================
+========================================
 
 Esta família conecta atendimento e operação comercial sem transformar o Chatwoot em um segundo
 CRM nem o Odoo em um segundo inbox. Cada camada tem uma responsabilidade clara.
