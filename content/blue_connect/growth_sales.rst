@@ -1,6 +1,6 @@
-=============================
+========================================
 Prospecção, CRM e máquina de vendas
-=============================
+========================================
 
 Esta família cobre a jornada anterior e posterior à entrada do lead no CRM: geração, organização,
 enriquecimento, segmentação, distribuição, cadência e abordagem comercial.
